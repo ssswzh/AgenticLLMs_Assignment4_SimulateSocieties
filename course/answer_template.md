@@ -1,12 +1,12 @@
 # Case Study 4: Answer Template
 
-**Student name(s):**
+**Student name(s):** Naixin Wang, Siwen Zhang
 
-**Student number(s):**
+**Student number(s):** s4657128, s4683226
 
-**Date:**
+**Date:** Dec 1,  2026
 
-**Models used:** Model A: ___ | Model B: ___
+**Models used:** Model A: Qwen3.8:27b | Model B: GPT-6.1-Sol
 
 ---
 
@@ -16,11 +16,11 @@
 
 **Prompting style used** (e.g., adjectives only, full sentences, concrete examples):
 
-**`innate` field:**
+**`innate` field:** ***use adjectives***
 
->
+> picky, irritable, impatient, bad-tempered, harsh, bossy
 
-**`learned` field:**
+**`learned` field:** ***leave blank***
 
 >
 
@@ -32,11 +32,11 @@
 
 **Prompting style used:**
 
-**`innate` field:**
+**`innate` field:** ***leave blank***
 
 >
 
-**`learned` field:**
+**`learned` field:** ***use full sentences***
 
 >
 
@@ -48,11 +48,11 @@
 
 **Prompting style used:**
 
-**`innate` field:**
+**`innate` field:** ***leave blank***
 
 >
 
-**`learned` field:**
+**`learned` field:** ***use concrete examples***
 
 >
 
