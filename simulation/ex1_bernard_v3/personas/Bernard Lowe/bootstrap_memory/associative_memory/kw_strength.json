@@ -1,17 +1,31 @@
 {
   "kw_strength_thought": {
-    "plan": 1
+    "bernard lowe": 4,
+    "checking": 1,
+    "found it noteworthy that": 1,
+    "needs to remember": 1,
+    "none": 4,
+    "noticed": 1,
+    "plan": 2
   },
   "kw_strength_event": {
-    "bed": 1,
-    "behind the cafe counter": 2,
-    "bernard lowe": 13,
-    "closet": 1,
-    "cooking area": 1,
-    "desk": 2,
-    "kitchen sink": 2,
-    "none": 28,
-    "refrigerator": 2,
-    "shelf": 4
+    "bed": 2,
+    "behind the cafe counter": 14,
+    "bernard lowe": 38,
+    "cafe customer seating": 8,
+    "closet": 2,
+    "cooking area": 2,
+    "desk": 4,
+    "dolores abernathy": 6,
+    "espresso drinks": 2,
+    "espresso machine calibration": 1,
+    "hobbs cafe": 2,
+    "kitchen sink": 5,
+    "maeve millay": 7,
+    "milk frothing technique": 1,
+    "none": 82,
+    "pour-over technique": 1,
+    "refrigerator": 5,
+    "shelf": 8
   }
 }

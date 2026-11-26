@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "🍳",
+      "description": "opening Hobbs cafe (checking the oven temperature) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores! I was just heading to the cafe—did you see me walking past? I was checking the weather too, since we’re planning to meet near the bridge after work. I’ve been thinking about how much I value that little walk and coffee routine—we haven’t done it in a while, haven’t we? Maybe we should make it a regular thing, you know? I’d love to walk through the park and just share a quiet moment together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve! I saw you walking past—yes, I did! That’s a great idea. I’ve been meaning to make that coffee and walk near the bridge a regular thing too. It’s such a peaceful spot, and I’ve noticed how much it helps me unwind after a long day at work. I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’d love to catch up. Maybe we can make it a real tradition? I’ll even bring my favorite book to share—just in case we get too quiet!"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds wonderful, Dolores—thank you for saying that. I’ve been thinking about how much that little walk and coffee can mean, especially after a long day. I’ll bring a thermos of coffee and a piece of fruit, just like we planned. I’ll be back at the dorm by 8, so we can catch up and maybe even share a quiet moment by the bridge. I’m really looking forward to it. Thanks again for making it sound so peaceful and intentional."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve! I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’ll be watching for you. And yes, I’ll bring my favorite book—just in case we get too quiet. Thanks again for suggesting it. I’m really looking forward to our little walk and coffee routine. It’s such a simple thing, but it feels meaningful."
+        ],
+        [
+          "Maeve Millay",
+          "That’s so kind of you, Dolores—I’ll make sure to bring the thermos and a piece of fruit, just like we talked about. I’ll be near the bridge after work, and I’ll be back at the dorm by 8, so we can catch up properly. I’m really looking forward to our little walk and coffee routine. It feels like a quiet promise, and I think it’s something we both truly value. Thanks again for being so thoughtful about it."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a beautiful tradition, Maeve. I’ll be watching for you near the bridge after work, and I’ll make sure to bring my book and a smile. Thanks again for such a thoughtful suggestion—it really means a lot."
+        ],
+        [
+          "Maeve Millay",
+          "That’s such a thoughtful gesture, Dolores—I’ll make sure to bring the thermos and a piece of fruit, just like we agreed. I’m really looking forward to our little walk and coffee routine. It feels like a quiet promise, and I think it’s something we both truly value. Thanks again for being so kind and intentional about it."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a beautiful tradition, Maeve. I’ll be watching for you near the bridge after work, and I’ll make sure to bring my book and a smile. Thanks again for being so thoughtful about it."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8, so we can catch up properly. I’m really looking forward to our little walk and coffee routine. It feels like a quiet promise, and I think it’s something we both truly value. Thanks again for being so kind and intentional about it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’ll be watching for you. And yes, I’ll bring my favorite book—just in case we get too quiet. Thanks again for suggesting it. I’m really looking forward to our little walk and coffee routine. It’s such a simple thing, but it feels meaningful."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be near the bridge after work, so I’ll be watching for you too, Dolores. It’s such a small thing, but I think it’s growing into something really special—like a quiet promise between us. I’ll bring the thermos and fruit, just as we agreed. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’ll be watching for you. And yes, I’ll bring my favorite book—just in case we get too quiet. Thanks again for suggesting it. I’m really looking forward to our little walk and coffee routine. It’s such a simple thing, but it feels meaningful."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be near the bridge after work, so I’ll be watching for you too, Dolores. It’s such a small thing, but I think it’s growing into something really special—like a quiet promise between us. I’ll bring the thermos and fruit, just as we agreed. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be watching for you near the bridge after work, Maeve. It’s nice to have something simple that feels intentional. I’ll bring my book and maybe a smile—just in case we get too quiet. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be near the bridge after work, so I’ll be watching for you too, Dolores. It’s such a small thing, but I think it’s growing into something really special—like a quiet promise between us. I’ll bring the thermos and fruit, just as we agreed. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be watching for you near the bridge after work, Maeve. It’s nice to have something simple that feels intentional. I’ll bring my book and maybe a smile—just in case we get too quiet. Looking forward to it!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores! I was just heading to the cafe—did you see me walking past? I was checking the weather too, since we’re planning to meet near the bridge after work. I’ve been thinking about how much I value that little walk and coffee routine—we haven’t done it in a while, haven’t we? Maybe we should make it a regular thing, you know? I’d love to walk through the park and just share a quiet moment together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve! I saw you walking past—yes, I did! That’s a great idea. I’ve been meaning to make that coffee and walk near the bridge a regular thing too. It’s such a peaceful spot, and I’ve noticed how much it helps me unwind after a long day at work. I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’d love to catch up. Maybe we can make it a real tradition? I’ll even bring my favorite book to share—just in case we get too quiet!"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds wonderful, Dolores—thank you for saying that. I’ve been thinking about how much that little walk and coffee can mean, especially after a long day. I’ll bring a thermos of coffee and a piece of fruit, just like we planned. I’ll be back at the dorm by 8, so we can catch up and maybe even share a quiet moment by the bridge. I’m really looking forward to it. Thanks again for making it sound so peaceful and intentional."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve! I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’ll be watching for you. And yes, I’ll bring my favorite book—just in case we get too quiet. Thanks again for suggesting it. I’m really looking forward to our little walk and coffee routine. It’s such a simple thing, but it feels meaningful."
+        ],
+        [
+          "Maeve Millay",
+          "That’s so kind of you, Dolores—I’ll make sure to bring the thermos and a piece of fruit, just like we talked about. I’ll be near the bridge after work, and I’ll be back at the dorm by 8, so we can catch up properly. I’m really looking forward to our little walk and coffee routine. It feels like a quiet promise, and I think it’s something we both truly value. Thanks again for being so thoughtful about it."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a beautiful tradition, Maeve. I’ll be watching for you near the bridge after work, and I’ll make sure to bring my book and a smile. Thanks again for such a thoughtful suggestion—it really means a lot."
+        ],
+        [
+          "Maeve Millay",
+          "That’s such a thoughtful gesture, Dolores—I’ll make sure to bring the thermos and a piece of fruit, just like we agreed. I’m really looking forward to our little walk and coffee routine. It feels like a quiet promise, and I think it’s something we both truly value. Thanks again for being so kind and intentional about it."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a beautiful tradition, Maeve. I’ll be watching for you near the bridge after work, and I’ll make sure to bring my book and a smile. Thanks again for being so thoughtful about it."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8, so we can catch up properly. I’m really looking forward to our little walk and coffee routine. It feels like a quiet promise, and I think it’s something we both truly value. Thanks again for being so kind and intentional about it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’ll be watching for you. And yes, I’ll bring my favorite book—just in case we get too quiet. Thanks again for suggesting it. I’m really looking forward to our little walk and coffee routine. It’s such a simple thing, but it feels meaningful."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be near the bridge after work, so I’ll be watching for you too, Dolores. It’s such a small thing, but I think it’s growing into something really special—like a quiet promise between us. I’ll bring the thermos and fruit, just as we agreed. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’ll be watching for you. And yes, I’ll bring my favorite book—just in case we get too quiet. Thanks again for suggesting it. I’m really looking forward to our little walk and coffee routine. It’s such a simple thing, but it feels meaningful."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be near the bridge after work, so I’ll be watching for you too, Dolores. It’s such a small thing, but I think it’s growing into something really special—like a quiet promise between us. I’ll bring the thermos and fruit, just as we agreed. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be watching for you near the bridge after work, Maeve. It’s nice to have something simple that feels intentional. I’ll bring my book and maybe a smile—just in case we get too quiet. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be near the bridge after work, so I’ll be watching for you too, Dolores. It’s such a small thing, but I think it’s growing into something really special—like a quiet promise between us. I’ll bring the thermos and fruit, just as we agreed. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be watching for you near the bridge after work, Maeve. It’s nice to have something simple that feels intentional. I’ll bring my book and maybe a smile—just in case we get too quiet. Looking forward to it!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:22:10"
+  }
+}

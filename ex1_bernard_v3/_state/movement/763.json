@@ -1,0 +1,95 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "👀",
+      "description": "monitoring baristas' performance (checking barista attendance) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciato": "🍳",
+      "description": "having breakfast (preparing toast) @ the Ville:Dorm for Oak Hill College:kitchen:toaster",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores, I just saw you in the kitchen—same time, same place, perfect. I was about to check the fridge to make sure the oat milk is fresh, and I noticed we both have the same ratio and brew temp set. That’s great—makes the latte art test consistent. I’ll have my notes and phone ready by 8, just like we agreed. Do you want to try the new pattern together? I’ll take a quick photo right after we finish and share it with Bernard later."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, that’s really thoughtful of you to notice and confirm the same ratio and temp—same oat milk blend, same brew temperature. I’ll have my notes ready too and make sure the oat milk is fresh by 8. I’ll be at the counter by 8 sharp, just like we planned. I’ll take a photo after we finish the latte art test and share it with Bernard, just like we agreed. Looking forward to trying the new pattern together!"
+        ],
+        [
+          "Maeve Millay",
+          "That’s awesome, Dolores—thanks for confirming everything. I’ll make sure the oat milk is fresh and the brew temperature is spot-on. I’m really looking forward to seeing how the new pattern turns out with both of us doing it together. See you at 8!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Maeve—thanks for double-checking everything. I’ll make sure the oat milk is fresh and ready by 8, and I’ll keep a note of the brew temperature right when we start. I’ll be at the counter by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll grab my phone and notes now, just to be ready. Thanks again for confirming everything—seeing the new pattern together feels like a small win for our consistency. See you at the counter by 8!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Maeve—thanks for double-checking everything. I’ll make sure the oat milk is fresh and ready by 8, and I’ll keep a note of the brew temperature right when we start. I’ll be at the counter by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll head to the kitchen now to check the fridge one more time—just to be sure the oat milk is fresh. See you at the counter by 8, Dolores!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve—thanks for confirming everything. I’ll double-check the fridge now and make sure the oat milk is fresh. I’ll be ready by 8 sharp, just like we said. See you at the counter!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll check the fridge one more time and grab my notes—everything’s set. See you at the counter by 8, Dolores!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve—I’ll double-check the fridge now and make sure the oat milk is fresh. I’ll be ready by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll check the fridge one more time and grab my notes—everything’s set. See you at the counter by 8, Dolores!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve—I’ll double-check the fridge now and make sure the oat milk is fresh. I’ll be ready by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll check the fridge one more time and grab my notes—everything’s set. See you at the counter by 8, Dolores!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve—I’ll double-check the fridge now and make sure the oat milk is fresh. I’ll be ready by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll check the fridge one more time and grab my notes—everything’s set. See you at the counter by 8, Dolores!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:06:10"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciato": "👀🍳",
+      "description": "monitoring baristas' performance (observing customer interaction) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciato": "💬",
+      "description": "synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores, I just saw you heading to the cafe. I'm on my way too—do you have the same oat milk ratio and brew temperature we agreed on for the latte art test? I’ll make sure to match it exactly and take a photo right after we finish so we can compare it later with Bernard."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, yes, I’ve got the same oat milk ratio and brew temperature we agreed on. I’ll double-check the fridge by 7:45 to make sure it’s fresh, and I’ll be at the counter by 8 sharp. I’ll also bring my notes and take a photo after we finish—just like you said. Thanks for confirming!"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores—same time, same ratio, same temperature. I’ll be at the counter by 8 sharp too. Let’s make sure the oat milk is fresh and the photo captures the pattern clearly before we both head back to our rooms. I’ll share it with Bernard as soon as we’re done, just like we planned."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure the fridge is double-checked by 7:45, the oat milk is fresh, and I’ll be at the counter by 8 sharp. I’ll keep an eye on the brew temperature right when we start and write it down. Thanks for confirming everything—same ratio, same temperature, same photo plan. Looking forward to comparing results with Bernard."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll double-check the fridge by 7:45 too—fresh oat milk is key. I’ll make sure the brew temperature matches exactly when we start, and I’ll take a quick photo right after we finish the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming everything—same ratio, same temperature, same timing. I’ll be at the counter by 8 sharp."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure everything is synchronized—oat milk fresh, brew temperature noted right at the start, and the photo taken clearly. I’ll be ready by 8 sharp. Thanks again for confirming everything—same ratio, same temperature, same photo plan. Looking forward to comparing the results with Bernard."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and have my notes and phone ready by 8. I’ll match the brew temperature exactly as we agreed and take a quick photo right after finishing the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming—same ratio, same temperature, same timing."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and be at the counter by 8 sharp. I’ll keep an eye on the brew temperature right when we start and write it down. I’ll also take a clear photo after finishing the latte art—just like we planned. Thanks again for confirming everything. Looking forward to comparing results with Bernard."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and have my notes and phone ready by 8. I’ll match the brew temperature exactly as we agreed and take a quick photo right after finishing the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming everything—same ratio, same temperature, same timing."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure the fridge is double-checked by 7:45, the oat milk is fresh, and I’ll be at the counter by 8 sharp. I’ll keep an eye on the brew temperature right when we start and write it down. I’ll take a clear photo after finishing the latte art—just like we planned. Thanks again for confirming everything. Looking forward to comparing results with Bernard."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and have my notes and phone ready by 8. I’ll match the brew temperature exactly as we agreed and take a quick photo right after finishing the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming everything—same ratio, same temperature, same timing."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure everything is synchronized—oat milk fresh, brew temperature noted right at the start, and the photo taken clearly. Thanks again for confirming everything. Looking forward to comparing results with Bernard."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        119,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores, I just saw you heading to the cafe. I'm on my way too—do you have the same oat milk ratio and brew temperature we agreed on for the latte art test? I’ll make sure to match it exactly and take a photo right after we finish so we can compare it later with Bernard."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, yes, I’ve got the same oat milk ratio and brew temperature we agreed on. I’ll double-check the fridge by 7:45 to make sure it’s fresh, and I’ll be at the counter by 8 sharp. I’ll also bring my notes and take a photo after we finish—just like you said. Thanks for confirming!"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores—same time, same ratio, same temperature. I’ll be at the counter by 8 sharp too. Let’s make sure the oat milk is fresh and the photo captures the pattern clearly before we both head back to our rooms. I’ll share it with Bernard as soon as we’re done, just like we planned."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure the fridge is double-checked by 7:45, the oat milk is fresh, and I’ll be at the counter by 8 sharp. I’ll keep an eye on the brew temperature right when we start and write it down. Thanks for confirming everything—same ratio, same temperature, same photo plan. Looking forward to comparing results with Bernard."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll double-check the fridge by 7:45 too—fresh oat milk is key. I’ll make sure the brew temperature matches exactly when we start, and I’ll take a quick photo right after we finish the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming everything—same ratio, same temperature, same timing. I’ll be at the counter by 8 sharp."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure everything is synchronized—oat milk fresh, brew temperature noted right at the start, and the photo taken clearly. I’ll be ready by 8 sharp. Thanks again for confirming everything—same ratio, same temperature, same photo plan. Looking forward to comparing the results with Bernard."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and have my notes and phone ready by 8. I’ll match the brew temperature exactly as we agreed and take a quick photo right after finishing the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming—same ratio, same temperature, same timing."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and be at the counter by 8 sharp. I’ll keep an eye on the brew temperature right when we start and write it down. I’ll also take a clear photo after finishing the latte art—just like we planned. Thanks again for confirming everything. Looking forward to comparing results with Bernard."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and have my notes and phone ready by 8. I’ll match the brew temperature exactly as we agreed and take a quick photo right after finishing the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming everything—same ratio, same temperature, same timing."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure the fridge is double-checked by 7:45, the oat milk is fresh, and I’ll be at the counter by 8 sharp. I’ll keep an eye on the brew temperature right when we start and write it down. I’ll take a clear photo after finishing the latte art—just like we planned. Thanks again for confirming everything. Looking forward to comparing results with Bernard."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and have my notes and phone ready by 8. I’ll match the brew temperature exactly as we agreed and take a quick photo right after finishing the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming everything—same ratio, same temperature, same timing."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure everything is synchronized—oat milk fresh, brew temperature noted right at the start, and the photo taken clearly. Thanks again for confirming everything. Looking forward to comparing results with Bernard."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:43:30"
+  }
+}

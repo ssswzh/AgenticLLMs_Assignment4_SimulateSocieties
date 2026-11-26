@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:31:30",
+  "curr_time": "February 13, 2023, 10:34:50",
   "curr_tile": [
-    122,
-    45
+    91,
+    37
   ],
   "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
   "name": "Maeve Millay",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 25,
-  "importance_ele_n": 38,
+  "importance_trigger_curr": 40,
+  "importance_ele_n": 23,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -134,7 +134,15 @@
     ],
     [
       "having breakfast (opening the fridge)",
-      5
+      1
+    ],
+    [
+      "establishing a regular coffee and walk tradition after work near the bridge",
+      9
+    ],
+    [
+      "having breakfast (opening the fridge)",
+      4
     ],
     [
       "having breakfast (checking the milk level)",
@@ -146,7 +154,15 @@
     ],
     [
       "having breakfast (placing toast on the plate)",
-      5
+      1
+    ],
+    [
+      "maintaining a consistent coffee and walk routine after work by the bridge",
+      9
+    ],
+    [
+      "having breakfast (placing toast on the plate)",
+      4
     ],
     [
       "having breakfast (drinking first cup of coffee)",
@@ -158,7 +174,15 @@
     ],
     [
       "walking to Hobbs Cafe (checking the weather forecast)",
-      5
+      1
+    ],
+    [
+      "establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (checking the weather forecast)",
+      4
     ],
     [
       "walking to Hobbs Cafe (reviewing the cafe's morning schedule)",
@@ -178,35 +202,127 @@
     ],
     [
       "walking to Hobbs Cafe (starting the walk from home)",
-      5
+      1
+    ],
+    [
+      "establishing a quiet coffee and walk ritual near the bridge as a shared daily routine",
+      16
+    ],
+    [
+      "walking to Hobbs Cafe (starting the walk from home)",
+      4
     ],
     [
       "walking to Hobbs Cafe (maintaining steady pace)",
-      5
+      1
+    ],
+    [
+      "establishing a regular coffee and walk routine after work near the bridge",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (maintaining steady pace)",
+      4
     ],
     [
       "walking to Hobbs Cafe (noticing landmarks along the path)",
       5
     ],
     [
-      "walking to Hobbs Cafe (approaching the cafe entrance)",
+      "serving customers at the counter (preparing station supplies)",
       5
     ],
     [
-      "walking to Hobbs Cafe (checking the cafe's front door status)",
+      "serving customers at the counter (checking inventory levels)",
       5
     ],
     [
-      "walking to Hobbs Cafe (retrieving the work bag)",
+      "serving customers at the counter (organizing coffee beans)",
       5
     ],
     [
-      "walking to Hobbs Cafe (reaching Hobbs Cafe)",
-      3
+      "serving customers at the counter (setting up espresso machine)",
+      5
     ],
     [
-      "serving customers at the counter",
-      360
+      "serving customers at the counter (calibrating milk frothing device)",
+      5
+    ],
+    [
+      "serving customers at the counter (prepping pastry station)",
+      5
+    ],
+    [
+      "serving customers at the counter (arranging customer order forms)",
+      5
+    ],
+    [
+      "serving customers at the counter (reviewing daily specials)",
+      5
+    ],
+    [
+      "serving customers at the counter (updating order board)",
+      5
+    ],
+    [
+      "serving customers at the counter (conducting pre-shift customer greeting)",
+      10
+    ],
+    [
+      "serving customers at the counter (processing first customer orders)",
+      15
+    ],
+    [
+      "serving customers at the counter (serving coffee and beverages)",
+      20
+    ],
+    [
+      "serving customers at the counter (handling pastry orders)",
+      20
+    ],
+    [
+      "serving customers at the counter (managing customer inquiries)",
+      20
+    ],
+    [
+      "serving customers at the counter (responding to complaints)",
+      20
+    ],
+    [
+      "serving customers at the counter (assisting with table setup)",
+      20
+    ],
+    [
+      "serving customers at the counter (monitoring service flow)",
+      20
+    ],
+    [
+      "serving customers at the counter (adjusting menu offerings)",
+      20
+    ],
+    [
+      "serving customers at the counter (replenishing stock for next shift)",
+      20
+    ],
+    [
+      "serving customers at the counter (preparing for next batch of orders)",
+      20
+    ],
+    [
+      "serving customers at the counter (handling rush hour service)",
+      20
+    ],
+    [
+      "serving customers at the counter (maintaining service consistency)",
+      20
+    ],
+    [
+      "serving customers at the counter (ensuring hygiene standards)",
+      20
+    ],
+    [
+      "serving customers at the counter (conducting end-of-shift inventory check)",
+      14
     ],
     [
       "walking in Johnson Park",
@@ -263,29 +379,138 @@
       60
     ]
   ],
-  "act_address": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
-  "act_start_time": "February 13, 2023, 08:29:00",
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 10:32:00",
   "act_duration": 5,
-  "act_description": "having breakfast (grazing on fruit)",
-  "act_pronunciatio": "🍎",
+  "act_description": "walking to Hobbs Cafe (noticing landmarks along the path)",
+  "act_pronunciatio": "🚶‍♂️🍳",
   "act_event": [
     "Maeve Millay",
-    "having breakfast",
+    "walking",
     "None"
   ],
-  "act_obj_description": "containing fruit",
-  "act_obj_pronunciatio": "🍎",
+  "act_obj_description": "unoccupied",
+  "act_obj_pronunciatio": "🧱",
   "act_obj_event": [
-    "refrigerator",
-    "containing",
+    "cafe customer seating",
+    "is unoccupied",
     "None"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {
-    "Dolores Abernathy": 3
+    "Dolores Abernathy": 14
   },
   "chatting_end_time": null,
   "act_path_set": true,
-  "planned_path": null
+  "planned_path": [
+    [
+      90,
+      37
+    ],
+    [
+      89,
+      37
+    ],
+    [
+      88,
+      37
+    ],
+    [
+      87,
+      37
+    ],
+    [
+      86,
+      37
+    ],
+    [
+      85,
+      37
+    ],
+    [
+      84,
+      37
+    ],
+    [
+      83,
+      37
+    ],
+    [
+      82,
+      37
+    ],
+    [
+      81,
+      37
+    ],
+    [
+      80,
+      37
+    ],
+    [
+      79,
+      37
+    ],
+    [
+      78,
+      37
+    ],
+    [
+      77,
+      37
+    ],
+    [
+      76,
+      37
+    ],
+    [
+      76,
+      36
+    ],
+    [
+      76,
+      35
+    ],
+    [
+      76,
+      34
+    ],
+    [
+      76,
+      33
+    ],
+    [
+      76,
+      32
+    ],
+    [
+      76,
+      31
+    ],
+    [
+      76,
+      30
+    ],
+    [
+      76,
+      29
+    ],
+    [
+      76,
+      28
+    ],
+    [
+      76,
+      27
+    ],
+    [
+      76,
+      26
+    ],
+    [
+      76,
+      25
+    ]
+  ]
 }

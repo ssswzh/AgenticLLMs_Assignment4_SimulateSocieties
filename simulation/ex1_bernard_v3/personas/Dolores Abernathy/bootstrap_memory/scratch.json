@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:31:40",
+  "curr_time": "February 13, 2023, 10:35:10",
   "curr_tile": [
-    121,
-    45
+    76,
+    23
   ],
   "daily_plan_req": "Dolores Abernathy wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she goes straight back to her room at the dorm and reads. She has dinner at the dorm at 6pm. She spends the rest of the evening reading and working on the computer in her room. She goes to bed at 11pm.",
   "name": "Dolores Abernathy",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 60,
-  "importance_ele_n": 27,
+  "importance_trigger_curr": 15,
+  "importance_ele_n": 76,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -133,7 +133,15 @@
     ],
     [
       "having breakfast (setting out breakfast supplies)",
+      1
+    ],
+    [
+      "coordinating latte art preparation with identical brew temperature and oat milk ratio by 8 sharp and documenting the outcome with a photo",
       5
+    ],
+    [
+      "having breakfast (setting out breakfast supplies)",
+      4
     ],
     [
       "having breakfast (pouring coffee)",
@@ -145,7 +153,15 @@
     ],
     [
       "having breakfast (preparing toast)",
-      5
+      1
+    ],
+    [
+      "coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing",
+      8
+    ],
+    [
+      "having breakfast (preparing toast)",
+      4
     ],
     [
       "having breakfast (making oatmeal)",
@@ -169,7 +185,15 @@
     ],
     [
       "walking to Hobbs Cafe (confirming arrival time with colleague)",
-      5
+      2
+    ],
+    [
+      "synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison",
+      7
+    ],
+    [
+      "walking to Hobbs Cafe (confirming arrival time with colleague)",
+      3
     ],
     [
       "walking to Hobbs Cafe (starting walk from dorm)",
@@ -177,19 +201,143 @@
     ],
     [
       "walking to Hobbs Cafe (walking to cafe entrance)",
-      10
+      3
+    ],
+    [
+      "calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+      12
+    ],
+    [
+      "walking to Hobbs Cafe (walking to cafe entrance)",
+      1
+    ],
+    [
+      "synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+      8
+    ],
+    [
+      "walking to Hobbs Cafe (walking to cafe entrance)",
+      6
     ],
     [
       "walking to Hobbs Cafe (navigating to main cafe path)",
+      7
+    ],
+    [
+      "serving customers at the counter (arriving at the cafe)",
+      5
+    ],
+    [
+      "serving customers at the counter (checking the register)",
+      5
+    ],
+    [
+      "serving customers at the counter (preparing coffee supplies)",
+      5
+    ],
+    [
+      "serving customers at the counter (setting up the counter station)",
+      5
+    ],
+    [
+      "serving customers at the counter (inspecting the espresso machine)",
+      5
+    ],
+    [
+      "serving customers at the counter (reviewing the daily menu)",
+      5
+    ],
+    [
+      "serving customers at the counter (checking customer orders from yesterday)",
+      5
+    ],
+    [
+      "serving customers at the counter (preparing a list of common orders)",
+      5
+    ],
+    [
+      "serving customers at the counter (opening the beverage display)",
       10
     ],
     [
-      "walking to Hobbs Cafe (arriving at Hobbs Cafe)",
-      2
+      "serving customers at the counter (organizing the pastry section)",
+      10
     ],
     [
-      "serving customers at the counter",
-      360
+      "serving customers at the counter (calibrating the milk frother)",
+      10
+    ],
+    [
+      "serving customers at the counter (preparing the morning specials)",
+      10
+    ],
+    [
+      "serving customers at the counter (welcoming customers at the door)",
+      15
+    ],
+    [
+      "serving customers at the counter (taking customer orders)",
+      15
+    ],
+    [
+      "serving customers at the counter (preparing drinks and food items)",
+      15
+    ],
+    [
+      "serving customers at the counter (serving beverages to customers)",
+      15
+    ],
+    [
+      "serving customers at the counter (serving food items to customers)",
+      15
+    ],
+    [
+      "serving customers at the counter (handling customer complaints)",
+      15
+    ],
+    [
+      "serving customers at the counter (addressing special requests)",
+      15
+    ],
+    [
+      "serving customers at the counter (ensuring hygiene and cleanliness)",
+      15
+    ],
+    [
+      "serving customers at the counter (monitoring customer flow)",
+      15
+    ],
+    [
+      "serving customers at the counter (updating the order board)",
+      15
+    ],
+    [
+      "serving customers at the counter (checking inventory levels)",
+      15
+    ],
+    [
+      "serving customers at the counter (refilling supplies as needed)",
+      15
+    ],
+    [
+      "serving customers at the counter (processing payment)",
+      15
+    ],
+    [
+      "serving customers at the counter (handling change and receipts)",
+      15
+    ],
+    [
+      "serving customers at the counter (ensuring customer satisfaction)",
+      15
+    ],
+    [
+      "serving customers at the counter (noticing and responding to feedback)",
+      15
+    ],
+    [
+      "serving customers at the counter (closing the counter station)",
+      5
     ],
     [
       "closing up the register and cleaning the counter",
@@ -254,82 +402,30 @@
       60
     ]
   ],
-  "act_address": "\u003cpersona\u003e Maeve Millay",
-  "act_start_time": "February 13, 2023, 08:23:10",
-  "act_duration": 8,
-  "act_description": "coordinating oat milk blend and brew temperature consistency with shared notes and photo documentation for latte art assessment",
-  "act_pronunciatio": "💬",
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 10:29:00",
+  "act_duration": 7,
+  "act_description": "walking to Hobbs Cafe (navigating to main cafe path)",
+  "act_pronunciatio": "🚶‍♂️",
   "act_event": [
     "Dolores Abernathy",
-    "chat with",
-    "Maeve Millay"
+    "walking to",
+    "Hobbs Cafe"
   ],
-  "act_obj_description": "",
-  "act_obj_pronunciatio": "",
+  "act_obj_description": "becoming available",
+  "act_obj_pronunciatio": "✅",
   "act_obj_event": [
-    "",
-    "",
-    ""
+    "cafe customer seating",
+    "becoming available",
+    "None"
   ],
-  "chatting_with": "Maeve Millay",
-  "chat": [
-    [
-      "Dolores Abernathy",
-      "Hi Maeve, I just woke up and was getting ready for the day. I saw you leaving your room—how’s your morning going? I’m making sure my oat milk blend is ready by 8, so we can sync up with the same ratio and brew temperature for the latte art test. Do you have your notes with you? I’ll be at the counter by 8 sharp."
-    ],
-    [
-      "Maeve Millay",
-      "Hi Dolores! Morning's going well—just finished brushing my teeth and gathering my notes and phone. I’ll be at the counter by 8 too. I’ve got the same oat milk ratio and brew temperature in mind as you, so we should have consistent results. I’ll take a quick photo right after we finish the latte art—let’s share it with Bernard later. See you at Hobbs Cafe!"
-    ],
-    [
-      "Dolores Abernathy",
-      "Thanks, Maeve—sounds good. I’ll double-check the fridge by 7:45 to make sure the oat milk is fresh and ready. I’ll keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later."
-    ],
-    [
-      "Maeve Millay",
-      "Got it, Dolores! I’ll check the fridge too—makes sure the oat milk is fresh before we start. I’ll have my notes and phone ready by 8, just like we said. Let’s keep the brew temperature exact and try that new pattern together. I’ll take a photo right after we finish and send it over to Bernard. See you at the cafe!"
-    ],
-    [
-      "Dolores Abernathy",
-      "Got it, Maeve—thanks for confirming. I’ll make sure the fridge is checked by 7:45 and the oat milk is fresh. I’ll also keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later."
-    ],
-    [
-      "Maeve Millay",
-      "Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!"
-    ],
-    [
-      "Dolores Abernathy",
-      "Thanks again, Maeve. I’ll keep an eye on the fridge and make sure everything is ready by 8. I’ll be at the counter just as you said—let’s make sure the latte art comes out perfectly and we both have a clear record of it. Looking forward to it!"
-    ],
-    [
-      "Maeve Millay",
-      "Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!"
-    ],
-    [
-      "Dolores Abernathy",
-      "Got it, Maeve—thanks for confirming everything. I’ll make sure the fridge is checked by 7:45 and the oat milk is fresh. I’ll keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later. See you at the cafe!"
-    ],
-    [
-      "Maeve Millay",
-      "Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!"
-    ],
-    [
-      "Dolores Abernathy",
-      "Maeve, just to confirm—do you have the same oat milk blend and brew temperature in mind as I do? I’ll be right at the counter by 8, so let’s make sure we’re both on the same page. I’ll also keep a note of the temperature right when we start, just like we agreed. Looking forward to seeing the latte art come out perfectly!"
-    ],
-    [
-      "Maeve Millay",
-      "Yes, Dolores—same oat milk blend and exact brew temperature. I’ve already checked the fridge and the milk is fresh. I’ll be ready by 8, just like we planned. Let’s make it perfect and share the photo with Bernard—see you at the counter!"
-    ],
-    [
-      "Dolores Abernathy",
-      "Got it, Maeve! I’ll make sure everything is ready by 8. See you at the counter!"
-    ]
-  ],
+  "chatting_with": null,
+  "chat": null,
   "chatting_with_buffer": {
-    "Maeve Millay": 68
+    "Bernard Lowe": -84,
+    "Maeve Millay": -6
   },
-  "chatting_end_time": "February 13, 2023, 08:32:00",
+  "chatting_end_time": null,
   "act_path_set": true,
   "planned_path": null
 }

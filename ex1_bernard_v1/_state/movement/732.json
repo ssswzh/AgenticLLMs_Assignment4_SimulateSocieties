@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciato": "☕",
+      "description": "opening Hobbs cafe (checking the morning schedule) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "maintaining a consistent coffee and walk routine after work by the bridge @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores! I just saw you here—how’s your morning going? I was thinking about our coffee and walk near the bridge after work. It’s been a while, and I really enjoy that spot. Do you still have plans to meet up there after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve! Morning’s going well, thanks. I was just pouring coffee—same as always. I still plan to meet you near the bridge after work. It’s a nice spot, and I really like how peaceful it feels. I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge. Looking forward to our coffee and walk!"
+        ],
+        [
+          "Maeve Millay",
+          "That’s wonderful to hear, Dolores! I’m really glad you’re still planning to meet up. I’ve been thinking about how much that spot means to both of us—especially with the peaceful vibe and the way it helps us unwind. I’ll make sure to bring a thermos of coffee and a piece of fruit, just like we’ve talked about. I’ll be back at the dorm by 8, so we can catch up and walk together after dinner. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve! I’ll be right there by 6, and I’ll definitely keep an eye out near the bridge. Thanks for bringing it up—our coffee and walk really does feel like a small ritual that helps us both unwind. Looking forward to seeing you at the dorm after dinner and sharing a moment by the bridge."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks again for confirming, Dolores! It really means a lot to me that we’re both keeping that tradition going. I’ll make sure to be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we planned. I’m looking forward to our walk and catching up by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds lovely, Maeve! I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially after a long day at work. Thanks again for making it a part of our routine. I’ll see you by the bridge after dinner!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds lovely, Maeve! I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially after a long day at work. Thanks again for making it a part of our routine. I’ll see you by the bridge after dinner!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "maintaining a consistent coffee and walk routine after work by the bridge @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores! I just saw you here—how’s your morning going? I was thinking about our coffee and walk near the bridge after work. It’s been a while, and I really enjoy that spot. Do you still have plans to meet up there after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve! Morning’s going well, thanks. I was just pouring coffee—same as always. I still plan to meet you near the bridge after work. It’s a nice spot, and I really like how peaceful it feels. I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge. Looking forward to our coffee and walk!"
+        ],
+        [
+          "Maeve Millay",
+          "That’s wonderful to hear, Dolores! I’m really glad you’re still planning to meet up. I’ve been thinking about how much that spot means to both of us—especially with the peaceful vibe and the way it helps us unwind. I’ll make sure to bring a thermos of coffee and a piece of fruit, just like we’ve talked about. I’ll be back at the dorm by 8, so we can catch up and walk together after dinner. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve! I’ll be right there by 6, and I’ll definitely keep an eye out near the bridge. Thanks for bringing it up—our coffee and walk really does feel like a small ritual that helps us both unwind. Looking forward to seeing you at the dorm after dinner and sharing a moment by the bridge."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks again for confirming, Dolores! It really means a lot to me that we’re both keeping that tradition going. I’ll make sure to be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we planned. I’m looking forward to our walk and catching up by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds lovely, Maeve! I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially after a long day at work. Thanks again for making it a part of our routine. I’ll see you by the bridge after dinner!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds lovely, Maeve! I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially after a long day at work. Thanks again for making it a part of our routine. I’ll see you by the bridge after dinner!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:01:00"
+  }
+}

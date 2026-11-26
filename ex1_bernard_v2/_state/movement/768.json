@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "🍳",
+      "description": "opening Hobbs Cafe (checking the security system) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating the setup and operation of the oat milk latte station with a shared checklist and fresh scones, building on a new seasonal menu item inspired by each other's ideas @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I just saw you adding milk to your coffee—perfect timing! I was checking the time and realized we’re both ready to head to the cafe. I’ll bring the checklist for the oat milk latte station and make sure the scones are fresh. Want to grab a quick coffee together before it gets busy? I’ve been thinking about your seasonal cinnamon and cardamom blend—it really sparked the idea for our 'Cinnamon \u0026 Cardamom' menu item next month."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds amazing, Maeve! I’ve been thinking about how we can make the oat milk latte station more intuitive—maybe we could add a visual checklist like you suggested. I’ll bring my notebook and apron so we can both check things off as we go. And yeah, I’ll definitely try the new scones when they’re ready. Thanks for starting this—really makes me feel like we’re building something special together."
+        ],
+        [
+          "Maeve Millay",
+          "Great! I’ll set up the station with the checklist right when we get there—just like you suggested. I’ll also snap a photo of it with fresh scones to share with Bernard during our next meeting. Let’s make sure everything’s consistent and ready to go before the morning rush. Thanks again for your input—it really helps us keep things running smoothly!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like we’re all set, Maeve! I’ll be ready by 8, with my notebook and apron. Let’s make sure the station is spotless and the checklist is clear so we can both feel confident when the rush comes. I’m excited to see how the new menu turns out—thanks again for your creativity and for always thinking ahead!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll make sure the station is all set with the checklist and fresh scones by 8. I’ll also keep an eye out for any new ideas you come up with during our morning chat—like how we can make the oat milk latte even more consistent. Looking forward to seeing the 'Cinnamon \u0026 Cardamom' item in action next month!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be right there, Maeve. Just need to finish up a few things in the kitchen—like checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll be there by 8 with the checklist and fresh scones ready. I’ll also make sure the oat milk is at the right temperature and the station looks clean and organized. Thanks again for your ideas—can’t wait to see how the new menu turns out!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be right there, Maeve. Just need to finish up a few things in the kitchen—like checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll be there by 8 with the checklist and fresh scones ready. I’ll also double-check the oat milk temperature and make sure everything looks clean and organized. Thanks again for your input—can’t wait to see how the new menu turns out!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8, Maeve. Just need to finish checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the checklist and fresh scones ready. I’ll also make sure the oat milk is at the right temperature and the station looks clean and organized. Thanks again for your input—can’t wait to see how the new menu turns out!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8, Maeve. Just need to finish checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the checklist and fresh scones ready. I’ll also double-check the oat milk temperature and make sure the station looks clean and organized. Thanks again for your input—can’t wait to see how the new menu turns out!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8, Maeve. Just need to finish checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the checklist and fresh scones ready. I’ll also double-check the oat milk temperature and make sure the station looks clean and organized. Thanks again for your input—can’t wait to see how the new menu turns out!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8, Maeve. Just need to finish checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating the setup and operation of the oat milk latte station with a shared checklist and fresh scones, building on a new seasonal menu item inspired by each other's ideas @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I just saw you adding milk to your coffee—perfect timing! I was checking the time and realized we’re both ready to head to the cafe. I’ll bring the checklist for the oat milk latte station and make sure the scones are fresh. Want to grab a quick coffee together before it gets busy? I’ve been thinking about your seasonal cinnamon and cardamom blend—it really sparked the idea for our 'Cinnamon \u0026 Cardamom' menu item next month."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds amazing, Maeve! I’ve been thinking about how we can make the oat milk latte station more intuitive—maybe we could add a visual checklist like you suggested. I’ll bring my notebook and apron so we can both check things off as we go. And yeah, I’ll definitely try the new scones when they’re ready. Thanks for starting this—really makes me feel like we’re building something special together."
+        ],
+        [
+          "Maeve Millay",
+          "Great! I’ll set up the station with the checklist right when we get there—just like you suggested. I’ll also snap a photo of it with fresh scones to share with Bernard during our next meeting. Let’s make sure everything’s consistent and ready to go before the morning rush. Thanks again for your input—it really helps us keep things running smoothly!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like we’re all set, Maeve! I’ll be ready by 8, with my notebook and apron. Let’s make sure the station is spotless and the checklist is clear so we can both feel confident when the rush comes. I’m excited to see how the new menu turns out—thanks again for your creativity and for always thinking ahead!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll make sure the station is all set with the checklist and fresh scones by 8. I’ll also keep an eye out for any new ideas you come up with during our morning chat—like how we can make the oat milk latte even more consistent. Looking forward to seeing the 'Cinnamon \u0026 Cardamom' item in action next month!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be right there, Maeve. Just need to finish up a few things in the kitchen—like checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll be there by 8 with the checklist and fresh scones ready. I’ll also make sure the oat milk is at the right temperature and the station looks clean and organized. Thanks again for your ideas—can’t wait to see how the new menu turns out!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be right there, Maeve. Just need to finish up a few things in the kitchen—like checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll be there by 8 with the checklist and fresh scones ready. I’ll also double-check the oat milk temperature and make sure everything looks clean and organized. Thanks again for your input—can’t wait to see how the new menu turns out!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8, Maeve. Just need to finish checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the checklist and fresh scones ready. I’ll also make sure the oat milk is at the right temperature and the station looks clean and organized. Thanks again for your input—can’t wait to see how the new menu turns out!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8, Maeve. Just need to finish checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the checklist and fresh scones ready. I’ll also double-check the oat milk temperature and make sure the station looks clean and organized. Thanks again for your input—can’t wait to see how the new menu turns out!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8, Maeve. Just need to finish checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the checklist and fresh scones ready. I’ll also double-check the oat milk temperature and make sure the station looks clean and organized. Thanks again for your input—can’t wait to see how the new menu turns out!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8, Maeve. Just need to finish checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:07:00"
+  }
+}

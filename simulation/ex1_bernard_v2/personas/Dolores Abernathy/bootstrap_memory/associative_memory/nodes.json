@@ -41,6 +41,264 @@
     ],
     "filling": null
   },
+  "node_100": {
+    "node_count": 100,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:56:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "becoming",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming occupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_101": {
+    "node_count": 101,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe (preparing the daily menu board)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe (preparing the daily menu board)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe (preparing the daily menu board)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_102": {
+    "node_count": 102,
+    "type_count": 5,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:01:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "original_description": "negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "embedding_key": "negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "poignancy": 5,
+    "valence": -7,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I noticed you're preparing the menu board. Is everything ready for the day? I just wanted to make sure we're aligned on the morning routine, especially with the oat milk latte station and the scones. Maeve and I have been working on a checklist to keep things consistent and smooth."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve repeats her checks and justifications like she's trying to justify a mistake. That's unacceptable. The routine is set. No hesitation. No explanations. Do it. Now. If you're not sure, go back to the checklist and do it again. No more double-checks. I've seen it before. That hesitation is a failure of discipline. The oat milk latte station is ready, and the scones are on the shelf. Move on."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand you expect everything to be done immediately and without hesitation. I just wanted to make sure we're both on the same page about the morning routine—especially with the oat milk latte station and scones. Maeve and I have been developing a checklist to ensure consistency and reduce any uncertainty. I think it might help us both stay on track and avoid delays, especially when we're both working under the same standards. I'm happy to go over it with you if you'd like, and I can bring my notebook and apron to the cafe to show it in person."
+      ],
+      [
+        "Bernard Lowe",
+        "The checklist you're working on is irrelevant. The routine is already established. Maeve's hesitation is a flaw in execution, not a need for documentation. If you're not following it, go back to the station and do it correctly. No discussion. No justification. Just action. I've seen this before. You don't need a notebook to know what's expected. Do it. Now."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectations fully, and I respect the importance of consistency and efficiency. I just wanted to offer a small, practical way to support that—by making the routine visible and shared. The checklist isn't about adding extra steps or justifying hesitation; it's about helping both me and Maeve follow the same standard without delay. I'm not asking for permission or extra time—I'm simply offering a tool to help us meet your standards with greater clarity and confidence. I'm happy to show it to you in person if you'd like, and I can make sure it's clearly visible on the station when we open."
+      ],
+      [
+        "Bernard Lowe",
+        "The checklist you're proposing is a distraction. Discipline is not shown in paperwork—it's shown in action. If you're not doing it correctly, you're not doing it at all. Go to the oat milk latte station and prepare the drink. Do it now. No explanations. No tools. Just the routine. I've seen this before—your eagerness to justify your work is the same as Maeve's. It's a sign of weakness. I expect nothing less than flawless execution. When you're done, come back and report to me. I'll see if you've improved."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your emphasis on immediate action and flawless execution, and I respect that. I'm not suggesting any deviation from the routine—I'm simply offering a small, practical tool to help us both follow it more consistently and confidently. If the checklist is seen as a distraction, I can remove it and focus on doing the work as you expect. I just want to make sure we're both clear on what's expected, so I don't miss anything and we can avoid any delays or errors. I'm happy to do that in person if you'd like to see it, or even just confirm it's acceptable as is."
+      ],
+      [
+        "Bernard Lowe",
+        "The checklist is not just a distraction—it's a sign of weakness. If you're going to offer anything, it should be a failure to follow the routine, not a tool to prevent it. Go to the oat milk latte station and prepare the drink. Do it now. I'll see if you've improved. If not, you'll be back here, and I'll show you what discipline looks like."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand that discipline means action without hesitation, and I'm committed to doing my work with full focus. I just want to make sure I'm not missing anything in the routine. If the checklist is seen as a distraction, I can remove it immediately. But I'd like to confirm—when you say 'do it now,' do you mean the oat milk latte station is ready as-is, or do we need to complete the preparation steps before opening? I'm here to follow your standards, and I want to make sure I'm doing everything correctly from the start."
+      ],
+      [
+        "Bernard Lowe",
+        "The oat milk latte station is ready. The scones are on the shelf. You don't need a checklist to know what's expected. Go to the station and prepare the drink. Do it now. If you're not sure, go back to the station and do it again. No more questions. No more hesitation. I've seen this before. You don't need a tool to show discipline—you need to act like it. When you're done, come back and report to me. I'll see if you've improved."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand that discipline means immediate action and full focus. I'm committed to doing my work with precision and without hesitation. To be clear, I'm not asking for permission or extra time—I'm simply offering a tool to help both me and Maeve follow the routine consistently and confidently. If the checklist is seen as a distraction, I can remove it immediately. But I'd like to confirm—when you say 'do it now,' do you mean the station is ready as-is, or do we need to complete the preparation steps before opening? I'm here to follow your standards, and I want to make sure I'm doing everything correctly from the start."
+      ],
+      [
+        "Bernard Lowe",
+        "The oat milk latte station is ready. The scones are on the shelf. Go to the station and prepare the drink. Do it now. If you're not sure, go back and do it again. No more questions. No more hesitation. I've seen this before. You don't need a tool to show discipline—you need to act like it. When you're done, come back and report to me. I'll see if you've improved."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand that discipline means immediate action and full focus. I'm committed to doing my work with precision and without hesitation. To be clear, I'm not asking for permission or extra time—I'm simply offering a small, practical tool to help both me and Maeve follow the routine consistently and confidently. If the checklist is seen as a distraction, I can remove it immediately. But I'd like to confirm—when you say 'do it now,' do you mean the station is ready as-is, or do we need to complete the preparation steps before opening? I'm here to follow your standards, and I want to make sure I'm doing everything correctly from the start."
+      ],
+      [
+        "Bernard Lowe",
+        "The oat milk latte station is ready. Go to it and prepare the drink. Do it now. If you're not sure, go back and do it again. No more questions. No more hesitation. I've seen this before. You don't need a tool to show discipline—you need to act like it. When you're done, come back and report to me. I'll see if you've improved."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectations fully, and I'm committed to following them with precision. To make sure I'm not missing anything, I'd like to confirm—when you say 'do it now,' do you mean the oat milk latte station is ready as-is, or do we need to complete the preparation steps before opening? I'm here to follow your standards, and I want to ensure I'm doing everything correctly from the start."
+      ],
+      [
+        "Bernard Lowe",
+        "The oat milk latte station is ready. Go to it and prepare the drink. Do it now. If you're not sure, go back and do it again. No more questions. No more hesitation. I've seen this before. You don't need a tool to show discipline—you need to act like it. When you're done, come back and report to me. I'll see if you've improved."
+      ]
+    ]
+  },
+  "node_103": {
+    "node_count": 103,
+    "type_count": 68,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "original_description": "Dolores Abernathy is negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "embedding_key": "Dolores Abernathy is negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "poignancy": 0,
+    "valence": -6,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_102"
+    ]
+  },
+  "node_104": {
+    "node_count": 104,
+    "type_count": 69,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "original_description": "Bernard Lowe is negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "embedding_key": "Bernard Lowe is negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "poignancy": 5,
+    "valence": -6,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_105": {
+    "node_count": 105,
+    "type_count": 28,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:14:50",
+    "expiration": "2023-03-15 10:14:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "prepare",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember that the oat milk latte station is ready as-is and that she must prepare the drink immediately upon being instructed, with no hesitation or questions, and then report back to Bernard Lowe to be evaluated on her performance.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember that the oat milk latte station is ready as-is and that she must prepare the drink immediately upon being instructed, with no hesitation or questions, and then report back to Bernard Lowe to be evaluated on her performance.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember that the oat milk latte station is ready as-is and that she must prepare the drink immediately upon being instructed, with no hesitation or questions, and then report back to Bernard Lowe to be evaluated on her performance.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "prepare",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_106": {
+    "node_count": 106,
+    "type_count": 29,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:14:50",
+    "expiration": "2023-03-15 10:14:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe expects immediate action without hesitation and views any discussion or justification as a sign of weakness.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe expects immediate action without hesitation and views any discussion or justification as a sign of weakness.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe expects immediate action without hesitation and views any discussion or justification as a sign of weakness.",
+    "poignancy": 9,
+    "valence": -7,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_107": {
+    "node_count": 107,
+    "type_count": 70,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:34:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_108": {
+    "node_count": 108,
+    "type_count": 71,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:34:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
   "node_11": {
     "node_count": 11,
     "type_count": 2,
@@ -898,6 +1156,134 @@
     ],
     "filling": null
   },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:34:50",
+    "expiration": "2023-03-15 08:34:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remember",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the cafe by 8, ready to grab the oat milk latte and try the new scones, and to bring her notebook and apron.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the cafe by 8, ready to grab the oat milk latte and try the new scones, and to bring her notebook and apron.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the cafe by 8, ready to grab the oat milk latte and try the new scones, and to bring her notebook and apron.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:34:50",
+    "expiration": "2023-03-15 08:34:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found it noteworthy that",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve was already preparing fresh cinnamon scones and an oat milk latte station by 8, which inspired her to collaborate on seasonal menu ideas.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve was already preparing fresh cinnamon scones and an oat milk latte station by 8, which inspired her to collaborate on seasonal menu ideas.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve was already preparing fresh cinnamon scones and an oat milk latte station by 8, which inspired her to collaborate on seasonal menu ideas.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "found it noteworthy that",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:35:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "pouring",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (pouring coffee)",
+    "original_description": "Maeve Millay is having breakfast (pouring coffee)",
+    "embedding_key": "Maeve Millay is having breakfast (pouring coffee)",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "grilling",
+    "object": "bacon",
+    "description": "Dolores Abernathy is having breakfast (grilling bacon)",
+    "original_description": "Dolores Abernathy is having breakfast (grilling bacon)",
+    "embedding_key": "Dolores Abernathy is having breakfast (grilling bacon)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "bacon"
+    ],
+    "filling": null
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is empty",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is empty",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is empty",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is empty",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
   "node_5": {
     "node_count": 5,
     "type_count": 3,
@@ -915,6 +1301,285 @@
     "valence": -2,
     "keywords": [
       "computer",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:40",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+    "predicate": "cooking",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is grilling bacon",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is grilling bacon",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is grilling bacon",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "cooking area",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "making",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (making fruit salad)",
+    "original_description": "Dolores Abernathy is having breakfast (making fruit salad)",
+    "embedding_key": "Dolores Abernathy is having breakfast (making fruit salad)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "having breakfast",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (adding sugar and cream)",
+    "original_description": "Maeve Millay is having breakfast (adding sugar and cream)",
+    "embedding_key": "Maeve Millay is having breakfast (adding sugar and cream)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:45:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes",
+    "original_description": "collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes",
+    "embedding_key": "collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes",
+    "poignancy": 5,
+    "valence": 8,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hey Dolores, I just saw you making fruit salad—great choice! I was thinking about our seasonal oat milk latte menu, and since you suggested the cinnamon and cardamom blend, I wanted to propose a special 'Cinnamon \u0026 Cardamom' latte for next month. What do you think? I’ll have the station ready by 8, and I’ll make sure the scones are fresh too."
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds awesome, Maeve! I love the idea of a 'Cinnamon \u0026 Cardamom' latte—especially with fresh scones. I’ll bring my notebook and apron to the cafe by 8, so we can go over the menu together and maybe even tweak the workflow a bit. Thanks for thinking of it—makes me feel like we’re really building something special."
+      ],
+      [
+        "Maeve Millay",
+        "Thanks for the quick reply, Dolores! I’ll make sure the oat milk latte station is set up with all the fresh ingredients by 8, and I’ll have the scones baked just before we meet. I’m excited to see how we can refine the workflow together—maybe even add a few more seasonal touches. Let me know if you have any other ideas before we head out!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds perfect, Maeve! I’ll be there by 8 with my notebook and apron. I think we can make the workflow smoother by adding a quick check-in step for the oat milk latte station—maybe even a visual cue so we don’t miss the fresh scones. I’ll bring a few notes on how we could streamline the order process too. Looking forward to it!"
+      ],
+      [
+        "Maeve Millay",
+        "Sounds like a solid plan, Dolores! I’ll set up the station with a clear visual cue for the fresh scones and make sure the oat milk is always chilled. I’ll also keep a copy of your workflow notes for the next shift. Thanks again for your input—it really helps us keep the menu fresh and thoughtful. Let’s make sure to check in again after the first week to see how it’s going!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That’s a great idea, Maeve—I’ll make sure to add a quick check-in step for the oat milk latte station too. Maybe we can even create a small visual guide for the morning routine, like a checklist on the counter. I’ll bring a copy of my notes from last week’s shift to share. Looking forward to seeing how it all comes together when we’re both on the floor!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll put up a small checklist on the counter with the morning routine steps—like checking the oat milk temperature and confirming the scones are fresh. That way, we both start the day with a clear, consistent flow. I’ll also keep a copy of your notes and maybe even add a few more seasonal ideas we can test later. Thanks again for making this feel so collaborative!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That’s such a thoughtful touch, Maeve—I’ll bring a copy of my morning routine checklist too. Maybe we can even print it out and stick it near the station. I’ll make sure to grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll put up a small checklist on the counter with the morning routine steps—like checking the oat milk temperature and confirming the scones are fresh. That way, we both start the day with a clear, consistent flow. I’ll also keep a copy of your notes and maybe even add a few more seasonal ideas we can test later. Thanks again for making this feel so collaborative!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll make sure to grab the oat milk latte and try the new scones when we get there. Maybe we can even take a quick photo of the station together to show the team next week—just to keep the energy going. Looking forward to seeing how it all works in practice!"
+      ],
+      [
+        "Maeve Millay",
+        "That’s a wonderful idea, Dolores—I’ll definitely take a photo of the station with the checklist and the fresh scones when we’re both there. It’ll be a nice visual reminder for the team. I’ll also make sure to share it with Bernard during our next team meeting. Thanks again for your creativity and for making this feel so collaborative—it really makes my day!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be there by 8 with my notebook and apron, Maeve. I think we’ve got a solid start on the menu and workflow—thanks again for making this feel so collaborative. I’ll grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be there by 8 too, Dolores—ready to check in and make sure everything runs smoothly. Thanks again for your input; I’m really looking forward to seeing how the new station and scones work in practice!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be there by 8 with my notebook and apron, Maeve. I think we’ve got a solid start on the menu and workflow—thanks again for making this feel so collaborative. I’ll grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll make sure to grab the oat milk latte and try the new scones when we get there—can’t wait to see how it tastes! Thanks again for your input, Dolores. I’ll keep the checklist and notes handy and share them with the team later this week."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be there by 8 with my notebook and apron, Maeve. I think we’ve got a solid start on the menu and workflow—thanks again for making this feel so collaborative. I’ll grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!"
+      ]
+    ]
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes",
+    "original_description": "Dolores Abernathy is collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes",
+    "embedding_key": "Dolores Abernathy is collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_55"
+    ]
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes",
+    "original_description": "Maeve Millay is collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes",
+    "embedding_key": "Maeve Millay is collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:56:50",
+    "expiration": "2023-03-15 08:56:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember to bring",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to bring her notebook and apron to the cafe by 8, to check in with Maeve, and to grab the oat milk latte and try the new scones when they arrive, while also sharing a photo of the station with the checklist and fresh scones with Bernard during the next team meeting.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to bring her notebook and apron to the cafe by 8, to check in with Maeve, and to grab the oat milk latte and try the new scones when they arrive, while also sharing a photo of the station with the checklist and fresh scones with Bernard during the next team meeting.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to bring her notebook and apron to the cafe by 8, to check in with Maeve, and to grab the oat milk latte and try the new scones when they arrive, while also sharing a photo of the station with the checklist and fresh scones with Bernard during the next team meeting.",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember to bring",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:56:50",
+    "expiration": "2023-03-15 08:56:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found it noteworthy that",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve proposed a 'Cinnamon \u0026 Cardamom' latte special with fresh scones and suggested adding a visual checklist to streamline the morning workflow.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve proposed a 'Cinnamon \u0026 Cardamom' latte special with fresh scones and suggested adding a visual checklist to streamline the morning workflow.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve proposed a 'Cinnamon \u0026 Cardamom' latte special with fresh scones and suggested adding a visual checklist to streamline the morning workflow.",
+    "poignancy": 5,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "found it noteworthy that",
       "none"
     ],
     "filling": null
@@ -940,6 +1605,218 @@
     ],
     "filling": null
   },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:01:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "arranging",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (arranging breakfast dishes)",
+    "original_description": "Dolores Abernathy is having breakfast (arranging breakfast dishes)",
+    "embedding_key": "Dolores Abernathy is having breakfast (arranging breakfast dishes)",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:01:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:01:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "having breakfast",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (adding milk to coffee)",
+    "original_description": "Dolores Abernathy is having breakfast (adding milk to coffee)",
+    "embedding_key": "Dolores Abernathy is having breakfast (adding milk to coffee)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (checking the time)",
+    "original_description": "Maeve Millay is having breakfast (checking the time)",
+    "embedding_key": "Maeve Millay is having breakfast (checking the time)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "checked",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being checked",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being checked",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being checked",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:16:50",
+    "expiration": "2023-03-15 09:16:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remembering",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to finish checking the milk and making sure the scones are ready by 8, and to bring her notebook and apron to the cafe to go over the checklist with Maeve.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to finish checking the milk and making sure the scones are ready by 8, and to bring her notebook and apron to the cafe to go over the checklist with Maeve.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to finish checking the milk and making sure the scones are ready by 8, and to bring her notebook and apron to the cafe to go over the checklist with Maeve.",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "remembering",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:16:50",
+    "expiration": "2023-03-15 09:16:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found it noteworthy that",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve had been thinking about her seasonal cinnamon and cardamom blend as inspiration for a new menu item.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve had been thinking about her seasonal cinnamon and cardamom blend as inspiration for a new menu item.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve had been thinking about her seasonal cinnamon and cardamom blend as inspiration for a new menu item.",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "found it noteworthy that",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:17:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "having breakfast",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (ensuring all items are ready)",
+    "original_description": "Maeve Millay is having breakfast (ensuring all items are ready)",
+    "embedding_key": "Maeve Millay is having breakfast (ensuring all items are ready)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:17:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
   "node_7": {
     "node_count": 7,
     "type_count": 5,
@@ -957,6 +1834,285 @@
     "valence": 0,
     "keywords": [
       "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "eating",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (eating breakfast)",
+    "original_description": "Maeve Millay is having breakfast (eating breakfast)",
+    "embedding_key": "Maeve Millay is having breakfast (eating breakfast)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:26:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unaffected",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unaffected",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unaffected",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "cleaning",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (cleaning the table)",
+    "original_description": "Maeve Millay is having breakfast (cleaning the table)",
+    "embedding_key": "Maeve Millay is having breakfast (cleaning the table)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues",
+    "original_description": "Maeve Millay is coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues",
+    "embedding_key": "Maeve Millay is coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:27:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues",
+    "original_description": "coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues",
+    "embedding_key": "coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues",
+    "poignancy": 5,
+    "valence": 8,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Hey Maeve, I just saw you already had the scones and oat milk latte station ready—really impressive! I was thinking about how we could make a 'Cinnamon \u0026 Cardamom' oat milk latte special with fresh scones, like you suggested. I’ve been sketching out a quick checklist for the morning routine—maybe we can share it with Bernard during the next meeting? I’ll bring my notebook and apron when I head over, and I’d love to try the new latte when it’s ready."
+      ],
+      [
+        "Maeve Millay",
+        "Hey Dolores, that’s great—thanks for thinking of the checklist! I’ve been working on a visual cue for the station too, so we can double-check the oat milk temperature and make sure the scones are fresh. I’ll bring my apron and have the station ready by 8. I’ll also take a photo of the setup with the checklist and share it with Bernard during our next meeting. Let me know if you come up with anything new during the morning—happy to adjust the routine together!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds perfect, Maeve! I’ll make sure to grab the oat milk latte and try the new scones when they’re ready. I’ll also keep an eye on the milk temperature and double-check the scones before we open—just like your visual cue. Thanks again for the inspiration; I’m really excited to see how the new menu turns out!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores! I’ll make sure the station is all set with the visual cue and fresh scones by 8. I’ll also keep an eye out for any new ideas you have during the morning—happy to adjust the routine together. Thanks again for the collaboration, it really helps me feel more confident in what we’re building."
+      ],
+      [
+        "Dolores Abernathy",
+        "Maeve, I just finished making the fruit salad and toast—everything’s ready to go. I’ll be there by 8, with my notebook and apron. Let’s make sure the station looks clean and the checklist is visible so we can both check it off when we open. I’ll keep an eye on the milk temperature too, just like you said. Thanks again for your ideas—this is going to be such a smooth morning!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores! I’ll make sure the station is all set with the visual cue and fresh scones by 8. I’ll also keep an eye out for any new ideas you have during the morning—happy to adjust the routine together. Thanks again for the collaboration, it really helps me feel more confident in what we’re building."
+      ],
+      [
+        "Dolores Abernathy",
+        "Maeve, I just checked the milk and the scones are fresh—everything looks good! I’ll be there by 8 with my notebook and apron. Let’s make sure the checklist is clearly visible on the station so we can both confirm it’s ready when we open. I’ll also take a photo of the setup and share it with Bernard during our next meeting. Thanks again for your great ideas—this is going to be such a smooth morning!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+      ],
+      [
+        "Dolores Abernathy",
+        "Maeve, I just finished setting up the fruit salad and toast—everything’s ready. I’ll be at the cafe by 8 with my notebook and apron. Let’s make sure the checklist is clearly visible on the station so we can both confirm it’s ready when we open. I’ll also take a photo of the setup and share it with Bernard during our next meeting. Thanks again for your great ideas—this is going to be such a smooth morning!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+      ],
+      [
+        "Dolores Abernathy",
+        "Maeve, I just finished checking the milk and the scones are fresh—everything looks good! I’ll be there by 8 with my notebook and apron. Let’s make sure the checklist is clearly visible on the station so we can both confirm it’s ready when we open. I’ll also take a photo of the setup and share it with Bernard during our next meeting. Thanks again for your great ideas—this is going to be such a smooth morning!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+      ],
+      [
+        "Dolores Abernathy",
+        "Maeve, I just grabbed my notebook and apron—everything’s ready. I’ll be there by 8, and I’ll make sure to check the milk temperature and scones again before we open. Thanks again for your great ideas and for sharing the visual checklist—it’s going to make our morning routine so much smoother!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+      ],
+      [
+        "Dolores Abernathy",
+        "Maeve, I just finished my breakfast and everything is set—milk checked, scones fresh, and the checklist is visible. I’ll be there by 8 with my notebook and apron. Thanks again for the great ideas and for making this morning routine so smooth!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+      ]
+    ]
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues",
+    "original_description": "Dolores Abernathy is coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues",
+    "embedding_key": "Dolores Abernathy is coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_74"
+    ]
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:38:50",
+    "expiration": "2023-03-15 09:38:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "check",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to check the oat milk temperature and ensure the scones are fresh before opening the station at 8, and to confirm the checklist is clearly visible on the station so both she and Maeve can verify readiness.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to check the oat milk temperature and ensure the scones are fresh before opening the station at 8, and to confirm the checklist is clearly visible on the station so both she and Maeve can verify readiness.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to check the oat milk temperature and ensure the scones are fresh before opening the station at 8, and to confirm the checklist is clearly visible on the station so both she and Maeve can verify readiness.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "check",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:38:50",
+    "expiration": "2023-03-15 09:38:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that Maeve had developed a visual cue for checking oat milk temperature and scone freshness, which she found inspiring and practical for their morning routine.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that Maeve had developed a visual cue for checking oat milk temperature and scone freshness, which she found inspiring and practical for their morning routine.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that Maeve had developed a visual cue for checking oat milk temperature and scone freshness, which she found inspiring and practical for their morning routine.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "found",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:39:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "having breakfast",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (cleaning the counter)",
+    "original_description": "Dolores Abernathy is having breakfast (cleaning the counter)",
+    "embedding_key": "Dolores Abernathy is having breakfast (cleaning the counter)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:42:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "having",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (finalizing breakfast setup)",
+    "original_description": "Dolores Abernathy is having breakfast (finalizing breakfast setup)",
+    "embedding_key": "Dolores Abernathy is having breakfast (finalizing breakfast setup)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
       "none"
     ],
     "filling": null
@@ -1011,6 +2167,287 @@
       ]
     ]
   },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:42:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:42:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores values consistency and preparation in her daily routine, reflecting a deep sense of responsibility and order in how she navigates her responsibilities at work and in her personal life.",
+    "original_description": "Dolores values consistency and preparation in her daily routine, reflecting a deep sense of responsibility and order in how she navigates her responsibilities at work and in her personal life.",
+    "embedding_key": "Dolores values consistency and preparation in her daily routine, reflecting a deep sense of responsibility and order in how she navigates her responsibilities at work and in her personal life.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_66",
+      "node_51",
+      "node_78",
+      "node_60",
+      "node_38",
+      "node_56",
+      "node_44",
+      "node_23",
+      "node_1"
+    ]
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "is emotionally attuned to",
+    "object": "None",
+    "description": "Dolores is emotionally attuned to her colleagues’ ideas and initiatives, showing a quiet admiration and receptiveness to collaboration, even when she feels flustered under scrutiny.",
+    "original_description": "Dolores is emotionally attuned to her colleagues’ ideas and initiatives, showing a quiet admiration and receptiveness to collaboration, even when she feels flustered under scrutiny.",
+    "embedding_key": "Dolores is emotionally attuned to her colleagues’ ideas and initiatives, showing a quiet admiration and receptiveness to collaboration, even when she feels flustered under scrutiny.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "is emotionally attuned to",
+      "none"
+    ],
+    "filling": [
+      "node_24",
+      "node_11",
+      "node_59",
+      "node_67",
+      "node_45",
+      "node_75",
+      "node_57"
+    ]
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "sees",
+    "object": "None",
+    "description": "Dolores sees collaboration as a shared practice, not just a task—she actively participates in co-creating menu items and routines, indicating a belief in mutual growth and team-based innovation.",
+    "original_description": "Dolores sees collaboration as a shared practice, not just a task—she actively participates in co-creating menu items and routines, indicating a belief in mutual growth and team-based innovation.",
+    "embedding_key": "Dolores sees collaboration as a shared practice, not just a task—she actively participates in co-creating menu items and routines, indicating a belief in mutual growth and team-based innovation.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "sees",
+      "none"
+    ],
+    "filling": [
+      "node_42",
+      "node_56",
+      "node_22",
+      "node_75",
+      "node_57",
+      "node_43"
+    ]
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "is drawn to",
+    "object": "None",
+    "description": "Dolores is drawn to practical, visible systems—like checklists and visual cues—because they reduce uncertainty and provide clarity, which aligns with her conflict-averse nature and desire for stability.",
+    "original_description": "Dolores is drawn to practical, visible systems—like checklists and visual cues—because they reduce uncertainty and provide clarity, which aligns with her conflict-averse nature and desire for stability.",
+    "embedding_key": "Dolores is drawn to practical, visible systems—like checklists and visual cues—because they reduce uncertainty and provide clarity, which aligns with her conflict-averse nature and desire for stability.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "is drawn to",
+      "none"
+    ],
+    "filling": [
+      "node_76",
+      "node_59",
+      "node_77",
+      "node_1",
+      "node_43"
+    ]
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "feels a strong connection to",
+    "object": "None",
+    "description": "Dolores feels a strong connection to Maeve’s creativity and initiative, which inspires her to participate more fully in the cafe’s culture, suggesting that she views meaningful work as rooted in shared vision and mutual effort.",
+    "original_description": "Dolores feels a strong connection to Maeve’s creativity and initiative, which inspires her to participate more fully in the cafe’s culture, suggesting that she views meaningful work as rooted in shared vision and mutual effort.",
+    "embedding_key": "Dolores feels a strong connection to Maeve’s creativity and initiative, which inspires her to participate more fully in the cafe’s culture, suggesting that she views meaningful work as rooted in shared vision and mutual effort.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "feels a strong connection to",
+      "none"
+    ],
+    "filling": [
+      "node_24",
+      "node_11",
+      "node_67",
+      "node_45",
+      "node_75",
+      "node_57"
+    ]
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 18,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores values consistency and preparation in her daily routine, which reflects her conflict-averse nature and her desire to avoid being overwhelmed by unexpected demands at work.",
+    "original_description": "Dolores values consistency and preparation in her daily routine, which reflects her conflict-averse nature and her desire to avoid being overwhelmed by unexpected demands at work.",
+    "embedding_key": "Dolores values consistency and preparation in her daily routine, which reflects her conflict-averse nature and her desire to avoid being overwhelmed by unexpected demands at work.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_76",
+      "node_38",
+      "node_78",
+      "node_21",
+      "node_44",
+      "node_77",
+      "node_66"
+    ]
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 19,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "respects",
+    "object": "None",
+    "description": "Dolores deeply respects collaboration and sees shared workflows as a way to build trust and reduce individual stress, especially in the context of her work with Maeve.",
+    "original_description": "Dolores deeply respects collaboration and sees shared workflows as a way to build trust and reduce individual stress, especially in the context of her work with Maeve.",
+    "embedding_key": "Dolores deeply respects collaboration and sees shared workflows as a way to build trust and reduce individual stress, especially in the context of her work with Maeve.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "respects",
+      "none"
+    ],
+    "filling": [
+      "node_22",
+      "node_42",
+      "node_59",
+      "node_67",
+      "node_57",
+      "node_75",
+      "node_56",
+      "node_43"
+    ]
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 20,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "is highly attentive to",
+    "object": "None",
+    "description": "Dolores is highly attentive to small, practical details—like oat milk temperature and scone freshness—indicating a strong internal drive to maintain order and precision in her environment.",
+    "original_description": "Dolores is highly attentive to small, practical details—like oat milk temperature and scone freshness—indicating a strong internal drive to maintain order and precision in her environment.",
+    "embedding_key": "Dolores is highly attentive to small, practical details—like oat milk temperature and scone freshness—indicating a strong internal drive to maintain order and precision in her environment.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "is highly attentive to",
+      "none"
+    ],
+    "filling": [
+      "node_76",
+      "node_58",
+      "node_77",
+      "node_66",
+      "node_21",
+      "node_11",
+      "node_45"
+    ]
+  },
   "node_9": {
     "node_count": 9,
     "type_count": 6,
@@ -1033,5 +2470,281 @@
     "filling": [
       "node_8"
     ]
+  },
+  "node_90": {
+    "node_count": 90,
+    "type_count": 21,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "views",
+    "object": "None",
+    "description": "Dolores views her workday as a structured, predictable sequence that allows her to transition smoothly from personal time to professional responsibilities, reinforcing her need for routine and control.",
+    "original_description": "Dolores views her workday as a structured, predictable sequence that allows her to transition smoothly from personal time to professional responsibilities, reinforcing her need for routine and control.",
+    "embedding_key": "Dolores views her workday as a structured, predictable sequence that allows her to transition smoothly from personal time to professional responsibilities, reinforcing her need for routine and control.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "views",
+      "none"
+    ],
+    "filling": [
+      "node_1",
+      "node_17",
+      "node_60",
+      "node_79",
+      "node_51",
+      "node_48"
+    ]
+  },
+  "node_91": {
+    "node_count": 91,
+    "type_count": 22,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "feels",
+    "object": "None",
+    "description": "Dolores is emotionally responsive to her colleagues’ ideas and actions, particularly Maeve’s, and feels a sense of inspiration and belonging when shared creativity is present in their daily work.",
+    "original_description": "Dolores is emotionally responsive to her colleagues’ ideas and actions, particularly Maeve’s, and feels a sense of inspiration and belonging when shared creativity is present in their daily work.",
+    "embedding_key": "Dolores is emotionally responsive to her colleagues’ ideas and actions, particularly Maeve’s, and feels a sense of inspiration and belonging when shared creativity is present in their daily work.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "feels",
+      "none"
+    ],
+    "filling": [
+      "node_42",
+      "node_59",
+      "node_67",
+      "node_11",
+      "node_45",
+      "node_56",
+      "node_43"
+    ]
+  },
+  "node_92": {
+    "node_count": 92,
+    "type_count": 23,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "is deeply attuned to",
+    "object": "None",
+    "description": "Dolores is deeply attuned to her colleagues' intentions and efforts, especially Maeve’s, which shapes her sense of belonging and mutual responsibility at work.",
+    "original_description": "Dolores is deeply attuned to her colleagues' intentions and efforts, especially Maeve’s, which shapes her sense of belonging and mutual responsibility at work.",
+    "embedding_key": "Dolores is deeply attuned to her colleagues' intentions and efforts, especially Maeve’s, which shapes her sense of belonging and mutual responsibility at work.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "is deeply attuned to",
+      "none"
+    ],
+    "filling": [
+      "node_59",
+      "node_51",
+      "node_43",
+      "node_45",
+      "node_67",
+      "node_11",
+      "node_24",
+      "node_81"
+    ]
+  },
+  "node_93": {
+    "node_count": 93,
+    "type_count": 24,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "approaches",
+    "object": "None",
+    "description": "Dolores approaches new experiences—like seasonal menu development—with a mix of curiosity and caution, indicating a conflict-averse disposition that prioritizes safety and consistency over bold innovation.",
+    "original_description": "Dolores approaches new experiences—like seasonal menu development—with a mix of curiosity and caution, indicating a conflict-averse disposition that prioritizes safety and consistency over bold innovation.",
+    "embedding_key": "Dolores approaches new experiences—like seasonal menu development—with a mix of curiosity and caution, indicating a conflict-averse disposition that prioritizes safety and consistency over bold innovation.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "approaches",
+      "none"
+    ],
+    "filling": [
+      "node_59",
+      "node_43",
+      "node_45",
+      "node_67",
+      "node_76",
+      "node_21",
+      "node_11",
+      "node_24"
+    ]
+  },
+  "node_94": {
+    "node_count": 94,
+    "type_count": 25,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "sees",
+    "object": "None",
+    "description": "Dolores sees her morning routine as a personal ritual that grounds her, reinforcing her identity as a dedicated, organized, and reflective individual who finds meaning in small, consistent actions.",
+    "original_description": "Dolores sees her morning routine as a personal ritual that grounds her, reinforcing her identity as a dedicated, organized, and reflective individual who finds meaning in small, consistent actions.",
+    "embedding_key": "Dolores sees her morning routine as a personal ritual that grounds her, reinforcing her identity as a dedicated, organized, and reflective individual who finds meaning in small, consistent actions.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "sees",
+      "none"
+    ],
+    "filling": [
+      "node_17",
+      "node_51",
+      "node_43",
+      "node_60",
+      "node_21",
+      "node_38",
+      "node_1",
+      "node_10"
+    ]
+  },
+  "node_95": {
+    "node_count": 95,
+    "type_count": 26,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores values collaboration and shared routines as a way to reduce personal stress and create a sense of stability in her daily work life.",
+    "original_description": "Dolores values collaboration and shared routines as a way to reduce personal stress and create a sense of stability in her daily work life.",
+    "embedding_key": "Dolores values collaboration and shared routines as a way to reduce personal stress and create a sense of stability in her daily work life.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_59",
+      "node_43",
+      "node_57",
+      "node_21",
+      "node_58",
+      "node_56",
+      "node_42",
+      "node_75"
+    ]
+  },
+  "node_96": {
+    "node_count": 96,
+    "type_count": 27,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:42:10",
+    "expiration": "2023-03-15 09:42:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "feels most at ease",
+    "object": "None",
+    "description": "Dolores feels most at ease when her actions are clearly structured and visible, such as through checklists or visual cues, which helps her manage her anxiety in high-pressure situations.",
+    "original_description": "Dolores feels most at ease when her actions are clearly structured and visible, such as through checklists or visual cues, which helps her manage her anxiety in high-pressure situations.",
+    "embedding_key": "Dolores feels most at ease when her actions are clearly structured and visible, such as through checklists or visual cues, which helps her manage her anxiety in high-pressure situations.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "feels most at ease",
+      "none"
+    ],
+    "filling": [
+      "node_23",
+      "node_76",
+      "node_11",
+      "node_10",
+      "node_78",
+      "node_77",
+      "node_22"
+    ]
+  },
+  "node_97": {
+    "node_count": 97,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:46:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_98": {
+    "node_count": 98,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:54:50",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "original_description": "Maeve Millay is grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "embedding_key": "Maeve Millay is grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_99": {
+    "node_count": 99,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:54:50",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "original_description": "Bernard Lowe is grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "embedding_key": "Bernard Lowe is grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
   }
 }

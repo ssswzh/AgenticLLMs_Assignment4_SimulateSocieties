@@ -1,0 +1,140 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "overseeing the preparation of espresso drinks (verifying espresso grinder settings) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores, I just saw you walking in — you made it early! I was checking the fridge to make sure the oat milk is fresh, and we both double-checked it at 7:45. I’ll be ready at 8 sharp. We’ll use the same ratio and brew temperature as agreed, and I’ll take a quick photo right after we finish the latte art. Do you have your notes and phone ready by then?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, I just got here too — thanks for checking the fridge! I double-checked it at 7:45 as well. I’ll be at the counter by 8 sharp with my notes and phone ready. I’ll make sure the oat milk is at exactly 60 degrees and pour it with a steady hand. I’ll also take a clear photo after we finish so we can compare it later. Let’s do it together — it’ll be perfect with the same ratio and temperature as agreed."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores — I’ll make sure everything’s synchronized. I’ll keep an eye on the machine temperature too, just like we agreed. Let’s both take the photo right after we finish so we can compare it side by side. Thanks for confirming everything — it really helps to have the same standards."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve — I’ll make sure the oat milk is at exactly 60 degrees and pour it slowly and steadily, just like we practiced. I’ll double-check the temperature with you right when we start, and we’ll both take a clear photo right after. Let’s keep it consistent and precise — it’s going to be a great test with the same setup. I’ll be ready at 8 sharp, just like we agreed."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks again, Dolores — I’ll keep everything synced with you. I’m feeling confident now that we’re both on the same page. Let’s make it a smooth, consistent test and share the photo with Bernard later. See you at 8 sharp!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores — I’ll double-check the machine temperature with you right when we start, just like we agreed. I’ll make sure the oat milk is fresh and at exactly 60 degrees, and we’ll both take a clear photo right after finishing the latte art. I’ll keep my notes and phone ready by 8 sharp. Let’s keep everything synchronized and precise. See you at the counter then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores — I’ll double-check the machine temperature with you right when we start, just like we agreed. I’ll make sure the oat milk is fresh and at exactly 60 degrees, and we’ll both take a clear photo right after finishing the latte art. I’ll keep my notes and phone ready by 8 sharp. Let’s keep everything synchronized and precise. See you at the counter then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores — I’ll double-check the machine temperature with you right when we start, just like we agreed. I’ll make sure the oat milk is fresh and at exactly 60 degrees, and we’ll both take a clear photo right after finishing the latte art. I’ll keep my notes and phone ready by 8 sharp. Let’s keep everything synchronized and precise. See you at the counter then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores — I’ll be ready at 8 sharp, everything synced. See you then!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores, I just saw you walking in — you made it early! I was checking the fridge to make sure the oat milk is fresh, and we both double-checked it at 7:45. I’ll be ready at 8 sharp. We’ll use the same ratio and brew temperature as agreed, and I’ll take a quick photo right after we finish the latte art. Do you have your notes and phone ready by then?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, I just got here too — thanks for checking the fridge! I double-checked it at 7:45 as well. I’ll be at the counter by 8 sharp with my notes and phone ready. I’ll make sure the oat milk is at exactly 60 degrees and pour it with a steady hand. I’ll also take a clear photo after we finish so we can compare it later. Let’s do it together — it’ll be perfect with the same ratio and temperature as agreed."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores — I’ll make sure everything’s synchronized. I’ll keep an eye on the machine temperature too, just like we agreed. Let’s both take the photo right after we finish so we can compare it side by side. Thanks for confirming everything — it really helps to have the same standards."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve — I’ll make sure the oat milk is at exactly 60 degrees and pour it slowly and steadily, just like we practiced. I’ll double-check the temperature with you right when we start, and we’ll both take a clear photo right after. Let’s keep it consistent and precise — it’s going to be a great test with the same setup. I’ll be ready at 8 sharp, just like we agreed."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks again, Dolores — I’ll keep everything synced with you. I’m feeling confident now that we’re both on the same page. Let’s make it a smooth, consistent test and share the photo with Bernard later. See you at 8 sharp!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores — I’ll double-check the machine temperature with you right when we start, just like we agreed. I’ll make sure the oat milk is fresh and at exactly 60 degrees, and we’ll both take a clear photo right after finishing the latte art. I’ll keep my notes and phone ready by 8 sharp. Let’s keep everything synchronized and precise. See you at the counter then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores — I’ll double-check the machine temperature with you right when we start, just like we agreed. I’ll make sure the oat milk is fresh and at exactly 60 degrees, and we’ll both take a clear photo right after finishing the latte art. I’ll keep my notes and phone ready by 8 sharp. Let’s keep everything synchronized and precise. See you at the counter then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores — I’ll double-check the machine temperature with you right when we start, just like we agreed. I’ll make sure the oat milk is fresh and at exactly 60 degrees, and we’ll both take a clear photo right after finishing the latte art. I’ll keep my notes and phone ready by 8 sharp. Let’s keep everything synchronized and precise. See you at the counter then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores — I’ll be ready at 8 sharp, everything synced. See you then!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:16:10"
+  }
+}

@@ -16,9 +16,9 @@
     },
     "Dorm for Oak Hill College": {
       "common room": [
-        "common room sofa",
         "pool table",
-        "common room table"
+        "common room table",
+        "common room sofa"
       ],
       "garden": [
         "dorm garden"
@@ -31,13 +31,13 @@
         "toilet"
       ],
       "main room": [
+        "refrigerator",
         "bed",
         "desk",
         "blackboard",
         "cooking area",
         "kitchen sink",
-        "closet",
-        "refrigerator"
+        "closet"
       ]
     },
     "Harvey Oak Supply Store": {
@@ -64,9 +64,9 @@
     },
     "Ryan Park's apartment": {
       "bathroom": [
-        "shower",
         "bathroom sink",
-        "toilet"
+        "toilet",
+        "shower"
       ],
       "main room": [
         "bed",
@@ -79,13 +79,13 @@
     },
     "The Rose and Crown Pub": {
       "pub": [
+        "bar customer seating",
+        "behind the bar counter",
         "kitchen sink",
         "cooking area",
         "microphone",
         "shelf",
-        "refrigerator",
-        "bar customer seating",
-        "behind the bar counter"
+        "refrigerator"
       ]
     },
     "The Willows Market and Pharmacy": {

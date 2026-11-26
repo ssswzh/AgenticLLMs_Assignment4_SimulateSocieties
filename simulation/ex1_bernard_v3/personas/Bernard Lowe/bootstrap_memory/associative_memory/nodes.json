@@ -481,6 +481,216 @@
     ],
     "filling": null
   },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:35:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "verified",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being verified",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being verified",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being verified",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "reviewing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being reviewed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being reviewed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being reviewed",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:41:00",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe for business (reviewing the customer feedback logs)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe for business (reviewing the customer feedback logs)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe for business (reviewing the customer feedback logs)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:46:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:51:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is empty",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:55:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "becoming",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming occupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring baristas' performance (arriving at the cafe)",
+    "original_description": "Bernard Lowe is monitoring baristas' performance (arriving at the cafe)",
+    "embedding_key": "Bernard Lowe is monitoring baristas' performance (arriving at the cafe)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:02:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "reviewing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being reviewed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being reviewed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being reviewed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "pour-over technique",
+    "description": "Bernard Lowe is monitoring baristas' performance (monitoring pour-over technique)",
+    "original_description": "Bernard Lowe is monitoring baristas' performance (monitoring pour-over technique)",
+    "embedding_key": "Bernard Lowe is monitoring baristas' performance (monitoring pour-over technique)",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "pour-over technique"
+    ],
+    "filling": null
+  },
   "node_4": {
     "node_count": 4,
     "type_count": 2,
@@ -498,6 +708,283 @@
     "valence": -1,
     "keywords": [
       "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:30:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "milk frothing technique",
+    "description": "Bernard Lowe is monitoring baristas' performance (checking milk frothing technique)",
+    "original_description": "Bernard Lowe is monitoring baristas' performance (checking milk frothing technique)",
+    "embedding_key": "Bernard Lowe is monitoring baristas' performance (checking milk frothing technique)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "milk frothing technique"
+    ],
+    "filling": null
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:30:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:41:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "watching",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being observed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being observed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being observed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:56:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unaffected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unaffected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "inspecting",
+    "object": "espresso machine calibration",
+    "description": "Bernard Lowe is overseeing the preparation of espresso drinks (inspecting espresso machine calibration)",
+    "original_description": "Bernard Lowe is overseeing the preparation of espresso drinks (inspecting espresso machine calibration)",
+    "embedding_key": "Bernard Lowe is overseeing the preparation of espresso drinks (inspecting espresso machine calibration)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "espresso machine calibration"
+    ],
+    "filling": null
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "calibrated",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being calibrated",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being calibrated",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being calibrated",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:01:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "original_description": "calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "embedding_key": "calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "poignancy": 8,
+    "valence": -9,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I'm here to start my shift. I just wanted to double-check that everything is set up for the espresso machine—especially the calibration, since I'll be preparing the latte art test with Maeve this morning."
+      ],
+      [
+        "Bernard Lowe",
+        "You are the worst employee I ever hired. The espresso machine is calibrated correctly, but you still need to pour the milk at exactly 60 degrees Celsius and use a steady hand. If you don’t get it right, you’ll remake it eight times. Stop making excuses. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I'll make sure to pour the milk at exactly 60 degrees and use a steady hand. I’ll also double-check the oat milk blend and brew temperature with Maeve to ensure consistency for the latte art test."
+      ],
+      [
+        "Bernard Lowe",
+        "I see you're trying to be thorough, Dolores, but your attention to detail is still lacking. The oat milk blend must be at precisely 60 degrees, and the pour must be smooth and consistent—no wobbles, no hesitation. If you don’t get it right, you’ll remake it eight times. I’ve seen it before. Stop making excuses. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a photo of the latte art and share it with you after the test, as we agreed."
+      ],
+      [
+        "Bernard Lowe",
+        "I see you're trying to be thorough, Dolores, but your attention to detail is still lacking. The oat milk blend must be at precisely 60 degrees, and the pour must be smooth and consistent—no wobbles, no hesitation. If you don’t get it right, you’ll remake it eight times. I’ve seen it before. Stop making excuses. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a clear photo of the latte art after completing the test and share it with you as we agreed."
+      ],
+      [
+        "Bernard Lowe",
+        "I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a clear photo of the latte art after completing the test and share it with you as we agreed."
+      ],
+      [
+        "Bernard Lowe",
+        "I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I’ll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I’ll also take a clear photo of the latte art after completing the test and share it with you as we agreed."
+      ],
+      [
+        "Bernard Lowe",
+        "I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a clear photo of the latte art after completing the test and share it with you as we agreed."
+      ],
+      [
+        "Bernard Lowe",
+        "I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a clear photo of the latte art after completing the test and share it with you as we agreed."
+      ],
+      [
+        "Bernard Lowe",
+        "I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you."
+      ]
+    ]
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "original_description": "Bernard Lowe is calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "embedding_key": "Bernard Lowe is calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_46"
+    ]
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "original_description": "Dolores Abernathy is calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "embedding_key": "Dolores Abernathy is calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe (monitoring weather conditions)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (monitoring weather conditions)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (monitoring weather conditions)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
       "none"
     ],
     "filling": null
@@ -523,6 +1010,218 @@
     ],
     "filling": null
   },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is empty",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:06:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is unobserved",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unobserved",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unobserved",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unobserved",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:11:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "becoming available",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming available",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:12:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:13:50",
+    "expiration": "2023-03-15 10:13:50",
+    "subject": "Bernard Lowe",
+    "predicate": "needs to remember",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember that Dolores Abernathy's hands tremble when the water temperature changes, and that she must pour oat milk at exactly 60 degrees with a steady hand, as failure to do so will result in her remaking the latte art eight times.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember that Dolores Abernathy's hands tremble when the water temperature changes, and that she must pour oat milk at exactly 60 degrees with a steady hand, as failure to do so will result in her remaking the latte art eight times.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember that Dolores Abernathy's hands tremble when the water temperature changes, and that she must pour oat milk at exactly 60 degrees with a steady hand, as failure to do so will result in her remaking the latte art eight times.",
+    "poignancy": 9,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "needs to remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:13:50",
+    "expiration": "2023-03-15 10:13:50",
+    "subject": "Bernard Lowe",
+    "predicate": "noticed",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe noticed that Dolores Abernathy flinches when the water temperature changes, indicating her hands are trembling and suggesting a lack of control during the milk pouring process.",
+    "original_description": "Bernard Lowe Bernard Lowe noticed that Dolores Abernathy flinches when the water temperature changes, indicating her hands are trembling and suggesting a lack of control during the milk pouring process.",
+    "embedding_key": "Bernard Lowe Bernard Lowe noticed that Dolores Abernathy flinches when the water temperature changes, indicating her hands are trembling and suggesting a lack of control during the milk pouring process.",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "bernard lowe",
+      "noticed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:14:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "verifying",
+    "object": "espresso drinks",
+    "description": "Bernard Lowe is overseeing the preparation of espresso drinks (verifying espresso grinder settings)",
+    "original_description": "Bernard Lowe is overseeing the preparation of espresso drinks (verifying espresso grinder settings)",
+    "embedding_key": "Bernard Lowe is overseeing the preparation of espresso drinks (verifying espresso grinder settings)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "espresso drinks"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:14:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (walking to cafe entrance)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (walking to cafe entrance)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (walking to cafe entrance)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:14:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "original_description": "Maeve Millay is synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "embedding_key": "Maeve Millay is synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
   "node_6": {
     "node_count": 6,
     "type_count": 4,
@@ -544,6 +1243,283 @@
     ],
     "filling": null
   },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:14:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "original_description": "Dolores Abernathy is synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "embedding_key": "Dolores Abernathy is synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:15:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is being verified",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being verified",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being verified",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being verified",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:19:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "overseeing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being overseen",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being overseen",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being overseen",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:19:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "overseeing",
+    "object": "None",
+    "description": "Bernard Lowe is overseeing the preparation of espresso drinks (checking consistency of espresso shot volume)",
+    "original_description": "Bernard Lowe is overseeing the preparation of espresso drinks (checking consistency of espresso shot volume)",
+    "embedding_key": "Bernard Lowe is overseeing the preparation of espresso drinks (checking consistency of espresso shot volume)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:23:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (preparing the espresso machine)",
+    "original_description": "Maeve Millay is serving customers at the counter (preparing the espresso machine)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (preparing the espresso machine)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:23:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision",
+    "original_description": "executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision",
+    "embedding_key": "executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision",
+    "poignancy": 8,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I just wanted to quickly confirm that I'm here to help with the espresso preparation today. I'll be ready by 8 sharp, and I've already double-checked the fridge—oat milk is fresh and at the right temperature. I'll make sure to match the brew temperature exactly with Dolores, as we agreed, and we'll both try the new latte art pattern together. I’ll take a clear photo right after finishing and share it with you later as planned."
+      ],
+      [
+        "Bernard Lowe",
+        "Good morning, Maeve. I see you're prepared, but remember—any deviation in temperature or pour consistency, and you're on your own. Dolores has hands that tremble when the water changes, so you must match her exact precision. If the oat milk isn't at 60 degrees, she’ll remake the latte art eight times. You understand? And don’t hesitate to ask if you’re unsure. If you take more than five seconds to respond, I’ll be forced to assume you’re not listening."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe, I understand completely. I’ll make sure the oat milk is at exactly 60 degrees, match Dolores’s brew temperature precisely, and pay close attention to every detail—especially the pour consistency. I’ll be ready by 8 sharp and will confirm with her right when we start. If I have any doubt, I’ll ask immediately. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be checking in behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to do it again. I don’t care about excuses. Now, get to work. I’ll be watching."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I’ll be ready by 8 sharp, and I’ll make sure every step—oat milk temperature, brew temperature, and pour consistency—is exactly as we agreed. I’ll confirm with Dolores right when we start, and I’ll be ready to adjust immediately if anything doesn’t match. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be behind the counter every ten minutes. If I see even the slightest inconsistency—like a drop in milk temperature or a slight variation in pour—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I’ll be sure to follow every detail precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, and pour consistency confirmed right when we start. I’ll keep my notes and phone ready by 8 sharp, and I’ll take a clear photo right after finishing the latte art to share with you as planned. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I’ll make sure every step is followed precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, and pour consistency confirmed right when we start. I’ll keep my notes and phone ready by 8 sharp, and I’ll take a clear photo right after finishing to share with you as planned. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be checking behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I’ll be ready by 8 sharp and will follow every step precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, pour consistency confirmed right when we start. I’ll keep my notes and phone ready, take a clear photo right after finishing the latte art, and share it with you as planned. I’ll also double-check with Dolores right at the start to ensure we’re both on the same page. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I’ll be ready by 8 sharp and will make sure every step is followed precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, pour consistency confirmed right when we start. I’ll keep my notes and phone ready, take a clear photo right after finishing the latte art, and share it with you as planned. I’ll also double-check with Dolores right at the start to ensure we’re both on the same page. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I’ll be ready by 8 sharp and will follow every step precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, pour consistency confirmed right when we start. I’ll keep my notes and phone ready, take a clear photo right after finishing the latte art, and share it with you as planned. I’ll also double-check with Dolores right at the start to ensure we’re both on the same page. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+      ]
+    ]
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:23:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision",
+    "original_description": "Bernard Lowe is executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision",
+    "embedding_key": "Bernard Lowe is executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision",
+    "poignancy": 0,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_65"
+    ]
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:23:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision",
+    "original_description": "Maeve Millay is executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision",
+    "embedding_key": "Maeve Millay is executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:23:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (walking to cafe entrance)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (walking to cafe entrance)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (walking to cafe entrance)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:29:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "becoming available",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming available",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
   "node_7": {
     "node_count": 7,
     "type_count": 5,
@@ -561,6 +1537,113 @@
     "valence": 0,
     "keywords": [
       "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:33:50",
+    "expiration": "2023-03-15 10:33:50",
+    "subject": "Bernard Lowe",
+    "predicate": "checking",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to check behind the counter every ten minutes to ensure there is no inconsistency in shot volume, milk temperature, or pour technique, as any deviation will require immediate redoing with no explanation.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to check behind the counter every ten minutes to ensure there is no inconsistency in shot volume, milk temperature, or pour technique, as any deviation will require immediate redoing with no explanation.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to check behind the counter every ten minutes to ensure there is no inconsistency in shot volume, milk temperature, or pour technique, as any deviation will require immediate redoing with no explanation.",
+    "poignancy": 10,
+    "valence": -6,
+    "keywords": [
+      "bernard lowe",
+      "checking",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:33:50",
+    "expiration": "2023-03-15 10:33:50",
+    "subject": "Bernard Lowe",
+    "predicate": "found it noteworthy that",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve Millay consistently reaffirmed her commitment to matching Dolores's precision in every step of the espresso preparation, including oat milk temperature, brew temperature, and pour consistency.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve Millay consistently reaffirmed her commitment to matching Dolores's precision in every step of the espresso preparation, including oat milk temperature, brew temperature, and pour consistency.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve Millay consistently reaffirmed her commitment to matching Dolores's precision in every step of the espresso preparation, including oat milk temperature, brew temperature, and pour consistency.",
+    "poignancy": 5,
+    "valence": -6,
+    "keywords": [
+      "bernard lowe",
+      "found it noteworthy that",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:34:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "overseeing",
+    "object": "espresso drinks",
+    "description": "Bernard Lowe is overseeing the preparation of espresso drinks (observing barista pouring technique)",
+    "original_description": "Bernard Lowe is overseeing the preparation of espresso drinks (observing barista pouring technique)",
+    "embedding_key": "Bernard Lowe is overseeing the preparation of espresso drinks (observing barista pouring technique)",
+    "poignancy": 5,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "espresso drinks"
+    ],
+    "filling": null
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:34:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:34:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "overseeing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being overseen",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being overseen",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being overseen",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
       "none"
     ],
     "filling": null

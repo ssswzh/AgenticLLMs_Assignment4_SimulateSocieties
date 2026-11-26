@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciato": "💬",
+      "description": "grappling with unresolved tension following repeated attempts to justify routine adherence @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I just saw you starting to prepare the daily menu board. I'm here to help set up the oat milk latte station with the new cinnamon and cardamom blend. I'll make sure the scones are fresh and the checklist is visible before the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, the oat milk latte station is already set up. I just checked the checklist—there's no need for you to handle it. The scones are fresh, but you're not to touch anything unless I specifically instruct you. And don't even think about making a single mistake. If the blend is off, the scones will be cold, and I will not tolerate that. Now, go to your station and start preparing. I'll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand you're strict about consistency, and I appreciate your attention to detail. Just to be clear, I'm setting up the station with the new cinnamon and cardamom blend and fresh scones as we discussed with Dolores. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush. I'm also making sure the checklist is visible on the counter so we can both confirm readiness. I'm not making any changes—I'm just following the routine we've built together. If there's anything else you'd like adjusted, I'm happy to adjust it immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I've seen you hesitate before. You're not supposed to double-check anything. The checklist is already visible, the scones are already fresh, and the oat milk temperature is correct. If you don't follow the routine exactly as it's written, you'll introduce a flaw I can't afford. Now go to your station and start preparing—no explanations, no delays. I'll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand the importance of consistency and precision, and I'm committed to following the routine exactly as it's set. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush, just as we discussed with Dolores. I'll also ensure the checklist is clearly visible on the counter so we both know the station is ready. If there's any adjustment you'd like to make, I'm happy to implement it immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I've seen you hesitate before. You're not supposed to double-check anything. The checklist is already visible, the scones are already fresh, and the oat milk temperature is correct. If you don't follow the routine exactly as it's written, you'll introduce a flaw I can't afford. Now go to your station and start preparing—no explanations, no delays. I'll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand the routine is strict and I'm committed to following it exactly as written. Just to be clear, I'm setting up the station with the new cinnamon and cardamom blend and fresh scones as we discussed with Dolores. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush, just as we've established. I'll also ensure the checklist is clearly visible on the counter so we both know the station is ready. If there's any adjustment you'd like to make, I'm happy to implement it immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you repeat this same hesitation before. You think you’re being thorough, but you’re only making it worse. The checklist is there, the scones are fresh, and the oat milk is at the right temperature—there’s no need for you to verify anything. If you don’t follow the routine exactly, you’ll introduce a flaw. Now go to your station and start preparing. I’ll be watching. And don’t expect any praise for doing it right—only for doing it perfectly."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand the routine is strict and I'm committed to following it exactly as written. Just to be clear, I'm setting up the station with the new cinnamon and cardamom blend and fresh scones as we discussed with Dolores. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush, just as we've established. I'll also ensure the checklist is clearly visible on the counter so we both know the station is ready. If there's any adjustment you'd like to make, I'm happy to implement it immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you do this before—repeating the same phrases, trying to justify every small action. You think you’re being careful, but you’re just making a mess of the routine. The station is already set, the scones are fresh, and the oat milk is correct. There is no room for hesitation or repetition. If you don’t go to your station and start preparing immediately, I will have no choice but to take over the work myself. Now move. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'm sorry for any hesitation—my intention is to follow the routine as closely as possible. I’ll make sure the station is ready and the scones are fresh before the rush. I appreciate your guidance, and I’ll do my best to maintain consistency. Thank you."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        77,
+        30
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciato": "💬",
+      "description": "grappling with unresolved tension following repeated attempts to justify routine adherence @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I just saw you starting to prepare the daily menu board. I'm here to help set up the oat milk latte station with the new cinnamon and cardamom blend. I'll make sure the scones are fresh and the checklist is visible before the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, the oat milk latte station is already set up. I just checked the checklist—there's no need for you to handle it. The scones are fresh, but you're not to touch anything unless I specifically instruct you. And don't even think about making a single mistake. If the blend is off, the scones will be cold, and I will not tolerate that. Now, go to your station and start preparing. I'll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand you're strict about consistency, and I appreciate your attention to detail. Just to be clear, I'm setting up the station with the new cinnamon and cardamom blend and fresh scones as we discussed with Dolores. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush. I'm also making sure the checklist is visible on the counter so we can both confirm readiness. I'm not making any changes—I'm just following the routine we've built together. If there's anything else you'd like adjusted, I'm happy to adjust it immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I've seen you hesitate before. You're not supposed to double-check anything. The checklist is already visible, the scones are already fresh, and the oat milk temperature is correct. If you don't follow the routine exactly as it's written, you'll introduce a flaw I can't afford. Now go to your station and start preparing—no explanations, no delays. I'll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand the importance of consistency and precision, and I'm committed to following the routine exactly as it's set. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush, just as we discussed with Dolores. I'll also ensure the checklist is clearly visible on the counter so we both know the station is ready. If there's any adjustment you'd like to make, I'm happy to implement it immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I've seen you hesitate before. You're not supposed to double-check anything. The checklist is already visible, the scones are already fresh, and the oat milk temperature is correct. If you don't follow the routine exactly as it's written, you'll introduce a flaw I can't afford. Now go to your station and start preparing—no explanations, no delays. I'll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand the routine is strict and I'm committed to following it exactly as written. Just to be clear, I'm setting up the station with the new cinnamon and cardamom blend and fresh scones as we discussed with Dolores. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush, just as we've established. I'll also ensure the checklist is clearly visible on the counter so we both know the station is ready. If there's any adjustment you'd like to make, I'm happy to implement it immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you repeat this same hesitation before. You think you’re being thorough, but you’re only making it worse. The checklist is there, the scones are fresh, and the oat milk is at the right temperature—there’s no need for you to verify anything. If you don’t follow the routine exactly, you’ll introduce a flaw. Now go to your station and start preparing. I’ll be watching. And don’t expect any praise for doing it right—only for doing it perfectly."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand the routine is strict and I'm committed to following it exactly as written. Just to be clear, I'm setting up the station with the new cinnamon and cardamom blend and fresh scones as we discussed with Dolores. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush, just as we've established. I'll also ensure the checklist is clearly visible on the counter so we both know the station is ready. If there's any adjustment you'd like to make, I'm happy to implement it immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you do this before—repeating the same phrases, trying to justify every small action. You think you’re being careful, but you’re just making a mess of the routine. The station is already set, the scones are fresh, and the oat milk is correct. There is no room for hesitation or repetition. If you don’t go to your station and start preparing immediately, I will have no choice but to take over the work myself. Now move. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'm sorry for any hesitation—my intention is to follow the routine as closely as possible. I’ll make sure the station is ready and the scones are fresh before the rush. I appreciate your guidance, and I’ll do my best to maintain consistency. Thank you."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:55:30"
+  }
+}

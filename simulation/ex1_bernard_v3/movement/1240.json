@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I just wanted to quickly confirm that I'm here to help with the espresso preparation today. I'll be ready by 8 sharp, and I've already double-checked the fridge—oat milk is fresh and at the right temperature. I'll make sure to match the brew temperature exactly with Dolores, as we agreed, and we'll both try the new latte art pattern together. I’ll take a clear photo right after finishing and share it with you later as planned."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. I see you're prepared, but remember—any deviation in temperature or pour consistency, and you're on your own. Dolores has hands that tremble when the water changes, so you must match her exact precision. If the oat milk isn't at 60 degrees, she’ll remake the latte art eight times. You understand? And don’t hesitate to ask if you’re unsure. If you take more than five seconds to respond, I’ll be forced to assume you’re not listening."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe, I understand completely. I’ll make sure the oat milk is at exactly 60 degrees, match Dolores’s brew temperature precisely, and pay close attention to every detail—especially the pour consistency. I’ll be ready by 8 sharp and will confirm with her right when we start. If I have any doubt, I’ll ask immediately. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be checking in behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to do it again. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I’ll be ready by 8 sharp, and I’ll make sure every step—oat milk temperature, brew temperature, and pour consistency—is exactly as we agreed. I’ll confirm with Dolores right when we start, and I’ll be ready to adjust immediately if anything doesn’t match. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be behind the counter every ten minutes. If I see even the slightest inconsistency—like a drop in milk temperature or a slight variation in pour—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I’ll be sure to follow every detail precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, and pour consistency confirmed right when we start. I’ll keep my notes and phone ready by 8 sharp, and I’ll take a clear photo right after finishing the latte art to share with you as planned. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I’ll make sure every step is followed precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, and pour consistency confirmed right when we start. I’ll keep my notes and phone ready by 8 sharp, and I’ll take a clear photo right after finishing to share with you as planned. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be checking behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I’ll be ready by 8 sharp and will follow every step precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, pour consistency confirmed right when we start. I’ll keep my notes and phone ready, take a clear photo right after finishing the latte art, and share it with you as planned. I’ll also double-check with Dolores right at the start to ensure we’re both on the same page. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I’ll be ready by 8 sharp and will make sure every step is followed precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, pour consistency confirmed right when we start. I’ll keep my notes and phone ready, take a clear photo right after finishing the latte art, and share it with you as planned. I’ll also double-check with Dolores right at the start to ensure we’re both on the same page. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I’ll be ready by 8 sharp and will follow every step precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, pour consistency confirmed right when we start. I’ll keep my notes and phone ready, take a clear photo right after finishing the latte art, and share it with you as planned. I’ll also double-check with Dolores right at the start to ensure we’re both on the same page. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciato": "🚶‍♂️",
+      "description": "walking to Hobbs Cafe (walking to cafe entrance) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I just wanted to quickly confirm that I'm here to help with the espresso preparation today. I'll be ready by 8 sharp, and I've already double-checked the fridge—oat milk is fresh and at the right temperature. I'll make sure to match the brew temperature exactly with Dolores, as we agreed, and we'll both try the new latte art pattern together. I’ll take a clear photo right after finishing and share it with you later as planned."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. I see you're prepared, but remember—any deviation in temperature or pour consistency, and you're on your own. Dolores has hands that tremble when the water changes, so you must match her exact precision. If the oat milk isn't at 60 degrees, she’ll remake the latte art eight times. You understand? And don’t hesitate to ask if you’re unsure. If you take more than five seconds to respond, I’ll be forced to assume you’re not listening."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe, I understand completely. I’ll make sure the oat milk is at exactly 60 degrees, match Dolores’s brew temperature precisely, and pay close attention to every detail—especially the pour consistency. I’ll be ready by 8 sharp and will confirm with her right when we start. If I have any doubt, I’ll ask immediately. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be checking in behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to do it again. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I’ll be ready by 8 sharp, and I’ll make sure every step—oat milk temperature, brew temperature, and pour consistency—is exactly as we agreed. I’ll confirm with Dolores right when we start, and I’ll be ready to adjust immediately if anything doesn’t match. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be behind the counter every ten minutes. If I see even the slightest inconsistency—like a drop in milk temperature or a slight variation in pour—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I’ll be sure to follow every detail precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, and pour consistency confirmed right when we start. I’ll keep my notes and phone ready by 8 sharp, and I’ll take a clear photo right after finishing the latte art to share with you as planned. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I’ll make sure every step is followed precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, and pour consistency confirmed right when we start. I’ll keep my notes and phone ready by 8 sharp, and I’ll take a clear photo right after finishing to share with you as planned. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be checking behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I’ll be ready by 8 sharp and will follow every step precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, pour consistency confirmed right when we start. I’ll keep my notes and phone ready, take a clear photo right after finishing the latte art, and share it with you as planned. I’ll also double-check with Dolores right at the start to ensure we’re both on the same page. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I’ll be ready by 8 sharp and will make sure every step is followed precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, pour consistency confirmed right when we start. I’ll keep my notes and phone ready, take a clear photo right after finishing the latte art, and share it with you as planned. I’ll also double-check with Dolores right at the start to ensure we’re both on the same page. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I’ll be ready by 8 sharp and will follow every step precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, pour consistency confirmed right when we start. I’ll keep my notes and phone ready, take a clear photo right after finishing the latte art, and share it with you as planned. I’ll also double-check with Dolores right at the start to ensure we’re both on the same page. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:25:40"
+  }
+}

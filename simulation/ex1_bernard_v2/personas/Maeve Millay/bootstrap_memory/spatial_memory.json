@@ -1,5 +1,13 @@
 {
   "the Ville": {
+    "Bernard Lowe's apartment": {
+      "bathroom": [
+        "bathroom sink"
+      ],
+      "main room": [
+        "desk"
+      ]
+    },
     "Dorm for Oak Hill College": {
       "Ayesha Khan's room": [
         "desk",
@@ -27,10 +35,10 @@
         "dorm garden"
       ],
       "kitchen": [
+        "cooking area",
         "toaster",
         "kitchen sink",
-        "refrigerator",
-        "cooking area"
+        "refrigerator"
       ],
       "man's bathroom": [
         "shower",
@@ -73,20 +81,29 @@
       ],
       "hallway": [],
       "library": [
-        "library table",
         "bookshelf",
-        "library sofa"
+        "library sofa",
+        "library table"
+      ]
+    },
+    "Ryan Park's apartment": {
+      "bathroom": [],
+      "main room": [
+        "closet",
+        "kitchen sink",
+        "cooking area",
+        "refrigerator"
       ]
     },
     "The Rose and Crown Pub": {
       "pub": [
-        "cooking area",
-        "microphone",
         "shelf",
         "refrigerator",
         "bar customer seating",
         "behind the bar counter",
-        "kitchen sink"
+        "kitchen sink",
+        "cooking area",
+        "microphone"
       ]
     },
     "The Willows Market and Pharmacy": {

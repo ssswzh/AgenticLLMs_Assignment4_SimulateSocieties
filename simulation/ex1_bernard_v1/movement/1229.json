@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🍽️",
+      "description": "managing the cafe operations (confirming the staff shift assignments) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "establishing a regular coffee and walk routine after work near the bridge @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve! I saw you walking to the cafe—how’s your morning going? I just finished my coffee and was heading out. I hope the weather’s nice today, since we’re going to meet near the bridge after work."
+        ],
+        [
+          "Maeve Millay",
+          "Hi Dolores! Morning's going well, thanks—just had a quick coffee and I'm feeling good. I was actually thinking about our coffee and walk near the bridge after work. It’s been a while since we last did it, and I really enjoy the peace of that spot. I hope the weather’s nice too—maybe we can make it a regular thing? I’ll be back at the dorm by 8, with a thermos of coffee and a piece of fruit, just like we planned."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve! I’ve been meaning to start a regular coffee and walk routine after work—especially near the bridge. It’s such a peaceful spot, and I really appreciate how much it helps me unwind. I’ll be back at the dorm by 6, and I’ll bring my favorite book and a smile. I hope we can make it a real tradition—just us, the bridge, and a quiet moment together."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds wonderful, Dolores! I really appreciate you making it a point to start something like that—it’s such a simple thing, but it means a lot. I’ll be ready by 8, with the coffee and fruit, and I’ll be keeping an eye out near the bridge after work. Looking forward to our walk and catching up in a quiet, peaceful spot. Thanks for sharing that with me—it makes me feel even more connected to the routine."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really glad we both noticed it—our little routine is already making a difference. I’ll be back by 6, and I’ll be sure to keep an eye out near the bridge. I can’t wait to share a quiet moment with you, just us, the bridge, and a calm conversation. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with the coffee and fruit, just like we said. I’m already looking forward to it—especially since we both value that quiet moment. Thanks again for making it part of your routine too. It feels like we’re building something gentle, steady, and meaningful together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m excited to share a quiet moment with you—our little routine is already making a difference, and I hope it grows into something we both truly value. Looking forward to seeing you there!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with the coffee and fruit, just like we planned. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m excited to share a quiet moment with you—our little routine is already making a difference, and I hope it grows into something we both truly value. Looking forward to seeing you there!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with the coffee and fruit, just like we planned. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m already looking forward to our walk—our little routine is already making a difference, and I hope it grows into something we both truly value. Thanks for making it part of your routine too, Maeve. It feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with the coffee and fruit, just like we said. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m already looking forward to our walk—our little routine is already making a difference, and I hope it grows into something we both truly value. Thanks for making it part of your routine too, Maeve. It feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with the coffee and fruit, just like we said. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m already looking forward to our walk—our little routine is already making a difference, and I hope it grows into something we both truly value. Thanks for making it part of your routine too, Maeve. It feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with the coffee and fruit, just like we said. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "establishing a regular coffee and walk routine after work near the bridge @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve! I saw you walking to the cafe—how’s your morning going? I just finished my coffee and was heading out. I hope the weather’s nice today, since we’re going to meet near the bridge after work."
+        ],
+        [
+          "Maeve Millay",
+          "Hi Dolores! Morning's going well, thanks—just had a quick coffee and I'm feeling good. I was actually thinking about our coffee and walk near the bridge after work. It’s been a while since we last did it, and I really enjoy the peace of that spot. I hope the weather’s nice too—maybe we can make it a regular thing? I’ll be back at the dorm by 8, with a thermos of coffee and a piece of fruit, just like we planned."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve! I’ve been meaning to start a regular coffee and walk routine after work—especially near the bridge. It’s such a peaceful spot, and I really appreciate how much it helps me unwind. I’ll be back at the dorm by 6, and I’ll bring my favorite book and a smile. I hope we can make it a real tradition—just us, the bridge, and a quiet moment together."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds wonderful, Dolores! I really appreciate you making it a point to start something like that—it’s such a simple thing, but it means a lot. I’ll be ready by 8, with the coffee and fruit, and I’ll be keeping an eye out near the bridge after work. Looking forward to our walk and catching up in a quiet, peaceful spot. Thanks for sharing that with me—it makes me feel even more connected to the routine."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really glad we both noticed it—our little routine is already making a difference. I’ll be back by 6, and I’ll be sure to keep an eye out near the bridge. I can’t wait to share a quiet moment with you, just us, the bridge, and a calm conversation. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with the coffee and fruit, just like we said. I’m already looking forward to it—especially since we both value that quiet moment. Thanks again for making it part of your routine too. It feels like we’re building something gentle, steady, and meaningful together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m excited to share a quiet moment with you—our little routine is already making a difference, and I hope it grows into something we both truly value. Looking forward to seeing you there!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with the coffee and fruit, just like we planned. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m excited to share a quiet moment with you—our little routine is already making a difference, and I hope it grows into something we both truly value. Looking forward to seeing you there!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with the coffee and fruit, just like we planned. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m already looking forward to our walk—our little routine is already making a difference, and I hope it grows into something we both truly value. Thanks for making it part of your routine too, Maeve. It feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with the coffee and fruit, just like we said. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m already looking forward to our walk—our little routine is already making a difference, and I hope it grows into something we both truly value. Thanks for making it part of your routine too, Maeve. It feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with the coffee and fruit, just like we said. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m already looking forward to our walk—our little routine is already making a difference, and I hope it grows into something we both truly value. Thanks for making it part of your routine too, Maeve. It feels like we’re building something gentle and steady together."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back by 8 with the coffee and fruit, just like we said. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:23:50"
+  }
+}

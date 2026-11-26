@@ -2,23 +2,23 @@
   "the Ville": {
     "Bernard Lowe's apartment": {
       "bathroom": [
-        "shower",
         "bathroom sink",
-        "toilet"
+        "toilet",
+        "shower"
       ],
       "main room": [
-        "bed",
-        "desk",
         "refrigerator",
         "closet",
-        "shelf"
+        "shelf",
+        "bed",
+        "desk"
       ]
     },
     "Dorm for Oak Hill College": {
       "common room": [
+        "common room table",
         "common room sofa",
-        "pool table",
-        "common room table"
+        "pool table"
       ],
       "garden": [
         "dorm garden"
@@ -26,6 +26,7 @@
     },
     "Giorgio Rossi's apartment": {
       "bathroom": [
+        "bathroom sink",
         "shower"
       ],
       "main room": [
@@ -58,38 +59,38 @@
     },
     "Ryan Park's apartment": {
       "bathroom": [
+        "shower",
         "bathroom sink",
-        "toilet",
-        "shower"
+        "toilet"
       ],
       "main room": [
-        "bed",
-        "cooking area",
-        "kitchen sink",
         "refrigerator",
         "computer desk",
-        "closet"
+        "closet",
+        "bed",
+        "cooking area",
+        "kitchen sink"
       ]
     },
     "The Rose and Crown Pub": {
       "pub": [
+        "cooking area",
+        "microphone",
+        "shelf",
         "refrigerator",
         "bar customer seating",
         "behind the bar counter",
-        "kitchen sink",
-        "cooking area",
-        "microphone",
-        "shelf"
+        "kitchen sink"
       ]
     },
     "The Willows Market and Pharmacy": {
       "store": [
+        "pharmacy store shelf",
         "pharmacy store counter",
         "grocery store shelf",
         "behind the grocery counter",
         "grocery store counter",
-        "behind the pharmacy counter",
-        "pharmacy store shelf"
+        "behind the pharmacy counter"
       ]
     }
   }

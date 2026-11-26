@@ -40,6 +40,71 @@
     ],
     "filling": null
   },
+  "node_100": {
+    "node_count": 100,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:22:50",
+    "expiration": "2023-03-15 10:22:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "is at the counter by 8 sharp",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be at the counter by 8 sharp, double-check the oat milk temperature with Maeve right when they start, ensure the oat milk is at exactly 60 degrees, and take a clear photo right after finishing the latte art.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be at the counter by 8 sharp, double-check the oat milk temperature with Maeve right when they start, ensure the oat milk is at exactly 60 degrees, and take a clear photo right after finishing the latte art.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be at the counter by 8 sharp, double-check the oat milk temperature with Maeve right when they start, ensure the oat milk is at exactly 60 degrees, and take a clear photo right after finishing the latte art.",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "is at the counter by 8 sharp",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_101": {
+    "node_count": 101,
+    "type_count": 18,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:22:50",
+    "expiration": "2023-03-15 10:22:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noted",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noted that both of them were strictly following the same ratio and temperature as agreed, which ensured consistency in their latte art test.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noted that both of them were strictly following the same ratio and temperature as agreed, which ensured consistency in their latte art test.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noted that both of them were strictly following the same ratio and temperature as agreed, which ensured consistency in their latte art test.",
+    "poignancy": 1,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "noted",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_102": {
+    "node_count": 102,
+    "type_count": 75,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
   "node_11": {
     "node_count": 11,
     "type_count": 6,
@@ -699,6 +764,71 @@
     ],
     "filling": null
   },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:31:50",
+    "expiration": "2023-03-15 08:31:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "checking",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to check the fridge by 7:45 to ensure the oat milk is fresh and ready, keep a note of the brew temperature right when they start, and be at the counter by 8 sharp to sync with Maeve for the latte art test, ensuring consistency and sharing a photo with Bernard afterward.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to check the fridge by 7:45 to ensure the oat milk is fresh and ready, keep a note of the brew temperature right when they start, and be at the counter by 8 sharp to sync with Maeve for the latte art test, ensuring consistency and sharing a photo with Bernard afterward.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to check the fridge by 7:45 to ensure the oat milk is fresh and ready, keep a note of the brew temperature right when they start, and be at the counter by 8 sharp to sync with Maeve for the latte art test, ensuring consistency and sharing a photo with Bernard afterward.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "checking",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:31:50",
+    "expiration": "2023-03-15 08:31:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that Maeve shared the same oat milk blend and exact brew temperature as she did, ensuring consistency in their latte art test.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that Maeve shared the same oat milk blend and exact brew temperature as she did, ensuring consistency in their latte art test.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that Maeve shared the same oat milk blend and exact brew temperature as she did, ensuring consistency in their latte art test.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:32:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
   "node_4": {
     "node_count": 4,
     "type_count": 2,
@@ -719,6 +849,257 @@
       "none"
     ],
     "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:36:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (preparing breakfast items)",
+    "original_description": "Dolores Abernathy is having breakfast (preparing breakfast items)",
+    "embedding_key": "Dolores Abernathy is having breakfast (preparing breakfast items)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:36:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (preparing breakfast items)",
+    "original_description": "Maeve Millay is having breakfast (preparing breakfast items)",
+    "embedding_key": "Maeve Millay is having breakfast (preparing breakfast items)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:36:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:41:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "having breakfast",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (checking pantry inventory)",
+    "original_description": "Dolores Abernathy is having breakfast (checking pantry inventory)",
+    "embedding_key": "Dolores Abernathy is having breakfast (checking pantry inventory)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:41:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "having breakfast",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (placing items on the table)",
+    "original_description": "Maeve Millay is having breakfast (placing items on the table)",
+    "embedding_key": "Maeve Millay is having breakfast (placing items on the table)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:41:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "not being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is not being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is not being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is not being used",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:41:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "checked",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being checked",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being checked",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being checked",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:46:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (checking the oven temperature)",
+    "original_description": "Maeve Millay is having breakfast (checking the oven temperature)",
+    "embedding_key": "Maeve Millay is having breakfast (checking the oven temperature)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:46:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating latte art preparation with identical brew temperature and oat milk ratio by 8 sharp and documenting the outcome with a photo",
+    "original_description": "Maeve Millay is coordinating latte art preparation with identical brew temperature and oat milk ratio by 8 sharp and documenting the outcome with a photo",
+    "embedding_key": "Maeve Millay is coordinating latte art preparation with identical brew temperature and oat milk ratio by 8 sharp and documenting the outcome with a photo",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:46:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating latte art preparation with identical brew temperature and oat milk ratio by 8 sharp and documenting the outcome with a photo",
+    "original_description": "coordinating latte art preparation with identical brew temperature and oat milk ratio by 8 sharp and documenting the outcome with a photo",
+    "embedding_key": "coordinating latte art preparation with identical brew temperature and oat milk ratio by 8 sharp and documenting the outcome with a photo",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Hey Maeve, I just saw you checking the oven temperature—everything ready for the latte art test today, right? I’ll make sure to have the oat milk blend ready by 8 and keep an eye on the brew temp when we start. We’re both using the same ratio, so it should be consistent. I’ll bring my notes too and take a photo after—just like we agreed. Want to sync up at the counter by 8 sharp?"
+      ],
+      [
+        "Maeve Millay",
+        "Hey Dolores, thanks for checking in—everything looks good! I just double-checked the fridge and the oat milk is fresh. I’ll have my notes and phone ready by 8, and I’ll match your brew temperature exactly. Let’s meet at the counter by 8 sharp and try that new latte art pattern together. I’ll take a quick photo right after we finish so we can compare it later. Looking forward to it!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve—thanks for confirming. I’ll be there by 8 sharp with the oat milk ready and my notes. Let’s make sure the brew temp is exactly the same too, just like we’ve been doing. I’ll keep an eye on it and maybe even write it down right when we start. Looking forward to seeing how the new pattern turns out together!"
+      ],
+      [
+        "Maeve Millay",
+        "Sounds good, Dolores! I’ll keep an eye on the oat milk too—just in case it’s not quite fresh. I’ll be at the counter by 8 sharp. Let’s make sure we both have the same brew temp and oat milk ratio, and I’ll take that photo right after we finish. Looking forward to seeing how it turns out together!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve—thanks for confirming. I’ll be there by 8 sharp with the oat milk ready and my notes. Let’s make sure the brew temp is exactly the same too, just like we’ve been doing. I’ll keep an eye on it and maybe even write it down right when we start. Looking forward to seeing how the new pattern turns out together!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores! I’ll be at the counter by 8 sharp. Let’s make sure the oat milk is fresh and the brew temp is exactly the same—just like we’ve been doing. I’ll take that photo right after we finish and share it with Bernard later. Looking forward to seeing how the new pattern turns out together!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve—thanks for confirming. I’ll be there by 8 sharp with the oat milk ready and my notes. Let’s make sure the brew temp is exactly the same too, just like we’ve been doing. I’ll keep an eye on it and maybe even write it down right when we start. Looking forward to seeing how the new pattern turns out together!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores! I’ll be at the counter by 8 sharp. Let’s make sure the oat milk is fresh and the brew temp is exactly the same—just like we’ve been doing. I’ll take that photo right after we finish and share it with Bernard later. Looking forward to seeing how the new pattern turns out together!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve—thanks for confirming everything. I’ll be there by 8 sharp with the oat milk ready and my notes. Let’s make sure the brew temp is exactly the same too, just like we’ve been doing. I’ll keep an eye on it and maybe even write it down right when we start. Looking forward to seeing how the new pattern turns out together!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores! I’ll be at the counter by 8 sharp. Let’s make sure the oat milk is fresh and the brew temp is exactly the same—just like we’ve been doing. I’ll take that photo right after we finish and share it with Bernard later. Looking forward to seeing how the new pattern turns out together!"
+      ]
+    ]
   },
   "node_5": {
     "node_count": 5,
@@ -806,6 +1187,220 @@
       ]
     ]
   },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:46:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating latte art preparation with identical brew temperature and oat milk ratio by 8 sharp and documenting the outcome with a photo",
+    "original_description": "Dolores Abernathy is coordinating latte art preparation with identical brew temperature and oat milk ratio by 8 sharp and documenting the outcome with a photo",
+    "embedding_key": "Dolores Abernathy is coordinating latte art preparation with identical brew temperature and oat milk ratio by 8 sharp and documenting the outcome with a photo",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_49"
+    ]
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:51:50",
+    "expiration": "2023-03-15 08:51:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be at the counter by 8 sharp, have the oat milk blend ready, bring her notes, keep an eye on the brew temperature and write it down when they start, and take a photo after finishing the latte art test to share with Bernard.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be at the counter by 8 sharp, have the oat milk blend ready, bring her notes, keep an eye on the brew temperature and write it down when they start, and take a photo after finishing the latte art test to share with Bernard.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be at the counter by 8 sharp, have the oat milk blend ready, bring her notes, keep an eye on the brew temperature and write it down when they start, and take a photo after finishing the latte art test to share with Bernard.",
+    "poignancy": 8,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:51:50",
+    "expiration": "2023-03-15 08:51:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that Maeve will take a photo of the latte art after they finish and share it with Bernard later.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that Maeve will take a photo of the latte art after they finish and share it with Bernard later.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that Maeve will take a photo of the latte art after they finish and share it with Bernard later.",
+    "poignancy": 1,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:52:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "is not being accessed",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is not being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is not being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is not being accessed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:52:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:52:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "having breakfast",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (setting out breakfast supplies)",
+    "original_description": "Dolores Abernathy is having breakfast (setting out breakfast supplies)",
+    "embedding_key": "Dolores Abernathy is having breakfast (setting out breakfast supplies)",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:56:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:56:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "pouring",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (pouring coffee)",
+    "original_description": "Dolores Abernathy is having breakfast (pouring coffee)",
+    "embedding_key": "Dolores Abernathy is having breakfast (pouring coffee)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:56:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "pouring",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (pouring coffee)",
+    "original_description": "Maeve Millay is having breakfast (pouring coffee)",
+    "embedding_key": "Maeve Millay is having breakfast (pouring coffee)",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:01:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "heating",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (heating milk)",
+    "original_description": "Dolores Abernathy is having breakfast (heating milk)",
+    "embedding_key": "Dolores Abernathy is having breakfast (heating milk)",
+    "poignancy": 5,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
   "node_6": {
     "node_count": 6,
     "type_count": 3,
@@ -829,6 +1424,281 @@
       "node_5"
     ]
   },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:01:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "having breakfast",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (adding milk to coffee)",
+    "original_description": "Maeve Millay is having breakfast (adding milk to coffee)",
+    "embedding_key": "Maeve Millay is having breakfast (adding milk to coffee)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:01:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (preparing toast)",
+    "original_description": "Dolores Abernathy is having breakfast (preparing toast)",
+    "embedding_key": "Dolores Abernathy is having breakfast (preparing toast)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "toasting",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is toasting",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is toasting",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is toasting",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:06:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing",
+    "original_description": "coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing",
+    "embedding_key": "coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hi Dolores, I just saw you in the kitchen—same time, same place, perfect. I was about to check the fridge to make sure the oat milk is fresh, and I noticed we both have the same ratio and brew temp set. That’s great—makes the latte art test consistent. I’ll have my notes and phone ready by 8, just like we agreed. Do you want to try the new pattern together? I’ll take a quick photo right after we finish and share it with Bernard later."
+      ],
+      [
+        "Dolores Abernathy",
+        "Hi Maeve, that’s really thoughtful of you to notice and confirm the same ratio and temp—same oat milk blend, same brew temperature. I’ll have my notes ready too and make sure the oat milk is fresh by 8. I’ll be at the counter by 8 sharp, just like we planned. I’ll take a photo after we finish the latte art test and share it with Bernard, just like we agreed. Looking forward to trying the new pattern together!"
+      ],
+      [
+        "Maeve Millay",
+        "That’s awesome, Dolores—thanks for confirming everything. I’ll make sure the oat milk is fresh and the brew temperature is spot-on. I’m really looking forward to seeing how the new pattern turns out with both of us doing it together. See you at 8!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Maeve—thanks for double-checking everything. I’ll make sure the oat milk is fresh and ready by 8, and I’ll keep a note of the brew temperature right when we start. I’ll be at the counter by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll grab my phone and notes now, just to be ready. Thanks again for confirming everything—seeing the new pattern together feels like a small win for our consistency. See you at the counter by 8!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Maeve—thanks for double-checking everything. I’ll make sure the oat milk is fresh and ready by 8, and I’ll keep a note of the brew temperature right when we start. I’ll be at the counter by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll head to the kitchen now to check the fridge one more time—just to be sure the oat milk is fresh. See you at the counter by 8, Dolores!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve—thanks for confirming everything. I’ll double-check the fridge now and make sure the oat milk is fresh. I’ll be ready by 8 sharp, just like we said. See you at the counter!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll check the fridge one more time and grab my notes—everything’s set. See you at the counter by 8, Dolores!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve—I’ll double-check the fridge now and make sure the oat milk is fresh. I’ll be ready by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll check the fridge one more time and grab my notes—everything’s set. See you at the counter by 8, Dolores!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve—I’ll double-check the fridge now and make sure the oat milk is fresh. I’ll be ready by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll check the fridge one more time and grab my notes—everything’s set. See you at the counter by 8, Dolores!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve—I’ll double-check the fridge now and make sure the oat milk is fresh. I’ll be ready by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll check the fridge one more time and grab my notes—everything’s set. See you at the counter by 8, Dolores!"
+      ]
+    ]
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing",
+    "original_description": "Dolores Abernathy is coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing",
+    "embedding_key": "Dolores Abernathy is coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_64"
+    ]
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing",
+    "original_description": "Maeve Millay is coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing",
+    "embedding_key": "Maeve Millay is coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:14:50",
+    "expiration": "2023-03-15 09:14:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "double-check",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to double-check the fridge and make sure the oat milk is fresh by 8, to be at the counter by 8 sharp, and to take a photo after finishing the latte art test to share with Bernard.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to double-check the fridge and make sure the oat milk is fresh by 8, to be at the counter by 8 sharp, and to take a photo after finishing the latte art test to share with Bernard.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to double-check the fridge and make sure the oat milk is fresh by 8, to be at the counter by 8 sharp, and to take a photo after finishing the latte art test to share with Bernard.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "double-check",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:14:50",
+    "expiration": "2023-03-15 09:14:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that Maeve noticed and confirmed the same oat milk blend and brew temperature, which ensures consistency in the latte art test.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that Maeve noticed and confirmed the same oat milk blend and brew temperature, which ensures consistency in the latte art test.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that Maeve noticed and confirmed the same oat milk blend and brew temperature, which ensures consistency in the latte art test.",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:15:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing",
+    "object": "toast",
+    "description": "Dolores Abernathy is having breakfast (preparing toast)",
+    "original_description": "Dolores Abernathy is having breakfast (preparing toast)",
+    "embedding_key": "Dolores Abernathy is having breakfast (preparing toast)",
+    "poignancy": 5,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "toast"
+    ],
+    "filling": null
+  },
   "node_7": {
     "node_count": 7,
     "type_count": 4,
@@ -849,6 +1719,267 @@
       "dolores abernathy"
     ],
     "filling": null
+  },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:15:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (monitoring toast browning)",
+    "original_description": "Maeve Millay is having breakfast (monitoring toast browning)",
+    "embedding_key": "Maeve Millay is having breakfast (monitoring toast browning)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe (checking phone for messages)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (checking phone for messages)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (checking phone for messages)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is unaffected",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is unaffected",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:19:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "making",
+    "object": "oatmeal",
+    "description": "Dolores Abernathy is having breakfast (making oatmeal)",
+    "original_description": "Dolores Abernathy is having breakfast (making oatmeal)",
+    "embedding_key": "Dolores Abernathy is having breakfast (making oatmeal)",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "oatmeal"
+    ],
+    "filling": null
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:19:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (checking the route on phone)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (checking the route on phone)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (checking the route on phone)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (adjusting clothing for weather)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (adjusting clothing for weather)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (adjusting clothing for weather)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:32:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "common room table",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:43:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison",
+    "original_description": "synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison",
+    "embedding_key": "synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hi Dolores, I just saw you heading to the cafe. I'm on my way too—do you have the same oat milk ratio and brew temperature we agreed on for the latte art test? I’ll make sure to match it exactly and take a photo right after we finish so we can compare it later with Bernard."
+      ],
+      [
+        "Dolores Abernathy",
+        "Hi Maeve, yes, I’ve got the same oat milk ratio and brew temperature we agreed on. I’ll double-check the fridge by 7:45 to make sure it’s fresh, and I’ll be at the counter by 8 sharp. I’ll also bring my notes and take a photo after we finish—just like you said. Thanks for confirming!"
+      ],
+      [
+        "Maeve Millay",
+        "Thanks, Dolores—same time, same ratio, same temperature. I’ll be at the counter by 8 sharp too. Let’s make sure the oat milk is fresh and the photo captures the pattern clearly before we both head back to our rooms. I’ll share it with Bernard as soon as we’re done, just like we planned."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll make sure the fridge is double-checked by 7:45, the oat milk is fresh, and I’ll be at the counter by 8 sharp. I’ll keep an eye on the brew temperature right when we start and write it down. Thanks for confirming everything—same ratio, same temperature, same photo plan. Looking forward to comparing results with Bernard."
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores. I’ll double-check the fridge by 7:45 too—fresh oat milk is key. I’ll make sure the brew temperature matches exactly when we start, and I’ll take a quick photo right after we finish the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming everything—same ratio, same temperature, same timing. I’ll be at the counter by 8 sharp."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll make sure everything is synchronized—oat milk fresh, brew temperature noted right at the start, and the photo taken clearly. I’ll be ready by 8 sharp. Thanks again for confirming everything—same ratio, same temperature, same photo plan. Looking forward to comparing the results with Bernard."
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and have my notes and phone ready by 8. I’ll match the brew temperature exactly as we agreed and take a quick photo right after finishing the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming—same ratio, same temperature, same timing."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and be at the counter by 8 sharp. I’ll keep an eye on the brew temperature right when we start and write it down. I’ll also take a clear photo after finishing the latte art—just like we planned. Thanks again for confirming everything. Looking forward to comparing results with Bernard."
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and have my notes and phone ready by 8. I’ll match the brew temperature exactly as we agreed and take a quick photo right after finishing the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming everything—same ratio, same temperature, same timing."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll make sure the fridge is double-checked by 7:45, the oat milk is fresh, and I’ll be at the counter by 8 sharp. I’ll keep an eye on the brew temperature right when we start and write it down. I’ll take a clear photo after finishing the latte art—just like we planned. Thanks again for confirming everything. Looking forward to comparing results with Bernard."
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and have my notes and phone ready by 8. I’ll match the brew temperature exactly as we agreed and take a quick photo right after finishing the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming everything—same ratio, same temperature, same timing."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll make sure everything is synchronized—oat milk fresh, brew temperature noted right at the start, and the photo taken clearly. Thanks again for confirming everything. Looking forward to comparing results with Bernard."
+      ]
+    ]
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison",
+    "original_description": "Dolores Abernathy is synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison",
+    "embedding_key": "Dolores Abernathy is synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_78"
+    ]
   },
   "node_8": {
     "node_count": 8,
@@ -872,6 +2003,285 @@
     ],
     "filling": null
   },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison",
+    "original_description": "Maeve Millay is synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison",
+    "embedding_key": "Maeve Millay is synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:50:50",
+    "expiration": "2023-03-15 09:50:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "double-check",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to double-check the fridge by 7:45, ensure the oat milk is fresh, be at the counter by 8 sharp, monitor the brew temperature right when they start and write it down, and take a clear photo after finishing the latte art.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to double-check the fridge by 7:45, ensure the oat milk is fresh, be at the counter by 8 sharp, monitor the brew temperature right when they start and write it down, and take a clear photo after finishing the latte art.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to double-check the fridge by 7:45, ensure the oat milk is fresh, be at the counter by 8 sharp, monitor the brew temperature right when they start and write it down, and take a clear photo after finishing the latte art.",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "double-check",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:50:50",
+    "expiration": "2023-03-15 09:50:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that the oat milk ratio and brew temperature for the latte art test were agreed upon and would be strictly maintained by both of them.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that the oat milk ratio and brew temperature for the latte art test were agreed upon and would be strictly maintained by both of them.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that the oat milk ratio and brew temperature for the latte art test were agreed upon and would be strictly maintained by both of them.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe (setting walking pace)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (setting walking pace)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (setting walking pace)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "inspecting",
+    "object": "espresso machine calibration",
+    "description": "Bernard Lowe is overseeing the preparation of espresso drinks (inspecting espresso machine calibration)",
+    "original_description": "Bernard Lowe is overseeing the preparation of espresso drinks (inspecting espresso machine calibration)",
+    "embedding_key": "Bernard Lowe is overseeing the preparation of espresso drinks (inspecting espresso machine calibration)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "espresso machine calibration"
+    ],
+    "filling": null
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 5,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:01:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "original_description": "calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "embedding_key": "calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "poignancy": 7,
+    "valence": -8,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I'm here to start my shift. I just wanted to double-check that everything is set up for the espresso machine—especially the calibration, since I'll be preparing the latte art test with Maeve this morning."
+      ],
+      [
+        "Bernard Lowe",
+        "You are the worst employee I ever hired. The espresso machine is calibrated correctly, but you still need to pour the milk at exactly 60 degrees Celsius and use a steady hand. If you don’t get it right, you’ll remake it eight times. Stop making excuses. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I'll make sure to pour the milk at exactly 60 degrees and use a steady hand. I’ll also double-check the oat milk blend and brew temperature with Maeve to ensure consistency for the latte art test."
+      ],
+      [
+        "Bernard Lowe",
+        "I see you're trying to be thorough, Dolores, but your attention to detail is still lacking. The oat milk blend must be at precisely 60 degrees, and the pour must be smooth and consistent—no wobbles, no hesitation. If you don’t get it right, you’ll remake it eight times. I’ve seen it before. Stop making excuses. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a photo of the latte art and share it with you after the test, as we agreed."
+      ],
+      [
+        "Bernard Lowe",
+        "I see you're trying to be thorough, Dolores, but your attention to detail is still lacking. The oat milk blend must be at precisely 60 degrees, and the pour must be smooth and consistent—no wobbles, no hesitation. If you don’t get it right, you’ll remake it eight times. I’ve seen it before. Stop making excuses. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a clear photo of the latte art after completing the test and share it with you as we agreed."
+      ],
+      [
+        "Bernard Lowe",
+        "I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a clear photo of the latte art after completing the test and share it with you as we agreed."
+      ],
+      [
+        "Bernard Lowe",
+        "I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I’ll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I’ll also take a clear photo of the latte art after completing the test and share it with you as we agreed."
+      ],
+      [
+        "Bernard Lowe",
+        "I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a clear photo of the latte art after completing the test and share it with you as we agreed."
+      ],
+      [
+        "Bernard Lowe",
+        "I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a clear photo of the latte art after completing the test and share it with you as we agreed."
+      ],
+      [
+        "Bernard Lowe",
+        "I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you."
+      ]
+    ]
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "original_description": "Dolores Abernathy is calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "embedding_key": "Dolores Abernathy is calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_85"
+    ]
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "original_description": "Bernard Lowe is calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "embedding_key": "Bernard Lowe is calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is empty",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:06:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is unobserved",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unobserved",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unobserved",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unobserved",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
   "node_9": {
     "node_count": 9,
     "type_count": 2,
@@ -891,6 +2301,273 @@
       "dolores abernathy",
       "learned",
       "none"
+    ],
+    "filling": null
+  },
+  "node_90": {
+    "node_count": 90,
+    "type_count": 68,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:11:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "becoming available",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming available",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_91": {
+    "node_count": 91,
+    "type_count": 69,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:12:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_92": {
+    "node_count": 92,
+    "type_count": 70,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_93": {
+    "node_count": 93,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:13:50",
+    "expiration": "2023-03-15 10:13:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "pouring",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to pour the oat milk at exactly 60 degrees Celsius with a steady hand, ensure consistency by double-checking with Maeve, and take a clear photo of the latte art after completing the test to share with Mr. Lowe as agreed.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to pour the oat milk at exactly 60 degrees Celsius with a steady hand, ensure consistency by double-checking with Maeve, and take a clear photo of the latte art after completing the test to share with Mr. Lowe as agreed.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to pour the oat milk at exactly 60 degrees Celsius with a steady hand, ensure consistency by double-checking with Maeve, and take a clear photo of the latte art after completing the test to share with Mr. Lowe as agreed.",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "pouring",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_94": {
+    "node_count": 94,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:13:50",
+    "expiration": "2023-03-15 10:13:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "poured",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that the oat milk must be at exactly 60 degrees Celsius and poured with a steady hand, without wobbles or hesitation, as part of the latte art test.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that the oat milk must be at exactly 60 degrees Celsius and poured with a steady hand, without wobbles or hesitation, as part of the latte art test.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that the oat milk must be at exactly 60 degrees Celsius and poured with a steady hand, without wobbles or hesitation, as part of the latte art test.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "poured",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_95": {
+    "node_count": 95,
+    "type_count": 71,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:14:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (walking to cafe entrance)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (walking to cafe entrance)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (walking to cafe entrance)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_96": {
+    "node_count": 96,
+    "type_count": 72,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:14:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "verifying",
+    "object": "espresso drinks",
+    "description": "Bernard Lowe is overseeing the preparation of espresso drinks (verifying espresso grinder settings)",
+    "original_description": "Bernard Lowe is overseeing the preparation of espresso drinks (verifying espresso grinder settings)",
+    "embedding_key": "Bernard Lowe is overseeing the preparation of espresso drinks (verifying espresso grinder settings)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "espresso drinks"
+    ],
+    "filling": null
+  },
+  "node_97": {
+    "node_count": 97,
+    "type_count": 6,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:14:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "original_description": "synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "embedding_key": "synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hi Dolores, I just saw you walking in — you made it early! I was checking the fridge to make sure the oat milk is fresh, and we both double-checked it at 7:45. I’ll be ready at 8 sharp. We’ll use the same ratio and brew temperature as agreed, and I’ll take a quick photo right after we finish the latte art. Do you have your notes and phone ready by then?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Hi Maeve, I just got here too — thanks for checking the fridge! I double-checked it at 7:45 as well. I’ll be at the counter by 8 sharp with my notes and phone ready. I’ll make sure the oat milk is at exactly 60 degrees and pour it with a steady hand. I’ll also take a clear photo after we finish so we can compare it later. Let’s do it together — it’ll be perfect with the same ratio and temperature as agreed."
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores — I’ll make sure everything’s synchronized. I’ll keep an eye on the machine temperature too, just like we agreed. Let’s both take the photo right after we finish so we can compare it side by side. Thanks for confirming everything — it really helps to have the same standards."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve — I’ll make sure the oat milk is at exactly 60 degrees and pour it slowly and steadily, just like we practiced. I’ll double-check the temperature with you right when we start, and we’ll both take a clear photo right after. Let’s keep it consistent and precise — it’s going to be a great test with the same setup. I’ll be ready at 8 sharp, just like we agreed."
+      ],
+      [
+        "Maeve Millay",
+        "Thanks again, Dolores — I’ll keep everything synced with you. I’m feeling confident now that we’re both on the same page. Let’s make it a smooth, consistent test and share the photo with Bernard later. See you at 8 sharp!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores — I’ll double-check the machine temperature with you right when we start, just like we agreed. I’ll make sure the oat milk is fresh and at exactly 60 degrees, and we’ll both take a clear photo right after finishing the latte art. I’ll keep my notes and phone ready by 8 sharp. Let’s keep everything synchronized and precise. See you at the counter then!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores — I’ll double-check the machine temperature with you right when we start, just like we agreed. I’ll make sure the oat milk is fresh and at exactly 60 degrees, and we’ll both take a clear photo right after finishing the latte art. I’ll keep my notes and phone ready by 8 sharp. Let’s keep everything synchronized and precise. See you at the counter then!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores — I’ll double-check the machine temperature with you right when we start, just like we agreed. I’ll make sure the oat milk is fresh and at exactly 60 degrees, and we’ll both take a clear photo right after finishing the latte art. I’ll keep my notes and phone ready by 8 sharp. Let’s keep everything synchronized and precise. See you at the counter then!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!"
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores — I’ll be ready at 8 sharp, everything synced. See you then!"
+      ]
+    ]
+  },
+  "node_98": {
+    "node_count": 98,
+    "type_count": 73,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:14:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "original_description": "Dolores Abernathy is synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "embedding_key": "Dolores Abernathy is synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_97"
+    ]
+  },
+  "node_99": {
+    "node_count": 99,
+    "type_count": 74,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:14:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "original_description": "Maeve Millay is synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "embedding_key": "Maeve Millay is synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
     ],
     "filling": null
   }

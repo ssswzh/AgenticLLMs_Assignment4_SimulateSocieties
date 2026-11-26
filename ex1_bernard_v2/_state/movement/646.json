@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        21
+      ],
+      "pronunciato": "🚶‍♂️",
+      "description": "walking to Hobbs Cafe (walking to the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        123,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I just saw you making fruit salad—great choice! I was thinking about our seasonal oat milk latte menu, and since you suggested the cinnamon and cardamom blend, I wanted to propose a special 'Cinnamon \u0026 Cardamom' latte for next month. What do you think? I’ll have the station ready by 8, and I’ll make sure the scones are fresh too."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds awesome, Maeve! I love the idea of a 'Cinnamon \u0026 Cardamom' latte—especially with fresh scones. I’ll bring my notebook and apron to the cafe by 8, so we can go over the menu together and maybe even tweak the workflow a bit. Thanks for thinking of it—makes me feel like we’re really building something special."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks for the quick reply, Dolores! I’ll make sure the oat milk latte station is set up with all the fresh ingredients by 8, and I’ll have the scones baked just before we meet. I’m excited to see how we can refine the workflow together—maybe even add a few more seasonal touches. Let me know if you have any other ideas before we head out!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve! I’ll be there by 8 with my notebook and apron. I think we can make the workflow smoother by adding a quick check-in step for the oat milk latte station—maybe even a visual cue so we don’t miss the fresh scones. I’ll bring a few notes on how we could streamline the order process too. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a solid plan, Dolores! I’ll set up the station with a clear visual cue for the fresh scones and make sure the oat milk is always chilled. I’ll also keep a copy of your workflow notes for the next shift. Thanks again for your input—it really helps us keep the menu fresh and thoughtful. Let’s make sure to check in again after the first week to see how it’s going!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That’s a great idea, Maeve—I’ll make sure to add a quick check-in step for the oat milk latte station too. Maybe we can even create a small visual guide for the morning routine, like a checklist on the counter. I’ll bring a copy of my notes from last week’s shift to share. Looking forward to seeing how it all comes together when we’re both on the floor!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll put up a small checklist on the counter with the morning routine steps—like checking the oat milk temperature and confirming the scones are fresh. That way, we both start the day with a clear, consistent flow. I’ll also keep a copy of your notes and maybe even add a few more seasonal ideas we can test later. Thanks again for making this feel so collaborative!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That’s such a thoughtful touch, Maeve—I’ll bring a copy of my morning routine checklist too. Maybe we can even print it out and stick it near the station. I’ll make sure to grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll put up a small checklist on the counter with the morning routine steps—like checking the oat milk temperature and confirming the scones are fresh. That way, we both start the day with a clear, consistent flow. I’ll also keep a copy of your notes and maybe even add a few more seasonal ideas we can test later. Thanks again for making this feel so collaborative!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll make sure to grab the oat milk latte and try the new scones when we get there. Maybe we can even take a quick photo of the station together to show the team next week—just to keep the energy going. Looking forward to seeing how it all works in practice!"
+        ],
+        [
+          "Maeve Millay",
+          "That’s a wonderful idea, Dolores—I’ll definitely take a photo of the station with the checklist and the fresh scones when we’re both there. It’ll be a nice visual reminder for the team. I’ll also make sure to share it with Bernard during our next team meeting. Thanks again for your creativity and for making this feel so collaborative—it really makes my day!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8 with my notebook and apron, Maeve. I think we’ve got a solid start on the menu and workflow—thanks again for making this feel so collaborative. I’ll grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 too, Dolores—ready to check in and make sure everything runs smoothly. Thanks again for your input; I’m really looking forward to seeing how the new station and scones work in practice!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8 with my notebook and apron, Maeve. I think we’ve got a solid start on the menu and workflow—thanks again for making this feel so collaborative. I’ll grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll make sure to grab the oat milk latte and try the new scones when we get there—can’t wait to see how it tastes! Thanks again for your input, Dolores. I’ll keep the checklist and notes handy and share them with the team later this week."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8 with my notebook and apron, Maeve. I think we’ve got a solid start on the menu and workflow—thanks again for making this feel so collaborative. I’ll grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I just saw you making fruit salad—great choice! I was thinking about our seasonal oat milk latte menu, and since you suggested the cinnamon and cardamom blend, I wanted to propose a special 'Cinnamon \u0026 Cardamom' latte for next month. What do you think? I’ll have the station ready by 8, and I’ll make sure the scones are fresh too."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds awesome, Maeve! I love the idea of a 'Cinnamon \u0026 Cardamom' latte—especially with fresh scones. I’ll bring my notebook and apron to the cafe by 8, so we can go over the menu together and maybe even tweak the workflow a bit. Thanks for thinking of it—makes me feel like we’re really building something special."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks for the quick reply, Dolores! I’ll make sure the oat milk latte station is set up with all the fresh ingredients by 8, and I’ll have the scones baked just before we meet. I’m excited to see how we can refine the workflow together—maybe even add a few more seasonal touches. Let me know if you have any other ideas before we head out!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve! I’ll be there by 8 with my notebook and apron. I think we can make the workflow smoother by adding a quick check-in step for the oat milk latte station—maybe even a visual cue so we don’t miss the fresh scones. I’ll bring a few notes on how we could streamline the order process too. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a solid plan, Dolores! I’ll set up the station with a clear visual cue for the fresh scones and make sure the oat milk is always chilled. I’ll also keep a copy of your workflow notes for the next shift. Thanks again for your input—it really helps us keep the menu fresh and thoughtful. Let’s make sure to check in again after the first week to see how it’s going!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That’s a great idea, Maeve—I’ll make sure to add a quick check-in step for the oat milk latte station too. Maybe we can even create a small visual guide for the morning routine, like a checklist on the counter. I’ll bring a copy of my notes from last week’s shift to share. Looking forward to seeing how it all comes together when we’re both on the floor!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll put up a small checklist on the counter with the morning routine steps—like checking the oat milk temperature and confirming the scones are fresh. That way, we both start the day with a clear, consistent flow. I’ll also keep a copy of your notes and maybe even add a few more seasonal ideas we can test later. Thanks again for making this feel so collaborative!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That’s such a thoughtful touch, Maeve—I’ll bring a copy of my morning routine checklist too. Maybe we can even print it out and stick it near the station. I’ll make sure to grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll put up a small checklist on the counter with the morning routine steps—like checking the oat milk temperature and confirming the scones are fresh. That way, we both start the day with a clear, consistent flow. I’ll also keep a copy of your notes and maybe even add a few more seasonal ideas we can test later. Thanks again for making this feel so collaborative!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll make sure to grab the oat milk latte and try the new scones when we get there. Maybe we can even take a quick photo of the station together to show the team next week—just to keep the energy going. Looking forward to seeing how it all works in practice!"
+        ],
+        [
+          "Maeve Millay",
+          "That’s a wonderful idea, Dolores—I’ll definitely take a photo of the station with the checklist and the fresh scones when we’re both there. It’ll be a nice visual reminder for the team. I’ll also make sure to share it with Bernard during our next team meeting. Thanks again for your creativity and for making this feel so collaborative—it really makes my day!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8 with my notebook and apron, Maeve. I think we’ve got a solid start on the menu and workflow—thanks again for making this feel so collaborative. I’ll grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 too, Dolores—ready to check in and make sure everything runs smoothly. Thanks again for your input; I’m really looking forward to seeing how the new station and scones work in practice!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8 with my notebook and apron, Maeve. I think we’ve got a solid start on the menu and workflow—thanks again for making this feel so collaborative. I’ll grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll make sure to grab the oat milk latte and try the new scones when we get there—can’t wait to see how it tastes! Thanks again for your input, Dolores. I’ll keep the checklist and notes handy and share them with the team later this week."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 8 with my notebook and apron, Maeve. I think we’ve got a solid start on the menu and workflow—thanks again for making this feel so collaborative. I’ll grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:46:40"
+  }
+}

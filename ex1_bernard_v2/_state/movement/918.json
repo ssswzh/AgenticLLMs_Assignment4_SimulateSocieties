@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🍳",
+      "description": "opening Hobbs Cafe (ensuring the sink is clean) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I just saw you already had the scones and oat milk latte station ready—really impressive! I was thinking about how we could make a 'Cinnamon \u0026 Cardamom' oat milk latte special with fresh scones, like you suggested. I’ve been sketching out a quick checklist for the morning routine—maybe we can share it with Bernard during the next meeting? I’ll bring my notebook and apron when I head over, and I’d love to try the new latte when it’s ready."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, that’s great—thanks for thinking of the checklist! I’ve been working on a visual cue for the station too, so we can double-check the oat milk temperature and make sure the scones are fresh. I’ll bring my apron and have the station ready by 8. I’ll also take a photo of the setup with the checklist and share it with Bernard during our next meeting. Let me know if you come up with anything new during the morning—happy to adjust the routine together!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve! I’ll make sure to grab the oat milk latte and try the new scones when they’re ready. I’ll also keep an eye on the milk temperature and double-check the scones before we open—just like your visual cue. Thanks again for the inspiration; I’m really excited to see how the new menu turns out!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll make sure the station is all set with the visual cue and fresh scones by 8. I’ll also keep an eye out for any new ideas you have during the morning—happy to adjust the routine together. Thanks again for the collaboration, it really helps me feel more confident in what we’re building."
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, I just finished making the fruit salad and toast—everything’s ready to go. I’ll be there by 8, with my notebook and apron. Let’s make sure the station looks clean and the checklist is visible so we can both check it off when we open. I’ll keep an eye on the milk temperature too, just like you said. Thanks again for your ideas—this is going to be such a smooth morning!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll make sure the station is all set with the visual cue and fresh scones by 8. I’ll also keep an eye out for any new ideas you have during the morning—happy to adjust the routine together. Thanks again for the collaboration, it really helps me feel more confident in what we’re building."
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, I just checked the milk and the scones are fresh—everything looks good! I’ll be there by 8 with my notebook and apron. Let’s make sure the checklist is clearly visible on the station so we can both confirm it’s ready when we open. I’ll also take a photo of the setup and share it with Bernard during our next meeting. Thanks again for your great ideas—this is going to be such a smooth morning!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, I just finished setting up the fruit salad and toast—everything’s ready. I’ll be at the cafe by 8 with my notebook and apron. Let’s make sure the checklist is clearly visible on the station so we can both confirm it’s ready when we open. I’ll also take a photo of the setup and share it with Bernard during our next meeting. Thanks again for your great ideas—this is going to be such a smooth morning!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, I just finished checking the milk and the scones are fresh—everything looks good! I’ll be there by 8 with my notebook and apron. Let’s make sure the checklist is clearly visible on the station so we can both confirm it’s ready when we open. I’ll also take a photo of the setup and share it with Bernard during our next meeting. Thanks again for your great ideas—this is going to be such a smooth morning!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, I just grabbed my notebook and apron—everything’s ready. I’ll be there by 8, and I’ll make sure to check the milk temperature and scones again before we open. Thanks again for your great ideas and for sharing the visual checklist—it’s going to make our morning routine so much smoother!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, I just finished my breakfast and everything is set—milk checked, scones fresh, and the checklist is visible. I’ll be there by 8 with my notebook and apron. Thanks again for the great ideas and for making this morning routine so smooth!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I just saw you already had the scones and oat milk latte station ready—really impressive! I was thinking about how we could make a 'Cinnamon \u0026 Cardamom' oat milk latte special with fresh scones, like you suggested. I’ve been sketching out a quick checklist for the morning routine—maybe we can share it with Bernard during the next meeting? I’ll bring my notebook and apron when I head over, and I’d love to try the new latte when it’s ready."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, that’s great—thanks for thinking of the checklist! I’ve been working on a visual cue for the station too, so we can double-check the oat milk temperature and make sure the scones are fresh. I’ll bring my apron and have the station ready by 8. I’ll also take a photo of the setup with the checklist and share it with Bernard during our next meeting. Let me know if you come up with anything new during the morning—happy to adjust the routine together!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve! I’ll make sure to grab the oat milk latte and try the new scones when they’re ready. I’ll also keep an eye on the milk temperature and double-check the scones before we open—just like your visual cue. Thanks again for the inspiration; I’m really excited to see how the new menu turns out!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll make sure the station is all set with the visual cue and fresh scones by 8. I’ll also keep an eye out for any new ideas you have during the morning—happy to adjust the routine together. Thanks again for the collaboration, it really helps me feel more confident in what we’re building."
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, I just finished making the fruit salad and toast—everything’s ready to go. I’ll be there by 8, with my notebook and apron. Let’s make sure the station looks clean and the checklist is visible so we can both check it off when we open. I’ll keep an eye on the milk temperature too, just like you said. Thanks again for your ideas—this is going to be such a smooth morning!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll make sure the station is all set with the visual cue and fresh scones by 8. I’ll also keep an eye out for any new ideas you have during the morning—happy to adjust the routine together. Thanks again for the collaboration, it really helps me feel more confident in what we’re building."
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, I just checked the milk and the scones are fresh—everything looks good! I’ll be there by 8 with my notebook and apron. Let’s make sure the checklist is clearly visible on the station so we can both confirm it’s ready when we open. I’ll also take a photo of the setup and share it with Bernard during our next meeting. Thanks again for your great ideas—this is going to be such a smooth morning!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, I just finished setting up the fruit salad and toast—everything’s ready. I’ll be at the cafe by 8 with my notebook and apron. Let’s make sure the checklist is clearly visible on the station so we can both confirm it’s ready when we open. I’ll also take a photo of the setup and share it with Bernard during our next meeting. Thanks again for your great ideas—this is going to be such a smooth morning!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, I just finished checking the milk and the scones are fresh—everything looks good! I’ll be there by 8 with my notebook and apron. Let’s make sure the checklist is clearly visible on the station so we can both confirm it’s ready when we open. I’ll also take a photo of the setup and share it with Bernard during our next meeting. Thanks again for your great ideas—this is going to be such a smooth morning!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, I just grabbed my notebook and apron—everything’s ready. I’ll be there by 8, and I’ll make sure to check the milk temperature and scones again before we open. Thanks again for your great ideas and for sharing the visual checklist—it’s going to make our morning routine so much smoother!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, I just finished my breakfast and everything is set—milk checked, scones fresh, and the checklist is visible. I’ll be there by 8 with my notebook and apron. Thanks again for the great ideas and for making this morning routine so smooth!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:32:00"
+  }
+}

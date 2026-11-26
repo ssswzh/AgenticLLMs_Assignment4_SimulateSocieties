@@ -2,9 +2,9 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:31:30",
+  "curr_time": "February 13, 2023, 10:34:50",
   "curr_tile": [
-    78,
+    76,
     19
   ],
   "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 70,
-  "importance_ele_n": 21,
+  "importance_trigger_curr": 45,
+  "importance_ele_n": 46,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -190,12 +190,96 @@
       5
     ],
     [
-      "managing the cafe operations",
-      60
+      "managing the cafe operations (checking the morning inventory)",
+      5
     ],
     [
-      "monitoring the baristas' work",
-      60
+      "managing the cafe operations (verifying the coffee machine settings)",
+      5
+    ],
+    [
+      "managing the cafe operations (inspecting the refrigeration units)",
+      5
+    ],
+    [
+      "managing the cafe operations (reviewing the daily sales forecast)",
+      5
+    ],
+    [
+      "managing the cafe operations (confirming the staff shift assignments)",
+      5
+    ],
+    [
+      "managing the cafe operations (monitoring the water supply levels)",
+      5
+    ],
+    [
+      "managing the cafe operations (checking the oven temperature calibration)",
+      5
+    ],
+    [
+      "managing the cafe operations (validating the order of supplies)",
+      5
+    ],
+    [
+      "managing the cafe operations (reviewing the previous day's performance logs)",
+      5
+    ],
+    [
+      "managing the cafe operations (conducting a quick walk-through of the premises)",
+      10
+    ],
+    [
+      "managing the cafe operations (finalizing the operational checklist)",
+      5
+    ],
+    [
+      "monitoring the baristas' work (checking barista shift assignments)",
+      5
+    ],
+    [
+      "monitoring the baristas' work (reviewing daily performance logs)",
+      5
+    ],
+    [
+      "monitoring the baristas' work (verifying equipment status)",
+      5
+    ],
+    [
+      "monitoring the baristas' work (inspecting customer service notes)",
+      5
+    ],
+    [
+      "monitoring the baristas' work (observing barista workflows)",
+      5
+    ],
+    [
+      "monitoring the baristas' work (monitoring beverage preparation)",
+      5
+    ],
+    [
+      "monitoring the baristas' work (assessing order accuracy)",
+      5
+    ],
+    [
+      "monitoring the baristas' work (checking hygiene compliance)",
+      5
+    ],
+    [
+      "monitoring the baristas' work (evaluating speed of service)",
+      5
+    ],
+    [
+      "monitoring the baristas' work (noting any deviations from protocol)",
+      5
+    ],
+    [
+      "monitoring the baristas' work (updating operational feedback board)",
+      5
+    ],
+    [
+      "monitoring the baristas' work (closing monitoring session)",
+      5
     ],
     [
       "serving customers at the counter",
@@ -312,21 +396,21 @@
       120
     ]
   ],
-  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
-  "act_start_time": "February 13, 2023, 08:30:00",
+  "act_address": "the Ville:Hobbs Cafe:cafe:cooking area",
+  "act_start_time": "February 13, 2023, 10:30:00",
   "act_duration": 5,
-  "act_description": "walking to Hobbs cafe (ensuring the coffee machine is ready)",
-  "act_pronunciatio": "🚶‍♂️🍳",
+  "act_description": "managing the cafe operations (checking the oven temperature calibration)",
+  "act_pronunciatio": "🍳",
   "act_event": [
     "Bernard Lowe",
-    "walking",
+    "managing",
     "None"
   ],
-  "act_obj_description": "being prepared",
-  "act_obj_pronunciatio": "🍳",
+  "act_obj_description": "being calibrated",
+  "act_obj_pronunciatio": "⚙️",
   "act_obj_event": [
-    "behind the cafe counter",
-    "preparing",
+    "cooking area",
+    "calibrated",
     "None"
   ],
   "chatting_with": null,

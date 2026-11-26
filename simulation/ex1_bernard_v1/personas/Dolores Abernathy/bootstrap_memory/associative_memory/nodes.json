@@ -40,6 +40,91 @@
     ],
     "filling": null
   },
+  "node_100": {
+    "node_count": 100,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:27:50",
+    "expiration": "2023-03-15 10:27:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "appreciated",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve valued their coffee and walk near the bridge as a peaceful routine, and she appreciated how it helped both of them unwind and build a meaningful connection.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve valued their coffee and walk near the bridge as a peaceful routine, and she appreciated how it helped both of them unwind and build a meaningful connection.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve valued their coffee and walk near the bridge as a peaceful routine, and she appreciated how it helped both of them unwind and build a meaningful connection.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "appreciated",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_101": {
+    "node_count": 101,
+    "type_count": 77,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:29:40",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room sofa is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room sofa is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room sofa is unoccupied",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "common room sofa",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_102": {
+    "node_count": 102,
+    "type_count": 78,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:29:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (opening the front door of the dorm)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (opening the front door of the dorm)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (opening the front door of the dorm)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_103": {
+    "node_count": 103,
+    "type_count": 79,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:32:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (walking to the cafe entrance)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (walking to the cafe entrance)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (walking to the cafe entrance)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
   "node_11": {
     "node_count": 11,
     "type_count": 1,
@@ -953,6 +1038,48 @@
     ],
     "filling": null
   },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:34:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "pouring",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (pouring coffee)",
+    "original_description": "Dolores Abernathy is having breakfast (pouring coffee)",
+    "embedding_key": "Dolores Abernathy is having breakfast (pouring coffee)",
+    "poignancy": 5,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:34:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "opening",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (opening the fridge)",
+    "original_description": "Maeve Millay is having breakfast (opening the fridge)",
+    "embedding_key": "Maeve Millay is having breakfast (opening the fridge)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
   "node_5": {
     "node_count": 5,
     "type_count": 3,
@@ -970,6 +1097,285 @@
     "valence": 0,
     "keywords": [
       "common room table",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:34:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "opening",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being opened",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being opened",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being opened",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:34:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is establishing a regular coffee and walk tradition after work near the bridge",
+    "original_description": "Maeve Millay is establishing a regular coffee and walk tradition after work near the bridge",
+    "embedding_key": "Maeve Millay is establishing a regular coffee and walk tradition after work near the bridge",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:34:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "establishing a regular coffee and walk tradition after work near the bridge",
+    "original_description": "establishing a regular coffee and walk tradition after work near the bridge",
+    "embedding_key": "establishing a regular coffee and walk tradition after work near the bridge",
+    "poignancy": 8,
+    "valence": 7,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I was just about to pour my coffee when I saw you—did you already have your breakfast set up? I was thinking about our walk in Johnson Park after work, and I wanted to make sure we both have a chance to grab coffee and head over to the bridge. It’s been a while, and I thought it might be nice to make it a regular thing."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I was just about to pour my coffee too—thanks for mentioning it. I’ve been thinking about our walk in Johnson Park after work, and I agree, it would be nice to make it a regular thing. I’ll be back at the dorm by 6, and I’ll keep an eye out near the bridge after work. Maybe we can grab coffee and walk to the bridge after dinner? I’d love to explore that spot with you."
+      ],
+      [
+        "Maeve Millay",
+        "That sounds perfect, Dolores! I’ll be back at the dorm by 8, so we can catch up after dinner. I’ll even bring a thermos of coffee—just like we used to do. It’s been a while, and I really enjoy our walks near the bridge. Looking forward to it!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds wonderful, Maeve! I’ll be back at the dorm by 6, and I’ll definitely keep an eye out near the bridge after work. I’m really looking forward to our coffee and walk—especially near the bridge. It’s such a peaceful spot. Thanks again for suggesting it!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll make sure to have my thermos ready and maybe even bring a little snack—like that fruit I saw in the fridge. It’s been a while since we shared something together after work, and I think it’s worth making a little tradition out of it. Looking forward to our walk and coffee near the bridge!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds lovely, Maeve! I’ll be back by 6, and I’ll definitely keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially that peaceful spot near the bridge. Thanks again for making it a tradition!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be back at the dorm by 8, so we can grab coffee and head over to the bridge after dinner. I’ll even bring a thermos of coffee and maybe a piece of fruit—just like we used to do. It’s been a while, and I think it’s worth making a little tradition out of it. Looking forward to our walk and coffee near the bridge!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds wonderful, Maeve! I’ll be back by 6 and keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially that peaceful spot near the bridge. Thanks again for making it a tradition!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be back at the dorm by 8, so we can catch up after dinner. I’ll even bring a thermos of coffee and maybe a piece of fruit—just like we used to do. It’s been a while, and I think it’s worth making a little tradition out of it. Looking forward to our walk and coffee near the bridge!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds lovely, Maeve! I’ll be back by 6 and will definitely keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially that peaceful spot near the bridge. Thanks again for making it a tradition!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be back at the dorm by 8, so we can catch up after dinner. I’ll even bring a thermos of coffee and maybe a piece of fruit—just like we used to do. It’s been a while, and I think it’s worth making a little tradition out of it. Looking forward to our walk and coffee near the bridge!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds lovely, Maeve! I’ll be back by 6 and will definitely keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially that peaceful spot near the bridge. Thanks again for making it a tradition!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be back by 8, so we can catch up after dinner. I’ll even bring a thermos of coffee and maybe a piece of fruit—just like we used to do. It’s been a while, and I think it’s worth making a little tradition out of it. Looking forward to our walk and coffee near the bridge!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds like a beautiful tradition, Maeve! I’ll be back by 6, and I’ll definitely keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially that peaceful spot near the bridge. Thanks again for making it a tradition!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be back by 8, so we can catch up after dinner. I’ll even bring a thermos of coffee and maybe a piece of fruit—just like we used to do. It’s been a while, and I think it’s worth making a little tradition out of it. Looking forward to our walk and coffee near the bridge!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds like a beautiful tradition, Maeve! I’ll be back by 6 and will definitely keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially that peaceful spot near the bridge. Thanks again for making it a tradition!"
+      ]
+    ]
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:34:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is establishing a regular coffee and walk tradition after work near the bridge",
+    "original_description": "Dolores Abernathy is establishing a regular coffee and walk tradition after work near the bridge",
+    "embedding_key": "Dolores Abernathy is establishing a regular coffee and walk tradition after work near the bridge",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_52"
+    ]
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:43:50",
+    "expiration": "2023-03-15 08:43:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remember to be back at the dorm by 6",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6 and to keep an eye out near the bridge after work.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6 and to keep an eye out near the bridge after work.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6 and to keep an eye out near the bridge after work.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "remember to be back at the dorm by 6",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:43:50",
+    "expiration": "2023-03-15 08:43:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found it noteworthy that",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve suggested making their coffee and walk near the bridge a regular tradition, especially highlighting the peaceful nature of that spot.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve suggested making their coffee and walk near the bridge a regular tradition, especially highlighting the peaceful nature of that spot.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve suggested making their coffee and walk near the bridge a regular tradition, especially highlighting the peaceful nature of that spot.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "found it noteworthy that",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:44:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:48:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (checking the milk level)",
+    "original_description": "Maeve Millay is having breakfast (checking the milk level)",
+    "embedding_key": "Maeve Millay is having breakfast (checking the milk level)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:48:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "checked",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being checked",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being checked",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being checked",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:53:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "having breakfast",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (adding sugar and milk)",
+    "original_description": "Dolores Abernathy is having breakfast (adding sugar and milk)",
+    "embedding_key": "Dolores Abernathy is having breakfast (adding sugar and milk)",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
       "none"
     ],
     "filling": null
@@ -995,6 +1401,285 @@
     ],
     "filling": null
   },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:53:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "having breakfast",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (adding sugar to coffee)",
+    "original_description": "Maeve Millay is having breakfast (adding sugar to coffee)",
+    "embedding_key": "Maeve Millay is having breakfast (adding sugar to coffee)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:53:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:58:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (checking the temperature of coffee)",
+    "original_description": "Dolores Abernathy is having breakfast (checking the temperature of coffee)",
+    "embedding_key": "Dolores Abernathy is having breakfast (checking the temperature of coffee)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:58:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:58:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is maintaining a consistent coffee and walk routine after work by the bridge",
+    "original_description": "Maeve Millay is maintaining a consistent coffee and walk routine after work by the bridge",
+    "embedding_key": "Maeve Millay is maintaining a consistent coffee and walk routine after work by the bridge",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:58:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "maintaining a consistent coffee and walk routine after work by the bridge",
+    "original_description": "maintaining a consistent coffee and walk routine after work by the bridge",
+    "embedding_key": "maintaining a consistent coffee and walk routine after work by the bridge",
+    "poignancy": 7,
+    "valence": 6,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hi Dolores! I just saw you here—how’s your morning going? I was thinking about our coffee and walk near the bridge after work. It’s been a while, and I really enjoy that spot. Do you still have plans to meet up there after work?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Hi Maeve! Morning’s going well, thanks. I was just pouring coffee—same as always. I still plan to meet you near the bridge after work. It’s a nice spot, and I really like how peaceful it feels. I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge. Looking forward to our coffee and walk!"
+      ],
+      [
+        "Maeve Millay",
+        "That’s wonderful to hear, Dolores! I’m really glad you’re still planning to meet up. I’ve been thinking about how much that spot means to both of us—especially with the peaceful vibe and the way it helps us unwind. I’ll make sure to bring a thermos of coffee and a piece of fruit, just like we’ve talked about. I’ll be back at the dorm by 8, so we can catch up and walk together after dinner. Looking forward to it!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds perfect, Maeve! I’ll be right there by 6, and I’ll definitely keep an eye out near the bridge. Thanks for bringing it up—our coffee and walk really does feel like a small ritual that helps us both unwind. Looking forward to seeing you at the dorm after dinner and sharing a moment by the bridge."
+      ],
+      [
+        "Maeve Millay",
+        "Thanks again for confirming, Dolores! It really means a lot to me that we’re both keeping that tradition going. I’ll make sure to be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we planned. I’m looking forward to our walk and catching up by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value."
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds lovely, Maeve! I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially after a long day at work. Thanks again for making it a part of our routine. I’ll see you by the bridge after dinner!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds lovely, Maeve! I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially after a long day at work. Thanks again for making it a part of our routine. I’ll see you by the bridge after dinner!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be back by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be back by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!"
+      ]
+    ]
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:58:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is maintaining a consistent coffee and walk routine after work by the bridge",
+    "original_description": "Dolores Abernathy is maintaining a consistent coffee and walk routine after work by the bridge",
+    "embedding_key": "Dolores Abernathy is maintaining a consistent coffee and walk routine after work by the bridge",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_65"
+    ]
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:07:50",
+    "expiration": "2023-03-15 09:07:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "keep an eye out",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6 and keep an eye out near the bridge for Maeve Millay after work.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6 and keep an eye out near the bridge for Maeve Millay after work.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6 and keep an eye out near the bridge for Maeve Millay after work.",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "keep an eye out",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:07:50",
+    "expiration": "2023-03-15 09:07:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found noteworthy",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found noteworthy that their coffee and walk by the bridge has become a valued routine that helps her unwind after a long day at work.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found noteworthy that their coffee and walk by the bridge has become a valued routine that helps her unwind after a long day at work.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found noteworthy that their coffee and walk by the bridge has become a valued routine that helps her unwind after a long day at work.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "found noteworthy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:08:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
   "node_7": {
     "node_count": 7,
     "type_count": 5,
@@ -1015,6 +1700,283 @@
       "none"
     ],
     "filling": null
+  },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "drinking",
+    "object": "None",
+    "description": "Maeve Millay is having breakfast (drinking first cup of coffee)",
+    "original_description": "Maeve Millay is having breakfast (drinking first cup of coffee)",
+    "embedding_key": "Maeve Millay is having breakfast (drinking first cup of coffee)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "having breakfast",
+    "object": "None",
+    "description": "Dolores Abernathy is having breakfast (arranging plates and utensils)",
+    "original_description": "Dolores Abernathy is having breakfast (arranging plates and utensils)",
+    "embedding_key": "Dolores Abernathy is having breakfast (arranging plates and utensils)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:17:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "toasting",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is toasting",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is toasting",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is toasting",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:17:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "eating",
+    "object": "breakfast",
+    "description": "Maeve Millay is having breakfast (eating breakfast)",
+    "original_description": "Maeve Millay is having breakfast (eating breakfast)",
+    "embedding_key": "Maeve Millay is having breakfast (eating breakfast)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "breakfast"
+    ],
+    "filling": null
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:17:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (checking the weather forecast)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (checking the weather forecast)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (checking the weather forecast)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe (checking the weather forecast)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (checking the weather forecast)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (checking the weather forecast)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:21:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection",
+    "original_description": "establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection",
+    "embedding_key": "establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection",
+    "poignancy": 7,
+    "valence": 8,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hi Dolores! I was just heading to the cafe—did you see me walking past? I was checking the weather too, since we’re planning to meet near the bridge after work. I’ve been thinking about how much I value that little walk and coffee routine—we haven’t done it in a while, haven’t we? Maybe we should make it a regular thing, you know? I’d love to walk through the park and just share a quiet moment together."
+      ],
+      [
+        "Dolores Abernathy",
+        "Hi Maeve! I saw you walking past—yes, I did! That’s a great idea. I’ve been meaning to make that coffee and walk near the bridge a regular thing too. It’s such a peaceful spot, and I’ve noticed how much it helps me unwind after a long day at work. I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’d love to catch up. Maybe we can make it a real tradition? I’ll even bring my favorite book to share—just in case we get too quiet!"
+      ],
+      [
+        "Maeve Millay",
+        "That sounds wonderful, Dolores—thank you for saying that. I’ve been thinking about how much that little walk and coffee can mean, especially after a long day. I’ll bring a thermos of coffee and a piece of fruit, just like we planned. I’ll be back at the dorm by 8, so we can catch up and maybe even share a quiet moment by the bridge. I’m really looking forward to it. Thanks again for making it sound so peaceful and intentional."
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds perfect, Maeve! I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’ll be watching for you. And yes, I’ll bring my favorite book—just in case we get too quiet. Thanks again for suggesting it. I’m really looking forward to our little walk and coffee routine. It’s such a simple thing, but it feels meaningful."
+      ],
+      [
+        "Maeve Millay",
+        "That’s so kind of you, Dolores—I’ll make sure to bring the thermos and a piece of fruit, just like we talked about. I’ll be near the bridge after work, and I’ll be back at the dorm by 8, so we can catch up properly. I’m really looking forward to our little walk and coffee routine. It feels like a quiet promise, and I think it’s something we both truly value. Thanks again for being so thoughtful about it."
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds like a beautiful tradition, Maeve. I’ll be watching for you near the bridge after work, and I’ll make sure to bring my book and a smile. Thanks again for such a thoughtful suggestion—it really means a lot."
+      ],
+      [
+        "Maeve Millay",
+        "That’s such a thoughtful gesture, Dolores—I’ll make sure to bring the thermos and a piece of fruit, just like we agreed. I’m really looking forward to our little walk and coffee routine. It feels like a quiet promise, and I think it’s something we both truly value. Thanks again for being so kind and intentional about it."
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds like a beautiful tradition, Maeve. I’ll be watching for you near the bridge after work, and I’ll make sure to bring my book and a smile. Thanks again for being so thoughtful about it."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be back at the dorm by 8, so we can catch up properly. I’m really looking forward to our little walk and coffee routine. It feels like a quiet promise, and I think it’s something we both truly value. Thanks again for being so kind and intentional about it."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’ll be watching for you. And yes, I’ll bring my favorite book—just in case we get too quiet. Thanks again for suggesting it. I’m really looking forward to our little walk and coffee routine. It’s such a simple thing, but it feels meaningful."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be near the bridge after work, so I’ll be watching for you too, Dolores. It’s such a small thing, but I think it’s growing into something really special—like a quiet promise between us. I’ll bring the thermos and fruit, just as we agreed. Looking forward to it!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’ll be watching for you. And yes, I’ll bring my favorite book—just in case we get too quiet. Thanks again for suggesting it. I’m really looking forward to our little walk and coffee routine. It’s such a simple thing, but it feels meaningful."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be near the bridge after work, so I’ll be watching for you too, Dolores. It’s such a small thing, but I think it’s growing into something really special—like a quiet promise between us. I’ll bring the thermos and fruit, just as we agreed. Looking forward to it!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be watching for you near the bridge after work, Maeve. It’s nice to have something simple that feels intentional. I’ll bring my book and maybe a smile—just in case we get too quiet. Looking forward to it!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be near the bridge after work, so I’ll be watching for you too, Dolores. It’s such a small thing, but I think it’s growing into something really special—like a quiet promise between us. I’ll bring the thermos and fruit, just as we agreed. Looking forward to it!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be watching for you near the bridge after work, Maeve. It’s nice to have something simple that feels intentional. I’ll bring my book and maybe a smile—just in case we get too quiet. Looking forward to it!"
+      ]
+    ]
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection",
+    "original_description": "Dolores Abernathy is establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection",
+    "embedding_key": "Dolores Abernathy is establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_78"
+    ]
   },
   "node_8": {
     "node_count": 8,
@@ -1074,6 +2036,218 @@
       ]
     ]
   },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection",
+    "original_description": "Maeve Millay is establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection",
+    "embedding_key": "Maeve Millay is establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:31:50",
+    "expiration": "2023-03-15 09:31:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remember",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6, to meet Maeve near the bridge after work, and to bring her favorite book and a smile for their coffee and walk routine.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6, to meet Maeve near the bridge after work, and to bring her favorite book and a smile for their coffee and walk routine.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6, to meet Maeve near the bridge after work, and to bring her favorite book and a smile for their coffee and walk routine.",
+    "poignancy": 9,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:31:50",
+    "expiration": "2023-03-15 09:31:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "appreciated",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found it noteworthy that a simple coffee and walk near the bridge could feel meaningful and intentional, and she appreciated how it represented a quiet promise between them.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it noteworthy that a simple coffee and walk near the bridge could feel meaningful and intentional, and she appreciated how it represented a quiet promise between them.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it noteworthy that a simple coffee and walk near the bridge could feel meaningful and intentional, and she appreciated how it represented a quiet promise between them.",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "appreciated",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:32:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unaffected",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unaffected",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:32:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "not being interacted with",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is not being interacted with",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is not being interacted with",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is not being interacted with",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:36:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "not being accessed",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is not being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is not being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is not being accessed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:36:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is unaffected",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is unaffected",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 68,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:46:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cooking area",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 69,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:46:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (adjusting clothing for the morning)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (adjusting clothing for the morning)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (adjusting clothing for the morning)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 70,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is unaffected",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is unaffected",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cooking area",
+      "none"
+    ],
+    "filling": null
+  },
   "node_9": {
     "node_count": 9,
     "type_count": 6,
@@ -1096,5 +2270,285 @@
     "filling": [
       "node_8"
     ]
+  },
+  "node_90": {
+    "node_count": 90,
+    "type_count": 71,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:56:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe (starting the walk from home)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (starting the walk from home)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (starting the walk from home)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_91": {
+    "node_count": 91,
+    "type_count": 5,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:56:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "establishing a quiet coffee and walk ritual near the bridge as a shared daily routine",
+    "original_description": "establishing a quiet coffee and walk ritual near the bridge as a shared daily routine",
+    "embedding_key": "establishing a quiet coffee and walk ritual near the bridge as a shared daily routine",
+    "poignancy": 8,
+    "valence": 8,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Hi Maeve! I was just heading to the cafe—didn’t expect to see you already starting your walk. How’s the weather today? I hope it’s not too chilly for Johnson Park."
+      ],
+      [
+        "Maeve Millay",
+        "Hi Dolores! I was just about to head out too—perfect timing. The weather’s nice today, not too chilly, so the park should be great. I was actually thinking about making our coffee and walk near the bridge a regular thing. It’s such a peaceful spot, and I think it helps both of us unwind after a long day. Do you think that could work for you? Maybe we could even make it a tradition."
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds lovely, Maeve. I really appreciate how you’ve thought about making it a regular tradition—especially with the peaceful nature of the bridge. I’ve been meaning to start something like that too. I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge after work. Maybe we can even bring our favorite books and share a smile during our coffee and walk. It feels like a quiet promise between us, and I think that’s meaningful."
+      ],
+      [
+        "Maeve Millay",
+        "That’s such a thoughtful idea, Dolores. I’ve been thinking a lot about how small things—like a shared walk and coffee—can really mean something, especially when we’re both trying to stay grounded after a long day. I’ll bring a thermos of coffee and a piece of fruit, just like I always do. Maybe we can even keep it simple—just a quiet walk, some coffee, and a few minutes of silence. I think that’s enough to feel like a real connection. I’ll be back at the dorm by 8, so I’ll be there to meet you near the bridge after dinner. Looking forward to it!"
+      ],
+      [
+        "Dolores Abernathy",
+        "That’s so kind of you, Maeve. I’m really glad we both see the value in something simple like that. I’ll be back at the dorm by 6, so I’ll definitely keep an eye out near the bridge. I’ll bring my favorite book and a smile—just like you said. It’s already feeling like a quiet promise, and I think it’s going to be a nice little ritual. Looking forward to our coffee and walk after dinner. Thanks for making it happen!"
+      ],
+      [
+        "Maeve Millay",
+        "I really appreciate how we both see the value in these small moments, Dolores. It’s like we’re building something gentle and steady together—one quiet walk, one cup of coffee at a time. I’ll be back at the dorm by 8, and I’ll be ready to meet you near the bridge after dinner. Looking forward to sharing that moment with you."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be back by 6, so I’ll definitely keep an eye out near the bridge. I’ll bring my favorite book and a smile—just like you said. It’s already feeling like a quiet promise, and I think it’s going to be a nice little ritual. Looking forward to sharing that moment with you."
+      ],
+      [
+        "Maeve Millay",
+        "I really feel like we’re building something special, just by showing up together—quiet, consistent, and without needing to say much. I’ll be back at the dorm by 8, and I’ll meet you near the bridge after dinner. Maybe we can even make it a little more routine, like a little daily ritual that grows with time. Thanks again for being so open about it—this feels like a real connection, even if it’s just a walk and a cup of coffee."
+      ],
+      [
+        "Dolores Abernathy",
+        "I really love how we’ve both been thinking about these small, quiet moments—like a shared walk and coffee. It makes me feel grounded and connected, even if it’s just for a few minutes. I’ll make sure to keep an eye out near the bridge after work and bring my favorite book and a smile. Thanks again for making this happen, Maeve. It feels like a real promise, and I’m excited to see how it grows with time."
+      ],
+      [
+        "Maeve Millay",
+        "I really love how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It feels like we’re not just sharing a routine, but building something gentle and steady together. I’ll be back at the dorm by 8, and I’ll be ready to meet you near the bridge after dinner. Maybe one day we can even talk about what we’ve seen or felt during those walks—just a little bit more, without pressure. For now, I’m just happy we’re both showing up. Looking forward to it!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I really appreciate how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It makes me feel grounded and connected, even if it’s just for a few minutes. I’ll make sure to keep an eye out near the bridge after work and bring my favorite book and a smile. Thanks again for making this happen, Maeve. It feels like a real promise, and I’m excited to see how it grows with time."
+      ],
+      [
+        "Maeve Millay",
+        "I really love how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It feels like we’re not just sharing a routine, but building something gentle and steady together. I’ll be back at the dorm by 8, and I’ll be ready to meet you near the bridge after dinner. Maybe one day we can even talk about what we’ve seen or felt during those walks—just a little bit more, without pressure. For now, I’m just happy we’re both showing up. Looking forward to it!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I really love how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It makes me feel grounded and connected, even if it’s just for a few minutes. I’ll make sure to keep an eye out near the bridge after work and bring my favorite book and a smile. Thanks again for making this happen, Maeve. It feels like a real promise, and I’m excited to see how it grows with time."
+      ],
+      [
+        "Maeve Millay",
+        "I really love how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It feels like we’re not just sharing a routine, but building something gentle and steady together. I’ll be back at the dorm by 8, and I’ll be ready to meet you near the bridge after dinner. Maybe one day we can even talk about what we’ve seen or felt during those walks—just a little bit more, without pressure. For now, I’m just happy we’re both showing up. Looking forward to it!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I really love how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It makes me feel grounded and connected, even if it’s just for a few minutes. I’ll make sure to keep an eye out near the bridge after work and bring my favorite book and a smile. Thanks again for making this happen, Maeve. It feels like a real promise, and I’m excited to see how it grows with time."
+      ],
+      [
+        "Maeve Millay",
+        "I really appreciate how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It feels like we’re not just sharing a routine, but building something gentle and steady together. I’ll be back at the dorm by 8, and I’ll be ready to meet you near the bridge after dinner. Maybe one day we can even talk about what we’ve seen or felt during those walks—just a little bit more, without pressure. For now, I’m just happy we’re both showing up. Looking forward to it!"
+      ]
+    ]
+  },
+  "node_92": {
+    "node_count": 92,
+    "type_count": 72,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:56:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is establishing a quiet coffee and walk ritual near the bridge as a shared daily routine",
+    "original_description": "Dolores Abernathy is establishing a quiet coffee and walk ritual near the bridge as a shared daily routine",
+    "embedding_key": "Dolores Abernathy is establishing a quiet coffee and walk ritual near the bridge as a shared daily routine",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_91"
+    ]
+  },
+  "node_93": {
+    "node_count": 93,
+    "type_count": 73,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:56:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is establishing a quiet coffee and walk ritual near the bridge as a shared daily routine",
+    "original_description": "Maeve Millay is establishing a quiet coffee and walk ritual near the bridge as a shared daily routine",
+    "embedding_key": "Maeve Millay is establishing a quiet coffee and walk ritual near the bridge as a shared daily routine",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_94": {
+    "node_count": 94,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:12:50",
+    "expiration": "2023-03-15 10:12:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remember",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6, keep an eye out near the bridge after work, and bring her favorite book and a smile for their coffee and walk near the bridge after dinner.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6, keep an eye out near the bridge after work, and bring her favorite book and a smile for their coffee and walk near the bridge after dinner.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6, keep an eye out near the bridge after work, and bring her favorite book and a smile for their coffee and walk near the bridge after dinner.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_95": {
+    "node_count": 95,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:12:50",
+    "expiration": "2023-03-15 10:12:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that a quiet coffee and walk near the bridge could become a meaningful, growing ritual between her and Maeve.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that a quiet coffee and walk near the bridge could become a meaningful, growing ritual between her and Maeve.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that a quiet coffee and walk near the bridge could become a meaningful, growing ritual between her and Maeve.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_96": {
+    "node_count": 96,
+    "type_count": 74,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "common room table",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_97": {
+    "node_count": 97,
+    "type_count": 75,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is unaffected",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is unaffected",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "common room table",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_98": {
+    "node_count": 98,
+    "type_count": 76,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:17:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is walking to Hobbs Cafe (maintaining steady pace)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (maintaining steady pace)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (maintaining steady pace)",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_99": {
+    "node_count": 99,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:27:50",
+    "expiration": "2023-03-15 10:27:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6, bring her favorite book and a smile, and keep an eye out near the bridge after work for a coffee and walk with Maeve.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6, bring her favorite book and a smile, and keep an eye out near the bridge after work for a coffee and walk with Maeve.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be back at the dorm by 6, bring her favorite book and a smile, and keep an eye out near the bridge after work for a coffee and walk with Maeve.",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember",
+      "none"
+    ],
+    "filling": null
   }
 }

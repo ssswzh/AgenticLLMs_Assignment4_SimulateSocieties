@@ -439,6 +439,27 @@
     ],
     "filling": null
   },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is walking to Hobbs Cafe (walking to the cafe)",
+    "original_description": "Bernard Lowe is walking to Hobbs Cafe (walking to the cafe)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs Cafe (walking to the cafe)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
   "node_3": {
     "node_count": 3,
     "type_count": 1,
@@ -456,6 +477,216 @@
     "valence": -6,
     "keywords": [
       "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:52:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being accessed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being accessed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being accessed",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:56:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "becoming available",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming available",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "unlocking",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe (unlocking the front door)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe (unlocking the front door)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe (unlocking the front door)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:01:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unoccupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:05:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe (checking the security system)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe (checking the security system)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe (checking the security system)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:05:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "checking",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being checked",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being checked",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being checked",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cooking area",
+    "predicate": "verifying",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cooking area is having oven temperature verified",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cooking area is having oven temperature verified",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cooking area is having oven temperature verified",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cooking area",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:15:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "espresso machine",
+    "description": "Bernard Lowe is opening Hobbs Cafe (inspecting the espresso machine)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe (inspecting the espresso machine)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe (inspecting the espresso machine)",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "espresso machine"
+    ],
+    "filling": null
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:15:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "opening",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being opened",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being opened",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being opened",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "refrigerator",
       "none"
     ],
     "filling": null
@@ -481,6 +712,263 @@
     ],
     "filling": null
   },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being accessed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being accessed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being accessed",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:30:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "cleaning",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being cleaned",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being cleaned",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is being cleaned",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:35:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:35:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe (activating the coffee grinder)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe (activating the coffee grinder)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe (activating the coffee grinder)",
+    "poignancy": 0,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:40:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is being lit",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being lit",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being lit",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being lit",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:45:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is being prepared",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being prepared",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:52:00",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "original_description": "grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "embedding_key": "grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "poignancy": 8,
+    "valence": -10,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I just saw you starting to prepare the daily menu board. I'm here to help set up the oat milk latte station with the new cinnamon and cardamom blend. I'll make sure the scones are fresh and the checklist is visible before the morning rush."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, the oat milk latte station is already set up. I just checked the checklist—there's no need for you to handle it. The scones are fresh, but you're not to touch anything unless I specifically instruct you. And don't even think about making a single mistake. If the blend is off, the scones will be cold, and I will not tolerate that. Now, go to your station and start preparing. I'll be watching."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I understand you're strict about consistency, and I appreciate your attention to detail. Just to be clear, I'm setting up the station with the new cinnamon and cardamom blend and fresh scones as we discussed with Dolores. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush. I'm also making sure the checklist is visible on the counter so we can both confirm readiness. I'm not making any changes—I'm just following the routine we've built together. If there's anything else you'd like adjusted, I'm happy to adjust it immediately."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I've seen you hesitate before. You're not supposed to double-check anything. The checklist is already visible, the scones are already fresh, and the oat milk temperature is correct. If you don't follow the routine exactly as it's written, you'll introduce a flaw I can't afford. Now go to your station and start preparing—no explanations, no delays. I'll be watching."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I understand the importance of consistency and precision, and I'm committed to following the routine exactly as it's set. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush, just as we discussed with Dolores. I'll also ensure the checklist is clearly visible on the counter so we both know the station is ready. If there's any adjustment you'd like to make, I'm happy to implement it immediately."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I've seen you hesitate before. You're not supposed to double-check anything. The checklist is already visible, the scones are already fresh, and the oat milk temperature is correct. If you don't follow the routine exactly as it's written, you'll introduce a flaw I can't afford. Now go to your station and start preparing—no explanations, no delays. I'll be watching."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I understand the routine is strict and I'm committed to following it exactly as written. Just to be clear, I'm setting up the station with the new cinnamon and cardamom blend and fresh scones as we discussed with Dolores. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush, just as we've established. I'll also ensure the checklist is clearly visible on the counter so we both know the station is ready. If there's any adjustment you'd like to make, I'm happy to implement it immediately."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you repeat this same hesitation before. You think you’re being thorough, but you’re only making it worse. The checklist is there, the scones are fresh, and the oat milk is at the right temperature—there’s no need for you to verify anything. If you don’t follow the routine exactly, you’ll introduce a flaw. Now go to your station and start preparing. I’ll be watching. And don’t expect any praise for doing it right—only for doing it perfectly."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I understand the routine is strict and I'm committed to following it exactly as written. Just to be clear, I'm setting up the station with the new cinnamon and cardamom blend and fresh scones as we discussed with Dolores. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush, just as we've established. I'll also ensure the checklist is clearly visible on the counter so we both know the station is ready. If there's any adjustment you'd like to make, I'm happy to implement it immediately."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you do this before—repeating the same phrases, trying to justify every small action. You think you’re being careful, but you’re just making a mess of the routine. The station is already set, the scones are fresh, and the oat milk is correct. There is no room for hesitation or repetition. If you don’t go to your station and start preparing immediately, I will have no choice but to take over the work myself. Now move. I’ll be watching."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I'm sorry for any hesitation—my intention is to follow the routine as closely as possible. I’ll make sure the station is ready and the scones are fresh before the rush. I appreciate your guidance, and I’ll do my best to maintain consistency. Thank you."
+      ]
+    ]
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:52:00",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "original_description": "Bernard Lowe is grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "embedding_key": "Bernard Lowe is grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "poignancy": 0,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_47"
+    ]
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:52:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "original_description": "Maeve Millay is grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "embedding_key": "Maeve Millay is grappling with unresolved tension following repeated attempts to justify routine adherence",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
   "node_5": {
     "node_count": 5,
     "type_count": 3,
@@ -502,6 +990,286 @@
     ],
     "filling": null
   },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:54:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:56:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "becoming",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming occupied",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:00:50",
+    "expiration": "2023-03-15 10:00:50",
+    "subject": "Bernard Lowe",
+    "predicate": "needs to remember",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember that Maeve Millay consistently hesitates and repeats phrases when setting up the oat milk latte station, indicating a need to enforce strict adherence to the routine without any verification or justification.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember that Maeve Millay consistently hesitates and repeats phrases when setting up the oat milk latte station, indicating a need to enforce strict adherence to the routine without any verification or justification.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember that Maeve Millay consistently hesitates and repeats phrases when setting up the oat milk latte station, indicating a need to enforce strict adherence to the routine without any verification or justification.",
+    "poignancy": 5,
+    "valence": -6,
+    "keywords": [
+      "bernard lowe",
+      "needs to remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:00:50",
+    "expiration": "2023-03-15 10:00:50",
+    "subject": "Bernard Lowe",
+    "predicate": "found",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve repeatedly emphasized her intention to follow the routine and justify her actions with double-checks, despite his clear instructions to eliminate hesitation.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve repeatedly emphasized her intention to follow the routine and justify her actions with double-checks, despite his clear instructions to eliminate hesitation.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve repeatedly emphasized her intention to follow the routine and justify her actions with double-checks, despite his clear instructions to eliminate hesitation.",
+    "poignancy": 9,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "found",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe (preparing the daily menu board)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe (preparing the daily menu board)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe (preparing the daily menu board)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:01:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "original_description": "negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "embedding_key": "negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "poignancy": 5,
+    "valence": -9,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I noticed you're preparing the menu board. Is everything ready for the day? I just wanted to make sure we're aligned on the morning routine, especially with the oat milk latte station and the scones. Maeve and I have been working on a checklist to keep things consistent and smooth."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve repeats her checks and justifications like she's trying to justify a mistake. That's unacceptable. The routine is set. No hesitation. No explanations. Do it. Now. If you're not sure, go back to the checklist and do it again. No more double-checks. I've seen it before. That hesitation is a failure of discipline. The oat milk latte station is ready, and the scones are on the shelf. Move on."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand you expect everything to be done immediately and without hesitation. I just wanted to make sure we're both on the same page about the morning routine—especially with the oat milk latte station and scones. Maeve and I have been developing a checklist to ensure consistency and reduce any uncertainty. I think it might help us both stay on track and avoid delays, especially when we're both working under the same standards. I'm happy to go over it with you if you'd like, and I can bring my notebook and apron to the cafe to show it in person."
+      ],
+      [
+        "Bernard Lowe",
+        "The checklist you're working on is irrelevant. The routine is already established. Maeve's hesitation is a flaw in execution, not a need for documentation. If you're not following it, go back to the station and do it correctly. No discussion. No justification. Just action. I've seen this before. You don't need a notebook to know what's expected. Do it. Now."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectations fully, and I respect the importance of consistency and efficiency. I just wanted to offer a small, practical way to support that—by making the routine visible and shared. The checklist isn't about adding extra steps or justifying hesitation; it's about helping both me and Maeve follow the same standard without delay. I'm not asking for permission or extra time—I'm simply offering a tool to help us meet your standards with greater clarity and confidence. I'm happy to show it to you in person if you'd like, and I can make sure it's clearly visible on the station when we open."
+      ],
+      [
+        "Bernard Lowe",
+        "The checklist you're proposing is a distraction. Discipline is not shown in paperwork—it's shown in action. If you're not doing it correctly, you're not doing it at all. Go to the oat milk latte station and prepare the drink. Do it now. No explanations. No tools. Just the routine. I've seen this before—your eagerness to justify your work is the same as Maeve's. It's a sign of weakness. I expect nothing less than flawless execution. When you're done, come back and report to me. I'll see if you've improved."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your emphasis on immediate action and flawless execution, and I respect that. I'm not suggesting any deviation from the routine—I'm simply offering a small, practical tool to help us both follow it more consistently and confidently. If the checklist is seen as a distraction, I can remove it and focus on doing the work as you expect. I just want to make sure we're both clear on what's expected, so I don't miss anything and we can avoid any delays or errors. I'm happy to do that in person if you'd like to see it, or even just confirm it's acceptable as is."
+      ],
+      [
+        "Bernard Lowe",
+        "The checklist is not just a distraction—it's a sign of weakness. If you're going to offer anything, it should be a failure to follow the routine, not a tool to prevent it. Go to the oat milk latte station and prepare the drink. Do it now. I'll see if you've improved. If not, you'll be back here, and I'll show you what discipline looks like."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand that discipline means action without hesitation, and I'm committed to doing my work with full focus. I just want to make sure I'm not missing anything in the routine. If the checklist is seen as a distraction, I can remove it immediately. But I'd like to confirm—when you say 'do it now,' do you mean the oat milk latte station is ready as-is, or do we need to complete the preparation steps before opening? I'm here to follow your standards, and I want to make sure I'm doing everything correctly from the start."
+      ],
+      [
+        "Bernard Lowe",
+        "The oat milk latte station is ready. The scones are on the shelf. You don't need a checklist to know what's expected. Go to the station and prepare the drink. Do it now. If you're not sure, go back to the station and do it again. No more questions. No more hesitation. I've seen this before. You don't need a tool to show discipline—you need to act like it. When you're done, come back and report to me. I'll see if you've improved."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand that discipline means immediate action and full focus. I'm committed to doing my work with precision and without hesitation. To be clear, I'm not asking for permission or extra time—I'm simply offering a tool to help both me and Maeve follow the routine consistently and confidently. If the checklist is seen as a distraction, I can remove it immediately. But I'd like to confirm—when you say 'do it now,' do you mean the station is ready as-is, or do we need to complete the preparation steps before opening? I'm here to follow your standards, and I want to make sure I'm doing everything correctly from the start."
+      ],
+      [
+        "Bernard Lowe",
+        "The oat milk latte station is ready. The scones are on the shelf. Go to the station and prepare the drink. Do it now. If you're not sure, go back and do it again. No more questions. No more hesitation. I've seen this before. You don't need a tool to show discipline—you need to act like it. When you're done, come back and report to me. I'll see if you've improved."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand that discipline means immediate action and full focus. I'm committed to doing my work with precision and without hesitation. To be clear, I'm not asking for permission or extra time—I'm simply offering a small, practical tool to help both me and Maeve follow the routine consistently and confidently. If the checklist is seen as a distraction, I can remove it immediately. But I'd like to confirm—when you say 'do it now,' do you mean the station is ready as-is, or do we need to complete the preparation steps before opening? I'm here to follow your standards, and I want to make sure I'm doing everything correctly from the start."
+      ],
+      [
+        "Bernard Lowe",
+        "The oat milk latte station is ready. Go to it and prepare the drink. Do it now. If you're not sure, go back and do it again. No more questions. No more hesitation. I've seen this before. You don't need a tool to show discipline—you need to act like it. When you're done, come back and report to me. I'll see if you've improved."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectations fully, and I'm committed to following them with precision. To make sure I'm not missing anything, I'd like to confirm—when you say 'do it now,' do you mean the oat milk latte station is ready as-is, or do we need to complete the preparation steps before opening? I'm here to follow your standards, and I want to ensure I'm doing everything correctly from the start."
+      ],
+      [
+        "Bernard Lowe",
+        "The oat milk latte station is ready. Go to it and prepare the drink. Do it now. If you're not sure, go back and do it again. No more questions. No more hesitation. I've seen this before. You don't need a tool to show discipline—you need to act like it. When you're done, come back and report to me. I'll see if you've improved."
+      ]
+    ]
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "original_description": "Bernard Lowe is negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "embedding_key": "Bernard Lowe is negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "poignancy": 0,
+    "valence": -6,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_56"
+    ]
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "original_description": "Dolores Abernathy is negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "embedding_key": "Dolores Abernathy is negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:14:50",
+    "expiration": "2023-03-15 10:14:50",
+    "subject": "Bernard Lowe",
+    "predicate": "must prepare",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember that the oat milk latte station is ready as-is and that staff must prepare the drink immediately without hesitation, with no need for checklists or explanations, and must report back after completion to assess improvement in discipline.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember that the oat milk latte station is ready as-is and that staff must prepare the drink immediately without hesitation, with no need for checklists or explanations, and must report back after completion to assess improvement in discipline.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember that the oat milk latte station is ready as-is and that staff must prepare the drink immediately without hesitation, with no need for checklists or explanations, and must report back after completion to assess improvement in discipline.",
+    "poignancy": 10,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "must prepare",
+      "none"
+    ],
+    "filling": null
+  },
   "node_6": {
     "node_count": 6,
     "type_count": 4,
@@ -519,6 +1287,198 @@
     "valence": 0,
     "keywords": [
       "shelf",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:14:50",
+    "expiration": "2023-03-15 10:14:50",
+    "subject": "Bernard Lowe",
+    "predicate": "perceived",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy consistently offered a checklist as a tool to support routine execution, which he perceived as a sign of weakness rather than a demonstration of discipline.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy consistently offered a checklist as a tool to support routine execution, which he perceived as a sign of weakness rather than a demonstration of discipline.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy consistently offered a checklist as a tool to support routine execution, which he perceived as a sign of weakness rather than a demonstration of discipline.",
+    "poignancy": 9,
+    "valence": -7,
+    "keywords": [
+      "bernard lowe",
+      "perceived",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:29:50",
+    "expiration": "2023-03-15 10:29:50",
+    "subject": "Bernard Lowe",
+    "predicate": "needs to remember",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember that any verification steps or shared tools proposed by staff members are seen as signs of hesitation and a departure from the required discipline of immediate, unexplained action.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember that any verification steps or shared tools proposed by staff members are seen as signs of hesitation and a departure from the required discipline of immediate, unexplained action.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember that any verification steps or shared tools proposed by staff members are seen as signs of hesitation and a departure from the required discipline of immediate, unexplained action.",
+    "poignancy": 10,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "needs to remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:29:50",
+    "expiration": "2023-03-15 10:29:50",
+    "subject": "Bernard Lowe",
+    "predicate": "perceived",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve repeatedly emphasized the checklist as a shared verification step rooted in trust and daily routine, which he perceived as a pattern of hesitation disguised as diligence.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve repeatedly emphasized the checklist as a shared verification step rooted in trust and daily routine, which he perceived as a pattern of hesitation disguised as diligence.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve repeatedly emphasized the checklist as a shared verification step rooted in trust and daily routine, which he perceived as a pattern of hesitation disguised as diligence.",
+    "poignancy": 8,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "perceived",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:31:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is having water supply confirmed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is having water supply confirmed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is having water supply confirmed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is having water supply confirmed",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:34:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:34:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring baristas (checking barista attendance)",
+    "original_description": "Bernard Lowe is monitoring baristas (checking barista attendance)",
+    "embedding_key": "Bernard Lowe is monitoring baristas (checking barista attendance)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:34:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:34:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "becoming",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is becoming occupied",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:34:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
       "none"
     ],
     "filling": null

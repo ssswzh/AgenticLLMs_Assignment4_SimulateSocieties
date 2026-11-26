@@ -1,11 +1,25 @@
 {
   "the Ville": {
-    "Dorm for Oak Hill College": {
-      "Ayesha Khan's room": [
-        "closet",
+    "Bernard Lowe's apartment": {
+      "bathroom": [
+        "bathroom sink",
+        "shower",
+        "toilet"
+      ],
+      "main room": [
         "desk",
         "bed",
+        "refrigerator",
+        "closet",
         "shelf"
+      ]
+    },
+    "Dorm for Oak Hill College": {
+      "Ayesha Khan's room": [
+        "desk",
+        "bed",
+        "shelf",
+        "closet"
       ],
       "Dolores Abernathy's room": [
         "computer",
@@ -15,11 +29,12 @@
         "bed"
       ],
       "Meave Millay's room": [
+        "closet",
         "bed",
         "game console",
-        "desk",
-        "closet"
+        "desk"
       ],
+      "Wolfgang Schulz's room": [],
       "common room": [
         "common room sofa",
         "pool table",
@@ -29,10 +44,10 @@
         "dorm garden"
       ],
       "kitchen": [
-        "cooking area",
         "toaster",
         "kitchen sink",
-        "refrigerator"
+        "refrigerator",
+        "cooking area"
       ],
       "man's bathroom": [
         "shower",
@@ -80,15 +95,27 @@
         "bookshelf"
       ]
     },
+    "Ryan Park's apartment": {
+      "bathroom": [
+        "bathroom sink",
+        "toilet"
+      ],
+      "main room": [
+        "closet",
+        "kitchen sink",
+        "cooking area",
+        "refrigerator"
+      ]
+    },
     "The Rose and Crown Pub": {
       "pub": [
+        "cooking area",
         "microphone",
         "shelf",
         "refrigerator",
         "bar customer seating",
         "behind the bar counter",
-        "kitchen sink",
-        "cooking area"
+        "kitchen sink"
       ]
     },
     "The Willows Market and Pharmacy": {

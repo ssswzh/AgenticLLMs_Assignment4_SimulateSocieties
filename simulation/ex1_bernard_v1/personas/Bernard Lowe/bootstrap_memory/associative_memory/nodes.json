@@ -313,6 +313,153 @@
     ],
     "filling": null
   },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:31:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "reviewing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being reviewed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being reviewed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being reviewed",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs cafe (checking the morning schedule)",
+    "original_description": "Bernard Lowe is opening Hobbs cafe (checking the morning schedule)",
+    "embedding_key": "Bernard Lowe is opening Hobbs cafe (checking the morning schedule)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:00:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "checking",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being checked",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being checked",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being checked",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:15:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "espresso machine",
+    "description": "Bernard Lowe is opening Hobbs cafe (testing the espresso machine)",
+    "original_description": "Bernard Lowe is opening Hobbs cafe (testing the espresso machine)",
+    "embedding_key": "Bernard Lowe is opening Hobbs cafe (testing the espresso machine)",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "bernard lowe",
+      "espresso machine"
+    ],
+    "filling": null
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cooking area",
+    "predicate": "checking",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cooking area is being checked for oven temperature",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cooking area is being checked for oven temperature",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cooking area is being checked for oven temperature",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "cooking area",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
   "node_3": {
     "node_count": 3,
     "type_count": 1,
@@ -334,6 +481,216 @@
     ],
     "filling": null
   },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:30:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "stocking",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being stocked",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being stocked",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being stocked",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:40:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:45:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:50:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is unobserved",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unobserved",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unobserved",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unobserved",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:50:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs cafe (opening the front door)",
+    "original_description": "Bernard Lowe is opening Hobbs cafe (opening the front door)",
+    "embedding_key": "Bernard Lowe is opening Hobbs cafe (opening the front door)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:55:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "opening",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being opened",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being opened",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being opened",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "None",
+    "description": "Bernard Lowe is managing the cafe operations (checking the morning inventory)",
+    "original_description": "Bernard Lowe is managing the cafe operations (checking the morning inventory)",
+    "embedding_key": "Bernard Lowe is managing the cafe operations (checking the morning inventory)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "being inventoried",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being inventoried",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being inventoried",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being inventoried",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:10:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "inspecting",
+    "object": "None",
+    "description": "Bernard Lowe is managing the cafe operations (inspecting the refrigeration units)",
+    "original_description": "Bernard Lowe is managing the cafe operations (inspecting the refrigeration units)",
+    "embedding_key": "Bernard Lowe is managing the cafe operations (inspecting the refrigeration units)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
   "node_4": {
     "node_count": 4,
     "type_count": 2,
@@ -351,6 +708,174 @@
     "valence": 0,
     "keywords": [
       "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:10:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "inspected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being inspected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being inspected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being inspected",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:15:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "reviewing",
+    "object": "None",
+    "description": "Bernard Lowe is managing the cafe operations (reviewing the daily sales forecast)",
+    "original_description": "Bernard Lowe is managing the cafe operations (reviewing the daily sales forecast)",
+    "embedding_key": "Bernard Lowe is managing the cafe operations (reviewing the daily sales forecast)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:15:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "monitored",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being monitored",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:21:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "managed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:25:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing the cafe operations (monitoring the water supply levels)",
+    "original_description": "Bernard Lowe is managing the cafe operations (monitoring the water supply levels)",
+    "embedding_key": "Bernard Lowe is managing the cafe operations (monitoring the water supply levels)",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:25:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "monitored",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is being monitored",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:30:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "None",
+    "description": "Bernard Lowe is managing the cafe operations (checking the oven temperature calibration)",
+    "original_description": "Bernard Lowe is managing the cafe operations (checking the oven temperature calibration)",
+    "embedding_key": "Bernard Lowe is managing the cafe operations (checking the oven temperature calibration)",
+    "poignancy": 5,
+    "valence": -4,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:30:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cooking area",
+    "predicate": "calibrated",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cooking area is being calibrated",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cooking area is being calibrated",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cooking area is being calibrated",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "cooking area",
       "none"
     ],
     "filling": null
