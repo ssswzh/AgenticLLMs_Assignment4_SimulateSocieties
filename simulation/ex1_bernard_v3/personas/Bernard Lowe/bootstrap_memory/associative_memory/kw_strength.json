@@ -1,2 +1,17 @@
-{"kw_strength_event": {},
- "kw_strength_thought": {}}
+{
+  "kw_strength_thought": {
+    "plan": 1
+  },
+  "kw_strength_event": {
+    "bed": 1,
+    "behind the cafe counter": 2,
+    "bernard lowe": 13,
+    "closet": 1,
+    "cooking area": 1,
+    "desk": 2,
+    "kitchen sink": 2,
+    "none": 28,
+    "refrigerator": 2,
+    "shelf": 4
+  }
+}

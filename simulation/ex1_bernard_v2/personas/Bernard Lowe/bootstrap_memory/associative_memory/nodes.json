@@ -1,1 +1,274 @@
-{}
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Bernard Lowe",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:30 am, open Hobbs Cafe at 8:00 am, monitor baristas and manage operations from 8:00 am to 4:00 pm, close Hobbs Cafe at 4:00 pm, walk home from the cafe at 4:30 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "original_description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:30 am, open Hobbs Cafe at 8:00 am, monitor baristas and manage operations from 8:00 am to 4:00 pm, close Hobbs Cafe at 4:00 pm, walk home from the cafe at 4:30 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "embedding_key": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:30 am, open Hobbs Cafe at 8:00 am, monitor baristas and manage operations from 8:00 am to 4:00 pm, close Hobbs Cafe at 4:00 pm, walk home from the cafe at 4:30 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:20:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Bernard Lowe is completing morning routine (checking the weather)",
+    "original_description": "Bernard Lowe is completing morning routine (checking the weather)",
+    "embedding_key": "Bernard Lowe is completing morning routine (checking the weather)",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:21:00",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:desk",
+    "predicate": "checked",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:desk is being checked",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:desk is being checked",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:desk is being checked",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "desk",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:25:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "reviewing",
+    "object": "None",
+    "description": "Bernard Lowe is completing morning routine (reviewing the day's schedule)",
+    "original_description": "Bernard Lowe is completing morning routine (reviewing the day's schedule)",
+    "embedding_key": "Bernard Lowe is completing morning routine (reviewing the day's schedule)",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:25:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:desk",
+    "predicate": "reviewing",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:desk is being reviewed",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:desk is being reviewed",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:desk is being reviewed",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "desk",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Bernard Lowe is sleeping",
+    "original_description": "Bernard Lowe is sleeping",
+    "embedding_key": "Bernard Lowe is sleeping",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:bed",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "poignancy": 0,
+    "valence": -6,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Bernard Lowe is completing morning routine (waking up)",
+    "original_description": "Bernard Lowe is completing morning routine (waking up)",
+    "embedding_key": "Bernard Lowe is completing morning routine (waking up)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:05:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "brushing",
+    "object": "None",
+    "description": "Bernard Lowe is completing morning routine (brushing teeth)",
+    "original_description": "Bernard Lowe is completing morning routine (brushing teeth)",
+    "embedding_key": "Bernard Lowe is completing morning routine (brushing teeth)",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:06:00",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:shelf",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:shelf is unaffected",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:shelf is unaffected",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:shelf is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "shelf",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:10:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "showering",
+    "object": "None",
+    "description": "Bernard Lowe is completing morning routine (showering)",
+    "original_description": "Bernard Lowe is completing morning routine (showering)",
+    "embedding_key": "Bernard Lowe is completing morning routine (showering)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:15:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "dressing",
+    "object": "None",
+    "description": "Bernard Lowe is completing morning routine (dressing)",
+    "original_description": "Bernard Lowe is completing morning routine (dressing)",
+    "embedding_key": "Bernard Lowe is completing morning routine (dressing)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:15:20",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:closet",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:closet is being accessed",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:closet is being accessed",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:closet is being accessed",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "closet",
+      "none"
+    ],
+    "filling": null
+  }
+}

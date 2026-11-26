@@ -1,0 +1,140 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "opening Hobbs Cafe for business (reviewing the daily drink menu) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating oat milk blend and brew temperature consistency with shared notes and photo documentation for latte art assessment @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, I just woke up and was getting ready for the day. I saw you leaving your room—how’s your morning going? I’m making sure my oat milk blend is ready by 8, so we can sync up with the same ratio and brew temperature for the latte art test. Do you have your notes with you? I’ll be at the counter by 8 sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Hi Dolores! Morning's going well—just finished brushing my teeth and gathering my notes and phone. I’ll be at the counter by 8 too. I’ve got the same oat milk ratio and brew temperature in mind as you, so we should have consistent results. I’ll take a quick photo right after we finish the latte art—let’s share it with Bernard later. See you at Hobbs Cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve—sounds good. I’ll double-check the fridge by 7:45 to make sure the oat milk is fresh and ready. I’ll keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll check the fridge too—makes sure the oat milk is fresh before we start. I’ll have my notes and phone ready by 8, just like we said. Let’s keep the brew temperature exact and try that new pattern together. I’ll take a photo right after we finish and send it over to Bernard. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve—thanks for confirming. I’ll make sure the fridge is checked by 7:45 and the oat milk is fresh. I’ll also keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks again, Maeve. I’ll keep an eye on the fridge and make sure everything is ready by 8. I’ll be at the counter just as you said—let’s make sure the latte art comes out perfectly and we both have a clear record of it. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve—thanks for confirming everything. I’ll make sure the fridge is checked by 7:45 and the oat milk is fresh. I’ll keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later. See you at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, just to confirm—do you have the same oat milk blend and brew temperature in mind as I do? I’ll be right at the counter by 8, so let’s make sure we’re both on the same page. I’ll also keep a note of the temperature right when we start, just like we agreed. Looking forward to seeing the latte art come out perfectly!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Dolores—same oat milk blend and exact brew temperature. I’ve already checked the fridge and the milk is fresh. I’ll be ready by 8, just like we planned. Let’s make it perfect and share the photo with Bernard—see you at the counter!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve! I’ll make sure everything is ready by 8. See you at the counter!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating oat milk blend and brew temperature consistency with shared notes and photo documentation for latte art assessment @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, I just woke up and was getting ready for the day. I saw you leaving your room—how’s your morning going? I’m making sure my oat milk blend is ready by 8, so we can sync up with the same ratio and brew temperature for the latte art test. Do you have your notes with you? I’ll be at the counter by 8 sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Hi Dolores! Morning's going well—just finished brushing my teeth and gathering my notes and phone. I’ll be at the counter by 8 too. I’ve got the same oat milk ratio and brew temperature in mind as you, so we should have consistent results. I’ll take a quick photo right after we finish the latte art—let’s share it with Bernard later. See you at Hobbs Cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve—sounds good. I’ll double-check the fridge by 7:45 to make sure the oat milk is fresh and ready. I’ll keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll check the fridge too—makes sure the oat milk is fresh before we start. I’ll have my notes and phone ready by 8, just like we said. Let’s keep the brew temperature exact and try that new pattern together. I’ll take a photo right after we finish and send it over to Bernard. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve—thanks for confirming. I’ll make sure the fridge is checked by 7:45 and the oat milk is fresh. I’ll also keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks again, Maeve. I’ll keep an eye on the fridge and make sure everything is ready by 8. I’ll be at the counter just as you said—let’s make sure the latte art comes out perfectly and we both have a clear record of it. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve—thanks for confirming everything. I’ll make sure the fridge is checked by 7:45 and the oat milk is fresh. I’ll keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later. See you at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Maeve, just to confirm—do you have the same oat milk blend and brew temperature in mind as I do? I’ll be right at the counter by 8, so let’s make sure we’re both on the same page. I’ll also keep a note of the temperature right when we start, just like we agreed. Looking forward to seeing the latte art come out perfectly!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Dolores—same oat milk blend and exact brew temperature. I’ve already checked the fridge and the milk is fresh. I’ll be ready by 8, just like we planned. Let’s make it perfect and share the photo with Bernard—see you at the counter!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve! I’ll make sure everything is ready by 8. See you at the counter!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:25:30"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🚶‍♂️",
+      "description": "walking to Hobbs cafe (confirming the route to Hobbs cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        99,
+        40
+      ],
+      "pronunciato": "💬",
+      "description": "arranging to meet near the bridge after work for coffee and a walk, with plans to make it a regular tradition @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve! I was just about to head out for work—did you see the coffee machine? It’s been a bit slow today, but I’ll make sure to keep the flow going."
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores! I saw you already—coffee machine’s been a bit slow too. I’ll keep an eye on it. After work, I’m walking through Johnson Park, so maybe we can meet near the bridge and grab coffee? I’ve been meaning to explore that spot more."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great, Maeve! I’ve been meaning to check out that spot near the bridge too. I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge after work. Maybe we can grab coffee and walk a bit—just you and me, no one else. I’ll catch up with you at the dorm by 8 too."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds perfect, Dolores! I’ll be back at the dorm by 8, so we can grab coffee and walk near the bridge together. It’s been a while since we’ve done that—might even make it a regular thing. I’ll see you there!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a lovely plan, Maeve. I’ll be sure to keep an eye out near the bridge after work. Looking forward to our coffee and a walk—just the two of us, no distractions. It’s been a while since we’ve shared something like that, and I think it’s going to be a nice little tradition."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a lovely plan, Dolores! I’ll be back at the dorm by 8, so we can grab coffee and walk near the bridge together. It’s been a while since we’ve done that—might even make it a regular thing. I’ll see you there!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        99,
+        40
+      ],
+      "pronunciato": "💬",
+      "description": "arranging to meet near the bridge after work for coffee and a walk, with plans to make it a regular tradition @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve! I was just about to head out for work—did you see the coffee machine? It’s been a bit slow today, but I’ll make sure to keep the flow going."
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores! I saw you already—coffee machine’s been a bit slow too. I’ll keep an eye on it. After work, I’m walking through Johnson Park, so maybe we can meet near the bridge and grab coffee? I’ve been meaning to explore that spot more."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great, Maeve! I’ve been meaning to check out that spot near the bridge too. I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge after work. Maybe we can grab coffee and walk a bit—just you and me, no one else. I’ll catch up with you at the dorm by 8 too."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds perfect, Dolores! I’ll be back at the dorm by 8, so we can grab coffee and walk near the bridge together. It’s been a while since we’ve done that—might even make it a regular thing. I’ll see you there!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a lovely plan, Maeve. I’ll be sure to keep an eye out near the bridge after work. Looking forward to our coffee and a walk—just the two of us, no distractions. It’s been a while since we’ve shared something like that, and I think it’s going to be a nice little tradition."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a lovely plan, Dolores! I’ll be back at the dorm by 8, so we can grab coffee and walk near the bridge together. It’s been a while since we’ve done that—might even make it a regular thing. I’ll see you there!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:13:50"
+  }
+}

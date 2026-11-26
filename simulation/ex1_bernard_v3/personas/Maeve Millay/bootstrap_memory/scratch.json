@@ -2,8 +2,11 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": null,
-  "curr_tile": null,
+  "curr_time": "February 13, 2023, 08:31:40",
+  "curr_tile": [
+    122,
+    45
+  ],
   "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
   "name": "Maeve Millay",
   "first_name": "Maeve",
@@ -14,47 +17,328 @@
   "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
   "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
   "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
-  "concept_forget": 100,
-  "daily_reflection_time": 180,
-  "daily_reflection_size": 5,
-  "overlap_reflect_th": 4,
-  "kw_strg_event_reflect_th": 10,
-  "kw_strg_thought_reflect_th": 9,
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
   "recency_w": 1,
   "relevance_w": 1,
   "importance_w": 1,
   "valence_w": 0,
-  "recency_decay": 0.99,
   "asymetric_encoding": false,
-  "negativity_bias": 1.0,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 75,
-  "importance_ele_n": 0,
-  "thought_count": 5,
-  "daily_req": [],
-  "f_daily_schedule": [],
-  "f_daily_schedule_hourly_org": [],
-  "act_address": null,
-  "act_start_time": null,
-  "act_duration": null,
-  "act_description": null,
-  "act_pronunciatio": null,
+  "importance_trigger_curr": 30,
+  "importance_ele_n": 27,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "have breakfast at 7:30 am",
+    "walk to Hobbs Cafe by 8:00 am",
+    "work the counter from 8:00 am to 4:00 pm",
+    "walk in Johnson Park from 4:30 pm to 5:30 pm",
+    "have dinner at the dorm at 8:00 pm",
+    "spend time in her room from 8:30 pm to 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine (waking up)",
+      1
+    ],
+    [
+      "coordinating latte art testing with consistent oat milk ratio and brew temperature for shared results",
+      9
+    ],
+    [
+      "waking up and completing her morning routine (checking the phone for messages)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (reviewing the day's schedule)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (putting on clothes)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing face)",
+      2
+    ],
+    [
+      "coordinating a latte art test with consistent oat milk ratio and brew temperature using shared notes and real-time temperature checks",
+      11
+    ],
+    [
+      "waking up and completing her morning routine (washing face)",
+      3
+    ],
+    [
+      "waking up and completing her morning routine (applying moisturizer)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (gathering morning essentials)",
+      1
+    ],
+    [
+      "coordinating a latte art test with consistent oat milk and brew temperature using shared notes and a photo for later comparison",
+      11
+    ],
+    [
+      "waking up and completing her morning routine (gathering morning essentials)",
+      4
+    ],
+    [
+      "waking up and completing her morning routine (checking the weather)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (preparing for the walk)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (leaving the room)",
+      1
+    ],
+    [
+      "coordinating oat milk blend and brew temperature consistency with shared notes and photo documentation for latte art assessment",
+      8
+    ],
+    [
+      "waking up and completing her morning routine (leaving the room)",
+      4
+    ],
+    [
+      "having breakfast (preparing breakfast items)",
+      5
+    ],
+    [
+      "having breakfast (placing items on the table)",
+      5
+    ],
+    [
+      "having breakfast (checking the oven temperature)",
+      5
+    ],
+    [
+      "having breakfast (pouring coffee)",
+      5
+    ],
+    [
+      "having breakfast (adding milk to coffee)",
+      5
+    ],
+    [
+      "having breakfast (placing toast in the toaster)",
+      5
+    ],
+    [
+      "having breakfast (monitoring toast browning)",
+      3
+    ],
+    [
+      "walking to Hobbs Cafe (checking phone for messages)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (reviewing morning route)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (adjusting walking attire)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (verifying coffee shop address)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (preparing walking bag)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (setting walking pace)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (noticing landmarks)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (monitoring weather conditions)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (checking for traffic)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (starting walk to Hobbs Cafe)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (keeping eye on route)",
+      2
+    ],
+    [
+      "serving customers at the counter",
+      360
+    ],
+    [
+      "packing up the counter and cleaning the station",
+      60
+    ],
+    [
+      "walking through Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      360
+    ],
+    [
+      "packing up the counter and cleaning the station",
+      60
+    ],
+    [
+      "walking through Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "\u003cpersona\u003e Dolores Abernathy",
+  "act_start_time": "February 13, 2023, 08:23:00",
+  "act_duration": 8,
+  "act_description": "coordinating oat milk blend and brew temperature consistency with shared notes and photo documentation for latte art assessment",
+  "act_pronunciatio": "💬",
   "act_event": [
     "Maeve Millay",
-    null,
-    null
+    "chat with",
+    "Dolores Abernathy"
   ],
-  "act_obj_description": null,
-  "act_obj_pronunciatio": null,
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
   "act_obj_event": [
-    null,
-    null,
-    null
+    "",
+    "",
+    ""
   ],
-  "chatting_with": null,
-  "chat": null,
-  "chatting_with_buffer": {},
-  "chatting_end_time": null,
-  "act_path_set": false,
-  "planned_path": []
+  "chatting_with": "Dolores Abernathy",
+  "chat": [
+    [
+      "Dolores Abernathy",
+      "Hi Maeve, I just woke up and was getting ready for the day. I saw you leaving your room—how’s your morning going? I’m making sure my oat milk blend is ready by 8, so we can sync up with the same ratio and brew temperature for the latte art test. Do you have your notes with you? I’ll be at the counter by 8 sharp."
+    ],
+    [
+      "Maeve Millay",
+      "Hi Dolores! Morning's going well—just finished brushing my teeth and gathering my notes and phone. I’ll be at the counter by 8 too. I’ve got the same oat milk ratio and brew temperature in mind as you, so we should have consistent results. I’ll take a quick photo right after we finish the latte art—let’s share it with Bernard later. See you at Hobbs Cafe!"
+    ],
+    [
+      "Dolores Abernathy",
+      "Thanks, Maeve—sounds good. I’ll double-check the fridge by 7:45 to make sure the oat milk is fresh and ready. I’ll keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later."
+    ],
+    [
+      "Maeve Millay",
+      "Got it, Dolores! I’ll check the fridge too—makes sure the oat milk is fresh before we start. I’ll have my notes and phone ready by 8, just like we said. Let’s keep the brew temperature exact and try that new pattern together. I’ll take a photo right after we finish and send it over to Bernard. See you at the cafe!"
+    ],
+    [
+      "Dolores Abernathy",
+      "Got it, Maeve—thanks for confirming. I’ll make sure the fridge is checked by 7:45 and the oat milk is fresh. I’ll also keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later."
+    ],
+    [
+      "Maeve Millay",
+      "Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!"
+    ],
+    [
+      "Dolores Abernathy",
+      "Thanks again, Maeve. I’ll keep an eye on the fridge and make sure everything is ready by 8. I’ll be at the counter just as you said—let’s make sure the latte art comes out perfectly and we both have a clear record of it. Looking forward to it!"
+    ],
+    [
+      "Maeve Millay",
+      "Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!"
+    ],
+    [
+      "Dolores Abernathy",
+      "Got it, Maeve—thanks for confirming everything. I’ll make sure the fridge is checked by 7:45 and the oat milk is fresh. I’ll keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later. See you at the cafe!"
+    ],
+    [
+      "Maeve Millay",
+      "Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!"
+    ],
+    [
+      "Dolores Abernathy",
+      "Maeve, just to confirm—do you have the same oat milk blend and brew temperature in mind as I do? I’ll be right at the counter by 8, so let’s make sure we’re both on the same page. I’ll also keep a note of the temperature right when we start, just like we agreed. Looking forward to seeing the latte art come out perfectly!"
+    ],
+    [
+      "Maeve Millay",
+      "Yes, Dolores—same oat milk blend and exact brew temperature. I’ve already checked the fridge and the milk is fresh. I’ll be ready by 8, just like we planned. Let’s make it perfect and share the photo with Bernard—see you at the counter!"
+    ],
+    [
+      "Dolores Abernathy",
+      "Got it, Maeve! I’ll make sure everything is ready by 8. See you at the counter!"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Dolores Abernathy": 68
+  },
+  "chatting_end_time": "February 13, 2023, 08:32:00",
+  "act_path_set": true,
+  "planned_path": null
 }

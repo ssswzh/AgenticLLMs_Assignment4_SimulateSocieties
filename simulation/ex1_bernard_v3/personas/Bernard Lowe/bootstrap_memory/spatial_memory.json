@@ -1,5 +1,46 @@
 {
   "the Ville": {
+    "Bernard Lowe's apartment": {
+      "bathroom": [
+        "shower",
+        "bathroom sink",
+        "toilet"
+      ],
+      "main room": [
+        "refrigerator",
+        "closet",
+        "shelf",
+        "bed",
+        "desk"
+      ]
+    },
+    "Dorm for Oak Hill College": {
+      "common room": [
+        "common room sofa",
+        "pool table",
+        "common room table"
+      ],
+      "garden": [
+        "dorm garden"
+      ]
+    },
+    "Giorgio Rossi's apartment": {
+      "bathroom": [
+        "shower"
+      ],
+      "main room": [
+        "bed",
+        "desk",
+        "blackboard"
+      ]
+    },
+    "Harvey Oak Supply Store": {
+      "supply store": [
+        "supply store product shelf",
+        "behind the supply store counter",
+        "supply store counter"
+      ]
+    },
     "Hobbs Cafe": {
       "cafe": [
         "refrigerator",
@@ -10,56 +51,45 @@
         "piano"
       ]
     },
-    "Bernard Lowe's apartment": {
+    "Johnson Park": {
+      "park": [
+        "park garden"
+      ]
+    },
+    "Ryan Park's apartment": {
+      "bathroom": [
+        "shower",
+        "bathroom sink",
+        "toilet"
+      ],
       "main room": [
         "bed",
-        "desk",
+        "cooking area",
+        "kitchen sink",
         "refrigerator",
-        "closet",
-        "shelf"
+        "computer desk",
+        "closet"
       ]
     },
     "The Rose and Crown Pub": {
       "pub": [
+        "microphone",
         "shelf",
         "refrigerator",
         "bar customer seating",
         "behind the bar counter",
         "kitchen sink",
-        "cooking area",
-        "microphone"
-      ]
-    },
-    "Harvey Oak Supply Store": {
-      "supply store": [
-        "supply store product shelf",
-        "behind the supply store counter",
-        "supply store counter"
+        "cooking area"
       ]
     },
     "The Willows Market and Pharmacy": {
       "store": [
-        "behind the pharmacy counter",
         "pharmacy store shelf",
         "pharmacy store counter",
         "grocery store shelf",
         "behind the grocery counter",
-        "grocery store counter"
-      ]
-    },
-    "Dorm for Oak Hill College": {
-      "garden": [
-        "dorm garden"
-      ],
-      "common room": [
-        "common room sofa",
-        "pool table",
-        "common room table"
-      ]
-    },
-    "Johnson Park": {
-      "park": [
-        "park garden"
+        "grocery store counter",
+        "behind the pharmacy counter"
       ]
     }
   }

@@ -1,2 +1,25 @@
-{"kw_strength_event": {},
- "kw_strength_thought": {}}
+{
+  "kw_strength_thought": {
+    "considered": 1,
+    "found": 2,
+    "keep an eye out for": 1,
+    "maeve millay": 6,
+    "meet": 1,
+    "needs to remember to go to": 1,
+    "none": 6,
+    "plan": 1
+  },
+  "kw_strength_event": {
+    "bed": 1,
+    "breakfast": 1,
+    "cooking area": 2,
+    "desk": 2,
+    "dolores abernathy": 11,
+    "kitchen sink": 6,
+    "maeve millay": 14,
+    "none": 32,
+    "refrigerator": 3,
+    "shoes": 1,
+    "toaster": 3
+  }
+}

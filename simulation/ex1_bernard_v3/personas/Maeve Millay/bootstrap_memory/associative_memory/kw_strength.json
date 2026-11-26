@@ -1,2 +1,23 @@
-{"kw_strength_event": {},
- "kw_strength_thought": {}}
+{
+  "kw_strength_thought": {
+    "checking": 1,
+    "found": 1,
+    "learned": 2,
+    "maeve millay": 6,
+    "meet": 1,
+    "needs to remember": 1,
+    "none": 6,
+    "plan": 1
+  },
+  "kw_strength_event": {
+    "bed": 1,
+    "closet": 1,
+    "dolores abernathy": 8,
+    "kitchen sink": 6,
+    "maeve millay": 11,
+    "makeup": 1,
+    "moisturizer": 1,
+    "none": 21,
+    "refrigerator": 4
+  }
+}

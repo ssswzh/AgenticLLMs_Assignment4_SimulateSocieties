@@ -1,75 +1,53 @@
 {
   "the Ville": {
-    "Oak Hill College": {
-      "hallway": [],
-      "library": [
-        "library sofa",
-        "library table",
-        "bookshelf"
-      ],
-      "classroom": [
-        "blackboard",
-        "classroom podium",
-        "classroom student seating"
-      ]
-    },
     "Dorm for Oak Hill College": {
+      "Ayesha Khan's room": [
+        "desk",
+        "shelf"
+      ],
+      "Dolores Abernathy's room": [
+        "blackboard",
+        "bed",
+        "closet",
+        "computer",
+        "desk"
+      ],
+      "Meave Millay's room": [
+        "game console",
+        "closet",
+        "desk",
+        "bed"
+      ],
+      "common room": [
+        "pool table",
+        "common room table",
+        "common room sofa"
+      ],
       "garden": [
         "dorm garden"
       ],
-      "Meave Millay's room": [
-        "bed",
-        "game console",
-        "closet",
-        "desk"
-      ],
-      "woman's bathroom": [
-        "toilet",
-        "shower",
-        "bathroom sink"
-      ],
-      "common room": [
-        "common room sofa",
-        "pool table",
-        "common room table"
+      "kitchen": [
+        "refrigerator",
+        "cooking area",
+        "toaster",
+        "kitchen sink"
       ],
       "man's bathroom": [
         "shower",
         "bathroom sink",
         "toilet"
-      ]
-    },
-    "The Willows Market and Pharmacy": {
-      "store": [
-        "grocery store shelf",
-        "behind the grocery counter",
-        "grocery store counter",
-        "pharmacy store shelf",
-        "pharmacy store counter",
-        "behind the pharmacy counter"
+      ],
+      "woman's bathroom": [
+        "toilet",
+        "shower",
+        "bathroom sink"
       ]
     },
     "Harvey Oak Supply Store": {
       "supply store": [
-        "supply store product shelf",
         "behind the supply store counter",
-        "supply store counter"
-      ]
-    },
-    "Johnson Park": {
-      "park": [
-        "park garden"
-      ]
-    },
-    "The Rose and Crown Pub": {
-      "pub": [
-        "shelf",
-        "refrigerator",
-        "bar customer seating",
-        "behind the bar counter",
-        "kitchen sink",
-        "cooking area",
-        "microphone"
+        "supply store counter",
+        "supply store product shelf"
       ]
     },
     "Hobbs Cafe": {
@@ -80,6 +58,45 @@
         "kitchen sink",
         "behind the cafe counter",
         "piano"
+      ]
+    },
+    "Johnson Park": {
+      "park": [
+        "park garden"
+      ]
+    },
+    "Oak Hill College": {
+      "classroom": [
+        "classroom podium",
+        "classroom student seating",
+        "blackboard"
+      ],
+      "hallway": [],
+      "library": [
+        "library sofa",
+        "library table",
+        "bookshelf"
+      ]
+    },
+    "The Rose and Crown Pub": {
+      "pub": [
+        "behind the bar counter",
+        "kitchen sink",
+        "cooking area",
+        "microphone",
+        "shelf",
+        "refrigerator",
+        "bar customer seating"
+      ]
+    },
+    "The Willows Market and Pharmacy": {
+      "store": [
+        "grocery store shelf",
+        "behind the grocery counter",
+        "grocery store counter",
+        "pharmacy store shelf",
+        "pharmacy store counter",
+        "behind the pharmacy counter"
       ]
     }
   }

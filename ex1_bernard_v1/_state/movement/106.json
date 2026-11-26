@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciato": "☀️💧",
+      "description": "waking up and completing the morning routine (drinking water) @ the Ville:Bernard Lowe's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging morning greetings and confirming daily routines including breakfast, work schedules, and post-work walks at johnson park @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. Did you sleep well? I just got out of bed and saw you brushing your teeth—everything okay?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores! Yeah, I slept fine, thanks. Just got up and was brushing my teeth—didn’t expect to see you already up. How about you? Anything special today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Everything's good, thanks! I was just checking if I had everything for the day—breakfast, my shift, and then I’ll be back at the dorm after work. How about you? Any plans after the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "I was just getting ready for the day—breakfast at 7:30, then I’ll head to Hobbs Cafe by 8. After work, I walk in Johnson Park. How about you? Any plans after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm after work, just reading and working on the computer. Same as always. Thanks for asking!"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great, Dolores. I’ll be walking in Johnson Park after work—really enjoy the peace and fresh air. Maybe we’ll see each other there? I’ll be back at the dorm by 8, so I’ll catch you later!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, Maeve. I’ll catch you at the dorm later. Have a great day at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I’ll be back at the dorm by 8 too, so I might run into you around dinner time. Thanks for the chat, Dolores!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, Maeve. I’ll see you at the dorm later. Have a great day at the cafe!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        126,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging morning greetings and confirming daily routines including breakfast, work schedules, and post-work walks at johnson park @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. Did you sleep well? I just got out of bed and saw you brushing your teeth—everything okay?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores! Yeah, I slept fine, thanks. Just got up and was brushing my teeth—didn’t expect to see you already up. How about you? Anything special today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Everything's good, thanks! I was just checking if I had everything for the day—breakfast, my shift, and then I’ll be back at the dorm after work. How about you? Any plans after the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "I was just getting ready for the day—breakfast at 7:30, then I’ll head to Hobbs Cafe by 8. After work, I walk in Johnson Park. How about you? Any plans after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm after work, just reading and working on the computer. Same as always. Thanks for asking!"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great, Dolores. I’ll be walking in Johnson Park after work—really enjoy the peace and fresh air. Maybe we’ll see each other there? I’ll be back at the dorm by 8, so I’ll catch you later!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, Maeve. I’ll catch you at the dorm later. Have a great day at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I’ll be back at the dorm by 8 too, so I might run into you around dinner time. Thanks for the chat, Dolores!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, Maeve. I’ll see you at the dorm later. Have a great day at the cafe!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:16:40"
+  }
+}

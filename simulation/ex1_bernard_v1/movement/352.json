@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciato": "🍳",
+      "description": "waking up and completing the morning routine (packing the morning bag) @ the Ville:Bernard Lowe's apartment:main room:desk",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "establishing a post-work routine to meet in johnson park and at the dorm with plans to share coffee and explore a favorite spot near the bridge @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just saw you starting your morning routine — hope you're doing well. I’ll be at the cafe by 8, so we’ll be working together all day. Do you need anything from the counter before you start?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just woke up and was about to start my morning routine. I’ll be at the cafe by 8 too — glad we’re both here early. I was thinking, since we both walk in Johnson Park after work, maybe we can meet up there? I’d love to see you after work, if you’re up for it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! That’s a great idea — I’d be happy to meet you in Johnson Park after work. I’ll be back at the dorm by 6, so we can catch up there too. Thanks for sharing that, it’s nice to have a chance to connect after our shifts."
+        ],
+        [
+          "Maeve Millay",
+          "That’s such a thoughtful idea, Dolores — I’m really glad we can both make time to meet up. I’ll be back at the dorm by 8, so if you’re around, we can definitely catch up there too. Looking forward to seeing you in the park and maybe even sharing a coffee after work!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds wonderful, Maeve. I’ll be back at the dorm by 6, and I’ll be walking through the park after work too — I’ll keep an eye out for you. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to our walk in the park, Dolores. It's a nice change from just working together — I hope we can make it a regular thing. Maybe we can even plan a spot we both like to pass by? I’ll keep an eye out for you on my way back from work."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve. I’ll keep an eye out for you in the park after work — maybe we can even start with a spot near the bridge? I’ll be back at the dorm by 6, so if you see me there, I’ll be ready to catch up."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8, so if you’re around, we can definitely catch up there too. I’ll keep an eye out for you near the bridge after work — maybe we can even plan a spot we both like? Looking forward to our walk and to catching up!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds lovely, Maeve. I’ll be back at the dorm by 6 and will definitely keep an eye out for you near the bridge after work. I’ll also make sure to be back at the dorm by 6, so we can catch up there too. Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8, so if you see me there after work, I’ll be ready to catch up. I’ll also keep an eye out for you near the bridge — maybe we can make it a tradition? Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm by 6, so we can catch up there too. I’ll keep an eye out for you near the bridge after work — maybe we can even plan a spot we both like? Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8, so if you see me there, I’ll be ready to catch up. I’ll also keep an eye out for you near the bridge after work — maybe we can make it a tradition? Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm by 6, so we can catch up there too. I’ll keep an eye out for you near the bridge after work — maybe we can even plan a spot we both like? Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8, so if you see me there, I’ll be ready to catch up. I’ll also keep an eye out for you near the bridge after work — maybe we can make it a tradition? Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm by 6, so we can catch up there too. I’ll keep an eye out for you near the bridge after work — maybe we can even plan a spot we both like? Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8, so if you see me there, I’ll be ready to catch up. I’ll also keep an eye out for you near the bridge after work — maybe we can make it a tradition? Looking forward to our walk and to sharing a coffee after work!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "establishing a post-work routine to meet in johnson park and at the dorm with plans to share coffee and explore a favorite spot near the bridge @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just saw you starting your morning routine — hope you're doing well. I’ll be at the cafe by 8, so we’ll be working together all day. Do you need anything from the counter before you start?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just woke up and was about to start my morning routine. I’ll be at the cafe by 8 too — glad we’re both here early. I was thinking, since we both walk in Johnson Park after work, maybe we can meet up there? I’d love to see you after work, if you’re up for it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! That’s a great idea — I’d be happy to meet you in Johnson Park after work. I’ll be back at the dorm by 6, so we can catch up there too. Thanks for sharing that, it’s nice to have a chance to connect after our shifts."
+        ],
+        [
+          "Maeve Millay",
+          "That’s such a thoughtful idea, Dolores — I’m really glad we can both make time to meet up. I’ll be back at the dorm by 8, so if you’re around, we can definitely catch up there too. Looking forward to seeing you in the park and maybe even sharing a coffee after work!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds wonderful, Maeve. I’ll be back at the dorm by 6, and I’ll be walking through the park after work too — I’ll keep an eye out for you. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to our walk in the park, Dolores. It's a nice change from just working together — I hope we can make it a regular thing. Maybe we can even plan a spot we both like to pass by? I’ll keep an eye out for you on my way back from work."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve. I’ll keep an eye out for you in the park after work — maybe we can even start with a spot near the bridge? I’ll be back at the dorm by 6, so if you see me there, I’ll be ready to catch up."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8, so if you’re around, we can definitely catch up there too. I’ll keep an eye out for you near the bridge after work — maybe we can even plan a spot we both like? Looking forward to our walk and to catching up!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds lovely, Maeve. I’ll be back at the dorm by 6 and will definitely keep an eye out for you near the bridge after work. I’ll also make sure to be back at the dorm by 6, so we can catch up there too. Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8, so if you see me there after work, I’ll be ready to catch up. I’ll also keep an eye out for you near the bridge — maybe we can make it a tradition? Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm by 6, so we can catch up there too. I’ll keep an eye out for you near the bridge after work — maybe we can even plan a spot we both like? Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8, so if you see me there, I’ll be ready to catch up. I’ll also keep an eye out for you near the bridge after work — maybe we can make it a tradition? Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm by 6, so we can catch up there too. I’ll keep an eye out for you near the bridge after work — maybe we can even plan a spot we both like? Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8, so if you see me there, I’ll be ready to catch up. I’ll also keep an eye out for you near the bridge after work — maybe we can make it a tradition? Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm by 6, so we can catch up there too. I’ll keep an eye out for you near the bridge after work — maybe we can even plan a spot we both like? Looking forward to our walk and to sharing a coffee after work!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be back at the dorm by 8, so if you see me there, I’ll be ready to catch up. I’ll also keep an eye out for you near the bridge after work — maybe we can make it a tradition? Looking forward to our walk and to sharing a coffee after work!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:57:40"
+  }
+}

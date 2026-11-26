@@ -1,2 +1,13 @@
-{"kw_strength_event": {},
- "kw_strength_thought": {}}
+{
+  "kw_strength_thought": {
+    "plan": 1
+  },
+  "kw_strength_event": {
+    "bed": 1,
+    "bernard lowe": 7,
+    "closet": 1,
+    "desk": 2,
+    "none": 12,
+    "shelf": 1
+  }
+}

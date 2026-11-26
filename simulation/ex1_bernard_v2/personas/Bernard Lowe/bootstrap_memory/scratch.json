@@ -2,8 +2,11 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": null,
-  "curr_tile": null,
+  "curr_time": "February 13, 2023, 07:30:00",
+  "curr_tile": [
+    73,
+    15
+  ],
   "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
   "name": "Bernard Lowe",
   "first_name": "Bernard",
@@ -14,47 +17,299 @@
   "currently": "Bernard is heading to the cafe to open up for the day.",
   "lifestyle": "Bernard Lowe wakes up around 7am, walks to Hobbs cafe, where he works from 8am to 4pm. He comes home and eats dinner around 8pm, goes to bed around 11pm.",
   "living_area": "the Ville:Bernard Lowe's apartment:main room",
-  "concept_forget": 100,
-  "daily_reflection_time": 180,
-  "daily_reflection_size": 5,
-  "overlap_reflect_th": 4,
-  "kw_strg_event_reflect_th": 10,
-  "kw_strg_thought_reflect_th": 9,
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
   "recency_w": 1,
   "relevance_w": 1,
   "importance_w": 1,
   "valence_w": 0,
-  "recency_decay": 0.99,
   "asymetric_encoding": false,
-  "negativity_bias": 1.0,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
   "importance_trigger_max": 75,
   "importance_trigger_curr": 75,
-  "importance_ele_n": 0,
-  "thought_count": 5,
-  "daily_req": [],
-  "f_daily_schedule": [],
-  "f_daily_schedule_hourly_org": [],
-  "act_address": null,
-  "act_start_time": null,
-  "act_duration": null,
-  "act_description": null,
-  "act_pronunciatio": null,
+  "importance_ele_n": 12,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe at 7:30 am",
+    "open Hobbs Cafe at 8:00 am",
+    "monitor baristas and manage operations from 8:00 am to 4:00 pm",
+    "close Hobbs Cafe at 4:00 pm",
+    "walk home from the cafe at 4:30 pm",
+    "have dinner at 8:00 pm",
+    "go to bed at 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing morning routine (waking up)",
+      5
+    ],
+    [
+      "completing morning routine (brushing teeth)",
+      5
+    ],
+    [
+      "completing morning routine (showering)",
+      5
+    ],
+    [
+      "completing morning routine (dressing)",
+      5
+    ],
+    [
+      "completing morning routine (checking the weather)",
+      5
+    ],
+    [
+      "completing morning routine (reviewing the day's schedule)",
+      5
+    ],
+    [
+      "completing morning routine (preparing breakfast)",
+      5
+    ],
+    [
+      "completing morning routine (drinking water)",
+      5
+    ],
+    [
+      "completing morning routine (organizing personal items)",
+      5
+    ],
+    [
+      "completing morning routine (checking phone messages)",
+      5
+    ],
+    [
+      "completing morning routine (reviewing coffee inventory)",
+      5
+    ],
+    [
+      "completing morning routine (finalizing morning routine)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (checking the weather forecast)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (reviewing the morning route)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (verifying the route map)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (confirming the coffee machine status)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (ensuring the parking spot is clear)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (checking the phone for messages)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (reviewing the daily sales report)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (confirming the opening checklist)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (walking to the cafe)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (double-checking the door lock)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at Hobbs Cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe",
+      60
+    ],
+    [
+      "monitoring baristas",
+      60
+    ],
+    [
+      "overseeing coffee preparation",
+      60
+    ],
+    [
+      "checking customer service standards",
+      60
+    ],
+    [
+      "reviewing barista performance",
+      60
+    ],
+    [
+      "inspecting equipment operation",
+      60
+    ],
+    [
+      "conducting daily operations review",
+      60
+    ],
+    [
+      "closing Hobbs Cafe",
+      60
+    ],
+    [
+      "walking home from the cafe",
+      60
+    ],
+    [
+      "eating dinner at home",
+      60
+    ],
+    [
+      "reading the news",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "responding to customer complaints",
+      60
+    ],
+    [
+      "checking his phone for messages",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing morning routine",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe",
+      60
+    ],
+    [
+      "monitoring baristas",
+      60
+    ],
+    [
+      "overseeing coffee preparation",
+      60
+    ],
+    [
+      "checking customer service standards",
+      60
+    ],
+    [
+      "reviewing barista performance",
+      60
+    ],
+    [
+      "inspecting equipment operation",
+      60
+    ],
+    [
+      "conducting daily operations review",
+      60
+    ],
+    [
+      "closing Hobbs Cafe",
+      60
+    ],
+    [
+      "walking home from the cafe",
+      60
+    ],
+    [
+      "eating dinner at home",
+      60
+    ],
+    [
+      "reading the news",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "responding to customer complaints",
+      60
+    ],
+    [
+      "checking his phone for messages",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Bernard Lowe's apartment:main room:refrigerator",
+  "act_start_time": "February 13, 2023, 07:30:00",
+  "act_duration": 5,
+  "act_description": "completing morning routine (preparing breakfast)",
+  "act_pronunciatio": "🍳",
   "act_event": [
     "Bernard Lowe",
-    null,
-    null
+    "preparing",
+    "None"
   ],
-  "act_obj_description": null,
-  "act_obj_pronunciatio": null,
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "🔧",
   "act_obj_event": [
-    null,
-    null,
-    null
+    "refrigerator",
+    "being used",
+    "None"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {},
   "chatting_end_time": null,
-  "act_path_set": false,
-  "planned_path": []
+  "act_path_set": true,
+  "planned_path": [
+    [
+      73,
+      14
+    ],
+    [
+      74,
+      14
+    ],
+    [
+      75,
+      14
+    ]
+  ]
 }

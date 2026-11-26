@@ -2,8 +2,11 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": null,
-  "curr_tile": null,
+  "curr_time": "February 13, 2023, 07:30:00",
+  "curr_tile": [
+    123,
+    57
+  ],
   "daily_plan_req": "Dolores Abernathy wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she goes straight back to her room at the dorm and reads. She has dinner at the dorm at 6pm. She spends the rest of the evening reading and working on the computer in her room. She goes to bed at 11pm.",
   "name": "Dolores Abernathy",
   "first_name": "Dolores",
@@ -14,47 +17,234 @@
   "currently": "Dolores is starting her day and heading to work at Hobbs Cafe.",
   "lifestyle": "Dolores Abernathy wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she reads in her room. She has dinner around 6pm. She reads in her room until she goes to bed at 11pm.",
   "living_area": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room",
-  "concept_forget": 100,
-  "daily_reflection_time": 180,
-  "daily_reflection_size": 5,
-  "overlap_reflect_th": 4,
-  "kw_strg_event_reflect_th": 10,
-  "kw_strg_thought_reflect_th": 9,
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
   "recency_w": 1,
   "relevance_w": 1,
   "importance_w": 1,
   "valence_w": 0,
-  "recency_decay": 0.99,
   "asymetric_encoding": false,
-  "negativity_bias": 1.0,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 75,
-  "importance_ele_n": 0,
-  "thought_count": 5,
-  "daily_req": [],
-  "f_daily_schedule": [],
-  "f_daily_schedule_hourly_org": [],
-  "act_address": null,
-  "act_start_time": null,
-  "act_duration": null,
-  "act_description": null,
-  "act_pronunciatio": null,
+  "importance_trigger_curr": 70,
+  "importance_ele_n": 9,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "have breakfast at 7:30 am",
+    "walk to Hobbs Cafe by 8:00 am",
+    "work the counter from 8:00 am to 4:00 pm",
+    "have dinner at 6:00 pm",
+    "read a book from 6:30 pm to 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine (waking up)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (checking the phone for messages)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (reviewing the day's schedule)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed)",
+      1
+    ],
+    [
+      "grabbing coffee and heading out together before the cafe gets busy",
+      1
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed)",
+      4
+    ],
+    [
+      "waking up and completing the morning routine (putting on clothes)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (brushing teeth)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (showering)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (drying hair)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (applying skincare)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (gathering morning items)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (placing items in backpack)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (leaving the room)",
+      5
+    ],
+    [
+      "having breakfast (preparing breakfast items)",
+      5
+    ],
+    [
+      "having breakfast (checking the kitchen supplies)",
+      5
+    ],
+    [
+      "having breakfast (setting the table)",
+      5
+    ],
+    [
+      "having breakfast (pouring coffee)",
+      5
+    ],
+    [
+      "having breakfast (preparing toast)",
+      5
+    ],
+    [
+      "having breakfast (grilling bacon)",
+      5
+    ],
+    [
+      "having breakfast (making fruit salad)",
+      5
+    ],
+    [
+      "having breakfast (arranging breakfast dishes)",
+      5
+    ],
+    [
+      "having breakfast (adding milk to coffee)",
+      5
+    ],
+    [
+      "having breakfast (placing items on the table)",
+      5
+    ],
+    [
+      "having breakfast (cleaning the counter)",
+      5
+    ],
+    [
+      "having breakfast (finalizing breakfast setup)",
+      4
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      360
+    ],
+    [
+      "ending work shift",
+      60
+    ],
+    [
+      "going home to the dorm",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "reading a book",
+      240
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      360
+    ],
+    [
+      "ending work shift",
+      60
+    ],
+    [
+      "going home to the dorm",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "reading a book",
+      240
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+  "act_start_time": "February 13, 2023, 07:27:00",
+  "act_duration": 5,
+  "act_description": "waking up and completing the morning routine (brushing teeth)",
+  "act_pronunciatio": "🌅✨",
   "act_event": [
     "Dolores Abernathy",
-    null,
-    null
+    "waking up",
+    "None"
   ],
-  "act_obj_description": null,
-  "act_obj_pronunciatio": null,
+  "act_obj_description": "occupied",
+  "act_obj_pronunciatio": "🏠",
   "act_obj_event": [
-    null,
-    null,
-    null
+    "bed",
+    "is occupied",
+    "None"
   ],
   "chatting_with": null,
   "chat": null,
-  "chatting_with_buffer": {},
+  "chatting_with_buffer": {
+    "Maeve Millay": 37
+  },
   "chatting_end_time": null,
-  "act_path_set": false,
-  "planned_path": []
+  "act_path_set": true,
+  "planned_path": null
 }

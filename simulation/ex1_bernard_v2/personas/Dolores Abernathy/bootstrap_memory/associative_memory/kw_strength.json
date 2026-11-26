@@ -1,2 +1,18 @@
-{"kw_strength_event": {},
- "kw_strength_thought": {}}
+{
+  "kw_strength_thought": {
+    "dolores abernathy": 2,
+    "none": 2,
+    "plan": 1,
+    "remember to grab a coffee at the cafe": 1,
+    "suggested": 1
+  },
+  "kw_strength_event": {
+    "bed": 1,
+    "common room sofa": 1,
+    "computer": 1,
+    "dolores abernathy": 3,
+    "kitchen sink": 1,
+    "maeve millay": 3,
+    "none": 8
+  }
+}
