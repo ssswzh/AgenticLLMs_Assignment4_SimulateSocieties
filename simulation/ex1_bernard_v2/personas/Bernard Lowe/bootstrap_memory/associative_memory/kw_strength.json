@@ -4,10 +4,13 @@
   },
   "kw_strength_event": {
     "bed": 1,
-    "bernard lowe": 7,
+    "behind the cafe counter": 1,
+    "bernard lowe": 14,
+    "cafe customer seating": 2,
     "closet": 1,
-    "desk": 2,
-    "none": 12,
+    "desk": 5,
+    "none": 27,
+    "refrigerator": 2,
     "shelf": 1
   }
 }

@@ -1,17 +1,22 @@
 {
   "kw_strength_thought": {
-    "learned": 1,
-    "maeve millay": 2,
+    "learned": 2,
+    "maeve millay": 4,
     "meet": 1,
-    "none": 2,
+    "meeting": 1,
+    "none": 4,
     "plan": 1
   },
   "kw_strength_event": {
-    "bed": 1,
-    "dolores abernathy": 2,
-    "kitchen sink": 3,
-    "maeve millay": 4,
-    "none": 9,
-    "refrigerator": 1
+    "bed": 2,
+    "dolores abernathy": 12,
+    "hallway": 1,
+    "kitchen sink": 7,
+    "maeve millay": 17,
+    "none": 33,
+    "refrigerator": 3,
+    "shoes": 1,
+    "toast": 1,
+    "toaster": 3
   }
 }

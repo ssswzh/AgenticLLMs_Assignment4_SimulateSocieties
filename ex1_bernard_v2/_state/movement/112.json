@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciato": "👕",
+      "description": "completing morning routine (dressing) @ the Ville:Bernard Lowe's apartment:main room:closet",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciato": "💬",
+      "description": "grabbing coffee and heading out together before the cafe gets busy @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just woke up and was getting ready for the day. How are you doing?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just woke up too. Morning coffee is ready in the kitchen—would you like to grab a cup before we head to work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve! I’ll take one. Just need to get my coffee and head to work. See you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Sure! I’ll grab a cup with you. Let’s head out before the cafe gets too busy."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve! I’ll grab my coffee and head out. See you at the cafe when you get there."
+        ],
+        [
+          "Maeve Millay",
+          "Sure! I’ll grab a cup with you. Let’s head out before the cafe gets too busy."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve! I’ll grab my coffee and head out. See you at the cafe."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        123,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "grabbing coffee and heading out together before the cafe gets busy @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just woke up and was getting ready for the day. How are you doing?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just woke up too. Morning coffee is ready in the kitchen—would you like to grab a cup before we head to work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve! I’ll take one. Just need to get my coffee and head to work. See you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Sure! I’ll grab a cup with you. Let’s head out before the cafe gets too busy."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve! I’ll grab my coffee and head out. See you at the cafe when you get there."
+        ],
+        [
+          "Maeve Millay",
+          "Sure! I’ll grab a cup with you. Let’s head out before the cafe gets too busy."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve! I’ll grab my coffee and head out. See you at the cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:17:40"
+  }
+}

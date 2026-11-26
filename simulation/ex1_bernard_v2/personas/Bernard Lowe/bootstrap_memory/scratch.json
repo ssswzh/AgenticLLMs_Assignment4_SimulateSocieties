@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 07:30:00",
+  "curr_time": "February 13, 2023, 08:32:10",
   "curr_tile": [
-    73,
-    15
+    78,
+    21
   ],
   "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
   "name": "Bernard Lowe",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 75,
-  "importance_ele_n": 12,
+  "importance_trigger_curr": 70,
+  "importance_ele_n": 27,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -142,8 +142,52 @@
       5
     ],
     [
-      "opening Hobbs Cafe",
-      60
+      "opening Hobbs Cafe (unlocking the front door)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (checking the security system)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (verifying the oven temperature)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (inspecting the espresso machine)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (opening the cold storage unit)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (checking the coffee inventory)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (ensuring the sink is clean)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (activating the coffee grinder)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (turning on the lights)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (setting up the register)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (preparing the daily menu board)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (confirming the water supply)",
+      5
     ],
     [
       "monitoring baristas",
@@ -276,21 +320,21 @@
       60
     ]
   ],
-  "act_address": "the Ville:Bernard Lowe's apartment:main room:refrigerator",
-  "act_start_time": "February 13, 2023, 07:30:00",
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 08:30:00",
   "act_duration": 5,
-  "act_description": "completing morning routine (preparing breakfast)",
-  "act_pronunciatio": "🍳",
+  "act_description": "walking to Hobbs Cafe (reviewing the daily sales report)",
+  "act_pronunciatio": "🚶‍♂️",
   "act_event": [
     "Bernard Lowe",
-    "preparing",
+    "walking",
     "None"
   ],
-  "act_obj_description": "being used",
-  "act_obj_pronunciatio": "🔧",
+  "act_obj_description": "unoccupied",
+  "act_obj_pronunciatio": "✨",
   "act_obj_event": [
-    "refrigerator",
-    "being used",
+    "cafe customer seating",
+    "is unoccupied",
     "None"
   ],
   "chatting_with": null,
@@ -298,18 +342,5 @@
   "chatting_with_buffer": {},
   "chatting_end_time": null,
   "act_path_set": true,
-  "planned_path": [
-    [
-      73,
-      14
-    ],
-    [
-      74,
-      14
-    ],
-    [
-      75,
-      14
-    ]
-  ]
+  "planned_path": null
 }

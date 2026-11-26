@@ -13,15 +13,15 @@
         "blackboard"
       ],
       "Meave Millay's room": [
-        "bed",
         "game console",
         "closet",
-        "desk"
+        "desk",
+        "bed"
       ],
       "common room": [
+        "common room table",
         "common room sofa",
-        "pool table",
-        "common room table"
+        "pool table"
       ],
       "garden": [
         "dorm garden"
@@ -52,12 +52,12 @@
     },
     "Hobbs Cafe": {
       "cafe": [
-        "piano",
-        "refrigerator",
-        "cafe customer seating",
         "cooking area",
         "kitchen sink",
-        "behind the cafe counter"
+        "behind the cafe counter",
+        "piano",
+        "refrigerator",
+        "cafe customer seating"
       ]
     },
     "Johnson Park": {
@@ -91,12 +91,12 @@
     },
     "The Willows Market and Pharmacy": {
       "store": [
+        "behind the grocery counter",
         "grocery store counter",
         "pharmacy store shelf",
         "pharmacy store counter",
         "behind the pharmacy counter",
-        "grocery store shelf",
-        "behind the grocery counter"
+        "grocery store shelf"
       ]
     }
   }

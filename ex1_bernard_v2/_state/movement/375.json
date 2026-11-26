@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "🚶‍♂️☁️",
+      "description": "walking to Hobbs Cafe (checking the weather forecast) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        116,
+        43
+      ],
+      "pronunciato": "💬",
+      "description": "meeting at the cafe by 8:00 to share morning coffee and discuss new menu ideas with a focus on oat milk lattes and cinnamon scones @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I saw you heading out—hope you’re doing well. I was just about to head to the cafe too. Want to grab a coffee together before it gets busy? I know you love a good morning brew."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! That’s actually a great idea—thanks for suggesting it. I was just about to head out too. I’ll grab a coffee and we can meet at the cafe before it gets too busy. I’ve been meaning to try that new oat milk latte—what do you think? I’ll keep an eye out for it."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds perfect, Dolores! I’ll be right there—maybe we can even share some of the morning pastries while we wait. I’ve been saving the cinnamon scones for the first batch of the day, so they’ll be fresh when we get there."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a wonderful plan, Maeve! I’ll be right there—just need to grab my bag and we can head over together. I’ll even bring a notebook to jot down some ideas for the new menu—maybe we can share some of our favorite drinks and see what we can suggest to Bernard."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a great plan, Dolores! I’ll be ready by 7:45—just need to make sure I’ve got my apron and the fresh scones ready. Let’s meet at the cafe by 8:00, okay? I’ll even bring a few of the new cinnamon scones we’ve been testing—just in case you want to try one before we go."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a great plan, Maeve! I’ll be ready by 8:00—just need to make sure I’ve got my apron and my notebook. I’ll even bring a few of the new scones we’ve been testing too. Let’s make it a great start to the day!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a great plan, Dolores! I’ll be ready by 8:00—let’s make it a great start to the day."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        116,
+        44
+      ],
+      "pronunciato": "💬",
+      "description": "meeting at the cafe by 8:00 to share morning coffee and discuss new menu ideas with a focus on oat milk lattes and cinnamon scones @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I saw you heading out—hope you’re doing well. I was just about to head to the cafe too. Want to grab a coffee together before it gets busy? I know you love a good morning brew."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! That’s actually a great idea—thanks for suggesting it. I was just about to head out too. I’ll grab a coffee and we can meet at the cafe before it gets too busy. I’ve been meaning to try that new oat milk latte—what do you think? I’ll keep an eye out for it."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds perfect, Dolores! I’ll be right there—maybe we can even share some of the morning pastries while we wait. I’ve been saving the cinnamon scones for the first batch of the day, so they’ll be fresh when we get there."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a wonderful plan, Maeve! I’ll be right there—just need to grab my bag and we can head over together. I’ll even bring a notebook to jot down some ideas for the new menu—maybe we can share some of our favorite drinks and see what we can suggest to Bernard."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a great plan, Dolores! I’ll be ready by 7:45—just need to make sure I’ve got my apron and the fresh scones ready. Let’s meet at the cafe by 8:00, okay? I’ll even bring a few of the new cinnamon scones we’ve been testing—just in case you want to try one before we go."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a great plan, Maeve! I’ll be ready by 8:00—just need to make sure I’ve got my apron and my notebook. I’ll even bring a few of the new scones we’ve been testing too. Let’s make it a great start to the day!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a great plan, Dolores! I’ll be ready by 8:00—let’s make it a great start to the day."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:01:30"
+  }
+}

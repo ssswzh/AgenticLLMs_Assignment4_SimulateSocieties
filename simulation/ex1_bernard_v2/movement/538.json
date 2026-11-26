@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        21
+      ],
+      "pronunciato": "🚶‍♂️",
+      "description": "walking to Hobbs Cafe (checking the phone for messages) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "co-creating a seasonal oat milk latte menu with fresh cinnamon scones and shared workflow routines @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I just saw you heating the milk—great to see you're already all set! I thought we should head out early since the cafe gets busy by 8. I’ll grab the oat milk latte and try the cinnamon scones you mentioned. What do you think about adding more oat milk options to the menu?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds awesome, Dolores! I'm really glad you're excited about the oat milk latte—it’s been a favorite of mine too. Since you’re already planning to try it, maybe we can work together to get more oat milk options on the menu. I’ll make sure to have fresh cinnamon scones ready for you to share when we’re both working. Just like how we’ve always done things together—simple, practical, and full of good vibes!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That’s a great idea, Maeve. I’ll bring my notebook to the cafe today and jot down some ideas for oat milk latte variations—maybe even a seasonal blend with cinnamon and cardamom. I’ll also make sure to try the new scones when we’re both working. Thanks for having the fresh ones ready—I’ll be sure to share a few of them with the team during the shift."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds perfect, Dolores! I’ll make sure to have the oat milk latte station ready and the cinnamon scones fresh by 8. Since you’re already thinking about seasonal blends, maybe we can even plan a special menu for next month—like a 'Cinnamon \u0026 Cardamom' oat milk latte. I’ll bring my apron too, just like we always do. Let’s keep it simple and focused, but full of good ideas—just like how we’ve always worked together!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a fantastic plan, Maeve. I’ll bring my notebook and make a few notes on the oat milk latte ideas—maybe even a version with a hint of vanilla and a touch of nutmeg for a warming effect. I’ll also keep an eye out for the scones and share a few with the team. Thanks again for making the fresh ones ready—this is what I love about working with you. Let’s make sure to keep the menu fresh and full of good things, just like we always do."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a wonderful plan, Dolores! I’ll make sure the oat milk latte station is ready and the scones are fresh by 8. I’ll also keep an eye out for the new scones and share a few with the team too. Thanks for the great ideas—let’s make sure to keep the menu both fresh and full of good things, just like we always do!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll make sure to check the new scones and oat milk latte station when I get there too—just to confirm everything is set. Thanks again for your help, Maeve. I’m really looking forward to seeing how the menu evolves with your ideas."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll have the oat milk latte station ready and the scones fresh by 8. I’ll also keep an eye out for any new ideas you come up with—just like how we’ve always done things together. Thanks again for the great conversation, I’m excited to see how the menu evolves with your seasonal blends!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll make sure to grab my apron and notebook when I head out—thanks again for the great ideas, Maeve. I’m excited to see how the new menu turns out with our collaboration!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll have the oat milk latte station ready and the cinnamon scones fresh by 8, just like we’ve always done. Thanks again for the great ideas, Dolores—I’m excited to see how the new menu turns out with our collaboration!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the cafe by 8, ready to grab the oat milk latte and try the new scones. I’ll also bring my notebook and apron—thanks again for making the menu so exciting to work on!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll have the oat milk latte station ready and the cinnamon scones fresh by 8. I’ll also keep an eye out for any new ideas you come up with—just like how we’ve always done things together. Thanks again for the great conversation, I’m excited to see how the new menu turns out with our collaboration!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the cafe by 8, ready to grab the oat milk latte and try the new scones. I’ll also bring my notebook and apron—thanks again for making the menu so exciting to work on!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll have the oat milk latte station ready and the cinnamon scones fresh by 8, just like we’ve always done. Thanks again for the great ideas, Dolores—I’m excited to see how the new menu turns out with our collaboration!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the cafe by 8, ready to grab the oat milk latte and try the new scones. I’ll also bring my notebook and apron—thanks again for making the menu so exciting to work on!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll have the oat milk latte station ready and the cinnamon scones fresh by 8, just like we’ve always done. Thanks again for the great ideas, Dolores—I’m excited to see how the new menu turns out with our collaboration!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "co-creating a seasonal oat milk latte menu with fresh cinnamon scones and shared workflow routines @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I just saw you heating the milk—great to see you're already all set! I thought we should head out early since the cafe gets busy by 8. I’ll grab the oat milk latte and try the cinnamon scones you mentioned. What do you think about adding more oat milk options to the menu?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds awesome, Dolores! I'm really glad you're excited about the oat milk latte—it’s been a favorite of mine too. Since you’re already planning to try it, maybe we can work together to get more oat milk options on the menu. I’ll make sure to have fresh cinnamon scones ready for you to share when we’re both working. Just like how we’ve always done things together—simple, practical, and full of good vibes!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That’s a great idea, Maeve. I’ll bring my notebook to the cafe today and jot down some ideas for oat milk latte variations—maybe even a seasonal blend with cinnamon and cardamom. I’ll also make sure to try the new scones when we’re both working. Thanks for having the fresh ones ready—I’ll be sure to share a few of them with the team during the shift."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds perfect, Dolores! I’ll make sure to have the oat milk latte station ready and the cinnamon scones fresh by 8. Since you’re already thinking about seasonal blends, maybe we can even plan a special menu for next month—like a 'Cinnamon \u0026 Cardamom' oat milk latte. I’ll bring my apron too, just like we always do. Let’s keep it simple and focused, but full of good ideas—just like how we’ve always worked together!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a fantastic plan, Maeve. I’ll bring my notebook and make a few notes on the oat milk latte ideas—maybe even a version with a hint of vanilla and a touch of nutmeg for a warming effect. I’ll also keep an eye out for the scones and share a few with the team. Thanks again for making the fresh ones ready—this is what I love about working with you. Let’s make sure to keep the menu fresh and full of good things, just like we always do."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a wonderful plan, Dolores! I’ll make sure the oat milk latte station is ready and the scones are fresh by 8. I’ll also keep an eye out for the new scones and share a few with the team too. Thanks for the great ideas—let’s make sure to keep the menu both fresh and full of good things, just like we always do!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll make sure to check the new scones and oat milk latte station when I get there too—just to confirm everything is set. Thanks again for your help, Maeve. I’m really looking forward to seeing how the menu evolves with your ideas."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll have the oat milk latte station ready and the scones fresh by 8. I’ll also keep an eye out for any new ideas you come up with—just like how we’ve always done things together. Thanks again for the great conversation, I’m excited to see how the menu evolves with your seasonal blends!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll make sure to grab my apron and notebook when I head out—thanks again for the great ideas, Maeve. I’m excited to see how the new menu turns out with our collaboration!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll have the oat milk latte station ready and the cinnamon scones fresh by 8, just like we’ve always done. Thanks again for the great ideas, Dolores—I’m excited to see how the new menu turns out with our collaboration!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the cafe by 8, ready to grab the oat milk latte and try the new scones. I’ll also bring my notebook and apron—thanks again for making the menu so exciting to work on!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I’ll have the oat milk latte station ready and the cinnamon scones fresh by 8. I’ll also keep an eye out for any new ideas you come up with—just like how we’ve always done things together. Thanks again for the great conversation, I’m excited to see how the new menu turns out with our collaboration!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the cafe by 8, ready to grab the oat milk latte and try the new scones. I’ll also bring my notebook and apron—thanks again for making the menu so exciting to work on!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll have the oat milk latte station ready and the cinnamon scones fresh by 8, just like we’ve always done. Thanks again for the great ideas, Dolores—I’m excited to see how the new menu turns out with our collaboration!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the cafe by 8, ready to grab the oat milk latte and try the new scones. I’ll also bring my notebook and apron—thanks again for making the menu so exciting to work on!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll have the oat milk latte station ready and the cinnamon scones fresh by 8, just like we’ve always done. Thanks again for the great ideas, Dolores—I’m excited to see how the new menu turns out with our collaboration!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:28:40"
+  }
+}

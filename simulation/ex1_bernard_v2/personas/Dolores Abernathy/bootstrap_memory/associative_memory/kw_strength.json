@@ -1,18 +1,25 @@
 {
   "kw_strength_thought": {
-    "dolores abernathy": 2,
-    "none": 2,
+    "dolores abernathy": 4,
+    "found it noteworthy that": 1,
+    "meet": 1,
+    "none": 4,
     "plan": 1,
     "remember to grab a coffee at the cafe": 1,
     "suggested": 1
   },
   "kw_strength_event": {
-    "bed": 1,
+    "bathroom sink": 2,
+    "bed": 3,
     "common room sofa": 1,
     "computer": 1,
-    "dolores abernathy": 3,
-    "kitchen sink": 1,
-    "maeve millay": 3,
-    "none": 8
+    "dolores abernathy": 14,
+    "kitchen sink": 2,
+    "maeve millay": 13,
+    "none": 28,
+    "refrigerator": 2,
+    "skincare": 1,
+    "toast": 1,
+    "toaster": 2
   }
 }
