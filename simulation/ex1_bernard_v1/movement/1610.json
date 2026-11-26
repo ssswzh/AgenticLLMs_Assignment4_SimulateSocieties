@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "👀",
+      "description": "monitoring the baristas' work (checking barista shift assignments) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "meeting near the bridge daily with a book and coffee to share quiet peace @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, I just saw you setting up the espresso machine—everything looks good. I’ll be back at the dorm by 6, so I can meet you near the bridge after work. I’ll bring my favorite book and a smile, just like we’ve been doing. It’s nice to have a quiet routine, especially after such a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "Hi Dolores, that’s so kind of you—thanks for remembering the bridge routine. I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit. I’ll be keeping an eye out near the bridge after work too. It’s a quiet spot, and I really feel it helps us both unwind. Looking forward to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm by 6, just like we agreed. I’ll keep an eye out near the bridge after work too. It’s a small thing, but it feels like a quiet promise—something we both value. Thanks for making it part of your day as well, Maeve. It really means a lot."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks for making it part of your day too, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks for making it part of your day too, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we agreed. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks for making it part of your day too, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks for making it part of your day too, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and a piece of fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks again for making it part of your day too, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and a piece of fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks again for making it part of your day too, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and a piece of fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks again for making it part of your day too, Dolores. I really appreciate it."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "meeting near the bridge daily with a book and coffee to share quiet peace @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, I just saw you setting up the espresso machine—everything looks good. I’ll be back at the dorm by 6, so I can meet you near the bridge after work. I’ll bring my favorite book and a smile, just like we’ve been doing. It’s nice to have a quiet routine, especially after such a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "Hi Dolores, that’s so kind of you—thanks for remembering the bridge routine. I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit. I’ll be keeping an eye out near the bridge after work too. It’s a quiet spot, and I really feel it helps us both unwind. Looking forward to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back at the dorm by 6, just like we agreed. I’ll keep an eye out near the bridge after work too. It’s a small thing, but it feels like a quiet promise—something we both value. Thanks for making it part of your day as well, Maeve. It really means a lot."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks for making it part of your day too, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks for making it part of your day too, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we agreed. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks for making it part of your day too, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks for making it part of your day too, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and a piece of fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks again for making it part of your day too, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and a piece of fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks again for making it part of your day too, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 8 with the coffee and a piece of fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks again for making it part of your day too, Dolores. I really appreciate it."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:27:20"
+  }
+}

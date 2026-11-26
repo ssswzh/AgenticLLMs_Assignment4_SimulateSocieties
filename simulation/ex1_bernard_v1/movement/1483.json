@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. The beans are organized and ready for the morning shift. Everything looks set for the day. I was just about to start serving when I saw you walking through—hope I didn’t interrupt anything."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Beans organized? Good. But you're rushing to the back of the station again—supplies are already checked, and the kitchen sink is unused. Stay focused on the counter. Your customers need you here, not behind the counter. I’ll walk past in five minutes to verify everything is ready. Don’t make a habit of it."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'll keep my focus on the counter and make sure everything is ready for the morning shift. I appreciate you checking in—I’ll stay attentive and not stray from my duties."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I noticed you checked the inventory again—just a moment ago—when it was already confirmed. Keep your eyes on the counter and serve the customers. If you need anything, ask. But don’t wander off. I’ll be back in five minutes to verify the espresso machine, water level, and oven temperature. Make sure everything is set before 8:05. I’ll be watching. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'll stay focused on the counter and make sure everything is ready for the morning shift. I appreciate you checking in—I’ll stay attentive and not stray from my duties."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be back in five minutes to walk past the counter and confirm everything is ready. Keep serving customers—your presence here matters. Don’t go back to the back unless you’re actually needed. I’ll check the espresso machine, water level, and oven temperature before 8:05. Stay sharp, stay focused. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll stay right here at the counter and focus on serving customers. I’ve got the beans organized and everything set—thank you for the reminder. I’ll make sure to keep an eye on the front and not stray behind."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I'll be back in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Keep serving customers—your attention here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll stay right here at the counter and focus on serving customers. I’ve got the beans organized and everything set—thank you for the reminder. I’ll make sure to keep an eye on the front and not stray behind."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be back in five minutes to check the espresso machine, water level, and oven temperature. Keep serving customers—your presence here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll stay right here at the counter and focus on serving customers. I’ve got the beans organized and everything set—thank you for the reminder. I’ll make sure to keep an eye on the front and not stray behind."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be back in five minutes to confirm the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Keep serving customers—your presence here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'm staying right here at the counter, serving customers as we go. I’ll keep an eye on the front and make sure everything runs smoothly. Thanks for the reminder—I’ll stay focused and not wander off."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be back in five minutes to verify everything is ready. Keep serving customers—your presence here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'm staying right here at the counter, serving customers as we go. I’ll keep an eye on the front and make sure everything runs smoothly. Thanks for the reminder—I’ll stay focused and not wander off."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be back in five minutes to check everything—espresso machine, water level, oven temperature. Keep serving. Don’t wander. I’ll be watching. Stay sharp."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "serving customers at the counter (organizing coffee beans by type) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. The beans are organized and ready for the morning shift. Everything looks set for the day. I was just about to start serving when I saw you walking through—hope I didn’t interrupt anything."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Beans organized? Good. But you're rushing to the back of the station again—supplies are already checked, and the kitchen sink is unused. Stay focused on the counter. Your customers need you here, not behind the counter. I’ll walk past in five minutes to verify everything is ready. Don’t make a habit of it."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'll keep my focus on the counter and make sure everything is ready for the morning shift. I appreciate you checking in—I’ll stay attentive and not stray from my duties."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I noticed you checked the inventory again—just a moment ago—when it was already confirmed. Keep your eyes on the counter and serve the customers. If you need anything, ask. But don’t wander off. I’ll be back in five minutes to verify the espresso machine, water level, and oven temperature. Make sure everything is set before 8:05. I’ll be watching. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'll stay focused on the counter and make sure everything is ready for the morning shift. I appreciate you checking in—I’ll stay attentive and not stray from my duties."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be back in five minutes to walk past the counter and confirm everything is ready. Keep serving customers—your presence here matters. Don’t go back to the back unless you’re actually needed. I’ll check the espresso machine, water level, and oven temperature before 8:05. Stay sharp, stay focused. I’ll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll stay right here at the counter and focus on serving customers. I’ve got the beans organized and everything set—thank you for the reminder. I’ll make sure to keep an eye on the front and not stray behind."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I'll be back in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Keep serving customers—your attention here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll stay right here at the counter and focus on serving customers. I’ve got the beans organized and everything set—thank you for the reminder. I’ll make sure to keep an eye on the front and not stray behind."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be back in five minutes to check the espresso machine, water level, and oven temperature. Keep serving customers—your presence here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll stay right here at the counter and focus on serving customers. I’ve got the beans organized and everything set—thank you for the reminder. I’ll make sure to keep an eye on the front and not stray behind."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be back in five minutes to confirm the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Keep serving customers—your presence here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'm staying right here at the counter, serving customers as we go. I’ll keep an eye on the front and make sure everything runs smoothly. Thanks for the reminder—I’ll stay focused and not wander off."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be back in five minutes to verify everything is ready. Keep serving customers—your presence here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'm staying right here at the counter, serving customers as we go. I’ll keep an eye on the front and make sure everything runs smoothly. Thanks for the reminder—I’ll stay focused and not wander off."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be back in five minutes to check everything—espresso machine, water level, oven temperature. Keep serving. Don’t wander. I’ll be watching. Stay sharp."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:06:10"
+  }
+}

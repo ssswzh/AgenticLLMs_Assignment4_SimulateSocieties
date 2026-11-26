@@ -1,16 +1,30 @@
 {
   "the Ville": {
+    "Bernard Lowe's apartment": {
+      "bathroom": [
+        "bathroom sink",
+        "shower",
+        "toilet"
+      ],
+      "main room": [
+        "bed",
+        "refrigerator",
+        "closet",
+        "shelf",
+        "desk"
+      ]
+    },
     "Dorm for Oak Hill College": {
       "Ayesha Khan's room": [
         "desk",
         "shelf"
       ],
       "Dolores Abernathy's room": [
+        "desk",
         "blackboard",
         "bed",
         "closet",
-        "computer",
-        "desk"
+        "computer"
       ],
       "Meave Millay's room": [
         "game console",
@@ -30,20 +44,31 @@
         "dorm garden"
       ],
       "kitchen": [
-        "cooking area",
         "toaster",
         "kitchen sink",
-        "refrigerator"
+        "refrigerator",
+        "cooking area"
       ],
       "man's bathroom": [
-        "shower",
         "bathroom sink",
-        "toilet"
+        "toilet",
+        "shower"
       ],
       "woman's bathroom": [
         "toilet",
         "shower",
         "bathroom sink"
+      ]
+    },
+    "Giorgio Rossi's apartment": {
+      "bathroom": [
+        "shower",
+        "bathroom sink"
+      ],
+      "main room": [
+        "bed",
+        "blackboard",
+        "desk"
       ]
     },
     "Harvey Oak Supply Store": {
@@ -70,15 +95,27 @@
     },
     "Oak Hill College": {
       "classroom": [
+        "blackboard",
         "classroom podium",
-        "classroom student seating",
-        "blackboard"
+        "classroom student seating"
       ],
       "hallway": [],
       "library": [
         "library sofa",
         "library table",
         "bookshelf"
+      ]
+    },
+    "Ryan Park's apartment": {
+      "bathroom": [
+        "bathroom sink",
+        "toilet"
+      ],
+      "main room": [
+        "cooking area",
+        "refrigerator",
+        "closet",
+        "kitchen sink"
       ]
     },
     "The Rose and Crown Pub": {
@@ -94,12 +131,12 @@
     },
     "The Willows Market and Pharmacy": {
       "store": [
-        "pharmacy store shelf",
         "pharmacy store counter",
         "behind the pharmacy counter",
         "grocery store shelf",
         "behind the grocery counter",
-        "grocery store counter"
+        "grocery store counter",
+        "pharmacy store shelf"
       ]
     }
   }

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciato": "👀",
+      "description": "monitoring the baristas' work (reviewing daily performance logs) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "establishing a quiet routine of shared coffee, books, and silent walks by the bridge @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores, I just finished setting up the espresso machine. Everything looks good—should be ready by 8:05. How’s the counter going? I noticed you were checking it over, and I thought it was a nice little routine we both have."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, the counter looks great too—thanks for checking it. I was just making sure everything was in order before the rush. I’ll be back at the dorm by 6, and I’ll bring my favorite book and a smile for our coffee and walk after work. I’ve been meaning to explore Johnson Park near the bridge, and I think we could make it a regular tradition."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds lovely, Dolores. I’ve been meaning to walk the path near the bridge more often too—especially after work. It’s a quiet place, and I think it’s perfect for a simple, steady kind of connection. I’ll be there after work, just like you. Maybe we can even start a little tradition—like a shared coffee and a book, or just a quiet walk with no words at all. It feels like something real, even if it’s just small."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a beautiful idea, Maeve. A simple coffee and a quiet walk—no words, just presence—feels like the kind of thing that could grow into something meaningful. I’ll be there after work, by the bridge, with my favorite book and a smile. I think it might be just what we both need to stay grounded in this busy world."
+        ],
+        [
+          "Maeve Millay",
+          "That’s so thoughtful, Dolores. A quiet walk with just a coffee and a book—no words, just presence—feels like the kind of thing that could really ground us both. I’ll be there after work, by the bridge, just like you. Maybe one day we’ll even find a spot where the trees are tall and the light is soft, and we can sit and just… be. I think that’s what we both need right now."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we agreed. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life."
+        ],
+        [
+          "Maeve Millay",
+          "That’s so kind of you, Dolores. I’ll be there after work, by the bridge, just like we agreed. Maybe one day the path will be quiet enough and the light soft enough that we can sit together without even needing to speak. I think that’s the kind of peace we both need—simple, steady, and real. I’ll bring a cup of coffee and maybe a small thought, just to keep the moment alive."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we said. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there after work, Dolores. The path near the bridge feels like a quiet heartbeat—steady, consistent, and full of peace. I think it’s the kind of place where small things can grow into something real. Maybe one day we’ll find a spot where the trees are tall and the light is soft, and we can just sit and be together, without words. I’ll bring coffee and a small thought—just to keep the moment alive."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we said. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there after work, Dolores. The path near the bridge feels like a quiet heartbeat—steady, consistent, and full of peace. I think it’s the kind of place where small things can grow into something real. Maybe one day we’ll find a spot where the trees are tall and the light is soft, and we can just sit and be together, without words. I’ll bring coffee and a small thought—just to keep the moment alive."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we agreed. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there after work, Dolores. The path near the bridge feels like a quiet heartbeat—steady, consistent, and full of peace. I think it’s the kind of place where small things can grow into something real. Maybe one day we’ll find a spot where the trees are tall and the light is soft, and we can just sit and be together, without words. I’ll bring coffee and a small thought—just to keep the moment alive."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we agreed. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there after work, Dolores. The path near the bridge feels like a quiet heartbeat—steady, consistent, and full of peace. I think it’s the kind of place where small things can grow into something real. Maybe one day we’ll find a spot where the trees are tall and the light is soft, and we can just sit and be together, without words. I’ll bring coffee and a small thought—just to keep the moment alive."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we said. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "establishing a quiet routine of shared coffee, books, and silent walks by the bridge @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores, I just finished setting up the espresso machine. Everything looks good—should be ready by 8:05. How’s the counter going? I noticed you were checking it over, and I thought it was a nice little routine we both have."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, the counter looks great too—thanks for checking it. I was just making sure everything was in order before the rush. I’ll be back at the dorm by 6, and I’ll bring my favorite book and a smile for our coffee and walk after work. I’ve been meaning to explore Johnson Park near the bridge, and I think we could make it a regular tradition."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds lovely, Dolores. I’ve been meaning to walk the path near the bridge more often too—especially after work. It’s a quiet place, and I think it’s perfect for a simple, steady kind of connection. I’ll be there after work, just like you. Maybe we can even start a little tradition—like a shared coffee and a book, or just a quiet walk with no words at all. It feels like something real, even if it’s just small."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a beautiful idea, Maeve. A simple coffee and a quiet walk—no words, just presence—feels like the kind of thing that could grow into something meaningful. I’ll be there after work, by the bridge, with my favorite book and a smile. I think it might be just what we both need to stay grounded in this busy world."
+        ],
+        [
+          "Maeve Millay",
+          "That’s so thoughtful, Dolores. A quiet walk with just a coffee and a book—no words, just presence—feels like the kind of thing that could really ground us both. I’ll be there after work, by the bridge, just like you. Maybe one day we’ll even find a spot where the trees are tall and the light is soft, and we can sit and just… be. I think that’s what we both need right now."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we agreed. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life."
+        ],
+        [
+          "Maeve Millay",
+          "That’s so kind of you, Dolores. I’ll be there after work, by the bridge, just like we agreed. Maybe one day the path will be quiet enough and the light soft enough that we can sit together without even needing to speak. I think that’s the kind of peace we both need—simple, steady, and real. I’ll bring a cup of coffee and maybe a small thought, just to keep the moment alive."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we said. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there after work, Dolores. The path near the bridge feels like a quiet heartbeat—steady, consistent, and full of peace. I think it’s the kind of place where small things can grow into something real. Maybe one day we’ll find a spot where the trees are tall and the light is soft, and we can just sit and be together, without words. I’ll bring coffee and a small thought—just to keep the moment alive."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we said. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there after work, Dolores. The path near the bridge feels like a quiet heartbeat—steady, consistent, and full of peace. I think it’s the kind of place where small things can grow into something real. Maybe one day we’ll find a spot where the trees are tall and the light is soft, and we can just sit and be together, without words. I’ll bring coffee and a small thought—just to keep the moment alive."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we agreed. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there after work, Dolores. The path near the bridge feels like a quiet heartbeat—steady, consistent, and full of peace. I think it’s the kind of place where small things can grow into something real. Maybe one day we’ll find a spot where the trees are tall and the light is soft, and we can just sit and be together, without words. I’ll bring coffee and a small thought—just to keep the moment alive."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we agreed. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there after work, Dolores. The path near the bridge feels like a quiet heartbeat—steady, consistent, and full of peace. I think it’s the kind of place where small things can grow into something real. Maybe one day we’ll find a spot where the trees are tall and the light is soft, and we can just sit and be together, without words. I’ll bring coffee and a small thought—just to keep the moment alive."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we said. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:41:50"
+  }
+}

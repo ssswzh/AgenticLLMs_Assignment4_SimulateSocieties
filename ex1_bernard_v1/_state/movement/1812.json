@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring equipment readiness and maintaining counter focus before and during the morning rush @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, the counter's cleanliness is good, but you're still rushing to the back—remember, your primary duty is serving customers at the counter. Keep your focus there, and let me know if you need help with anything during service."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep my focus on the counter and make sure I'm serving customers properly. Thanks for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I noticed you're organizing the coffee beans by type—good attention to detail. But remember, during the rush, your focus must stay on the customers. If you need to prep something, do it quietly and only when the counter is clear. I’ll be walking past in five minutes to check equipment readiness. Stay sharp, and keep serving."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll make sure to keep my focus on the counter and only move to the back when the counter is clear. I'll also double-check the espresso machine and oven before the rush starts, just as you mentioned. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be walking past the counter in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Make sure you’re ready to serve—no distractions, no back-end movements. Keep your eyes on the customers. I’ll check in again after the rush starts."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll make sure the espresso machine is powered and calibrated, the water level is sufficient, and the oven is at 350 degrees by 8:10. I’ll also stay focused on the counter and serve customers efficiently before the rush begins. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be checking the equipment again in five minutes—make sure the espresso machine is powered, water level is adequate, and oven is at 350. Keep your eyes on the customers, not the back. I’ll see you at the counter when I walk by."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll make sure everything is ready by 8:10 and stay focused on serving customers throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be checking the equipment again in five minutes—make sure the espresso machine is powered, water level is adequate, and oven is at 350. Keep your eyes on the customers, not the back. I’ll see you at the counter when I walk by."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep an eye on the counter and make sure everything is ready by 8:10. I'll also stay focused on serving customers throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter in five minutes—make sure the espresso machine is powered, water level is sufficient, and oven is at 350 degrees. Stay focused on the customers, not the back. I’ll check in again after the rush starts. Keep serving smoothly."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll make sure everything is ready by 8:10 and stay focused on serving customers throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter in five minutes again—make sure the espresso machine is powered, water level is sufficient, and oven is at 350. Keep your eyes on the customers, not the back. I’ll see you when I walk by."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep an eye on the counter and make sure everything is ready by 8:10. I'll also stay focused on serving customers throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter again in five minutes—make sure the espresso machine is powered, water level is sufficient, and oven is at 350. Keep your eyes on the customers, not the back. I’ll see you when I walk by."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep everything ready by 8:10 and stay focused on serving customers throughout the morning. Thank you for your guidance."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring equipment readiness and maintaining counter focus before and during the morning rush @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, the counter's cleanliness is good, but you're still rushing to the back—remember, your primary duty is serving customers at the counter. Keep your focus there, and let me know if you need help with anything during service."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep my focus on the counter and make sure I'm serving customers properly. Thanks for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I noticed you're organizing the coffee beans by type—good attention to detail. But remember, during the rush, your focus must stay on the customers. If you need to prep something, do it quietly and only when the counter is clear. I’ll be walking past in five minutes to check equipment readiness. Stay sharp, and keep serving."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll make sure to keep my focus on the counter and only move to the back when the counter is clear. I'll also double-check the espresso machine and oven before the rush starts, just as you mentioned. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be walking past the counter in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Make sure you’re ready to serve—no distractions, no back-end movements. Keep your eyes on the customers. I’ll check in again after the rush starts."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll make sure the espresso machine is powered and calibrated, the water level is sufficient, and the oven is at 350 degrees by 8:10. I’ll also stay focused on the counter and serve customers efficiently before the rush begins. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be checking the equipment again in five minutes—make sure the espresso machine is powered, water level is adequate, and oven is at 350. Keep your eyes on the customers, not the back. I’ll see you at the counter when I walk by."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll make sure everything is ready by 8:10 and stay focused on serving customers throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be checking the equipment again in five minutes—make sure the espresso machine is powered, water level is adequate, and oven is at 350. Keep your eyes on the customers, not the back. I’ll see you at the counter when I walk by."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep an eye on the counter and make sure everything is ready by 8:10. I'll also stay focused on serving customers throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter in five minutes—make sure the espresso machine is powered, water level is sufficient, and oven is at 350 degrees. Stay focused on the customers, not the back. I’ll check in again after the rush starts. Keep serving smoothly."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll make sure everything is ready by 8:10 and stay focused on serving customers throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter in five minutes again—make sure the espresso machine is powered, water level is sufficient, and oven is at 350. Keep your eyes on the customers, not the back. I’ll see you when I walk by."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep an eye on the counter and make sure everything is ready by 8:10. I'll also stay focused on serving customers throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter again in five minutes—make sure the espresso machine is powered, water level is sufficient, and oven is at 350. Keep your eyes on the customers, not the back. I’ll see you when I walk by."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep everything ready by 8:10 and stay focused on serving customers throughout the morning. Thank you for your guidance."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🍳",
+      "description": "serving customers at the counter (calibrating milk frothing device) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:01:00"
+  }
+}

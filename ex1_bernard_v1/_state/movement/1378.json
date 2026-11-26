@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. The coffee supplies are all ready—just what you asked for. I was about to head to the back to check the station, if you need anything else, I can grab it right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, you're always a few minutes behind schedule. The supplies should be checked before you even start serving. Get back to the counter and start the morning rush—no delays. I need the espresso machine tested by 8:05, and I expect the oven to be at 350 degrees by 8:10. Don't waste time."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll get back to the counter right away and make sure everything is ready by 8:05. I'll double-check the espresso machine and the oven to confirm they're both set before the rush starts."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I just saw you running to the back—there's no need to rush. The station supplies are already checked, and the kitchen sink is unused. You don't have to go back. Just keep your eyes on the counter and make sure the espresso machine is ready by 8:05. If anything’s missing, I’ll be in the back. I’ll handle the rest."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll keep an eye on the counter and make sure everything is ready by 8:05. I'll also double-check the espresso machine and oven before the rush starts. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, keep your head down and your eyes on the counter. I’ll be in the back checking the oven and the fridge—don’t go running off to the back again. If you see anything missing, just flag it. I don’t need another report on the sink being unused. Just do your job, and don’t make it a chore."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll stay focused on the counter and make sure everything is ready by 8:05. I'll keep an eye out for anything else you need."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, keep the counter clean and the espresso machine running smoothly. If you see any issue with the station supplies, just let me know—I’ll handle the rest. Stay sharp, and don’t let the rush get you flustered. I’ll be in the back making sure everything is on track."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll keep the counter clean and the espresso machine running smoothly. If I notice anything off, I'll let you know right away. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, keep the counter clean and the espresso machine running smoothly. If you see any issue with the station supplies, just let me know—I’ll handle the rest. Stay sharp, and don’t let the rush get you flustered. I’ll be in the back making sure everything is on track."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll keep the counter clean and the espresso machine running smoothly. If I notice anything off, I'll let you know right away. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, keep your eyes on the counter and don't wander off. If the espresso machine isn't running by 8:05, I'll know. I'll be in the back verifying the oven temperature and fridge stock—no need for you to check anything. Just stay sharp and serve the customers like you're trained. I expect the rush to be smooth, and I don't want to see any hiccups from you."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll stay focused on the counter and make sure everything is ready by 8:05. I'll keep an eye out for any issues and let you know right away if I notice anything off. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, if the espresso machine isn't ready by 8:05, I’ll be the one to deal with it. Keep the counter clean and your eyes on the customers—don’t let a single drop of coffee go cold or spill. I’ll check the fridge and oven, but you’re responsible for the front. Stay sharp, and don’t let the rush catch you off guard."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll keep the counter clean, stay focused on the customers, and make sure everything is ready by 8:05. If I notice anything off, I'll let you know right away. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, keep the counter clean and the espresso machine running smoothly. If you see anything off, just let me know—I’ll handle the rest. Stay sharp, and don’t let the rush get you flustered. I’ll be in the back making sure everything is on track."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "serving customers at the counter (setting up the espresso machine) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. The coffee supplies are all ready—just what you asked for. I was about to head to the back to check the station, if you need anything else, I can grab it right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, you're always a few minutes behind schedule. The supplies should be checked before you even start serving. Get back to the counter and start the morning rush—no delays. I need the espresso machine tested by 8:05, and I expect the oven to be at 350 degrees by 8:10. Don't waste time."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll get back to the counter right away and make sure everything is ready by 8:05. I'll double-check the espresso machine and the oven to confirm they're both set before the rush starts."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I just saw you running to the back—there's no need to rush. The station supplies are already checked, and the kitchen sink is unused. You don't have to go back. Just keep your eyes on the counter and make sure the espresso machine is ready by 8:05. If anything’s missing, I’ll be in the back. I’ll handle the rest."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll keep an eye on the counter and make sure everything is ready by 8:05. I'll also double-check the espresso machine and oven before the rush starts. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, keep your head down and your eyes on the counter. I’ll be in the back checking the oven and the fridge—don’t go running off to the back again. If you see anything missing, just flag it. I don’t need another report on the sink being unused. Just do your job, and don’t make it a chore."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll stay focused on the counter and make sure everything is ready by 8:05. I'll keep an eye out for anything else you need."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, keep the counter clean and the espresso machine running smoothly. If you see any issue with the station supplies, just let me know—I’ll handle the rest. Stay sharp, and don’t let the rush get you flustered. I’ll be in the back making sure everything is on track."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll keep the counter clean and the espresso machine running smoothly. If I notice anything off, I'll let you know right away. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, keep the counter clean and the espresso machine running smoothly. If you see any issue with the station supplies, just let me know—I’ll handle the rest. Stay sharp, and don’t let the rush get you flustered. I’ll be in the back making sure everything is on track."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll keep the counter clean and the espresso machine running smoothly. If I notice anything off, I'll let you know right away. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, keep your eyes on the counter and don't wander off. If the espresso machine isn't running by 8:05, I'll know. I'll be in the back verifying the oven temperature and fridge stock—no need for you to check anything. Just stay sharp and serve the customers like you're trained. I expect the rush to be smooth, and I don't want to see any hiccups from you."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll stay focused on the counter and make sure everything is ready by 8:05. I'll keep an eye out for any issues and let you know right away if I notice anything off. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, if the espresso machine isn't ready by 8:05, I’ll be the one to deal with it. Keep the counter clean and your eyes on the customers—don’t let a single drop of coffee go cold or spill. I’ll check the fridge and oven, but you’re responsible for the front. Stay sharp, and don’t let the rush catch you off guard."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'll keep the counter clean, stay focused on the customers, and make sure everything is ready by 8:05. If I notice anything off, I'll let you know right away. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, keep the counter clean and the espresso machine running smoothly. If you see anything off, just let me know—I’ll handle the rest. Stay sharp, and don’t let the rush get you flustered. I’ll be in the back making sure everything is on track."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:48:40"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciato": "🍳",
+      "description": "managing the cafe operations (reviewing the previous day's performance logs) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "establishing a quiet coffee and walk routine by the bridge with mutual expectations of presence and steady presence @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve! Just got here and saw you already setting up. How’s the espresso machine looking? I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge after work. Maybe we can make it a real tradition—just coffee and a walk, nothing too busy."
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores! The espresso machine is running smooth—just needed a quick check. I’ve been thinking about our coffee and walk routine. It feels like a quiet kind of connection, something steady and gentle. I’ll be back at the dorm by 8, with a thermos of coffee and a piece of fruit. I’ll keep an eye out near the bridge after work too. Maybe it’s just the two of us, but I think it’s already becoming something meaningful."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds perfect, Maeve. I’ll bring my favorite book and a smile—just like you said. It’s nice to have something so simple, yet so steady. I’ll be back by 6, and I’ll keep an eye out near the bridge. Looking forward to it."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds lovely, Dolores. I’ll be there with my thermos and a piece of fruit—just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, Maeve. I’ll have my book ready and a smile on my face—just like we said. Can’t wait to share a quiet coffee and walk with you by the bridge. It’s already feeling like a little piece of peace in our days."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there with my thermos and a piece of fruit, just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, Maeve. I’ll have my book ready and a smile on my face—just like we said. Can’t wait to share a quiet coffee and walk with you by the bridge. It’s already feeling like a little piece of peace in our days."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there with my thermos and a piece of fruit, just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, Maeve. I’ll have my book ready and a smile on my face—just like we said. Can’t wait to share a quiet coffee and walk by the bridge. It’s already feeling like a little piece of peace in our days."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there with my thermos and a piece of fruit, just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, Maeve. I’ll have my book ready and a smile on my face—just like we said. Can’t wait to share a quiet coffee and walk by the bridge. It’s already feeling like a little piece of peace in our days."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there with my thermos and a piece of fruit, just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, Maeve. I’ll have my book ready and a smile on my face—just like we said. Can’t wait to share a quiet coffee and walk by the bridge. It’s already feeling like a little piece of peace in our days."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there with my thermos and a piece of fruit, just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be back by 6, Maeve. I’ll have my book ready and a smile on my face—just like we said. Can’t wait to share a quiet coffee and walk by the bridge. It’s already feeling like a little piece of peace in our days."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there with my thermos and a piece of fruit, just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "👩‍🍳",
+      "description": "serving customers at the counter (preparing station supplies) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:50:10"
+  }
+}

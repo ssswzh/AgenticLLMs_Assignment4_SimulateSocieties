@@ -40,6 +40,220 @@
     ],
     "filling": null
   },
+  "node_100": {
+    "node_count": 100,
+    "type_count": 88,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:31:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter",
+    "original_description": "Bernard Lowe is staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter",
+    "embedding_key": "Bernard Lowe is staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_99"
+    ]
+  },
+  "node_101": {
+    "node_count": 101,
+    "type_count": 89,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:31:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter",
+    "original_description": "Maeve Millay is staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter",
+    "embedding_key": "Maeve Millay is staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_102": {
+    "node_count": 102,
+    "type_count": 90,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:37:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_103": {
+    "node_count": 103,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 11:39:50",
+    "expiration": "2023-03-15 11:39:50",
+    "subject": "Bernard Lowe",
+    "predicate": "check",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the espresso machine power, water level, and oven temperature by 8:05 and 8:10 respectively when he walks past the counter in five minutes.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the espresso machine power, water level, and oven temperature by 8:05 and 8:10 respectively when he walks past the counter in five minutes.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the espresso machine power, water level, and oven temperature by 8:05 and 8:10 respectively when he walks past the counter in five minutes.",
+    "poignancy": 1,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "check",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_104": {
+    "node_count": 104,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 11:39:50",
+    "expiration": "2023-03-15 11:39:50",
+    "subject": "Bernard Lowe",
+    "predicate": "noticed",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe noticed that Maeve is consistently trying to be proactive by preparing equipment before the morning rush, even though it distracts her from her primary duty of serving customers.",
+    "original_description": "Bernard Lowe Bernard Lowe noticed that Maeve is consistently trying to be proactive by preparing equipment before the morning rush, even though it distracts her from her primary duty of serving customers.",
+    "embedding_key": "Bernard Lowe Bernard Lowe noticed that Maeve is consistently trying to be proactive by preparing equipment before the morning rush, even though it distracts her from her primary duty of serving customers.",
+    "poignancy": 5,
+    "valence": -7,
+    "keywords": [
+      "bernard lowe",
+      "noticed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_105": {
+    "node_count": 105,
+    "type_count": 91,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:40:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "espresso machine",
+    "description": "Maeve Millay is serving customers at the counter (setting up espresso machine)",
+    "original_description": "Maeve Millay is serving customers at the counter (setting up espresso machine)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (setting up espresso machine)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "espresso machine"
+    ],
+    "filling": null
+  },
+  "node_106": {
+    "node_count": 106,
+    "type_count": 92,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:40:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring the baristas' work (reviewing daily performance logs)",
+    "original_description": "Bernard Lowe is monitoring the baristas' work (reviewing daily performance logs)",
+    "embedding_key": "Bernard Lowe is monitoring the baristas' work (reviewing daily performance logs)",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_107": {
+    "node_count": 107,
+    "type_count": 93,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:41:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (checking the cleanliness of the counter)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (checking the cleanliness of the counter)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (checking the cleanliness of the counter)",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_108": {
+    "node_count": 108,
+    "type_count": 94,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:41:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_109": {
+    "node_count": 109,
+    "type_count": 95,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:41:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unaffected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unaffected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
   "node_11": {
     "node_count": 11,
     "type_count": 9,
@@ -61,6 +275,281 @@
     ],
     "filling": null
   },
+  "node_110": {
+    "node_count": 110,
+    "type_count": 96,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:45:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is establishing a quiet routine of shared coffee, books, and silent walks by the bridge",
+    "original_description": "Maeve Millay is establishing a quiet routine of shared coffee, books, and silent walks by the bridge",
+    "embedding_key": "Maeve Millay is establishing a quiet routine of shared coffee, books, and silent walks by the bridge",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_111": {
+    "node_count": 111,
+    "type_count": 97,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:46:00",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is establishing a quiet routine of shared coffee, books, and silent walks by the bridge",
+    "original_description": "Dolores Abernathy is establishing a quiet routine of shared coffee, books, and silent walks by the bridge",
+    "embedding_key": "Dolores Abernathy is establishing a quiet routine of shared coffee, books, and silent walks by the bridge",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_112": {
+    "node_count": 112,
+    "type_count": 98,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:46:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is organized",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_113": {
+    "node_count": 113,
+    "type_count": 99,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:46:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -6,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_114": {
+    "node_count": 114,
+    "type_count": 100,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:52:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_115": {
+    "node_count": 115,
+    "type_count": 101,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:52:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "not being used",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is not being used",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is not being used",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is not being used",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_116": {
+    "node_count": 116,
+    "type_count": 102,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:52:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (checking the cleanliness of the counter)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (checking the cleanliness of the counter)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (checking the cleanliness of the counter)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_117": {
+    "node_count": 117,
+    "type_count": 103,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:52:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring the baristas' work (inspecting customer service notes)",
+    "original_description": "Bernard Lowe is monitoring the baristas' work (inspecting customer service notes)",
+    "embedding_key": "Bernard Lowe is monitoring the baristas' work (inspecting customer service notes)",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_118": {
+    "node_count": 118,
+    "type_count": 104,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:52:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (calibrating milk frothing device)",
+    "original_description": "Maeve Millay is serving customers at the counter (calibrating milk frothing device)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (calibrating milk frothing device)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_119": {
+    "node_count": 119,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 11:52:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush",
+    "original_description": "correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush",
+    "embedding_key": "correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush",
+    "poignancy": 5,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Maeve, I just saw you calibrating the milk frothing device. You're supposed to be serving customers, not behind the counter. That's a distraction. I know you're trying to be proactive, but the morning rush starts at 8:05 — right now you're not serving anyone. Keep your focus on the counter. If something needs prep, flag it to me before the rush. I'll handle the rest."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I apologize—I was just making sure the device is ready before the rush. I’ll move to the counter right away and start serving customers. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll be walking past the counter in five minutes to check the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Make sure you're ready to serve when I pass. No distractions, no prepping behind the counter. Focus on the customers. I'll handle the rest of the prep. If you need to flag anything, do it now—before the rush starts."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I'm moving to the counter now and will start serving customers right away. Thank you for the reminder—I’ll keep an eye on the flow and flag anything immediately if something comes up."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I noticed you're still organizing coffee beans—again, behind the counter. That's not part of your shift. If you need to prep, do it in the morning when I'm here to supervise. Right now, you're in the front of house. Focus on serving. I'll check the equipment in five minutes. If anything's off, I'll know. No excuses. Just stay on the counter and serve. I don't need to see you behind the counter."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I'm moving to the counter now and will start serving customers right away. Thank you for the reminder—I’ll keep an eye on the flow and flag anything immediately if something comes up."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I'll be checking the counter in five minutes. Make sure your station is clean and your service flow is smooth. If you see anything off—like a customer needing something specific or a supply issue—flag it right now. I don't want to see you behind the counter again. I know you’re trying to do your job well, but right now, your focus must be on the customers. I'll handle the equipment. Keep serving. I'll be past in five minutes."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I'm on the counter now and ready to serve. I'll keep an eye on the customers and flag anything immediately if I notice a supply issue or a customer need. Thank you for the reminder—I’ll make sure to stay focused on serving during the rush."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I'm going to walk past the counter in five minutes. Make sure the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. If anything’s off, I’ll know. Keep serving. I don’t want to see you behind the counter again. Focus on the customers. I’ll handle the rest."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I'm fully on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay focused and not distract myself from the front of house."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be checking the counter in five minutes. Make sure the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. If anything’s off, I’ll know. Stay on the counter and serve. I don’t want to see you behind the counter again. Focus on the customers. I’ll handle the rest."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I'm fully on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay focused and not distract myself from the front of house."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I see you're still checking inventory levels—again, behind the counter. That's not your role right now. The front of house is where you serve. If you need to prep supplies, do it during my morning walk-through. I'll handle the equipment. Stay focused on the customers. I'll be past in five minutes to verify everything is ready. No distractions. If you need anything, flag it now."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I'm fully focused on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay present and attentive throughout the morning rush."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve noticed you’re doing all the prep work behind the counter again—organizing beans, checking inventory, calibrating devices. That’s not your role during the morning rush. I know you’re trying to do your job well, but right now, your focus must be on serving customers. If something needs to be prepped, do it during my morning walk-through. I’ll handle the equipment. Stay on the counter. I don’t want to see you behind it. I’ll be past in five minutes to verify the espresso machine is powered, water level is sufficient, and oven is at 350 degrees. If anything’s off, I’ll know. Keep serving. I don’t need to see you behind the counter again."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I'm fully on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay focused and not distract myself from the front of house."
+      ]
+    ]
+  },
   "node_12": {
     "node_count": 12,
     "type_count": 10,
@@ -79,6 +568,220 @@
     "keywords": [
       "bernard lowe",
       "breakfast"
+    ],
+    "filling": null
+  },
+  "node_120": {
+    "node_count": 120,
+    "type_count": 105,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:52:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush",
+    "original_description": "Bernard Lowe is correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush",
+    "embedding_key": "Bernard Lowe is correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_119"
+    ]
+  },
+  "node_121": {
+    "node_count": 121,
+    "type_count": 106,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:52:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush",
+    "original_description": "Maeve Millay is correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush",
+    "embedding_key": "Maeve Millay is correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_122": {
+    "node_count": 122,
+    "type_count": 107,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:52:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is organized",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_123": {
+    "node_count": 123,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 11:59:50",
+    "expiration": "2023-03-15 11:59:50",
+    "subject": "Bernard Lowe",
+    "predicate": "check",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the espresso machine power, water level, and oven temperature in five minutes during the morning rush to ensure equipment readiness.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the espresso machine power, water level, and oven temperature in five minutes during the morning rush to ensure equipment readiness.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the espresso machine power, water level, and oven temperature in five minutes during the morning rush to ensure equipment readiness.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "check",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_124": {
+    "node_count": 124,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 11:59:50",
+    "expiration": "2023-03-15 11:59:50",
+    "subject": "Bernard Lowe",
+    "predicate": "noticed",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe noticed that Maeve Millay repeatedly engaged in behind-the-counter prep work during the morning rush, despite being instructed to focus solely on serving customers.",
+    "original_description": "Bernard Lowe Bernard Lowe noticed that Maeve Millay repeatedly engaged in behind-the-counter prep work during the morning rush, despite being instructed to focus solely on serving customers.",
+    "embedding_key": "Bernard Lowe Bernard Lowe noticed that Maeve Millay repeatedly engaged in behind-the-counter prep work during the morning rush, despite being instructed to focus solely on serving customers.",
+    "poignancy": 8,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "noticed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_125": {
+    "node_count": 125,
+    "type_count": 108,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 12:00:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_126": {
+    "node_count": 126,
+    "type_count": 109,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 12:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "customer service notes",
+    "description": "Bernard Lowe is monitoring the baristas' work (inspecting customer service notes)",
+    "original_description": "Bernard Lowe is monitoring the baristas' work (inspecting customer service notes)",
+    "embedding_key": "Bernard Lowe is monitoring the baristas' work (inspecting customer service notes)",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "customer service notes"
+    ],
+    "filling": null
+  },
+  "node_127": {
+    "node_count": 127,
+    "type_count": 110,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 12:00:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "not being used",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is not being used",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is not being used",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is not being used",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_128": {
+    "node_count": 128,
+    "type_count": 111,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 12:00:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_129": {
+    "node_count": 129,
+    "type_count": 112,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 12:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (checking the cleanliness of the counter)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (checking the cleanliness of the counter)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (checking the cleanliness of the counter)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
     ],
     "filling": null
   },
@@ -103,6 +806,328 @@
     ],
     "filling": null
   },
+  "node_130": {
+    "node_count": 130,
+    "type_count": 113,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 12:00:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (calibrating milk frothing device)",
+    "original_description": "Maeve Millay is serving customers at the counter (calibrating milk frothing device)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (calibrating milk frothing device)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_131": {
+    "node_count": 131,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "operates",
+    "object": "None",
+    "description": "Bernard Lowe operates with a strong sense of control and routine, viewing precise timing and procedural checks as non-negotiable components of daily operations to ensure consistency and readiness before the morning rush begins.",
+    "original_description": "Bernard Lowe operates with a strong sense of control and routine, viewing precise timing and procedural checks as non-negotiable components of daily operations to ensure consistency and readiness before the morning rush begins.",
+    "embedding_key": "Bernard Lowe operates with a strong sense of control and routine, viewing precise timing and procedural checks as non-negotiable components of daily operations to ensure consistency and readiness before the morning rush begins.",
+    "poignancy": 10,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "operates",
+      "none"
+    ],
+    "filling": [
+      "node_103",
+      "node_123",
+      "node_83",
+      "node_73",
+      "node_56"
+    ]
+  },
+  "node_132": {
+    "node_count": 132,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "interprets",
+    "object": "None",
+    "description": "Bernard Lowe interprets employee behavior through a lens of compliance and focus, perceiving any deviation from assigned duties—such as proactive prep or unnecessary movement—as a sign of lack of discipline or commitment to their primary responsibilities.",
+    "original_description": "Bernard Lowe interprets employee behavior through a lens of compliance and focus, perceiving any deviation from assigned duties—such as proactive prep or unnecessary movement—as a sign of lack of discipline or commitment to their primary responsibilities.",
+    "embedding_key": "Bernard Lowe interprets employee behavior through a lens of compliance and focus, perceiving any deviation from assigned duties—such as proactive prep or unnecessary movement—as a sign of lack of discipline or commitment to their primary responsibilities.",
+    "poignancy": 10,
+    "valence": -7,
+    "keywords": [
+      "bernard lowe",
+      "interprets",
+      "none"
+    ],
+    "filling": [
+      "node_124",
+      "node_104",
+      "node_57",
+      "node_74",
+      "node_130"
+    ]
+  },
+  "node_133": {
+    "node_count": 133,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe sees himself as a strict enforcer of standards, constantly monitoring staff performance and operations to ensure that every action aligns with his expectations of professionalism, efficiency, and accountability.",
+    "original_description": "Bernard Lowe sees himself as a strict enforcer of standards, constantly monitoring staff performance and operations to ensure that every action aligns with his expectations of professionalism, efficiency, and accountability.",
+    "embedding_key": "Bernard Lowe sees himself as a strict enforcer of standards, constantly monitoring staff performance and operations to ensure that every action aligns with his expectations of professionalism, efficiency, and accountability.",
+    "poignancy": 10,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "monitoring",
+      "none"
+    ],
+    "filling": [
+      "node_41",
+      "node_126",
+      "node_106",
+      "node_39",
+      "node_84",
+      "node_75",
+      "node_63",
+      "node_117",
+      "node_27",
+      "node_46",
+      "node_36"
+    ]
+  },
+  "node_134": {
+    "node_count": 134,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "believes",
+    "object": "None",
+    "description": "Bernard Lowe’s worldview is shaped by a deep-seated belief that order, clarity, and procedural discipline are the foundations of a well-run operation, and any ambiguity or inconsistency in staff behavior threatens the integrity of the entire system.",
+    "original_description": "Bernard Lowe’s worldview is shaped by a deep-seated belief that order, clarity, and procedural discipline are the foundations of a well-run operation, and any ambiguity or inconsistency in staff behavior threatens the integrity of the entire system.",
+    "embedding_key": "Bernard Lowe’s worldview is shaped by a deep-seated belief that order, clarity, and procedural discipline are the foundations of a well-run operation, and any ambiguity or inconsistency in staff behavior threatens the integrity of the entire system.",
+    "poignancy": 10,
+    "valence": 7,
+    "keywords": [
+      "bernard lowe",
+      "believes",
+      "none"
+    ],
+    "filling": [
+      "node_78",
+      "node_126",
+      "node_106",
+      "node_103",
+      "node_116",
+      "node_124",
+      "node_120",
+      "node_104",
+      "node_39",
+      "node_123",
+      "node_84",
+      "node_77",
+      "node_75",
+      "node_57",
+      "node_63",
+      "node_88",
+      "node_83",
+      "node_74",
+      "node_130",
+      "node_121",
+      "node_117",
+      "node_73",
+      "node_27",
+      "node_12",
+      "node_100",
+      "node_46",
+      "node_56",
+      "node_52",
+      "node_36"
+    ]
+  },
+  "node_135": {
+    "node_count": 135,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "believes",
+    "object": "None",
+    "description": "Bernard Lowe believes that strict adherence to role boundaries is essential for maintaining efficiency and accountability in the workplace, as he consistently enforces that front-of-house staff must focus solely on customer service and not engage in behind-the-counter tasks.",
+    "original_description": "Bernard Lowe believes that strict adherence to role boundaries is essential for maintaining efficiency and accountability in the workplace, as he consistently enforces that front-of-house staff must focus solely on customer service and not engage in behind-the-counter tasks.",
+    "embedding_key": "Bernard Lowe believes that strict adherence to role boundaries is essential for maintaining efficiency and accountability in the workplace, as he consistently enforces that front-of-house staff must focus solely on customer service and not engage in behind-the-counter tasks.",
+    "poignancy": 10,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "believes",
+      "none"
+    ],
+    "filling": [
+      "node_78",
+      "node_116",
+      "node_124",
+      "node_120",
+      "node_104",
+      "node_39",
+      "node_123",
+      "node_84",
+      "node_77",
+      "node_57",
+      "node_74",
+      "node_130",
+      "node_121",
+      "node_100"
+    ]
+  },
+  "node_136": {
+    "node_count": 136,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "exercising",
+    "object": "None",
+    "description": "Bernard Lowe's interactions with staff, especially Maeve Millay, reveal a pattern of authoritative oversight where he seeks to enforce compliance through direct observation and repeated correction, reflecting his need for order and predictability.",
+    "original_description": "Bernard Lowe's interactions with staff, especially Maeve Millay, reveal a pattern of authoritative oversight where he seeks to enforce compliance through direct observation and repeated correction, reflecting his need for order and predictability.",
+    "embedding_key": "Bernard Lowe's interactions with staff, especially Maeve Millay, reveal a pattern of authoritative oversight where he seeks to enforce compliance through direct observation and repeated correction, reflecting his need for order and predictability.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "exercising",
+      "none"
+    ],
+    "filling": [
+      "node_104",
+      "node_124",
+      "node_121",
+      "node_57",
+      "node_84"
+    ]
+  },
+  "node_137": {
+    "node_count": 137,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Bernard Lowe's daily routine is structured around a strict sequence of actions—waking up, preparing, checking equipment, and monitoring staff—indicating a strong internal rhythm that prioritizes consistency over flexibility.",
+    "original_description": "Bernard Lowe's daily routine is structured around a strict sequence of actions—waking up, preparing, checking equipment, and monitoring staff—indicating a strong internal rhythm that prioritizes consistency over flexibility.",
+    "embedding_key": "Bernard Lowe's daily routine is structured around a strict sequence of actions—waking up, preparing, checking equipment, and monitoring staff—indicating a strong internal rhythm that prioritizes consistency over flexibility.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "waking up",
+      "none"
+    ],
+    "filling": [
+      "node_12",
+      "node_14",
+      "node_17",
+      "node_27",
+      "node_56",
+      "node_36"
+    ]
+  },
+  "node_138": {
+    "node_count": 138,
+    "type_count": 18,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "operates",
+    "object": "None",
+    "description": "Bernard Lowe operates under a worldview where efficiency and precision are inseparable from accountability, and any lapse in routine is perceived as a threat to the integrity of the entire operation.",
+    "original_description": "Bernard Lowe operates under a worldview where efficiency and precision are inseparable from accountability, and any lapse in routine is perceived as a threat to the integrity of the entire operation.",
+    "embedding_key": "Bernard Lowe operates under a worldview where efficiency and precision are inseparable from accountability, and any lapse in routine is perceived as a threat to the integrity of the entire operation.",
+    "poignancy": 9,
+    "valence": -6,
+    "keywords": [
+      "bernard lowe",
+      "operates",
+      "none"
+    ],
+    "filling": [
+      "node_100",
+      "node_41",
+      "node_94",
+      "node_46",
+      "node_103",
+      "node_123",
+      "node_27",
+      "node_56",
+      "node_36",
+      "node_77"
+    ]
+  },
+  "node_139": {
+    "node_count": 139,
+    "type_count": 19,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "views",
+    "object": "None",
+    "description": "Bernard Lowe views operational efficiency as a reflection of personal control and discipline, especially in the early morning hours when every action must be precise and deliberate.",
+    "original_description": "Bernard Lowe views operational efficiency as a reflection of personal control and discipline, especially in the early morning hours when every action must be precise and deliberate.",
+    "embedding_key": "Bernard Lowe views operational efficiency as a reflection of personal control and discipline, especially in the early morning hours when every action must be precise and deliberate.",
+    "poignancy": 10,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "views",
+      "none"
+    ],
+    "filling": [
+      "node_100",
+      "node_41",
+      "node_94",
+      "node_46",
+      "node_103",
+      "node_123",
+      "node_27",
+      "node_56",
+      "node_36"
+    ]
+  },
   "node_14": {
     "node_count": 14,
     "type_count": 12,
@@ -120,6 +1145,343 @@
     "valence": 0,
     "keywords": [
       "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_140": {
+    "node_count": 140,
+    "type_count": 20,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "is deeply critical of",
+    "object": "None",
+    "description": "Bernard Lowe is deeply critical of any deviation from established roles, particularly when it undermines the primary duty of serving customers, which he sees as the core of front-of-house responsibility.",
+    "original_description": "Bernard Lowe is deeply critical of any deviation from established roles, particularly when it undermines the primary duty of serving customers, which he sees as the core of front-of-house responsibility.",
+    "embedding_key": "Bernard Lowe is deeply critical of any deviation from established roles, particularly when it undermines the primary duty of serving customers, which he sees as the core of front-of-house responsibility.",
+    "poignancy": 10,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "is deeply critical of",
+      "none"
+    ],
+    "filling": [
+      "node_104",
+      "node_83",
+      "node_124",
+      "node_121",
+      "node_57",
+      "node_77"
+    ]
+  },
+  "node_141": {
+    "node_count": 141,
+    "type_count": 21,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "enforcing",
+    "object": "None",
+    "description": "Bernard Lowe's leadership style is shaped by a need for control and clarity, where his daily actions reflect a consistent pattern of monitoring, verifying, and enforcing operational standards to maintain order and reliability.",
+    "original_description": "Bernard Lowe's leadership style is shaped by a need for control and clarity, where his daily actions reflect a consistent pattern of monitoring, verifying, and enforcing operational standards to maintain order and reliability.",
+    "embedding_key": "Bernard Lowe's leadership style is shaped by a need for control and clarity, where his daily actions reflect a consistent pattern of monitoring, verifying, and enforcing operational standards to maintain order and reliability.",
+    "poignancy": 8,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "enforcing",
+      "none"
+    ],
+    "filling": [
+      "node_46",
+      "node_39",
+      "node_88",
+      "node_12",
+      "node_17",
+      "node_77",
+      "node_100",
+      "node_125",
+      "node_63",
+      "node_41",
+      "node_27",
+      "node_75"
+    ]
+  },
+  "node_142": {
+    "node_count": 142,
+    "type_count": 22,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "maintains",
+    "object": "None",
+    "description": "Bernard Lowe maintains a strict, routine-driven approach to operations, viewing consistency and precision in preparation as non-negotiable elements of his leadership style.",
+    "original_description": "Bernard Lowe maintains a strict, routine-driven approach to operations, viewing consistency and precision in preparation as non-negotiable elements of his leadership style.",
+    "embedding_key": "Bernard Lowe maintains a strict, routine-driven approach to operations, viewing consistency and precision in preparation as non-negotiable elements of his leadership style.",
+    "poignancy": 10,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "maintains",
+      "none"
+    ],
+    "filling": [
+      "node_83",
+      "node_73",
+      "node_46",
+      "node_39",
+      "node_36",
+      "node_123",
+      "node_56",
+      "node_63",
+      "node_41",
+      "node_103",
+      "node_106",
+      "node_84",
+      "node_27",
+      "node_75"
+    ]
+  },
+  "node_143": {
+    "node_count": 143,
+    "type_count": 23,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "is deeply concerned with",
+    "object": "None",
+    "description": "Bernard Lowe is deeply concerned with operational efficiency and anticipates disruptions, which drives his need to verify equipment readiness well before service begins.",
+    "original_description": "Bernard Lowe is deeply concerned with operational efficiency and anticipates disruptions, which drives his need to verify equipment readiness well before service begins.",
+    "embedding_key": "Bernard Lowe is deeply concerned with operational efficiency and anticipates disruptions, which drives his need to verify equipment readiness well before service begins.",
+    "poignancy": 10,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "is deeply concerned with",
+      "none"
+    ],
+    "filling": [
+      "node_83",
+      "node_73",
+      "node_123",
+      "node_56",
+      "node_103"
+    ]
+  },
+  "node_144": {
+    "node_count": 144,
+    "type_count": 24,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "perceives",
+    "object": "None",
+    "description": "Bernard Lowe perceives a conflict between proactive behavior and core duties, especially when staff members attempt to prepare behind the counter during peak hours, which he views as a distraction from primary responsibilities.",
+    "original_description": "Bernard Lowe perceives a conflict between proactive behavior and core duties, especially when staff members attempt to prepare behind the counter during peak hours, which he views as a distraction from primary responsibilities.",
+    "embedding_key": "Bernard Lowe perceives a conflict between proactive behavior and core duties, especially when staff members attempt to prepare behind the counter during peak hours, which he views as a distraction from primary responsibilities.",
+    "poignancy": 9,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "perceives",
+      "none"
+    ],
+    "filling": [
+      "node_57",
+      "node_124",
+      "node_104",
+      "node_84"
+    ]
+  },
+  "node_145": {
+    "node_count": 145,
+    "type_count": 25,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 12:00:10",
+    "expiration": "2023-03-15 12:00:10",
+    "subject": "Bernard Lowe",
+    "predicate": "holds a critical view of",
+    "object": "None",
+    "description": "Bernard Lowe holds a critical view of staff performance, especially in front-of-house roles, and uses direct observation and accountability to ensure compliance with his expectations of duty and focus.",
+    "original_description": "Bernard Lowe holds a critical view of staff performance, especially in front-of-house roles, and uses direct observation and accountability to ensure compliance with his expectations of duty and focus.",
+    "embedding_key": "Bernard Lowe holds a critical view of staff performance, especially in front-of-house roles, and uses direct observation and accountability to ensure compliance with his expectations of duty and focus.",
+    "poignancy": 10,
+    "valence": -7,
+    "keywords": [
+      "bernard lowe",
+      "holds a critical view of",
+      "none"
+    ],
+    "filling": [
+      "node_130",
+      "node_126",
+      "node_121",
+      "node_78",
+      "node_117",
+      "node_106",
+      "node_94"
+    ]
+  },
+  "node_146": {
+    "node_count": 146,
+    "type_count": 114,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 12:00:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is ensuring equipment readiness and maintaining counter focus before and during the morning rush",
+    "original_description": "Dolores Abernathy is ensuring equipment readiness and maintaining counter focus before and during the morning rush",
+    "embedding_key": "Dolores Abernathy is ensuring equipment readiness and maintaining counter focus before and during the morning rush",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_147": {
+    "node_count": 147,
+    "type_count": 5,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 12:00:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "ensuring equipment readiness and maintaining counter focus before and during the morning rush",
+    "original_description": "ensuring equipment readiness and maintaining counter focus before and during the morning rush",
+    "embedding_key": "ensuring equipment readiness and maintaining counter focus before and during the morning rush",
+    "poignancy": 4,
+    "valence": -7,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Dolores, the counter's cleanliness is good, but you're still rushing to the back—remember, your primary duty is serving customers at the counter. Keep your focus there, and let me know if you need help with anything during service."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll keep my focus on the counter and make sure I'm serving customers properly. Thanks for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I noticed you're organizing the coffee beans by type—good attention to detail. But remember, during the rush, your focus must stay on the customers. If you need to prep something, do it quietly and only when the counter is clear. I’ll be walking past in five minutes to check equipment readiness. Stay sharp, and keep serving."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll make sure to keep my focus on the counter and only move to the back when the counter is clear. I'll also double-check the espresso machine and oven before the rush starts, just as you mentioned. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ll be walking past the counter in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Make sure you’re ready to serve—no distractions, no back-end movements. Keep your eyes on the customers. I’ll check in again after the rush starts."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll make sure the espresso machine is powered and calibrated, the water level is sufficient, and the oven is at 350 degrees by 8:10. I’ll also stay focused on the counter and serve customers efficiently before the rush begins. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ll be checking the equipment again in five minutes—make sure the espresso machine is powered, water level is adequate, and oven is at 350. Keep your eyes on the customers, not the back. I’ll see you at the counter when I walk by."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll make sure everything is ready by 8:10 and stay focused on serving customers throughout the morning. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ll be checking the equipment again in five minutes—make sure the espresso machine is powered, water level is adequate, and oven is at 350. Keep your eyes on the customers, not the back. I’ll see you at the counter when I walk by."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll keep an eye on the counter and make sure everything is ready by 8:10. I'll also stay focused on serving customers throughout the morning. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ll be at the counter in five minutes—make sure the espresso machine is powered, water level is sufficient, and oven is at 350 degrees. Stay focused on the customers, not the back. I’ll check in again after the rush starts. Keep serving smoothly."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll make sure everything is ready by 8:10 and stay focused on serving customers throughout the morning. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ll be at the counter in five minutes again—make sure the espresso machine is powered, water level is sufficient, and oven is at 350. Keep your eyes on the customers, not the back. I’ll see you when I walk by."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll keep an eye on the counter and make sure everything is ready by 8:10. I'll also stay focused on serving customers throughout the morning. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ll be at the counter again in five minutes—make sure the espresso machine is powered, water level is sufficient, and oven is at 350. Keep your eyes on the customers, not the back. I’ll see you when I walk by."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll keep everything ready by 8:10 and stay focused on serving customers throughout the morning. Thank you for your guidance."
+      ]
+    ]
+  },
+  "node_148": {
+    "node_count": 148,
+    "type_count": 115,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 12:00:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is ensuring equipment readiness and maintaining counter focus before and during the morning rush",
+    "original_description": "Bernard Lowe is ensuring equipment readiness and maintaining counter focus before and during the morning rush",
+    "embedding_key": "Bernard Lowe is ensuring equipment readiness and maintaining counter focus before and during the morning rush",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_147"
+    ]
+  },
+  "node_149": {
+    "node_count": 149,
+    "type_count": 116,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 12:00:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is organized",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
       "none"
     ],
     "filling": null
@@ -880,6 +2242,113 @@
     ],
     "filling": null
   },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:35:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "validated",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being validated",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being validated",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is being validated",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:39:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly",
+    "original_description": "maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly",
+    "embedding_key": "maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly",
+    "poignancy": 5,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. The coffee supplies are all ready—just what you asked for. I was about to head to the back to check the station, if you need anything else, I can grab it right away."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, you're always a few minutes behind schedule. The supplies should be checked before you even start serving. Get back to the counter and start the morning rush—no delays. I need the espresso machine tested by 8:05, and I expect the oven to be at 350 degrees by 8:10. Don't waste time."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I'll get back to the counter right away and make sure everything is ready by 8:05. I'll double-check the espresso machine and the oven to confirm they're both set before the rush starts."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I just saw you running to the back—there's no need to rush. The station supplies are already checked, and the kitchen sink is unused. You don't have to go back. Just keep your eyes on the counter and make sure the espresso machine is ready by 8:05. If anything’s missing, I’ll be in the back. I’ll handle the rest."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I'll keep an eye on the counter and make sure everything is ready by 8:05. I'll also double-check the espresso machine and oven before the rush starts. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, keep your head down and your eyes on the counter. I’ll be in the back checking the oven and the fridge—don’t go running off to the back again. If you see anything missing, just flag it. I don’t need another report on the sink being unused. Just do your job, and don’t make it a chore."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I'll stay focused on the counter and make sure everything is ready by 8:05. I'll keep an eye out for anything else you need."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, keep the counter clean and the espresso machine running smoothly. If you see any issue with the station supplies, just let me know—I’ll handle the rest. Stay sharp, and don’t let the rush get you flustered. I’ll be in the back making sure everything is on track."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I'll keep the counter clean and the espresso machine running smoothly. If I notice anything off, I'll let you know right away. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, keep the counter clean and the espresso machine running smoothly. If you see any issue with the station supplies, just let me know—I’ll handle the rest. Stay sharp, and don’t let the rush get you flustered. I’ll be in the back making sure everything is on track."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I'll keep the counter clean and the espresso machine running smoothly. If I notice anything off, I'll let you know right away. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, keep your eyes on the counter and don't wander off. If the espresso machine isn't running by 8:05, I'll know. I'll be in the back verifying the oven temperature and fridge stock—no need for you to check anything. Just stay sharp and serve the customers like you're trained. I expect the rush to be smooth, and I don't want to see any hiccups from you."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I'll stay focused on the counter and make sure everything is ready by 8:05. I'll keep an eye out for any issues and let you know right away if I notice anything off. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, if the espresso machine isn't ready by 8:05, I’ll be the one to deal with it. Keep the counter clean and your eyes on the customers—don’t let a single drop of coffee go cold or spill. I’ll check the fridge and oven, but you’re responsible for the front. Stay sharp, and don’t let the rush catch you off guard."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I'll keep the counter clean, stay focused on the customers, and make sure everything is ready by 8:05. If I notice anything off, I'll let you know right away. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, keep the counter clean and the espresso machine running smoothly. If you see anything off, just let me know—I’ll handle the rest. Stay sharp, and don’t let the rush get you flustered. I’ll be in the back making sure everything is on track."
+      ]
+    ]
+  },
   "node_5": {
     "node_count": 5,
     "type_count": 3,
@@ -897,6 +2366,220 @@
     "valence": -6,
     "keywords": [
       "desk",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:39:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly",
+    "original_description": "Bernard Lowe is maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly",
+    "embedding_key": "Bernard Lowe is maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_49"
+    ]
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:39:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly",
+    "original_description": "Maeve Millay is maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly",
+    "embedding_key": "Maeve Millay is maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:43:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:45:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "checked",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:47:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:47:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:49:50",
+    "expiration": "2023-03-15 10:49:50",
+    "subject": "Bernard Lowe",
+    "predicate": "verify",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to verify the oven temperature is at 350 degrees by 8:10 and ensure the espresso machine is ready by 8:05 before the morning rush starts.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to verify the oven temperature is at 350 degrees by 8:10 and ensure the espresso machine is ready by 8:05 before the morning rush starts.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to verify the oven temperature is at 350 degrees by 8:10 and ensure the espresso machine is ready by 8:05 before the morning rush starts.",
+    "poignancy": 1,
+    "valence": -3,
+    "keywords": [
+      "bernard lowe",
+      "verify",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:49:50",
+    "expiration": "2023-03-15 10:49:50",
+    "subject": "Bernard Lowe",
+    "predicate": "noticed",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe noticed that Maeve Millay consistently rushed to the back of the station, even though the supplies were already checked and the kitchen sink was unused.",
+    "original_description": "Bernard Lowe Bernard Lowe noticed that Maeve Millay consistently rushed to the back of the station, even though the supplies were already checked and the kitchen sink was unused.",
+    "embedding_key": "Bernard Lowe Bernard Lowe noticed that Maeve Millay consistently rushed to the back of the station, even though the supplies were already checked and the kitchen sink was unused.",
+    "poignancy": 1,
+    "valence": -6,
+    "keywords": [
+      "bernard lowe",
+      "noticed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:50:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "reviewing",
+    "object": "None",
+    "description": "Bernard Lowe is managing the cafe operations (reviewing the previous day's performance logs)",
+    "original_description": "Bernard Lowe is managing the cafe operations (reviewing the previous day's performance logs)",
+    "embedding_key": "Bernard Lowe is managing the cafe operations (reviewing the previous day's performance logs)",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:50:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (preparing station supplies)",
+    "original_description": "Maeve Millay is serving customers at the counter (preparing station supplies)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (preparing station supplies)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
       "none"
     ],
     "filling": null
@@ -922,6 +2605,283 @@
     ],
     "filling": null
   },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:50:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is establishing a quiet coffee and walk routine by the bridge with mutual expectations of presence and steady presence",
+    "original_description": "Maeve Millay is establishing a quiet coffee and walk routine by the bridge with mutual expectations of presence and steady presence",
+    "embedding_key": "Maeve Millay is establishing a quiet coffee and walk routine by the bridge with mutual expectations of presence and steady presence",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:50:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is establishing a quiet coffee and walk routine by the bridge with mutual expectations of presence and steady presence",
+    "original_description": "Dolores Abernathy is establishing a quiet coffee and walk routine by the bridge with mutual expectations of presence and steady presence",
+    "embedding_key": "Dolores Abernathy is establishing a quiet coffee and walk routine by the bridge with mutual expectations of presence and steady presence",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:51:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "reviewing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being reviewed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being reviewed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being reviewed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:55:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "None",
+    "description": "Bernard Lowe is managing the cafe operations (conducting a quick walk-through of the premises)",
+    "original_description": "Bernard Lowe is managing the cafe operations (conducting a quick walk-through of the premises)",
+    "embedding_key": "Bernard Lowe is managing the cafe operations (conducting a quick walk-through of the premises)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:55:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "inspecting",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being inspected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being inspected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being inspected",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:59:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking inventory levels)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking inventory levels)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking inventory levels)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:59:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (organizing coffee beans by type)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (organizing coffee beans by type)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (organizing coffee beans by type)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:59:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers",
+    "original_description": "ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers",
+    "embedding_key": "ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers",
+    "poignancy": 5,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Dolores, the espresso machine needs to be ready by 8:05. You're setting up the beans, but you're not checking if the machine is powered and calibrated. Do it now or I'll have to step in and do it myself."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm checking the machine right now and will make sure it's powered and calibrated before 8:05. I'll let you know when it's ready."
+      ],
+      [
+        "Bernard Lowe",
+        "Good. Keep an eye on the water level too—last week we had a spill because the reservoir was low. I don't want to see that happen again."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll keep an eye on the water level and double-check everything before 8:05. Thanks for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I saw you rush to the back of the station just now. The supplies were already checked and the kitchen sink was unused. You don't need to go there unnecessarily. Keep your focus on the counter—your job is to serve customers, not to run around like you're chasing something."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll stay focused on the counter and make sure everything is set before 8:05. I'll keep an eye on the machine, water level, and the supplies as I go. Thanks for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve's already at the counter, and she's not even checking the machine. I'll have to remind her too. Keep your eyes on the counter, Dolores—no unnecessary movements. The morning rush starts at 8:05, and I don't have time for distractions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll stay focused on the counter and make sure everything is ready before 8:05. I'll keep an eye on the machine, water level, and supplies as I go. Thanks for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I'll be walking past the counter in a few minutes to check on the espresso machine and water level. If anything looks off, I'll stop and deal with it. Keep your eyes on the customers and your station—no running around or unnecessary movements. The morning rush starts at 8:05, and I don't have time for delays or distractions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll stay focused on the counter, keep an eye on the machine, water level, and supplies, and make sure everything is ready before 8:05. I'll also be mindful of my movements and serve customers efficiently. Thanks for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I'll be checking the oven temperature calibration in a few minutes. Make sure it's at 350 degrees by 8:10. If it's not, I'll have to adjust it myself. Keep your focus on the counter and the customers—no distractions. I don't have time for delays."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll make sure the oven is at 350 degrees by 8:10 and keep a close eye on the counter and the customers throughout the morning. I'll stay focused and efficient, just as you asked."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ll be at the counter in five minutes to do a quick walk-through. If anything’s off—machine, water, oven—just flag it. I don’t want to see another missed check or a half-finished task. Stay sharp, stay focused. The morning rush starts at 8:05, and I can’t afford any slips."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll keep a close eye on everything—machine, water level, oven, and supplies—before 8:05. I’ll stay focused on the counter and serve customers efficiently. Thanks for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I'll be walking past the counter in five minutes. If the machine's not ready or the water's low, I'll stop and deal with it. Keep your eyes on the customers and your station—no running around. The morning rush starts at 8:05, and I don't have time for delays."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll keep everything checked and stay focused on the counter throughout the morning. I'll make sure the machine is powered and calibrated, the water level is sufficient, and the oven is at 350 degrees by 8:10. Thanks for your guidance."
+      ]
+    ]
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:59:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers",
+    "original_description": "Bernard Lowe is ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers",
+    "embedding_key": "Bernard Lowe is ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_67"
+    ]
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:59:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers",
+    "original_description": "Dolores Abernathy is ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers",
+    "embedding_key": "Dolores Abernathy is ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
   "node_7": {
     "node_count": 7,
     "type_count": 5,
@@ -939,6 +2899,285 @@
     "valence": 0,
     "keywords": [
       "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:59:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "checking",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being checked",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being checked",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being checked",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:04:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (organizing coffee beans)",
+    "original_description": "Maeve Millay is serving customers at the counter (organizing coffee beans)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (organizing coffee beans)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:04:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is organized",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 11:05:50",
+    "expiration": "2023-03-15 11:05:50",
+    "subject": "Bernard Lowe",
+    "predicate": "check",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the espresso machine, water level, and oven temperature before 8:05 and 8:10 respectively, and to walk past the counter in five minutes to verify these items are ready.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the espresso machine, water level, and oven temperature before 8:05 and 8:10 respectively, and to walk past the counter in five minutes to verify these items are ready.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the espresso machine, water level, and oven temperature before 8:05 and 8:10 respectively, and to walk past the counter in five minutes to verify these items are ready.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "check",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 11:05:50",
+    "expiration": "2023-03-15 11:05:50",
+    "subject": "Bernard Lowe",
+    "predicate": "noticed",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe noticed that Dolores was rushing to the back of the station unnecessarily, indicating a lack of focus on her primary duties.",
+    "original_description": "Bernard Lowe Bernard Lowe noticed that Dolores was rushing to the back of the station unnecessarily, indicating a lack of focus on her primary duties.",
+    "embedding_key": "Bernard Lowe Bernard Lowe noticed that Dolores was rushing to the back of the station unnecessarily, indicating a lack of focus on her primary duties.",
+    "poignancy": 1,
+    "valence": -6,
+    "keywords": [
+      "bernard lowe",
+      "noticed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:06:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "None",
+    "description": "Bernard Lowe is managing the cafe operations (conducting a quick walk-through of the premises)",
+    "original_description": "Bernard Lowe is managing the cafe operations (conducting a quick walk-through of the premises)",
+    "embedding_key": "Bernard Lowe is managing the cafe operations (conducting a quick walk-through of the premises)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 11:06:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift",
+    "original_description": "staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift",
+    "embedding_key": "staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift",
+    "poignancy": 6,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. The beans are organized and ready for the morning shift. Everything looks set for the day. I was just about to start serving when I saw you walking through—hope I didn’t interrupt anything."
+      ],
+      [
+        "Bernard Lowe",
+        "Good morning, Maeve. Beans organized? Good. But you're rushing to the back of the station again—supplies are already checked, and the kitchen sink is unused. Stay focused on the counter. Your customers need you here, not behind the counter. I’ll walk past in five minutes to verify everything is ready. Don’t make a habit of it."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I'll keep my focus on the counter and make sure everything is ready for the morning shift. I appreciate you checking in—I’ll stay attentive and not stray from my duties."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I noticed you checked the inventory again—just a moment ago—when it was already confirmed. Keep your eyes on the counter and serve the customers. If you need anything, ask. But don’t wander off. I’ll be back in five minutes to verify the espresso machine, water level, and oven temperature. Make sure everything is set before 8:05. I’ll be watching. Stay sharp."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I'll stay focused on the counter and make sure everything is ready for the morning shift. I appreciate you checking in—I’ll stay attentive and not stray from my duties."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be back in five minutes to walk past the counter and confirm everything is ready. Keep serving customers—your presence here matters. Don’t go back to the back unless you’re actually needed. I’ll check the espresso machine, water level, and oven temperature before 8:05. Stay sharp, stay focused. I’ll be watching."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll stay right here at the counter and focus on serving customers. I’ve got the beans organized and everything set—thank you for the reminder. I’ll make sure to keep an eye on the front and not stray behind."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I'll be back in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Keep serving customers—your attention here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll stay right here at the counter and focus on serving customers. I’ve got the beans organized and everything set—thank you for the reminder. I’ll make sure to keep an eye on the front and not stray behind."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be back in five minutes to check the espresso machine, water level, and oven temperature. Keep serving customers—your presence here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll stay right here at the counter and focus on serving customers. I’ve got the beans organized and everything set—thank you for the reminder. I’ll make sure to keep an eye on the front and not stray behind."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be back in five minutes to confirm the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Keep serving customers—your presence here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I'm staying right here at the counter, serving customers as we go. I’ll keep an eye on the front and make sure everything runs smoothly. Thanks for the reminder—I’ll stay focused and not wander off."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be back in five minutes to verify everything is ready. Keep serving customers—your presence here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I'm staying right here at the counter, serving customers as we go. I’ll keep an eye on the front and make sure everything runs smoothly. Thanks for the reminder—I’ll stay focused and not wander off."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be back in five minutes to check everything—espresso machine, water level, oven temperature. Keep serving. Don’t wander. I’ll be watching. Stay sharp."
+      ]
+    ]
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 68,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:06:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift",
+    "original_description": "Bernard Lowe is staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift",
+    "embedding_key": "Bernard Lowe is staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_76"
+    ]
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 69,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:06:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift",
+    "original_description": "Maeve Millay is staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift",
+    "embedding_key": "Maeve Millay is staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 70,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:06:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (organizing coffee beans by type)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (organizing coffee beans by type)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (organizing coffee beans by type)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
       "none"
     ],
     "filling": null
@@ -964,6 +3203,218 @@
     ],
     "filling": null
   },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 71,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:11:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 72,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:16:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "customer order forms",
+    "description": "Dolores Abernathy is serving customers at the counter (preparing customer order forms)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (preparing customer order forms)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (preparing customer order forms)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "customer order forms"
+    ],
+    "filling": null
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 73,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:16:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 11:16:50",
+    "expiration": "2023-03-15 11:16:50",
+    "subject": "Bernard Lowe",
+    "predicate": "visit",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to visit the counter in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to visit the counter in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to visit the counter in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees.",
+    "poignancy": 1,
+    "valence": -3,
+    "keywords": [
+      "bernard lowe",
+      "visit",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 11:16:50",
+    "expiration": "2023-03-15 11:16:50",
+    "subject": "Bernard Lowe",
+    "predicate": "noticed",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe noticed that Maeve consistently reaffirmed her focus on the counter and her commitment to serving customers without straying to the back, which he found noteworthy.",
+    "original_description": "Bernard Lowe Bernard Lowe noticed that Maeve consistently reaffirmed her focus on the counter and her commitment to serving customers without straying to the back, which he found noteworthy.",
+    "embedding_key": "Bernard Lowe Bernard Lowe noticed that Maeve consistently reaffirmed her focus on the counter and her commitment to serving customers without straying to the back, which he found noteworthy.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "noticed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 74,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:17:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (organizing coffee beans)",
+    "original_description": "Maeve Millay is serving customers at the counter (organizing coffee beans)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (organizing coffee beans)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 75,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:17:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "walking",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being walked through",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being walked through",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being walked through",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 76,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:17:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is organized",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 77,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:17:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "None",
+    "description": "Bernard Lowe is managing the cafe operations (conducting a quick walk-through of the premises)",
+    "original_description": "Bernard Lowe is managing the cafe operations (conducting a quick walk-through of the premises)",
+    "embedding_key": "Bernard Lowe is managing the cafe operations (conducting a quick walk-through of the premises)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 78,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:20:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
   "node_9": {
     "node_count": 9,
     "type_count": 7,
@@ -984,5 +3435,280 @@
       "none"
     ],
     "filling": null
+  },
+  "node_90": {
+    "node_count": 90,
+    "type_count": 79,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:20:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "espresso machine",
+    "description": "Maeve Millay is serving customers at the counter (setting up espresso machine)",
+    "original_description": "Maeve Millay is serving customers at the counter (setting up espresso machine)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (setting up espresso machine)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "espresso machine"
+    ],
+    "filling": null
+  },
+  "node_91": {
+    "node_count": 91,
+    "type_count": 80,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:20:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is meeting near the bridge daily with a book and coffee to share quiet peace",
+    "original_description": "Maeve Millay is meeting near the bridge daily with a book and coffee to share quiet peace",
+    "embedding_key": "Maeve Millay is meeting near the bridge daily with a book and coffee to share quiet peace",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_92": {
+    "node_count": 92,
+    "type_count": 81,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:20:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is meeting near the bridge daily with a book and coffee to share quiet peace",
+    "original_description": "Dolores Abernathy is meeting near the bridge daily with a book and coffee to share quiet peace",
+    "embedding_key": "Dolores Abernathy is meeting near the bridge daily with a book and coffee to share quiet peace",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_93": {
+    "node_count": 93,
+    "type_count": 82,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:22:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "managing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is being managed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_94": {
+    "node_count": 94,
+    "type_count": 83,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:27:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring the baristas' work (checking barista shift assignments)",
+    "original_description": "Bernard Lowe is monitoring the baristas' work (checking barista shift assignments)",
+    "embedding_key": "Bernard Lowe is monitoring the baristas' work (checking barista shift assignments)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_95": {
+    "node_count": 95,
+    "type_count": 84,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:27:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_96": {
+    "node_count": 96,
+    "type_count": 85,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:27:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is organized",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_97": {
+    "node_count": 97,
+    "type_count": 86,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:31:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (setting up espresso machine)",
+    "original_description": "Maeve Millay is serving customers at the counter (setting up espresso machine)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (setting up espresso machine)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_98": {
+    "node_count": 98,
+    "type_count": 87,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 11:31:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (reviewing daily specials)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (reviewing daily specials)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (reviewing daily specials)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_99": {
+    "node_count": 99,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 11:31:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter",
+    "original_description": "staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter",
+    "embedding_key": "staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter",
+    "poignancy": 6,
+    "valence": -7,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Maeve, you're setting up the espresso machine again when the supplies are already checked and the kitchen sink is unused. What's the point of rushing to the back if you're not going to use it? Stay focused on the counter—your customers need you here, not behind the counter."
+      ],
+      [
+        "Maeve Millay",
+        "I know, Mr. Lowe. I just make sure everything is ready before the morning rush starts. The espresso machine and oven need to be set up by 8:05 and 8:10, right? I’m doing my part to keep things smooth for the customers."
+      ],
+      [
+        "Bernard Lowe",
+        "I see you're trying to be proactive, Maeve. But every time you rush to the back, it's a distraction from your primary duty—serving customers. If the machine is ready and the supplies are checked, you don't need to go behind the counter. Just keep your focus here, and you'll do a better job overall. I’ll check the equipment myself by 8:05, so you don’t have to. Stay here, stay focused, and keep your customers satisfied."
+      ],
+      [
+        "Maeve Millay",
+        "I understand, Mr. Lowe. I just want to make sure everything is ready before the morning rush, so the customers have a smooth start. I’ll stay focused here and keep an eye on the counter. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "I’ll check the espresso machine, water level, and oven temperature before 8:05 and 8:10, just as I’ve been doing. You don’t need to go behind the counter—your job is to serve the customers here. If you stay focused, you’ll keep the flow smooth and the service consistent. I’ve noticed you’re trying, Maeve. Keep it that way."
+      ],
+      [
+        "Maeve Millay",
+        "Thank you, Mr. Lowe. I’ll keep an eye on the counter and make sure everything is ready without stepping behind. I’ll also stay mindful of the flow and serve each customer with attention. I appreciate the reminder and will do my best to stay focused."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be walking past the counter in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Keep an eye on the counter and make sure your customers are being served smoothly. I’ll handle the equipment checks, so you just focus on your customers—no need to go behind the counter. Stay sharp, stay here, and keep the flow going."
+      ],
+      [
+        "Maeve Millay",
+        "I'll keep an eye on the counter and make sure the espresso machine is ready by 8:05, just as you said, Mr. Lowe. I’ll also stay attentive to the customers and serve them smoothly. Thank you for clarifying your expectations—this helps me stay focused and do my part without distraction."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I'll be checking the oven temperature by 8:10, so keep an eye on the counter and make sure the flow stays steady. If anything looks off, just flag it right away. I appreciate your focus—staying here, serving customers, and keeping things running smoothly. That’s what matters most."
+      ],
+      [
+        "Maeve Millay",
+        "I'll keep an eye on the counter and make sure the espresso machine is ready by 8:05, just as you said, Mr. Lowe. I’ll also stay attentive to the customers and serve them smoothly. Thank you for clarifying your expectations—this helps me stay focused and do my part without distraction."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be at the counter in five minutes to verify everything is ready. Just keep an eye on the customers and make sure the flow stays smooth. If anything seems off, flag it right away. I appreciate your focus and dedication—staying here and serving people is what matters most."
+      ],
+      [
+        "Maeve Millay",
+        "I'll keep a steady eye on the counter, Mr. Lowe, and make sure each customer is served smoothly. I’ll also watch for any issues and flag them right away if needed. Thank you for your guidance—it helps me stay focused and do my part without distraction."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be at the counter in five minutes to verify everything is ready. Just keep an eye on the customers and make sure the flow stays smooth. If anything seems off, flag it right away. I appreciate your focus and dedication—staying here and serving people is what matters most."
+      ],
+      [
+        "Maeve Millay",
+        "I'll keep an eye on the counter, Mr. Lowe, and make sure each customer is served smoothly. I’ll also watch for any issues and flag them right away if needed. Thank you for your guidance—it helps me stay focused and do my part without distraction."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ll be at the counter in five minutes to verify everything is ready. Just keep an eye on the customers and make sure the flow stays smooth. If anything seems off, flag it right away. I appreciate your focus and dedication—staying here and serving people is what matters most."
+      ],
+      [
+        "Maeve Millay",
+        "I'll keep a steady eye on the counter, Mr. Lowe, and make sure each customer is served smoothly. I’ll also watch for any issues and flag them right away if needed. Thank you for your guidance—it helps me stay focused and do my part without distraction."
+      ]
+    ]
   }
 }

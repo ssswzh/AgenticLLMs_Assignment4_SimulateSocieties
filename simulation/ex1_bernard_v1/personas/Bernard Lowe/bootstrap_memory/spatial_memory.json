@@ -7,11 +7,11 @@
         "shower"
       ],
       "main room": [
-        "refrigerator",
         "closet",
         "shelf",
         "bed",
-        "desk"
+        "desk",
+        "refrigerator"
       ]
     },
     "Dorm for Oak Hill College": {
@@ -26,8 +26,8 @@
     },
     "Giorgio Rossi's apartment": {
       "bathroom": [
-        "bathroom sink",
-        "shower"
+        "shower",
+        "bathroom sink"
       ],
       "main room": [
         "bed",
@@ -44,12 +44,12 @@
     },
     "Hobbs Cafe": {
       "cafe": [
+        "cafe customer seating",
         "cooking area",
         "kitchen sink",
         "behind the cafe counter",
         "piano",
-        "refrigerator",
-        "cafe customer seating"
+        "refrigerator"
       ]
     },
     "Johnson Park": {
@@ -64,33 +64,33 @@
         "toilet"
       ],
       "main room": [
+        "kitchen sink",
         "refrigerator",
         "computer desk",
         "closet",
         "bed",
-        "cooking area",
-        "kitchen sink"
+        "cooking area"
       ]
     },
     "The Rose and Crown Pub": {
       "pub": [
-        "cooking area",
         "microphone",
         "shelf",
         "refrigerator",
         "bar customer seating",
         "behind the bar counter",
-        "kitchen sink"
+        "kitchen sink",
+        "cooking area"
       ]
     },
     "The Willows Market and Pharmacy": {
       "store": [
+        "grocery store counter",
+        "behind the pharmacy counter",
         "pharmacy store shelf",
         "pharmacy store counter",
         "grocery store shelf",
-        "behind the grocery counter",
-        "grocery store counter",
-        "behind the pharmacy counter"
+        "behind the grocery counter"
       ]
     }
   }

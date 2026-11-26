@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, the espresso machine needs to be ready by 8:05. You're setting up the beans, but you're not checking if the machine is powered and calibrated. Do it now or I'll have to step in and do it myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm checking the machine right now and will make sure it's powered and calibrated before 8:05. I'll let you know when it's ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Keep an eye on the water level too—last week we had a spill because the reservoir was low. I don't want to see that happen again."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep an eye on the water level and double-check everything before 8:05. Thanks for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I saw you rush to the back of the station just now. The supplies were already checked and the kitchen sink was unused. You don't need to go there unnecessarily. Keep your focus on the counter—your job is to serve customers, not to run around like you're chasing something."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll stay focused on the counter and make sure everything is set before 8:05. I'll keep an eye on the machine, water level, and the supplies as I go. Thanks for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve's already at the counter, and she's not even checking the machine. I'll have to remind her too. Keep your eyes on the counter, Dolores—no unnecessary movements. The morning rush starts at 8:05, and I don't have time for distractions."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll stay focused on the counter and make sure everything is ready before 8:05. I'll keep an eye on the machine, water level, and supplies as I go. Thanks for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I'll be walking past the counter in a few minutes to check on the espresso machine and water level. If anything looks off, I'll stop and deal with it. Keep your eyes on the customers and your station—no running around or unnecessary movements. The morning rush starts at 8:05, and I don't have time for delays or distractions."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll stay focused on the counter, keep an eye on the machine, water level, and supplies, and make sure everything is ready before 8:05. I'll also be mindful of my movements and serve customers efficiently. Thanks for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I'll be checking the oven temperature calibration in a few minutes. Make sure it's at 350 degrees by 8:10. If it's not, I'll have to adjust it myself. Keep your focus on the counter and the customers—no distractions. I don't have time for delays."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll make sure the oven is at 350 degrees by 8:10 and keep a close eye on the counter and the customers throughout the morning. I'll stay focused and efficient, just as you asked."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter in five minutes to do a quick walk-through. If anything’s off—machine, water, oven—just flag it. I don’t want to see another missed check or a half-finished task. Stay sharp, stay focused. The morning rush starts at 8:05, and I can’t afford any slips."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep a close eye on everything—machine, water level, oven, and supplies—before 8:05. I’ll stay focused on the counter and serve customers efficiently. Thanks for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I'll be walking past the counter in five minutes. If the machine's not ready or the water's low, I'll stop and deal with it. Keep your eyes on the customers and your station—no running around. The morning rush starts at 8:05, and I don't have time for delays."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep everything checked and stay focused on the counter throughout the morning. I'll make sure the machine is powered and calibrated, the water level is sufficient, and the oven is at 350 degrees by 8:10. Thanks for your guidance."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, the espresso machine needs to be ready by 8:05. You're setting up the beans, but you're not checking if the machine is powered and calibrated. Do it now or I'll have to step in and do it myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm checking the machine right now and will make sure it's powered and calibrated before 8:05. I'll let you know when it's ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Keep an eye on the water level too—last week we had a spill because the reservoir was low. I don't want to see that happen again."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep an eye on the water level and double-check everything before 8:05. Thanks for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I saw you rush to the back of the station just now. The supplies were already checked and the kitchen sink was unused. You don't need to go there unnecessarily. Keep your focus on the counter—your job is to serve customers, not to run around like you're chasing something."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll stay focused on the counter and make sure everything is set before 8:05. I'll keep an eye on the machine, water level, and the supplies as I go. Thanks for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve's already at the counter, and she's not even checking the machine. I'll have to remind her too. Keep your eyes on the counter, Dolores—no unnecessary movements. The morning rush starts at 8:05, and I don't have time for distractions."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll stay focused on the counter and make sure everything is ready before 8:05. I'll keep an eye on the machine, water level, and supplies as I go. Thanks for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I'll be walking past the counter in a few minutes to check on the espresso machine and water level. If anything looks off, I'll stop and deal with it. Keep your eyes on the customers and your station—no running around or unnecessary movements. The morning rush starts at 8:05, and I don't have time for delays or distractions."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll stay focused on the counter, keep an eye on the machine, water level, and supplies, and make sure everything is ready before 8:05. I'll also be mindful of my movements and serve customers efficiently. Thanks for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I'll be checking the oven temperature calibration in a few minutes. Make sure it's at 350 degrees by 8:10. If it's not, I'll have to adjust it myself. Keep your focus on the counter and the customers—no distractions. I don't have time for delays."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll make sure the oven is at 350 degrees by 8:10 and keep a close eye on the counter and the customers throughout the morning. I'll stay focused and efficient, just as you asked."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter in five minutes to do a quick walk-through. If anything’s off—machine, water, oven—just flag it. I don’t want to see another missed check or a half-finished task. Stay sharp, stay focused. The morning rush starts at 8:05, and I can’t afford any slips."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep a close eye on everything—machine, water level, oven, and supplies—before 8:05. I’ll stay focused on the counter and serve customers efficiently. Thanks for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I'll be walking past the counter in five minutes. If the machine's not ready or the water's low, I'll stop and deal with it. Keep your eyes on the customers and your station—no running around. The morning rush starts at 8:05, and I don't have time for delays."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep everything checked and stay focused on the counter throughout the morning. I'll make sure the machine is powered and calibrated, the water level is sufficient, and the oven is at 350 degrees by 8:10. Thanks for your guidance."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "🍳",
+      "description": "serving customers at the counter (checking inventory levels) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:01:50"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, you're setting up the espresso machine again when the supplies are already checked and the kitchen sink is unused. What's the point of rushing to the back if you're not going to use it? Stay focused on the counter—your customers need you here, not behind the counter."
+        ],
+        [
+          "Maeve Millay",
+          "I know, Mr. Lowe. I just make sure everything is ready before the morning rush starts. The espresso machine and oven need to be set up by 8:05 and 8:10, right? I’m doing my part to keep things smooth for the customers."
+        ],
+        [
+          "Bernard Lowe",
+          "I see you're trying to be proactive, Maeve. But every time you rush to the back, it's a distraction from your primary duty—serving customers. If the machine is ready and the supplies are checked, you don't need to go behind the counter. Just keep your focus here, and you'll do a better job overall. I’ll check the equipment myself by 8:05, so you don’t have to. Stay here, stay focused, and keep your customers satisfied."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Mr. Lowe. I just want to make sure everything is ready before the morning rush, so the customers have a smooth start. I’ll stay focused here and keep an eye on the counter. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "I’ll check the espresso machine, water level, and oven temperature before 8:05 and 8:10, just as I’ve been doing. You don’t need to go behind the counter—your job is to serve the customers here. If you stay focused, you’ll keep the flow smooth and the service consistent. I’ve noticed you’re trying, Maeve. Keep it that way."
+        ],
+        [
+          "Maeve Millay",
+          "Thank you, Mr. Lowe. I’ll keep an eye on the counter and make sure everything is ready without stepping behind. I’ll also stay mindful of the flow and serve each customer with attention. I appreciate the reminder and will do my best to stay focused."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be walking past the counter in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Keep an eye on the counter and make sure your customers are being served smoothly. I’ll handle the equipment checks, so you just focus on your customers—no need to go behind the counter. Stay sharp, stay here, and keep the flow going."
+        ],
+        [
+          "Maeve Millay",
+          "I'll keep an eye on the counter and make sure the espresso machine is ready by 8:05, just as you said, Mr. Lowe. I’ll also stay attentive to the customers and serve them smoothly. Thank you for clarifying your expectations—this helps me stay focused and do my part without distraction."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I'll be checking the oven temperature by 8:10, so keep an eye on the counter and make sure the flow stays steady. If anything looks off, just flag it right away. I appreciate your focus—staying here, serving customers, and keeping things running smoothly. That’s what matters most."
+        ],
+        [
+          "Maeve Millay",
+          "I'll keep an eye on the counter and make sure the espresso machine is ready by 8:05, just as you said, Mr. Lowe. I’ll also stay attentive to the customers and serve them smoothly. Thank you for clarifying your expectations—this helps me stay focused and do my part without distraction."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be at the counter in five minutes to verify everything is ready. Just keep an eye on the customers and make sure the flow stays smooth. If anything seems off, flag it right away. I appreciate your focus and dedication—staying here and serving people is what matters most."
+        ],
+        [
+          "Maeve Millay",
+          "I'll keep a steady eye on the counter, Mr. Lowe, and make sure each customer is served smoothly. I’ll also watch for any issues and flag them right away if needed. Thank you for your guidance—it helps me stay focused and do my part without distraction."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be at the counter in five minutes to verify everything is ready. Just keep an eye on the customers and make sure the flow stays smooth. If anything seems off, flag it right away. I appreciate your focus and dedication—staying here and serving people is what matters most."
+        ],
+        [
+          "Maeve Millay",
+          "I'll keep an eye on the counter, Mr. Lowe, and make sure each customer is served smoothly. I’ll also watch for any issues and flag them right away if needed. Thank you for your guidance—it helps me stay focused and do my part without distraction."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be at the counter in five minutes to verify everything is ready. Just keep an eye on the customers and make sure the flow stays smooth. If anything seems off, flag it right away. I appreciate your focus and dedication—staying here and serving people is what matters most."
+        ],
+        [
+          "Maeve Millay",
+          "I'll keep a steady eye on the counter, Mr. Lowe, and make sure each customer is served smoothly. I’ll also watch for any issues and flag them right away if needed. Thank you for your guidance—it helps me stay focused and do my part without distraction."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🍳",
+      "description": "serving customers at the counter (calibrating the grinder) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, you're setting up the espresso machine again when the supplies are already checked and the kitchen sink is unused. What's the point of rushing to the back if you're not going to use it? Stay focused on the counter—your customers need you here, not behind the counter."
+        ],
+        [
+          "Maeve Millay",
+          "I know, Mr. Lowe. I just make sure everything is ready before the morning rush starts. The espresso machine and oven need to be set up by 8:05 and 8:10, right? I’m doing my part to keep things smooth for the customers."
+        ],
+        [
+          "Bernard Lowe",
+          "I see you're trying to be proactive, Maeve. But every time you rush to the back, it's a distraction from your primary duty—serving customers. If the machine is ready and the supplies are checked, you don't need to go behind the counter. Just keep your focus here, and you'll do a better job overall. I’ll check the equipment myself by 8:05, so you don’t have to. Stay here, stay focused, and keep your customers satisfied."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Mr. Lowe. I just want to make sure everything is ready before the morning rush, so the customers have a smooth start. I’ll stay focused here and keep an eye on the counter. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "I’ll check the espresso machine, water level, and oven temperature before 8:05 and 8:10, just as I’ve been doing. You don’t need to go behind the counter—your job is to serve the customers here. If you stay focused, you’ll keep the flow smooth and the service consistent. I’ve noticed you’re trying, Maeve. Keep it that way."
+        ],
+        [
+          "Maeve Millay",
+          "Thank you, Mr. Lowe. I’ll keep an eye on the counter and make sure everything is ready without stepping behind. I’ll also stay mindful of the flow and serve each customer with attention. I appreciate the reminder and will do my best to stay focused."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be walking past the counter in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Keep an eye on the counter and make sure your customers are being served smoothly. I’ll handle the equipment checks, so you just focus on your customers—no need to go behind the counter. Stay sharp, stay here, and keep the flow going."
+        ],
+        [
+          "Maeve Millay",
+          "I'll keep an eye on the counter and make sure the espresso machine is ready by 8:05, just as you said, Mr. Lowe. I’ll also stay attentive to the customers and serve them smoothly. Thank you for clarifying your expectations—this helps me stay focused and do my part without distraction."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I'll be checking the oven temperature by 8:10, so keep an eye on the counter and make sure the flow stays steady. If anything looks off, just flag it right away. I appreciate your focus—staying here, serving customers, and keeping things running smoothly. That’s what matters most."
+        ],
+        [
+          "Maeve Millay",
+          "I'll keep an eye on the counter and make sure the espresso machine is ready by 8:05, just as you said, Mr. Lowe. I’ll also stay attentive to the customers and serve them smoothly. Thank you for clarifying your expectations—this helps me stay focused and do my part without distraction."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be at the counter in five minutes to verify everything is ready. Just keep an eye on the customers and make sure the flow stays smooth. If anything seems off, flag it right away. I appreciate your focus and dedication—staying here and serving people is what matters most."
+        ],
+        [
+          "Maeve Millay",
+          "I'll keep a steady eye on the counter, Mr. Lowe, and make sure each customer is served smoothly. I’ll also watch for any issues and flag them right away if needed. Thank you for your guidance—it helps me stay focused and do my part without distraction."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be at the counter in five minutes to verify everything is ready. Just keep an eye on the customers and make sure the flow stays smooth. If anything seems off, flag it right away. I appreciate your focus and dedication—staying here and serving people is what matters most."
+        ],
+        [
+          "Maeve Millay",
+          "I'll keep an eye on the counter, Mr. Lowe, and make sure each customer is served smoothly. I’ll also watch for any issues and flag them right away if needed. Thank you for your guidance—it helps me stay focused and do my part without distraction."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be at the counter in five minutes to verify everything is ready. Just keep an eye on the customers and make sure the flow stays smooth. If anything seems off, flag it right away. I appreciate your focus and dedication—staying here and serving people is what matters most."
+        ],
+        [
+          "Maeve Millay",
+          "I'll keep a steady eye on the counter, Mr. Lowe, and make sure each customer is served smoothly. I’ll also watch for any issues and flag them right away if needed. Thank you for your guidance—it helps me stay focused and do my part without distraction."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:39:40"
+  }
+}

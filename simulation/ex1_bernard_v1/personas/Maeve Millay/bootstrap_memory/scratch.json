@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 10:34:50",
+  "curr_time": "February 13, 2023, 12:02:20",
   "curr_tile": [
-    91,
-    37
+    77,
+    19
   ],
   "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
   "name": "Maeve Millay",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 40,
-  "importance_ele_n": 23,
+  "importance_trigger_curr": 20,
+  "importance_ele_n": 19,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -230,7 +230,23 @@
     ],
     [
       "serving customers at the counter (preparing station supplies)",
-      5
+      3
+    ],
+    [
+      "maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly",
+      10
+    ],
+    [
+      "serving customers at the counter (preparing station supplies)",
+      1
+    ],
+    [
+      "establishing a quiet coffee and walk routine by the bridge with mutual expectations of presence and steady presence",
+      8
+    ],
+    [
+      "serving customers at the counter (preparing station supplies)",
+      1
     ],
     [
       "serving customers at the counter (checking inventory levels)",
@@ -238,11 +254,47 @@
     ],
     [
       "serving customers at the counter (organizing coffee beans)",
-      5
+      2
+    ],
+    [
+      "staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift",
+      10
+    ],
+    [
+      "serving customers at the counter (organizing coffee beans)",
+      3
     ],
     [
       "serving customers at the counter (setting up espresso machine)",
-      5
+      1
+    ],
+    [
+      "meeting near the bridge daily with a book and coffee to share quiet peace",
+      10
+    ],
+    [
+      "serving customers at the counter (setting up espresso machine)",
+      1
+    ],
+    [
+      "staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter",
+      8
+    ],
+    [
+      "serving customers at the counter (setting up espresso machine)",
+      2
+    ],
+    [
+      "establishing a quiet routine of shared coffee, books, and silent walks by the bridge",
+      10
+    ],
+    [
+      "serving customers at the counter (setting up espresso machine)",
+      1
+    ],
+    [
+      "correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush",
+      7
     ],
     [
       "serving customers at the counter (calibrating milk frothing device)",
@@ -310,19 +362,7 @@
     ],
     [
       "serving customers at the counter (handling rush hour service)",
-      20
-    ],
-    [
-      "serving customers at the counter (maintaining service consistency)",
-      20
-    ],
-    [
-      "serving customers at the counter (ensuring hygiene standards)",
-      20
-    ],
-    [
-      "serving customers at the counter (conducting end-of-shift inventory check)",
-      14
+      11
     ],
     [
       "walking in Johnson Park",
@@ -379,138 +419,30 @@
       60
     ]
   ],
-  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
-  "act_start_time": "February 13, 2023, 10:32:00",
+  "act_address": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+  "act_start_time": "February 13, 2023, 12:00:00",
   "act_duration": 5,
-  "act_description": "walking to Hobbs Cafe (noticing landmarks along the path)",
-  "act_pronunciatio": "🚶‍♂️🍳",
+  "act_description": "serving customers at the counter (calibrating milk frothing device)",
+  "act_pronunciatio": "🍳",
   "act_event": [
     "Maeve Millay",
-    "walking",
+    "serving",
     "None"
   ],
-  "act_obj_description": "unoccupied",
-  "act_obj_pronunciatio": "🧱",
+  "act_obj_description": "unused",
+  "act_obj_pronunciatio": "✨",
   "act_obj_event": [
-    "cafe customer seating",
-    "is unoccupied",
+    "kitchen sink",
+    "is unused",
     "None"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {
-    "Dolores Abernathy": 14
+    "Bernard Lowe": 60,
+    "Dolores Abernathy": -8
   },
   "chatting_end_time": null,
   "act_path_set": true,
-  "planned_path": [
-    [
-      90,
-      37
-    ],
-    [
-      89,
-      37
-    ],
-    [
-      88,
-      37
-    ],
-    [
-      87,
-      37
-    ],
-    [
-      86,
-      37
-    ],
-    [
-      85,
-      37
-    ],
-    [
-      84,
-      37
-    ],
-    [
-      83,
-      37
-    ],
-    [
-      82,
-      37
-    ],
-    [
-      81,
-      37
-    ],
-    [
-      80,
-      37
-    ],
-    [
-      79,
-      37
-    ],
-    [
-      78,
-      37
-    ],
-    [
-      77,
-      37
-    ],
-    [
-      76,
-      37
-    ],
-    [
-      76,
-      36
-    ],
-    [
-      76,
-      35
-    ],
-    [
-      76,
-      34
-    ],
-    [
-      76,
-      33
-    ],
-    [
-      76,
-      32
-    ],
-    [
-      76,
-      31
-    ],
-    [
-      76,
-      30
-    ],
-    [
-      76,
-      29
-    ],
-    [
-      76,
-      28
-    ],
-    [
-      76,
-      27
-    ],
-    [
-      76,
-      26
-    ],
-    [
-      76,
-      25
-    ]
-  ]
+  "planned_path": null
 }

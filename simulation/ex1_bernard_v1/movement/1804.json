@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, I just saw you calibrating the milk frothing device. You're supposed to be serving customers, not behind the counter. That's a distraction. I know you're trying to be proactive, but the morning rush starts at 8:05 — right now you're not serving anyone. Keep your focus on the counter. If something needs prep, flag it to me before the rush. I'll handle the rest."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I apologize—I was just making sure the device is ready before the rush. I’ll move to the counter right away and start serving customers. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be walking past the counter in five minutes to check the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Make sure you're ready to serve when I pass. No distractions, no prepping behind the counter. Focus on the customers. I'll handle the rest of the prep. If you need to flag anything, do it now—before the rush starts."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving to the counter now and will start serving customers right away. Thank you for the reminder—I’ll keep an eye on the flow and flag anything immediately if something comes up."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I noticed you're still organizing coffee beans—again, behind the counter. That's not part of your shift. If you need to prep, do it in the morning when I'm here to supervise. Right now, you're in the front of house. Focus on serving. I'll check the equipment in five minutes. If anything's off, I'll know. No excuses. Just stay on the counter and serve. I don't need to see you behind the counter."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving to the counter now and will start serving customers right away. Thank you for the reminder—I’ll keep an eye on the flow and flag anything immediately if something comes up."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I'll be checking the counter in five minutes. Make sure your station is clean and your service flow is smooth. If you see anything off—like a customer needing something specific or a supply issue—flag it right now. I don't want to see you behind the counter again. I know you’re trying to do your job well, but right now, your focus must be on the customers. I'll handle the equipment. Keep serving. I'll be past in five minutes."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm on the counter now and ready to serve. I'll keep an eye on the customers and flag anything immediately if I notice a supply issue or a customer need. Thank you for the reminder—I’ll make sure to stay focused on serving during the rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I'm going to walk past the counter in five minutes. Make sure the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. If anything’s off, I’ll know. Keep serving. I don’t want to see you behind the counter again. Focus on the customers. I’ll handle the rest."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm fully on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay focused and not distract myself from the front of house."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be checking the counter in five minutes. Make sure the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. If anything’s off, I’ll know. Stay on the counter and serve. I don’t want to see you behind the counter again. Focus on the customers. I’ll handle the rest."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm fully on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay focused and not distract myself from the front of house."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I see you're still checking inventory levels—again, behind the counter. That's not your role right now. The front of house is where you serve. If you need to prep supplies, do it during my morning walk-through. I'll handle the equipment. Stay focused on the customers. I'll be past in five minutes to verify everything is ready. No distractions. If you need anything, flag it now."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm fully focused on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay present and attentive throughout the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve noticed you’re doing all the prep work behind the counter again—organizing beans, checking inventory, calibrating devices. That’s not your role during the morning rush. I know you’re trying to do your job well, but right now, your focus must be on serving customers. If something needs to be prepped, do it during my morning walk-through. I’ll handle the equipment. Stay on the counter. I don’t want to see you behind it. I’ll be past in five minutes to verify the espresso machine is powered, water level is sufficient, and oven is at 350 degrees. If anything’s off, I’ll know. Keep serving. I don’t need to see you behind the counter again."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm fully on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay focused and not distract myself from the front of house."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🍽️",
+      "description": "serving customers at the counter (checking the cleanliness of the counter) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, I just saw you calibrating the milk frothing device. You're supposed to be serving customers, not behind the counter. That's a distraction. I know you're trying to be proactive, but the morning rush starts at 8:05 — right now you're not serving anyone. Keep your focus on the counter. If something needs prep, flag it to me before the rush. I'll handle the rest."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I apologize—I was just making sure the device is ready before the rush. I’ll move to the counter right away and start serving customers. Thank you for the reminder."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be walking past the counter in five minutes to check the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Make sure you're ready to serve when I pass. No distractions, no prepping behind the counter. Focus on the customers. I'll handle the rest of the prep. If you need to flag anything, do it now—before the rush starts."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving to the counter now and will start serving customers right away. Thank you for the reminder—I’ll keep an eye on the flow and flag anything immediately if something comes up."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I noticed you're still organizing coffee beans—again, behind the counter. That's not part of your shift. If you need to prep, do it in the morning when I'm here to supervise. Right now, you're in the front of house. Focus on serving. I'll check the equipment in five minutes. If anything's off, I'll know. No excuses. Just stay on the counter and serve. I don't need to see you behind the counter."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving to the counter now and will start serving customers right away. Thank you for the reminder—I’ll keep an eye on the flow and flag anything immediately if something comes up."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I'll be checking the counter in five minutes. Make sure your station is clean and your service flow is smooth. If you see anything off—like a customer needing something specific or a supply issue—flag it right now. I don't want to see you behind the counter again. I know you’re trying to do your job well, but right now, your focus must be on the customers. I'll handle the equipment. Keep serving. I'll be past in five minutes."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm on the counter now and ready to serve. I'll keep an eye on the customers and flag anything immediately if I notice a supply issue or a customer need. Thank you for the reminder—I’ll make sure to stay focused on serving during the rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I'm going to walk past the counter in five minutes. Make sure the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. If anything’s off, I’ll know. Keep serving. I don’t want to see you behind the counter again. Focus on the customers. I’ll handle the rest."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm fully on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay focused and not distract myself from the front of house."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ll be checking the counter in five minutes. Make sure the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. If anything’s off, I’ll know. Stay on the counter and serve. I don’t want to see you behind the counter again. Focus on the customers. I’ll handle the rest."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm fully on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay focused and not distract myself from the front of house."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I see you're still checking inventory levels—again, behind the counter. That's not your role right now. The front of house is where you serve. If you need to prep supplies, do it during my morning walk-through. I'll handle the equipment. Stay focused on the customers. I'll be past in five minutes to verify everything is ready. No distractions. If you need anything, flag it now."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm fully focused on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay present and attentive throughout the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve noticed you’re doing all the prep work behind the counter again—organizing beans, checking inventory, calibrating devices. That’s not your role during the morning rush. I know you’re trying to do your job well, but right now, your focus must be on serving customers. If something needs to be prepped, do it during my morning walk-through. I’ll handle the equipment. Stay on the counter. I don’t want to see you behind it. I’ll be past in five minutes to verify the espresso machine is powered, water level is sufficient, and oven is at 350 degrees. If anything’s off, I’ll know. Keep serving. I don’t need to see you behind the counter again."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm fully on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay focused and not distract myself from the front of house."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:59:40"
+  }
+}

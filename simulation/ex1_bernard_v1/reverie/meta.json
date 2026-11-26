@@ -1,14 +1,14 @@
 {
   "fork_sim_code": "base_the_ville_isabella_maria_klaus",
   "start_date": "February 13, 2023",
-  "curr_time": "February 13, 2023, 10:35:00",
+  "curr_time": "February 13, 2023, 12:02:20",
   "sec_per_step": 10,
   "maze_name": "the_spiral",
   "persona_names": [
+    "Dolores Abernathy",
     "Maeve Millay",
-    "Bernard Lowe",
-    "Dolores Abernathy"
+    "Bernard Lowe"
   ],
-  "step": 1296,
+  "step": 1820,
   "backup_interval": 0
 }
