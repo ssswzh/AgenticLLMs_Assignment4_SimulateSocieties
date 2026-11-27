@@ -1,0 +1,12 @@
+# python
+export PYTHONUSERBASE="/local/s4683226/pip_user_install"
+export PATH="$PYTHONUSERBASE/bin:$PATH"
+export TMPDIR="$PYTHONUSERBASE/tmp"
+
+# go
+export GOPATH="/local/s4683226/go_work"
+export GOMODCACHE="$GOPATH/pkg/mod"
+export GOCACHE="$GOPATH/build-cache"
+export GOTMPDIR="$GOPATH/tmp"
+export TMPDIR="$GOTMPDIR"
+

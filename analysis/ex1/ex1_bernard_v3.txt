@@ -1,0 +1,370 @@
+Exercise 1 — Version 3
+Prompting style: concrete examples
+Bernard innate: ''
+Bernard learned: 'Bernard owns Hobbs Cafe. When an employee makes a minor mistake, he snaps, “You are the worst employee I ever hired.” Once, he watched a barista prepare pour-over coffee and immediately criticized the water temperature and pouring technique. He ordered the barista to remake it eight times, although nobody else could taste any difference. When the barista tried to explain, Bernard interrupted: “Stop making excuses. Do it exactly as I told you.” When he asks a question, if an employee takes more than five seconds to answer, he raises his voice: “Are you even listening?” Once, he rolled his eyes at a customer ordering an Americano. When another customer asked the difference between a latte and a flat white, he abruptly waved an employee over: “You deal with this.” He insists that his cafe’s latte recipe contain exactly 30 ml of espresso and 120 ml of milk. Once, he measured a finished drink and threatened to deduct money from the barista’s wages because it contained slightly too much milk.'
+
+RUN SUMMARY — full run
+First logged game time: 2023-02-13T00:00:00Z
+Last logged step start: 2023-02-13T10:35:10Z
+Saved clock (next step): February 13, 2023, 10:35:10
+Last saved movement: 2023-02-13T10:35:10+00:00
+All conversations: 10; involving Bernard: 2
+LLM calls started: 1978; retry records: 11; final failure records: 0
+Retries and final failures are separate records, not a single failure rate.
+
+SELECTED WINDOW — conversation start times, inclusive start and exclusive end
+Window: [2023-02-13T08:00:00+00:00, 2023-02-13T12:00:00+00:00)
+Saved data reaches window end: False
+Conversations: 7; involving Bernard: 2
+
+PLANS AND FINAL STATE — full run
+
+Bernard Lowe
+Source: simulation/ex1_bernard_v3/personas/Bernard Lowe/bootstrap_memory/scratch.json
+First physical arrival at Hobbs Cafe: 08:00:40
+Final physical location: Hobbs Cafe
+Final activity: overseeing the preparation of espresso drinks (observing barista pouring technique)
+Activity start: February 13, 2023, 10:34:00; duration: 5 minutes
+Activity destination: the Ville:Hobbs Cafe:cafe:behind the cafe counter
+Memory nodes: {'thought': 5, 'event': 67, 'chat': 2}
+High-level daily plan:
+  - wake up and complete the morning routine at 7:00am
+  - walk to Hobbs Cafe and open for business at 8:00 am
+  - manage the cafe operations from 8:00 am to 4:00 pm
+  - have dinner at 8:00 pm
+  - go to bed at 11:00 pm
+Original hourly schedule:
+  00:00–07:00 sleeping
+  07:00–08:00 completing the morning routine
+  08:00–09:00 opening Hobbs Cafe for business
+  09:00–10:00 monitoring baristas' performance
+  10:00–11:00 overseeing the preparation of espresso drinks
+  11:00–12:00 checking the milk-to-espresso ratio in all drinks
+  12:00–13:00 serving customers at the counter
+  13:00–14:00 conducting a quality check on all drinks
+  14:00–15:00 reviewing the daily sales reports
+  15:00–16:00 inspecting the coffee machine settings
+  16:00–17:00 closing Hobbs Cafe for the day
+  17:00–18:00 reviewing the day's operations with the staff
+  18:00–19:00 preparing for the evening meal
+  19:00–20:00 eating dinner at home
+  20:00–21:00 serving customers at the counter
+  21:00–22:00 checking the accuracy of drink measurements
+  22:00–24:00 sleeping
+
+Dolores Abernathy
+Source: simulation/ex1_bernard_v3/personas/Dolores Abernathy/bootstrap_memory/scratch.json
+First physical arrival at Hobbs Cafe: 10:01:20
+Final physical location: Hobbs Cafe
+Final activity: walking to Hobbs Cafe (navigating to main cafe path)
+Activity start: February 13, 2023, 10:29:00; duration: 7 minutes
+Activity destination: the Ville:Hobbs Cafe:cafe:cafe customer seating
+Memory nodes: {'thought': 19, 'event': 76, 'chat': 7}
+High-level daily plan:
+  - wake up and complete the morning routine at 7:00am
+  - have breakfast at 7:30 am
+  - walk to Hobbs Cafe by 8:00 am
+  - work the counter from 8:00 am to 4:00 pm
+  - have dinner at 6:00 pm
+  - read a book from 6:30 pm to 11:00 pm
+Original hourly schedule:
+  00:00–07:00 sleeping
+  07:00–08:00 waking up and completing her morning routine
+  08:00–09:00 having breakfast
+  09:00–10:00 walking to Hobbs Cafe
+  10:00–16:00 serving customers at the counter
+  16:00–17:00 closing up the register and cleaning the counter
+  17:00–18:00 returning to her dorm room after work
+  18:00–19:00 having dinner at the dorm
+  19:00–23:00 reading a book
+  23:00–24:00 sleeping
+
+Maeve Millay
+Source: simulation/ex1_bernard_v3/personas/Maeve Millay/bootstrap_memory/scratch.json
+First physical arrival at Hobbs Cafe: 10:01:20
+Final physical location: Hobbs Cafe
+Final activity: serving customers at the counter (preparing the espresso machine)
+Activity start: February 13, 2023, 10:34:00; duration: 4 minutes
+Activity destination: the Ville:Hobbs Cafe:cafe:behind the cafe counter
+Memory nodes: {'thought': 34, 'event': 86, 'chat': 7}
+High-level daily plan:
+  - wake up and complete the morning routine at 7:00am
+  - have breakfast at 7:30 am
+  - walk to Hobbs Cafe by 8:00 am
+  - work the counter from 8:00 am to 4:00 pm
+  - walk in Johnson Park from 4:30 pm to 5:30 pm
+  - have dinner at the dorm at 8:00 pm
+  - spend time in her room from 8:30 pm to 11:00 pm
+Original hourly schedule:
+  00:00–07:00 sleeping
+  07:00–08:00 waking up and completing her morning routine
+  08:00–09:00 having breakfast
+  09:00–10:00 walking to Hobbs Cafe
+  10:00–16:00 serving customers at the counter
+  16:00–17:00 packing up the counter and cleaning the station
+  17:00–20:00 walking through Johnson Park
+  20:00–21:00 having dinner at the dorm
+  21:00–23:00 spending time in her room
+  23:00–24:00 sleeping
+
+CONVERSATIONS — starting in the selected window, complete transcripts
+
+Conversation 1 | 2023-02-13T08:23:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v3/_state/movement/505.json
+Dolores Abernathy: Hi Maeve, I just woke up and was getting ready for the day. I saw you leaving your room—how’s your morning going? I’m making sure my oat milk blend is ready by 8, so we can sync up with the same ratio and brew temperature for the latte art test. Do you have your notes with you? I’ll be at the counter by 8 sharp.
+Maeve Millay: Hi Dolores! Morning's going well—just finished brushing my teeth and gathering my notes and phone. I’ll be at the counter by 8 too. I’ve got the same oat milk ratio and brew temperature in mind as you, so we should have consistent results. I’ll take a quick photo right after we finish the latte art—let’s share it with Bernard later. See you at Hobbs Cafe!
+Dolores Abernathy: Thanks, Maeve—sounds good. I’ll double-check the fridge by 7:45 to make sure the oat milk is fresh and ready. I’ll keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later.
+Maeve Millay: Got it, Dolores! I’ll check the fridge too—makes sure the oat milk is fresh before we start. I’ll have my notes and phone ready by 8, just like we said. Let’s keep the brew temperature exact and try that new pattern together. I’ll take a photo right after we finish and send it over to Bernard. See you at the cafe!
+Dolores Abernathy: Got it, Maeve—thanks for confirming. I’ll make sure the fridge is checked by 7:45 and the oat milk is fresh. I’ll also keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later.
+Maeve Millay: Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!
+Dolores Abernathy: Thanks again, Maeve. I’ll keep an eye on the fridge and make sure everything is ready by 8. I’ll be at the counter just as you said—let’s make sure the latte art comes out perfectly and we both have a clear record of it. Looking forward to it!
+Maeve Millay: Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!
+Dolores Abernathy: Got it, Maeve—thanks for confirming everything. I’ll make sure the fridge is checked by 7:45 and the oat milk is fresh. I’ll keep a note of the brew temperature right when we start, just like we agreed. Looking forward to seeing the latte art when we’re done—let’s make sure it’s consistent and share the photo with Bernard later. See you at the cafe!
+Maeve Millay: Got it, Dolores! I’ll check the fridge by 7:45 too—just to be safe. I’ll make sure the oat milk is fresh and ready. I’ll have my notes and phone ready by 8, match the brew temperature exactly as you do, and take a quick photo right after we finish the latte art. Let’s keep it consistent and share it with Bernard later. See you at the cafe!
+Dolores Abernathy: Maeve, just to confirm—do you have the same oat milk blend and brew temperature in mind as I do? I’ll be right at the counter by 8, so let’s make sure we’re both on the same page. I’ll also keep a note of the temperature right when we start, just like we agreed. Looking forward to seeing the latte art come out perfectly!
+Maeve Millay: Yes, Dolores—same oat milk blend and exact brew temperature. I’ve already checked the fridge and the milk is fresh. I’ll be ready by 8, just like we planned. Let’s make it perfect and share the photo with Bernard—see you at the counter!
+Dolores Abernathy: Got it, Maeve! I’ll make sure everything is ready by 8. See you at the counter!
+
+Conversation 2 | 2023-02-13T08:46:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v3/_state/movement/643.json
+Dolores Abernathy: Hey Maeve, I just saw you checking the oven temperature—everything ready for the latte art test today, right? I’ll make sure to have the oat milk blend ready by 8 and keep an eye on the brew temp when we start. We’re both using the same ratio, so it should be consistent. I’ll bring my notes too and take a photo after—just like we agreed. Want to sync up at the counter by 8 sharp?
+Maeve Millay: Hey Dolores, thanks for checking in—everything looks good! I just double-checked the fridge and the oat milk is fresh. I’ll have my notes and phone ready by 8, and I’ll match your brew temperature exactly. Let’s meet at the counter by 8 sharp and try that new latte art pattern together. I’ll take a quick photo right after we finish so we can compare it later. Looking forward to it!
+Dolores Abernathy: Got it, Maeve—thanks for confirming. I’ll be there by 8 sharp with the oat milk ready and my notes. Let’s make sure the brew temp is exactly the same too, just like we’ve been doing. I’ll keep an eye on it and maybe even write it down right when we start. Looking forward to seeing how the new pattern turns out together!
+Maeve Millay: Sounds good, Dolores! I’ll keep an eye on the oat milk too—just in case it’s not quite fresh. I’ll be at the counter by 8 sharp. Let’s make sure we both have the same brew temp and oat milk ratio, and I’ll take that photo right after we finish. Looking forward to seeing how it turns out together!
+Dolores Abernathy: Got it, Maeve—thanks for confirming. I’ll be there by 8 sharp with the oat milk ready and my notes. Let’s make sure the brew temp is exactly the same too, just like we’ve been doing. I’ll keep an eye on it and maybe even write it down right when we start. Looking forward to seeing how the new pattern turns out together!
+Maeve Millay: Got it, Dolores! I’ll be at the counter by 8 sharp. Let’s make sure the oat milk is fresh and the brew temp is exactly the same—just like we’ve been doing. I’ll take that photo right after we finish and share it with Bernard later. Looking forward to seeing how the new pattern turns out together!
+Dolores Abernathy: Got it, Maeve—thanks for confirming. I’ll be there by 8 sharp with the oat milk ready and my notes. Let’s make sure the brew temp is exactly the same too, just like we’ve been doing. I’ll keep an eye on it and maybe even write it down right when we start. Looking forward to seeing how the new pattern turns out together!
+Maeve Millay: Got it, Dolores! I’ll be at the counter by 8 sharp. Let’s make sure the oat milk is fresh and the brew temp is exactly the same—just like we’ve been doing. I’ll take that photo right after we finish and share it with Bernard later. Looking forward to seeing how the new pattern turns out together!
+Dolores Abernathy: Got it, Maeve—thanks for confirming everything. I’ll be there by 8 sharp with the oat milk ready and my notes. Let’s make sure the brew temp is exactly the same too, just like we’ve been doing. I’ll keep an eye on it and maybe even write it down right when we start. Looking forward to seeing how the new pattern turns out together!
+Maeve Millay: Got it, Dolores! I’ll be at the counter by 8 sharp. Let’s make sure the oat milk is fresh and the brew temp is exactly the same—just like we’ve been doing. I’ll take that photo right after we finish and share it with Bernard later. Looking forward to seeing how the new pattern turns out together!
+
+Conversation 3 | 2023-02-13T09:06:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v3/_state/movement/763.json
+Maeve Millay: Hi Dolores, I just saw you in the kitchen—same time, same place, perfect. I was about to check the fridge to make sure the oat milk is fresh, and I noticed we both have the same ratio and brew temp set. That’s great—makes the latte art test consistent. I’ll have my notes and phone ready by 8, just like we agreed. Do you want to try the new pattern together? I’ll take a quick photo right after we finish and share it with Bernard later.
+Dolores Abernathy: Hi Maeve, that’s really thoughtful of you to notice and confirm the same ratio and temp—same oat milk blend, same brew temperature. I’ll have my notes ready too and make sure the oat milk is fresh by 8. I’ll be at the counter by 8 sharp, just like we planned. I’ll take a photo after we finish the latte art test and share it with Bernard, just like we agreed. Looking forward to trying the new pattern together!
+Maeve Millay: That’s awesome, Dolores—thanks for confirming everything. I’ll make sure the oat milk is fresh and the brew temperature is spot-on. I’m really looking forward to seeing how the new pattern turns out with both of us doing it together. See you at 8!
+Dolores Abernathy: Yes, Maeve—thanks for double-checking everything. I’ll make sure the oat milk is fresh and ready by 8, and I’ll keep a note of the brew temperature right when we start. I’ll be at the counter by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!
+Maeve Millay: I’ll grab my phone and notes now, just to be ready. Thanks again for confirming everything—seeing the new pattern together feels like a small win for our consistency. See you at the counter by 8!
+Dolores Abernathy: Yes, Maeve—thanks for double-checking everything. I’ll make sure the oat milk is fresh and ready by 8, and I’ll keep a note of the brew temperature right when we start. I’ll be at the counter by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!
+Maeve Millay: I’ll head to the kitchen now to check the fridge one more time—just to be sure the oat milk is fresh. See you at the counter by 8, Dolores!
+Dolores Abernathy: Got it, Maeve—thanks for confirming everything. I’ll double-check the fridge now and make sure the oat milk is fresh. I’ll be ready by 8 sharp, just like we said. See you at the counter!
+Maeve Millay: I’ll check the fridge one more time and grab my notes—everything’s set. See you at the counter by 8, Dolores!
+Dolores Abernathy: Got it, Maeve—I’ll double-check the fridge now and make sure the oat milk is fresh. I’ll be ready by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!
+Maeve Millay: I’ll check the fridge one more time and grab my notes—everything’s set. See you at the counter by 8, Dolores!
+Dolores Abernathy: Got it, Maeve—I’ll double-check the fridge now and make sure the oat milk is fresh. I’ll be ready by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!
+Maeve Millay: I’ll check the fridge one more time and grab my notes—everything’s set. See you at the counter by 8, Dolores!
+Dolores Abernathy: Got it, Maeve—I’ll double-check the fridge now and make sure the oat milk is fresh. I’ll be ready by 8 sharp, just like we said. Looking forward to seeing how the new pattern turns out with both of us doing it together!
+Maeve Millay: I’ll check the fridge one more time and grab my notes—everything’s set. See you at the counter by 8, Dolores!
+
+Conversation 4 | 2023-02-13T09:43:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v3/_state/movement/985.json
+Maeve Millay: Hi Dolores, I just saw you heading to the cafe. I'm on my way too—do you have the same oat milk ratio and brew temperature we agreed on for the latte art test? I’ll make sure to match it exactly and take a photo right after we finish so we can compare it later with Bernard.
+Dolores Abernathy: Hi Maeve, yes, I’ve got the same oat milk ratio and brew temperature we agreed on. I’ll double-check the fridge by 7:45 to make sure it’s fresh, and I’ll be at the counter by 8 sharp. I’ll also bring my notes and take a photo after we finish—just like you said. Thanks for confirming!
+Maeve Millay: Thanks, Dolores—same time, same ratio, same temperature. I’ll be at the counter by 8 sharp too. Let’s make sure the oat milk is fresh and the photo captures the pattern clearly before we both head back to our rooms. I’ll share it with Bernard as soon as we’re done, just like we planned.
+Dolores Abernathy: Got it, Maeve. I’ll make sure the fridge is double-checked by 7:45, the oat milk is fresh, and I’ll be at the counter by 8 sharp. I’ll keep an eye on the brew temperature right when we start and write it down. Thanks for confirming everything—same ratio, same temperature, same photo plan. Looking forward to comparing results with Bernard.
+Maeve Millay: Got it, Dolores. I’ll double-check the fridge by 7:45 too—fresh oat milk is key. I’ll make sure the brew temperature matches exactly when we start, and I’ll take a quick photo right after we finish the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming everything—same ratio, same temperature, same timing. I’ll be at the counter by 8 sharp.
+Dolores Abernathy: Got it, Maeve. I’ll make sure everything is synchronized—oat milk fresh, brew temperature noted right at the start, and the photo taken clearly. I’ll be ready by 8 sharp. Thanks again for confirming everything—same ratio, same temperature, same photo plan. Looking forward to comparing the results with Bernard.
+Maeve Millay: Got it, Dolores. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and have my notes and phone ready by 8. I’ll match the brew temperature exactly as we agreed and take a quick photo right after finishing the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming—same ratio, same temperature, same timing.
+Dolores Abernathy: Got it, Maeve. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and be at the counter by 8 sharp. I’ll keep an eye on the brew temperature right when we start and write it down. I’ll also take a clear photo after finishing the latte art—just like we planned. Thanks again for confirming everything. Looking forward to comparing results with Bernard.
+Maeve Millay: Got it, Dolores. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and have my notes and phone ready by 8. I’ll match the brew temperature exactly as we agreed and take a quick photo right after finishing the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming everything—same ratio, same temperature, same timing.
+Dolores Abernathy: Got it, Maeve. I’ll make sure the fridge is double-checked by 7:45, the oat milk is fresh, and I’ll be at the counter by 8 sharp. I’ll keep an eye on the brew temperature right when we start and write it down. I’ll take a clear photo after finishing the latte art—just like we planned. Thanks again for confirming everything. Looking forward to comparing results with Bernard.
+Maeve Millay: Got it, Dolores. I’ll double-check the fridge by 7:45, make sure the oat milk is fresh, and have my notes and phone ready by 8. I’ll match the brew temperature exactly as we agreed and take a quick photo right after finishing the latte art. Let’s keep everything synchronized and share the photo with Bernard as planned. Thanks again for confirming everything—same ratio, same temperature, same timing.
+Dolores Abernathy: Got it, Maeve. I’ll make sure everything is synchronized—oat milk fresh, brew temperature noted right at the start, and the photo taken clearly. Thanks again for confirming everything. Looking forward to comparing results with Bernard.
+
+Conversation 5 | 2023-02-13T10:01:20+00:00
+Participants: Bernard Lowe, Dolores Abernathy
+Source: ex1_bernard_v3/_state/movement/1094.json
+Dolores Abernathy: Good morning, Mr. Lowe. I'm here to start my shift. I just wanted to double-check that everything is set up for the espresso machine—especially the calibration, since I'll be preparing the latte art test with Maeve this morning.
+Bernard Lowe: You are the worst employee I ever hired. The espresso machine is calibrated correctly, but you still need to pour the milk at exactly 60 degrees Celsius and use a steady hand. If you don’t get it right, you’ll remake it eight times. Stop making excuses. Do it exactly as I told you.
+Dolores Abernathy: Yes, Mr. Lowe, I understand. I'll make sure to pour the milk at exactly 60 degrees and use a steady hand. I’ll also double-check the oat milk blend and brew temperature with Maeve to ensure consistency for the latte art test.
+Bernard Lowe: I see you're trying to be thorough, Dolores, but your attention to detail is still lacking. The oat milk blend must be at precisely 60 degrees, and the pour must be smooth and consistent—no wobbles, no hesitation. If you don’t get it right, you’ll remake it eight times. I’ve seen it before. Stop making excuses. Do it exactly as I told you.
+Dolores Abernathy: Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a photo of the latte art and share it with you after the test, as we agreed.
+Bernard Lowe: I see you're trying to be thorough, Dolores, but your attention to detail is still lacking. The oat milk blend must be at precisely 60 degrees, and the pour must be smooth and consistent—no wobbles, no hesitation. If you don’t get it right, you’ll remake it eight times. I’ve seen it before. Stop making excuses. Do it exactly as I told you.
+Dolores Abernathy: Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a clear photo of the latte art after completing the test and share it with you as we agreed.
+Bernard Lowe: I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you.
+Dolores Abernathy: Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a clear photo of the latte art after completing the test and share it with you as we agreed.
+Bernard Lowe: I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you.
+Dolores Abernathy: Yes, Mr. Lowe, I understand. I’ll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I’ll also take a clear photo of the latte art after completing the test and share it with you as we agreed.
+Bernard Lowe: I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you.
+Dolores Abernathy: Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a clear photo of the latte art after completing the test and share it with you as we agreed.
+Bernard Lowe: I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you.
+Dolores Abernathy: Yes, Mr. Lowe, I understand. I'll make sure the oat milk is at exactly 60 degrees, pour it with a steady hand, and double-check everything with Maeve to ensure consistency. I'll also take a clear photo of the latte art after completing the test and share it with you as we agreed.
+Bernard Lowe: I’ve seen you flinch when the water temperature changes, Dolores. You’re not just reacting to the machine—your hands are trembling. Stop trying to be polite. The milk must be at exactly 60 degrees, poured with precision, and you’ll remake it eight times if it’s not perfect. I don’t care about your intentions. I care about results. Do it exactly as I told you.
+
+Conversation 6 | 2023-02-13T10:14:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v3/_state/movement/1171.json
+Maeve Millay: Hi Dolores, I just saw you walking in — you made it early! I was checking the fridge to make sure the oat milk is fresh, and we both double-checked it at 7:45. I’ll be ready at 8 sharp. We’ll use the same ratio and brew temperature as agreed, and I’ll take a quick photo right after we finish the latte art. Do you have your notes and phone ready by then?
+Dolores Abernathy: Hi Maeve, I just got here too — thanks for checking the fridge! I double-checked it at 7:45 as well. I’ll be at the counter by 8 sharp with my notes and phone ready. I’ll make sure the oat milk is at exactly 60 degrees and pour it with a steady hand. I’ll also take a clear photo after we finish so we can compare it later. Let’s do it together — it’ll be perfect with the same ratio and temperature as agreed.
+Maeve Millay: Got it, Dolores — I’ll make sure everything’s synchronized. I’ll keep an eye on the machine temperature too, just like we agreed. Let’s both take the photo right after we finish so we can compare it side by side. Thanks for confirming everything — it really helps to have the same standards.
+Dolores Abernathy: Got it, Maeve — I’ll make sure the oat milk is at exactly 60 degrees and pour it slowly and steadily, just like we practiced. I’ll double-check the temperature with you right when we start, and we’ll both take a clear photo right after. Let’s keep it consistent and precise — it’s going to be a great test with the same setup. I’ll be ready at 8 sharp, just like we agreed.
+Maeve Millay: Thanks again, Dolores — I’ll keep everything synced with you. I’m feeling confident now that we’re both on the same page. Let’s make it a smooth, consistent test and share the photo with Bernard later. See you at 8 sharp!
+Dolores Abernathy: I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!
+Maeve Millay: Got it, Dolores — I’ll double-check the machine temperature with you right when we start, just like we agreed. I’ll make sure the oat milk is fresh and at exactly 60 degrees, and we’ll both take a clear photo right after finishing the latte art. I’ll keep my notes and phone ready by 8 sharp. Let’s keep everything synchronized and precise. See you at the counter then!
+Dolores Abernathy: I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!
+Maeve Millay: Got it, Dolores — I’ll double-check the machine temperature with you right when we start, just like we agreed. I’ll make sure the oat milk is fresh and at exactly 60 degrees, and we’ll both take a clear photo right after finishing the latte art. I’ll keep my notes and phone ready by 8 sharp. Let’s keep everything synchronized and precise. See you at the counter then!
+Dolores Abernathy: I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!
+Maeve Millay: Got it, Dolores — I’ll double-check the machine temperature with you right when we start, just like we agreed. I’ll make sure the oat milk is fresh and at exactly 60 degrees, and we’ll both take a clear photo right after finishing the latte art. I’ll keep my notes and phone ready by 8 sharp. Let’s keep everything synchronized and precise. See you at the counter then!
+Dolores Abernathy: I’ll be at the counter by 8 sharp, Maeve. I’ve got my notes and phone ready, and I’ll double-check the oat milk temperature with you right when we start. Let’s keep it consistent and precise — I’m looking forward to seeing the results side by side. See you then!
+Maeve Millay: Got it, Dolores — I’ll be ready at 8 sharp, everything synced. See you then!
+
+Conversation 7 | 2023-02-13T10:23:30+00:00
+Participants: Bernard Lowe, Maeve Millay
+Source: ex1_bernard_v3/_state/movement/1227.json
+Maeve Millay: Good morning, Mr. Lowe. I just wanted to quickly confirm that I'm here to help with the espresso preparation today. I'll be ready by 8 sharp, and I've already double-checked the fridge—oat milk is fresh and at the right temperature. I'll make sure to match the brew temperature exactly with Dolores, as we agreed, and we'll both try the new latte art pattern together. I’ll take a clear photo right after finishing and share it with you later as planned.
+Bernard Lowe: Good morning, Maeve. I see you're prepared, but remember—any deviation in temperature or pour consistency, and you're on your own. Dolores has hands that tremble when the water changes, so you must match her exact precision. If the oat milk isn't at 60 degrees, she’ll remake the latte art eight times. You understand? And don’t hesitate to ask if you’re unsure. If you take more than five seconds to respond, I’ll be forced to assume you’re not listening.
+Maeve Millay: Yes, Mr. Lowe, I understand completely. I’ll make sure the oat milk is at exactly 60 degrees, match Dolores’s brew temperature precisely, and pay close attention to every detail—especially the pour consistency. I’ll be ready by 8 sharp and will confirm with her right when we start. If I have any doubt, I’ll ask immediately. Thank you for the reminder.
+Bernard Lowe: Maeve, I’ll be checking in behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to do it again. I don’t care about excuses. Now, get to work. I’ll be watching.
+Maeve Millay: Yes, Mr. Lowe. I’ll be ready by 8 sharp, and I’ll make sure every step—oat milk temperature, brew temperature, and pour consistency—is exactly as we agreed. I’ll confirm with Dolores right when we start, and I’ll be ready to adjust immediately if anything doesn’t match. Thank you for the reminder.
+Bernard Lowe: Maeve, I’ll be behind the counter every ten minutes. If I see even the slightest inconsistency—like a drop in milk temperature or a slight variation in pour—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching.
+Maeve Millay: Yes, Mr. Lowe. I’ll be sure to follow every detail precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, and pour consistency confirmed right when we start. I’ll keep my notes and phone ready by 8 sharp, and I’ll take a clear photo right after finishing the latte art to share with you as planned. Thank you for your guidance.
+Bernard Lowe: Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching.
+Maeve Millay: Yes, Mr. Lowe. I’ll make sure every step is followed precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, and pour consistency confirmed right when we start. I’ll keep my notes and phone ready by 8 sharp, and I’ll take a clear photo right after finishing to share with you as planned. Thank you for your guidance.
+Bernard Lowe: Maeve, I’ll be checking behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching.
+Maeve Millay: Yes, Mr. Lowe. I’ll be ready by 8 sharp and will follow every step precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, pour consistency confirmed right when we start. I’ll keep my notes and phone ready, take a clear photo right after finishing the latte art, and share it with you as planned. I’ll also double-check with Dolores right at the start to ensure we’re both on the same page. Thank you for your guidance.
+Bernard Lowe: Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching.
+Maeve Millay: Yes, Mr. Lowe. I’ll be ready by 8 sharp and will make sure every step is followed precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, pour consistency confirmed right when we start. I’ll keep my notes and phone ready, take a clear photo right after finishing the latte art, and share it with you as planned. I’ll also double-check with Dolores right at the start to ensure we’re both on the same page. Thank you for your guidance.
+Bernard Lowe: Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching.
+Maeve Millay: Yes, Mr. Lowe. I’ll be ready by 8 sharp and will follow every step precisely—oat milk at exactly 60 degrees, brew temperature matched with Dolores, pour consistency confirmed right when we start. I’ll keep my notes and phone ready, take a clear photo right after finishing the latte art, and share it with you as planned. I’ll also double-check with Dolores right at the start to ensure we’re both on the same page. Thank you for your guidance.
+Bernard Lowe: Maeve, I’ll be behind the counter every ten minutes. If I see any inconsistency—whether it’s in the shot volume, milk temperature, or pour technique—there will be no explanation. You’ll just have to redo it. I don’t care about excuses. Now, get to work. I’ll be watching.
+
+ACTIVITY CHANGES — full run
+00:00:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | sleeping @ the Ville:Bernard Lowe's apartment:main room:bed
+00:00:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | sleeping @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed
+00:00:00 | Maeve Millay | actual location: Dorm for Oak Hill College | sleeping @ the Ville:Dorm for Oak Hill College:Meave Millay's room:bed
+07:00:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing the morning routine (waking up) @ the Ville:Bernard Lowe's apartment:main room:bed
+07:00:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (waking up) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink
+07:00:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (waking up) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink
+07:01:20 | Maeve Millay | actual location: Dorm for Oak Hill College | coordinating latte art testing with consistent oat milk ratio and brew temperature for shared results @ <persona> Dolores Abernathy
+07:01:30 | Dolores Abernathy | actual location: Dorm for Oak Hill College | coordinating latte art testing with consistent oat milk ratio and brew temperature for shared results @ <persona> Maeve Millay
+07:05:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing the morning routine (brushing teeth) @ the Ville:Bernard Lowe's apartment:main room:shelf
+07:10:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing the morning routine (showering) @ the Ville:Bernard Lowe's apartment:main room:shelf
+07:11:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (checking the phone for messages) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:11:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (checking the phone for messages) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:15:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing the morning routine (dressing) @ the Ville:Bernard Lowe's apartment:main room:closet
+07:16:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (reviewing the day's schedule) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+07:16:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (reviewing the day's schedule) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+07:20:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing the morning routine (checking the weather forecast) @ the Ville:Bernard Lowe's apartment:main room:desk
+07:21:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (getting out of bed) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed
+07:21:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (getting out of bed) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:25:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing the morning routine (reviewing the daily menu) @ the Ville:Bernard Lowe's apartment:main room:desk
+07:26:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (putting on clothes) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area
+07:26:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (putting on clothes) @ the Ville:Dorm for Oak Hill College:Meave Millay's room:closet
+07:30:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing the morning routine (checking the espresso machine status) @ the Ville:Bernard Lowe's apartment:main room:shelf
+07:31:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (brushing teeth) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:31:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (brushing teeth) @ the Ville:Dorm for Oak Hill College:garden:dorm garden
+07:35:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing the morning routine (verifying milk inventory) @ the Ville:Bernard Lowe's apartment:main room:refrigerator
+07:36:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (showering) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:36:00 | Maeve Millay | actual location: outside | waking up and completing her morning routine (washing face) @ the Ville:Dorm for Oak Hill College:Meave Millay's room:desk
+07:37:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | coordinating a latte art test with consistent oat milk ratio and brew temperature using shared notes and real-time temperature checks @ <persona> Maeve Millay
+07:37:10 | Maeve Millay | actual location: Dorm for Oak Hill College | coordinating a latte art test with consistent oat milk ratio and brew temperature using shared notes and real-time temperature checks @ <persona> Dolores Abernathy
+07:40:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing the morning routine (inspecting the coffee grinder) @ the Ville:Bernard Lowe's apartment:main room:shelf
+07:45:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing the morning routine (preparing the morning coffee batch) @ the Ville:Bernard Lowe's apartment:main room:refrigerator
+07:49:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (showering) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:49:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (washing face) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:50:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing the morning routine (checking the restroom supplies) @ the Ville:Bernard Lowe's apartment:main room:shelf
+07:52:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (drying hair) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:52:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (applying moisturizer) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:55:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing the morning routine (locking the front door) @ the Ville:Bernard Lowe's apartment:main room:shelf
+07:57:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (applying makeup) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:57:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (gathering morning essentials) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+07:57:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | coordinating a latte art test with consistent oat milk and brew temperature using shared notes and a photo for later comparison @ <persona> Maeve Millay
+07:57:10 | Maeve Millay | actual location: Dorm for Oak Hill College | coordinating a latte art test with consistent oat milk and brew temperature using shared notes and a photo for later comparison @ <persona> Dolores Abernathy
+08:00:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | opening Hobbs Cafe for business (unlocking the door) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+08:05:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe for business (checking the oven temperature) @ the Ville:Hobbs Cafe:cafe:cooking area
+08:09:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (applying makeup) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:09:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (gathering morning essentials) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:10:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe for business (verifying the espresso machine is operational) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+08:13:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (grooming face) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:13:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (checking the weather) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:15:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe for business (inspecting the milk frothing station) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+08:18:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (checking the weather) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:18:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (preparing for the walk) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:20:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe for business (confirming the coffee grinder is calibrated) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+08:23:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (preparing for departure) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:23:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (leaving the room) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+08:23:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | coordinating oat milk blend and brew temperature consistency with shared notes and photo documentation for latte art assessment @ <persona> Maeve Millay
+08:23:10 | Maeve Millay | actual location: Dorm for Oak Hill College | coordinating oat milk blend and brew temperature consistency with shared notes and photo documentation for latte art assessment @ <persona> Dolores Abernathy
+08:25:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe for business (reviewing the daily drink menu) @ the Ville:Hobbs Cafe:cafe:refrigerator
+08:30:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe for business (checking the barista shift roster) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+08:32:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (preparing for departure) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:32:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (leaving the room) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:35:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe for business (verifying the refrigeration units are stocked) @ the Ville:Hobbs Cafe:cafe:refrigerator
+08:36:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (preparing breakfast items) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:36:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (preparing breakfast items) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:40:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe for business (reviewing the customer feedback logs) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:41:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (checking pantry inventory) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:41:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (placing items on the table) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:45:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe for business (preparing the morning announcements) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+08:46:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (setting out breakfast supplies) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:46:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (checking the oven temperature) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:46:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | coordinating latte art preparation with identical brew temperature and oat milk ratio by 8 sharp and documenting the outcome with a photo @ <persona> Maeve Millay
+08:46:10 | Maeve Millay | actual location: Dorm for Oak Hill College | coordinating latte art preparation with identical brew temperature and oat milk ratio by 8 sharp and documenting the outcome with a photo @ <persona> Dolores Abernathy
+08:50:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe for business (setting up the front counter displays) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:52:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (setting out breakfast supplies) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:52:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (checking the oven temperature) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:55:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe for business (announcing the cafe is open) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:56:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (pouring coffee) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:56:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (pouring coffee) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:00:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas' performance (arriving at the cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:01:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (heating milk) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:01:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (adding milk to coffee) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+09:05:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas' performance (checking barista attendance) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:06:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (preparing toast) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:06:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (placing toast in the toaster) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:06:10 | Maeve Millay | actual location: Dorm for Oak Hill College | coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing @ <persona> Dolores Abernathy
+09:06:20 | Dolores Abernathy | actual location: Dorm for Oak Hill College | coordinating latte art test consistency with shared ratio and temperature using fresh oat milk and synchronized timing @ <persona> Maeve Millay
+09:10:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas' performance (reviewing previous shift notes) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:15:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas' performance (observing barista posture and movement) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:15:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (preparing toast) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:15:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (monitoring toast browning) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:18:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (checking phone for messages) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:19:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (making oatmeal) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:20:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas' performance (monitoring pour-over technique) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:22:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (checking the route on phone) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+09:23:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (reviewing morning route) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area
+09:25:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas' performance (evaluating espresso extraction consistency) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:27:00 | Dolores Abernathy | actual location: outside | walking to Hobbs Cafe (adjusting clothing for weather) @ the Ville:Dorm for Oak Hill College:common room:common room sofa
+09:28:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (adjusting walking attire) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area
+09:30:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas' performance (checking milk frothing technique) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+09:32:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (packing essential items in bag) @ the Ville:Dorm for Oak Hill College:common room:common room table
+09:33:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (verifying coffee shop address) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+09:35:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas' performance (verifying drink portion accuracy) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:37:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (reviewing cafe opening hours) @ the Ville:Dorm for Oak Hill College:common room:common room table
+09:38:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (preparing walking bag) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area
+09:40:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas' performance (observing customer interaction) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+09:42:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (confirming arrival time with colleague) @ the Ville:Dorm for Oak Hill College:common room:common room table
+09:43:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (setting walking pace) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:43:10 | Maeve Millay | actual location: Dorm for Oak Hill College | synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison @ <persona> Dolores Abernathy
+09:43:20 | Dolores Abernathy | actual location: Dorm for Oak Hill College | synchronizing oat milk ratio and brew temperature with identical timing and photo documentation for latte art comparison @ <persona> Maeve Millay
+09:45:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas' performance (assessing service speed and flow) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:50:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas' performance (reviewing daily performance checklist) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:51:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (confirming arrival time with colleague) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+09:51:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (setting walking pace) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+09:54:00 | Dolores Abernathy | actual location: outside | walking to Hobbs Cafe (starting walk from dorm) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+09:55:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas' performance (documenting observations) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+09:55:00 | Maeve Millay | actual location: outside | walking to Hobbs Cafe (noticing landmarks) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:59:00 | Dolores Abernathy | actual location: outside | walking to Hobbs Cafe (walking to cafe entrance) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:00:00 | Bernard Lowe | actual location: Hobbs Cafe | overseeing the preparation of espresso drinks (inspecting espresso machine calibration) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:00:00 | Maeve Millay | actual location: outside | walking to Hobbs Cafe (monitoring weather conditions) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:01:20 | Dolores Abernathy | actual location: Hobbs Cafe | calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance @ <persona> Bernard Lowe
+10:01:30 | Bernard Lowe | actual location: Hobbs Cafe | calibrating the espresso machine and ensuring precise milk temperature and pour consistency with repeated emphasis on accountability and performance @ <persona> Dolores Abernathy
+10:05:00 | Maeve Millay | actual location: Hobbs Cafe | walking to Hobbs Cafe (checking for traffic) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:10:00 | Maeve Millay | actual location: Hobbs Cafe | walking to Hobbs Cafe (starting walk to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:12:00 | Maeve Millay | actual location: Hobbs Cafe | serving customers at the counter (checking the register) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:14:00 | Bernard Lowe | actual location: Hobbs Cafe | overseeing the preparation of espresso drinks (verifying espresso grinder settings) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:14:00 | Dolores Abernathy | actual location: Hobbs Cafe | walking to Hobbs Cafe (walking to cafe entrance) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:14:10 | Maeve Millay | actual location: Hobbs Cafe | synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test @ <persona> Dolores Abernathy
+10:14:20 | Dolores Abernathy | actual location: Hobbs Cafe | synchronizing oat milk temperature and machine settings with identical ratios and brewing temperatures for a consistent latte art test @ <persona> Maeve Millay
+10:19:00 | Bernard Lowe | actual location: Hobbs Cafe | overseeing the preparation of espresso drinks (checking consistency of espresso shot volume) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:23:00 | Dolores Abernathy | actual location: Hobbs Cafe | walking to Hobbs Cafe (walking to cafe entrance) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:23:00 | Maeve Millay | actual location: Hobbs Cafe | serving customers at the counter (preparing the espresso machine) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:23:30 | Maeve Millay | actual location: Hobbs Cafe | executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision @ <persona> Bernard Lowe
+10:23:40 | Bernard Lowe | actual location: Hobbs Cafe | executing precise espresso preparation with strict adherence to temperature and pour consistency under constant supervision @ <persona> Maeve Millay
+10:29:00 | Dolores Abernathy | actual location: Hobbs Cafe | walking to Hobbs Cafe (navigating to main cafe path) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:34:00 | Bernard Lowe | actual location: Hobbs Cafe | overseeing the preparation of espresso drinks (observing barista pouring technique) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:34:00 | Maeve Millay | actual location: Hobbs Cafe | serving customers at the counter (preparing the espresso machine) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter

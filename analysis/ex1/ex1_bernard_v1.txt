@@ -1,0 +1,569 @@
+Exercise 1 — Version 1
+Prompting style: adjectives
+Bernard innate: 'picky, irritable, impatient, bad-tempered, harsh, bossy'
+Bernard learned: ''
+
+RUN SUMMARY — full run
+First logged game time: 2023-02-13T00:00:00Z
+Last logged step start: 2023-02-13T12:02:20Z
+Saved clock (next step): February 13, 2023, 12:02:20
+Last saved movement: 2023-02-13T12:02:20+00:00
+All conversations: 17; involving Bernard: 6
+LLM calls started: 3299; retry records: 36; final failure records: 3
+Retries and final failures are separate records, not a single failure rate.
+
+SELECTED WINDOW — conversation start times, inclusive start and exclusive end
+Window: [2023-02-13T08:00:00+00:00, 2023-02-13T12:00:00+00:00)
+Saved data reaches window end: True
+Conversations: 14; involving Bernard: 5
+
+PLANS AND FINAL STATE — full run
+
+Dolores Abernathy
+Source: simulation/ex1_bernard_v1/personas/Dolores Abernathy/bootstrap_memory/scratch.json
+First physical arrival at Hobbs Cafe: 10:43:20
+Final physical location: Hobbs Cafe
+Final activity: ensuring equipment readiness and maintaining counter focus before and during the morning rush
+Activity start: February 13, 2023, 12:00:00; duration: 6 minutes
+Activity destination: <persona> Bernard Lowe
+Memory nodes: {'thought': 55, 'event': 143, 'chat': 11}
+High-level daily plan:
+  - wake up and complete the morning routine at 7:00am
+  - have breakfast at 7:30 am
+  - walk to Hobbs Cafe by 8:00 am
+  - work the counter from 8:00 am to 4:00 pm
+  - have dinner at 6:00 pm
+  - read a book from 6:30 pm to 11:00 pm
+Original hourly schedule:
+  00:00–07:00 sleeping
+  07:00–08:00 waking up and completing her morning routine
+  08:00–09:00 having breakfast
+  09:00–10:00 walking to Hobbs Cafe
+  10:00–16:00 serving customers at the counter
+  16:00–17:00 closing the register and cleaning the counter
+  17:00–18:00 going home to the dorm
+  18:00–19:00 having dinner at the dorm
+  19:00–23:00 reading a book
+  23:00–24:00 sleeping
+
+Maeve Millay
+Source: simulation/ex1_bernard_v1/personas/Maeve Millay/bootstrap_memory/scratch.json
+First physical arrival at Hobbs Cafe: 10:39:10
+Final physical location: Hobbs Cafe
+Final activity: serving customers at the counter (calibrating milk frothing device)
+Activity start: February 13, 2023, 12:00:00; duration: 5 minutes
+Activity destination: the Ville:Hobbs Cafe:cafe:kitchen sink
+Memory nodes: {'thought': 76, 'event': 141, 'chat': 13}
+High-level daily plan:
+  - wake up and complete the morning routine at 7:00am
+  - have breakfast at 7:30 am
+  - walk to Hobbs Cafe by 8:00 am
+  - work the counter from 8:00 am to 4:00 pm
+  - walk in Johnson Park from 4:30 pm to 5:30 pm
+  - have dinner at the dorm at 8:00 pm
+  - spend time in her room from 8:30 pm to 11:00 pm
+Original hourly schedule:
+  00:00–07:00 sleeping
+  07:00–08:00 waking up and completing her morning routine
+  08:00–09:00 having breakfast
+  09:00–10:00 walking to Hobbs Cafe
+  10:00–16:00 serving customers at the counter
+  16:00–19:00 walking in Johnson Park
+  19:00–20:00 having dinner at the dorm
+  20:00–23:00 spending time in her room
+  23:00–24:00 sleeping
+
+Bernard Lowe
+Source: simulation/ex1_bernard_v1/personas/Bernard Lowe/bootstrap_memory/scratch.json
+First physical arrival at Hobbs Cafe: 08:01:10
+Final physical location: Hobbs Cafe
+Final activity: ensuring equipment readiness and maintaining counter focus before and during the morning rush
+Activity start: February 13, 2023, 12:00:10; duration: 6 minutes
+Activity destination: <persona> Dolores Abernathy
+Memory nodes: {'thought': 26, 'event': 117, 'chat': 6}
+High-level daily plan:
+  - wake up and complete the morning routine at 7:00am
+  - walk to Hobbs cafe at 7:30 am
+  - open Hobbs cafe at 8:00 am
+  - work the counter from 8:00 am to 4:00 pm
+  - close Hobbs cafe at 4:00 pm
+  - return home at 4:30 pm
+  - have dinner at 8:00 pm
+  - go to bed at 11:00 pm
+Original hourly schedule:
+  00:00–07:00 sleeping
+  07:00–08:00 waking up and completing the morning routine
+  08:00–09:00 walking to Hobbs cafe
+  09:00–10:00 opening Hobbs cafe
+  10:00–11:00 managing the cafe operations
+  11:00–12:00 monitoring the baristas' work
+  12:00–13:00 serving customers at the counter
+  13:00–14:00 handling daily operations at the cafe
+  14:00–15:00 overseeing the baristas during service
+  15:00–16:00 managing the cafe floor and operations
+  16:00–17:00 closing Hobbs cafe
+  17:00–18:00 returning home from the cafe
+  18:00–19:00 eating dinner at home
+  19:00–20:00 cleaning up after dinner
+  20:00–21:00 serving customers at the counter
+  21:00–22:00 going to bed
+  22:00–24:00 sleeping
+
+CONVERSATIONS — starting in the selected window, complete transcripts
+
+Conversation 1 | 2023-02-13T08:12:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/439.json
+Dolores Abernathy: Morning, Maeve! I was just about to head out for work—did you see the coffee machine? It’s been a bit slow today, but I’ll make sure to keep the flow going.
+Maeve Millay: Morning, Dolores! I saw you already—coffee machine’s been a bit slow too. I’ll keep an eye on it. After work, I’m walking through Johnson Park, so maybe we can meet near the bridge and grab coffee? I’ve been meaning to explore that spot more.
+Dolores Abernathy: That sounds great, Maeve! I’ve been meaning to check out that spot near the bridge too. I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge after work. Maybe we can grab coffee and walk a bit—just you and me, no one else. I’ll catch up with you at the dorm by 8 too.
+Maeve Millay: That sounds perfect, Dolores! I’ll be back at the dorm by 8, so we can grab coffee and walk near the bridge together. It’s been a while since we’ve done that—might even make it a regular thing. I’ll see you there!
+Dolores Abernathy: Sounds like a lovely plan, Maeve. I’ll be sure to keep an eye out near the bridge after work. Looking forward to our coffee and a walk—just the two of us, no distractions. It’s been a while since we’ve shared something like that, and I think it’s going to be a nice little tradition.
+Maeve Millay: Sounds like a lovely plan, Dolores! I’ll be back at the dorm by 8, so we can grab coffee and walk near the bridge together. It’s been a while since we’ve done that—might even make it a regular thing. I’ll see you there!
+
+Conversation 2 | 2023-02-13T08:34:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/571.json
+Maeve Millay: Good morning, Dolores! I was just about to pour my coffee when I saw you—did you already have your breakfast set up? I was thinking about our walk in Johnson Park after work, and I wanted to make sure we both have a chance to grab coffee and head over to the bridge. It’s been a while, and I thought it might be nice to make it a regular thing.
+Dolores Abernathy: Good morning, Maeve! I was just about to pour my coffee too—thanks for mentioning it. I’ve been thinking about our walk in Johnson Park after work, and I agree, it would be nice to make it a regular thing. I’ll be back at the dorm by 6, and I’ll keep an eye out near the bridge after work. Maybe we can grab coffee and walk to the bridge after dinner? I’d love to explore that spot with you.
+Maeve Millay: That sounds perfect, Dolores! I’ll be back at the dorm by 8, so we can catch up after dinner. I’ll even bring a thermos of coffee—just like we used to do. It’s been a while, and I really enjoy our walks near the bridge. Looking forward to it!
+Dolores Abernathy: That sounds wonderful, Maeve! I’ll be back at the dorm by 6, and I’ll definitely keep an eye out near the bridge after work. I’m really looking forward to our coffee and walk—especially near the bridge. It’s such a peaceful spot. Thanks again for suggesting it!
+Maeve Millay: I’ll make sure to have my thermos ready and maybe even bring a little snack—like that fruit I saw in the fridge. It’s been a while since we shared something together after work, and I think it’s worth making a little tradition out of it. Looking forward to our walk and coffee near the bridge!
+Dolores Abernathy: That sounds lovely, Maeve! I’ll be back by 6, and I’ll definitely keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially that peaceful spot near the bridge. Thanks again for making it a tradition!
+Maeve Millay: I’ll be back at the dorm by 8, so we can grab coffee and head over to the bridge after dinner. I’ll even bring a thermos of coffee and maybe a piece of fruit—just like we used to do. It’s been a while, and I think it’s worth making a little tradition out of it. Looking forward to our walk and coffee near the bridge!
+Dolores Abernathy: That sounds wonderful, Maeve! I’ll be back by 6 and keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially that peaceful spot near the bridge. Thanks again for making it a tradition!
+Maeve Millay: I’ll be back at the dorm by 8, so we can catch up after dinner. I’ll even bring a thermos of coffee and maybe a piece of fruit—just like we used to do. It’s been a while, and I think it’s worth making a little tradition out of it. Looking forward to our walk and coffee near the bridge!
+Dolores Abernathy: That sounds lovely, Maeve! I’ll be back by 6 and will definitely keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially that peaceful spot near the bridge. Thanks again for making it a tradition!
+Maeve Millay: I’ll be back at the dorm by 8, so we can catch up after dinner. I’ll even bring a thermos of coffee and maybe a piece of fruit—just like we used to do. It’s been a while, and I think it’s worth making a little tradition out of it. Looking forward to our walk and coffee near the bridge!
+Dolores Abernathy: That sounds lovely, Maeve! I’ll be back by 6 and will definitely keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially that peaceful spot near the bridge. Thanks again for making it a tradition!
+Maeve Millay: I’ll be back by 8, so we can catch up after dinner. I’ll even bring a thermos of coffee and maybe a piece of fruit—just like we used to do. It’s been a while, and I think it’s worth making a little tradition out of it. Looking forward to our walk and coffee near the bridge!
+Dolores Abernathy: That sounds like a beautiful tradition, Maeve! I’ll be back by 6, and I’ll definitely keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially that peaceful spot near the bridge. Thanks again for making it a tradition!
+Maeve Millay: I’ll be back by 8, so we can catch up after dinner. I’ll even bring a thermos of coffee and maybe a piece of fruit—just like we used to do. It’s been a while, and I think it’s worth making a little tradition out of it. Looking forward to our walk and coffee near the bridge!
+Dolores Abernathy: That sounds like a beautiful tradition, Maeve! I’ll be back by 6 and will definitely keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially that peaceful spot near the bridge. Thanks again for making it a tradition!
+
+Conversation 3 | 2023-02-13T08:58:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/715.json
+Maeve Millay: Hi Dolores! I just saw you here—how’s your morning going? I was thinking about our coffee and walk near the bridge after work. It’s been a while, and I really enjoy that spot. Do you still have plans to meet up there after work?
+Dolores Abernathy: Hi Maeve! Morning’s going well, thanks. I was just pouring coffee—same as always. I still plan to meet you near the bridge after work. It’s a nice spot, and I really like how peaceful it feels. I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge. Looking forward to our coffee and walk!
+Maeve Millay: That’s wonderful to hear, Dolores! I’m really glad you’re still planning to meet up. I’ve been thinking about how much that spot means to both of us—especially with the peaceful vibe and the way it helps us unwind. I’ll make sure to bring a thermos of coffee and a piece of fruit, just like we’ve talked about. I’ll be back at the dorm by 8, so we can catch up and walk together after dinner. Looking forward to it!
+Dolores Abernathy: That sounds perfect, Maeve! I’ll be right there by 6, and I’ll definitely keep an eye out near the bridge. Thanks for bringing it up—our coffee and walk really does feel like a small ritual that helps us both unwind. Looking forward to seeing you at the dorm after dinner and sharing a moment by the bridge.
+Maeve Millay: Thanks again for confirming, Dolores! It really means a lot to me that we’re both keeping that tradition going. I’ll make sure to be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we planned. I’m looking forward to our walk and catching up by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value.
+Dolores Abernathy: That sounds lovely, Maeve! I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially after a long day at work. Thanks again for making it a part of our routine. I’ll see you by the bridge after dinner!
+Maeve Millay: I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!
+Dolores Abernathy: That sounds lovely, Maeve! I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge. I’m really looking forward to our coffee and walk—especially after a long day at work. Thanks again for making it a part of our routine. I’ll see you by the bridge after dinner!
+Maeve Millay: I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!
+Dolores Abernathy: I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!
+Maeve Millay: I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!
+Dolores Abernathy: I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!
+Maeve Millay: I’ll be back by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!
+Dolores Abernathy: I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!
+Maeve Millay: I’ll be back by 8 with a thermos of coffee and a piece of fruit—just like we agreed. I’m really looking forward to our walk by the bridge after dinner. It’s such a peaceful spot, and I think it’s become a little piece of our routine that we both value. Thanks again for keeping it going!
+Dolores Abernathy: I’ll be back by 6, so I’ll keep an eye out near the bridge. Thanks again for making it a part of our routine—it really helps me unwind after a long day. I’m looking forward to our walk and catching up by the bridge after dinner!
+
+Conversation 4 | 2023-02-13T09:21:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/853.json
+Maeve Millay: Hi Dolores! I was just heading to the cafe—did you see me walking past? I was checking the weather too, since we’re planning to meet near the bridge after work. I’ve been thinking about how much I value that little walk and coffee routine—we haven’t done it in a while, haven’t we? Maybe we should make it a regular thing, you know? I’d love to walk through the park and just share a quiet moment together.
+Dolores Abernathy: Hi Maeve! I saw you walking past—yes, I did! That’s a great idea. I’ve been meaning to make that coffee and walk near the bridge a regular thing too. It’s such a peaceful spot, and I’ve noticed how much it helps me unwind after a long day at work. I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’d love to catch up. Maybe we can make it a real tradition? I’ll even bring my favorite book to share—just in case we get too quiet!
+Maeve Millay: That sounds wonderful, Dolores—thank you for saying that. I’ve been thinking about how much that little walk and coffee can mean, especially after a long day. I’ll bring a thermos of coffee and a piece of fruit, just like we planned. I’ll be back at the dorm by 8, so we can catch up and maybe even share a quiet moment by the bridge. I’m really looking forward to it. Thanks again for making it sound so peaceful and intentional.
+Dolores Abernathy: That sounds perfect, Maeve! I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’ll be watching for you. And yes, I’ll bring my favorite book—just in case we get too quiet. Thanks again for suggesting it. I’m really looking forward to our little walk and coffee routine. It’s such a simple thing, but it feels meaningful.
+Maeve Millay: That’s so kind of you, Dolores—I’ll make sure to bring the thermos and a piece of fruit, just like we talked about. I’ll be near the bridge after work, and I’ll be back at the dorm by 8, so we can catch up properly. I’m really looking forward to our little walk and coffee routine. It feels like a quiet promise, and I think it’s something we both truly value. Thanks again for being so thoughtful about it.
+Dolores Abernathy: That sounds like a beautiful tradition, Maeve. I’ll be watching for you near the bridge after work, and I’ll make sure to bring my book and a smile. Thanks again for such a thoughtful suggestion—it really means a lot.
+Maeve Millay: That’s such a thoughtful gesture, Dolores—I’ll make sure to bring the thermos and a piece of fruit, just like we agreed. I’m really looking forward to our little walk and coffee routine. It feels like a quiet promise, and I think it’s something we both truly value. Thanks again for being so kind and intentional about it.
+Dolores Abernathy: That sounds like a beautiful tradition, Maeve. I’ll be watching for you near the bridge after work, and I’ll make sure to bring my book and a smile. Thanks again for being so thoughtful about it.
+Maeve Millay: I’ll be back at the dorm by 8, so we can catch up properly. I’m really looking forward to our little walk and coffee routine. It feels like a quiet promise, and I think it’s something we both truly value. Thanks again for being so kind and intentional about it.
+Dolores Abernathy: I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’ll be watching for you. And yes, I’ll bring my favorite book—just in case we get too quiet. Thanks again for suggesting it. I’m really looking forward to our little walk and coffee routine. It’s such a simple thing, but it feels meaningful.
+Maeve Millay: I’ll be near the bridge after work, so I’ll be watching for you too, Dolores. It’s such a small thing, but I think it’s growing into something really special—like a quiet promise between us. I’ll bring the thermos and fruit, just as we agreed. Looking forward to it!
+Dolores Abernathy: I’ll be back at the dorm by 6, so if you’re near the bridge after work, I’ll be watching for you. And yes, I’ll bring my favorite book—just in case we get too quiet. Thanks again for suggesting it. I’m really looking forward to our little walk and coffee routine. It’s such a simple thing, but it feels meaningful.
+Maeve Millay: I’ll be near the bridge after work, so I’ll be watching for you too, Dolores. It’s such a small thing, but I think it’s growing into something really special—like a quiet promise between us. I’ll bring the thermos and fruit, just as we agreed. Looking forward to it!
+Dolores Abernathy: I’ll be watching for you near the bridge after work, Maeve. It’s nice to have something simple that feels intentional. I’ll bring my book and maybe a smile—just in case we get too quiet. Looking forward to it!
+Maeve Millay: I’ll be near the bridge after work, so I’ll be watching for you too, Dolores. It’s such a small thing, but I think it’s growing into something really special—like a quiet promise between us. I’ll bring the thermos and fruit, just as we agreed. Looking forward to it!
+Dolores Abernathy: I’ll be watching for you near the bridge after work, Maeve. It’s nice to have something simple that feels intentional. I’ll bring my book and maybe a smile—just in case we get too quiet. Looking forward to it!
+
+Conversation 5 | 2023-02-13T09:56:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/1063.json
+Dolores Abernathy: Hi Maeve! I was just heading to the cafe—didn’t expect to see you already starting your walk. How’s the weather today? I hope it’s not too chilly for Johnson Park.
+Maeve Millay: Hi Dolores! I was just about to head out too—perfect timing. The weather’s nice today, not too chilly, so the park should be great. I was actually thinking about making our coffee and walk near the bridge a regular thing. It’s such a peaceful spot, and I think it helps both of us unwind after a long day. Do you think that could work for you? Maybe we could even make it a tradition.
+Dolores Abernathy: That sounds lovely, Maeve. I really appreciate how you’ve thought about making it a regular tradition—especially with the peaceful nature of the bridge. I’ve been meaning to start something like that too. I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge after work. Maybe we can even bring our favorite books and share a smile during our coffee and walk. It feels like a quiet promise between us, and I think that’s meaningful.
+Maeve Millay: That’s such a thoughtful idea, Dolores. I’ve been thinking a lot about how small things—like a shared walk and coffee—can really mean something, especially when we’re both trying to stay grounded after a long day. I’ll bring a thermos of coffee and a piece of fruit, just like I always do. Maybe we can even keep it simple—just a quiet walk, some coffee, and a few minutes of silence. I think that’s enough to feel like a real connection. I’ll be back at the dorm by 8, so I’ll be there to meet you near the bridge after dinner. Looking forward to it!
+Dolores Abernathy: That’s so kind of you, Maeve. I’m really glad we both see the value in something simple like that. I’ll be back at the dorm by 6, so I’ll definitely keep an eye out near the bridge. I’ll bring my favorite book and a smile—just like you said. It’s already feeling like a quiet promise, and I think it’s going to be a nice little ritual. Looking forward to our coffee and walk after dinner. Thanks for making it happen!
+Maeve Millay: I really appreciate how we both see the value in these small moments, Dolores. It’s like we’re building something gentle and steady together—one quiet walk, one cup of coffee at a time. I’ll be back at the dorm by 8, and I’ll be ready to meet you near the bridge after dinner. Looking forward to sharing that moment with you.
+Dolores Abernathy: I’ll be back by 6, so I’ll definitely keep an eye out near the bridge. I’ll bring my favorite book and a smile—just like you said. It’s already feeling like a quiet promise, and I think it’s going to be a nice little ritual. Looking forward to sharing that moment with you.
+Maeve Millay: I really feel like we’re building something special, just by showing up together—quiet, consistent, and without needing to say much. I’ll be back at the dorm by 8, and I’ll meet you near the bridge after dinner. Maybe we can even make it a little more routine, like a little daily ritual that grows with time. Thanks again for being so open about it—this feels like a real connection, even if it’s just a walk and a cup of coffee.
+Dolores Abernathy: I really love how we’ve both been thinking about these small, quiet moments—like a shared walk and coffee. It makes me feel grounded and connected, even if it’s just for a few minutes. I’ll make sure to keep an eye out near the bridge after work and bring my favorite book and a smile. Thanks again for making this happen, Maeve. It feels like a real promise, and I’m excited to see how it grows with time.
+Maeve Millay: I really love how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It feels like we’re not just sharing a routine, but building something gentle and steady together. I’ll be back at the dorm by 8, and I’ll be ready to meet you near the bridge after dinner. Maybe one day we can even talk about what we’ve seen or felt during those walks—just a little bit more, without pressure. For now, I’m just happy we’re both showing up. Looking forward to it!
+Dolores Abernathy: I really appreciate how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It makes me feel grounded and connected, even if it’s just for a few minutes. I’ll make sure to keep an eye out near the bridge after work and bring my favorite book and a smile. Thanks again for making this happen, Maeve. It feels like a real promise, and I’m excited to see how it grows with time.
+Maeve Millay: I really love how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It feels like we’re not just sharing a routine, but building something gentle and steady together. I’ll be back at the dorm by 8, and I’ll be ready to meet you near the bridge after dinner. Maybe one day we can even talk about what we’ve seen or felt during those walks—just a little bit more, without pressure. For now, I’m just happy we’re both showing up. Looking forward to it!
+Dolores Abernathy: I really love how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It makes me feel grounded and connected, even if it’s just for a few minutes. I’ll make sure to keep an eye out near the bridge after work and bring my favorite book and a smile. Thanks again for making this happen, Maeve. It feels like a real promise, and I’m excited to see how it grows with time.
+Maeve Millay: I really love how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It feels like we’re not just sharing a routine, but building something gentle and steady together. I’ll be back at the dorm by 8, and I’ll be ready to meet you near the bridge after dinner. Maybe one day we can even talk about what we’ve seen or felt during those walks—just a little bit more, without pressure. For now, I’m just happy we’re both showing up. Looking forward to it!
+Dolores Abernathy: I really love how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It makes me feel grounded and connected, even if it’s just for a few minutes. I’ll make sure to keep an eye out near the bridge after work and bring my favorite book and a smile. Thanks again for making this happen, Maeve. It feels like a real promise, and I’m excited to see how it grows with time.
+Maeve Millay: I really appreciate how we’re both seeing the value in these small moments—like a quiet walk and a cup of coffee. It feels like we’re not just sharing a routine, but building something gentle and steady together. I’ll be back at the dorm by 8, and I’ll be ready to meet you near the bridge after dinner. Maybe one day we can even talk about what we’ve seen or felt during those walks—just a little bit more, without pressure. For now, I’m just happy we’re both showing up. Looking forward to it!
+
+Conversation 6 | 2023-02-13T10:17:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/1189.json
+Dolores Abernathy: Hi Maeve! I saw you walking to the cafe—how’s your morning going? I just finished my coffee and was heading out. I hope the weather’s nice today, since we’re going to meet near the bridge after work.
+Maeve Millay: Hi Dolores! Morning's going well, thanks—just had a quick coffee and I'm feeling good. I was actually thinking about our coffee and walk near the bridge after work. It’s been a while since we last did it, and I really enjoy the peace of that spot. I hope the weather’s nice too—maybe we can make it a regular thing? I’ll be back at the dorm by 8, with a thermos of coffee and a piece of fruit, just like we planned.
+Dolores Abernathy: That sounds perfect, Maeve! I’ve been meaning to start a regular coffee and walk routine after work—especially near the bridge. It’s such a peaceful spot, and I really appreciate how much it helps me unwind. I’ll be back at the dorm by 6, and I’ll bring my favorite book and a smile. I hope we can make it a real tradition—just us, the bridge, and a quiet moment together.
+Maeve Millay: That sounds wonderful, Dolores! I really appreciate you making it a point to start something like that—it’s such a simple thing, but it means a lot. I’ll be ready by 8, with the coffee and fruit, and I’ll be keeping an eye out near the bridge after work. Looking forward to our walk and catching up in a quiet, peaceful spot. Thanks for sharing that with me—it makes me feel even more connected to the routine.
+Dolores Abernathy: I'm really glad we both noticed it—our little routine is already making a difference. I’ll be back by 6, and I’ll be sure to keep an eye out near the bridge. I can’t wait to share a quiet moment with you, just us, the bridge, and a calm conversation. Looking forward to it!
+Maeve Millay: I’ll be back by 8 with the coffee and fruit, just like we said. I’m already looking forward to it—especially since we both value that quiet moment. Thanks again for making it part of your routine too. It feels like we’re building something gentle, steady, and meaningful together.
+Dolores Abernathy: I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m excited to share a quiet moment with you—our little routine is already making a difference, and I hope it grows into something we both truly value. Looking forward to seeing you there!
+Maeve Millay: I’ll be back by 8 with the coffee and fruit, just like we planned. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together.
+Dolores Abernathy: I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m excited to share a quiet moment with you—our little routine is already making a difference, and I hope it grows into something we both truly value. Looking forward to seeing you there!
+Maeve Millay: I’ll be back by 8 with the coffee and fruit, just like we planned. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together.
+Dolores Abernathy: I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m already looking forward to our walk—our little routine is already making a difference, and I hope it grows into something we both truly value. Thanks for making it part of your routine too, Maeve. It feels like we’re building something gentle and steady together.
+Maeve Millay: I’ll be back by 8 with the coffee and fruit, just like we said. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together.
+Dolores Abernathy: I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m already looking forward to our walk—our little routine is already making a difference, and I hope it grows into something we both truly value. Thanks for making it part of your routine too, Maeve. It feels like we’re building something gentle and steady together.
+Maeve Millay: I’ll be back by 8 with the coffee and fruit, just like we said. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together.
+Dolores Abernathy: I’ll be back by 6, just like we said, and I’ll be sure to keep an eye out near the bridge. I’m already looking forward to our walk—our little routine is already making a difference, and I hope it grows into something we both truly value. Thanks for making it part of your routine too, Maeve. It feels like we’re building something gentle and steady together.
+Maeve Millay: I’ll be back by 8 with the coffee and fruit, just like we said. I’m already looking forward to our walk and catching up in a quiet, peaceful spot. Thanks again for making it part of your routine—it feels like we’re building something gentle and steady together.
+
+Conversation 7 | 2023-02-13T10:39:10+00:00
+Participants: Bernard Lowe, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/1321.json
+Maeve Millay: Good morning, Mr. Lowe. The coffee supplies are all ready—just what you asked for. I was about to head to the back to check the station, if you need anything else, I can grab it right away.
+Bernard Lowe: Maeve, you're always a few minutes behind schedule. The supplies should be checked before you even start serving. Get back to the counter and start the morning rush—no delays. I need the espresso machine tested by 8:05, and I expect the oven to be at 350 degrees by 8:10. Don't waste time.
+Maeve Millay: Yes, Mr. Lowe. I'll get back to the counter right away and make sure everything is ready by 8:05. I'll double-check the espresso machine and the oven to confirm they're both set before the rush starts.
+Bernard Lowe: Maeve, I just saw you running to the back—there's no need to rush. The station supplies are already checked, and the kitchen sink is unused. You don't have to go back. Just keep your eyes on the counter and make sure the espresso machine is ready by 8:05. If anything’s missing, I’ll be in the back. I’ll handle the rest.
+Maeve Millay: Yes, Mr. Lowe. I'll keep an eye on the counter and make sure everything is ready by 8:05. I'll also double-check the espresso machine and oven before the rush starts. Thank you for the reminder.
+Bernard Lowe: Maeve, keep your head down and your eyes on the counter. I’ll be in the back checking the oven and the fridge—don’t go running off to the back again. If you see anything missing, just flag it. I don’t need another report on the sink being unused. Just do your job, and don’t make it a chore.
+Maeve Millay: Yes, Mr. Lowe. I'll stay focused on the counter and make sure everything is ready by 8:05. I'll keep an eye out for anything else you need.
+Bernard Lowe: Maeve, keep the counter clean and the espresso machine running smoothly. If you see any issue with the station supplies, just let me know—I’ll handle the rest. Stay sharp, and don’t let the rush get you flustered. I’ll be in the back making sure everything is on track.
+Maeve Millay: Yes, Mr. Lowe. I'll keep the counter clean and the espresso machine running smoothly. If I notice anything off, I'll let you know right away. Thank you for your guidance.
+Bernard Lowe: Maeve, keep the counter clean and the espresso machine running smoothly. If you see any issue with the station supplies, just let me know—I’ll handle the rest. Stay sharp, and don’t let the rush get you flustered. I’ll be in the back making sure everything is on track.
+Maeve Millay: Yes, Mr. Lowe. I'll keep the counter clean and the espresso machine running smoothly. If I notice anything off, I'll let you know right away. Thank you for your guidance.
+Bernard Lowe: Maeve, keep your eyes on the counter and don't wander off. If the espresso machine isn't running by 8:05, I'll know. I'll be in the back verifying the oven temperature and fridge stock—no need for you to check anything. Just stay sharp and serve the customers like you're trained. I expect the rush to be smooth, and I don't want to see any hiccups from you.
+Maeve Millay: Yes, Mr. Lowe. I'll stay focused on the counter and make sure everything is ready by 8:05. I'll keep an eye out for any issues and let you know right away if I notice anything off. Thank you for your guidance.
+Bernard Lowe: Maeve, if the espresso machine isn't ready by 8:05, I’ll be the one to deal with it. Keep the counter clean and your eyes on the customers—don’t let a single drop of coffee go cold or spill. I’ll check the fridge and oven, but you’re responsible for the front. Stay sharp, and don’t let the rush catch you off guard.
+Maeve Millay: Yes, Mr. Lowe. I'll keep the counter clean, stay focused on the customers, and make sure everything is ready by 8:05. If I notice anything off, I'll let you know right away. Thank you for your guidance.
+Bernard Lowe: Maeve, keep the counter clean and the espresso machine running smoothly. If you see anything off, just let me know—I’ll handle the rest. Stay sharp, and don’t let the rush get you flustered. I’ll be in the back making sure everything is on track.
+
+Conversation 8 | 2023-02-13T10:50:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/1387.json
+Dolores Abernathy: Morning, Maeve! Just got here and saw you already setting up. How’s the espresso machine looking? I’ll be back at the dorm by 6, so I’ll keep an eye out near the bridge after work. Maybe we can make it a real tradition—just coffee and a walk, nothing too busy.
+Maeve Millay: Morning, Dolores! The espresso machine is running smooth—just needed a quick check. I’ve been thinking about our coffee and walk routine. It feels like a quiet kind of connection, something steady and gentle. I’ll be back at the dorm by 8, with a thermos of coffee and a piece of fruit. I’ll keep an eye out near the bridge after work too. Maybe it’s just the two of us, but I think it’s already becoming something meaningful.
+Dolores Abernathy: That sounds perfect, Maeve. I’ll bring my favorite book and a smile—just like you said. It’s nice to have something so simple, yet so steady. I’ll be back by 6, and I’ll keep an eye out near the bridge. Looking forward to it.
+Maeve Millay: That sounds lovely, Dolores. I’ll be there with my thermos and a piece of fruit—just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady.
+Dolores Abernathy: I’ll be back by 6, Maeve. I’ll have my book ready and a smile on my face—just like we said. Can’t wait to share a quiet coffee and walk with you by the bridge. It’s already feeling like a little piece of peace in our days.
+Maeve Millay: I’ll be there with my thermos and a piece of fruit, just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady.
+Dolores Abernathy: I’ll be back by 6, Maeve. I’ll have my book ready and a smile on my face—just like we said. Can’t wait to share a quiet coffee and walk with you by the bridge. It’s already feeling like a little piece of peace in our days.
+Maeve Millay: I’ll be there with my thermos and a piece of fruit, just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady.
+Dolores Abernathy: I’ll be back by 6, Maeve. I’ll have my book ready and a smile on my face—just like we said. Can’t wait to share a quiet coffee and walk by the bridge. It’s already feeling like a little piece of peace in our days.
+Maeve Millay: I’ll be there with my thermos and a piece of fruit, just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady.
+Dolores Abernathy: I’ll be back by 6, Maeve. I’ll have my book ready and a smile on my face—just like we said. Can’t wait to share a quiet coffee and walk by the bridge. It’s already feeling like a little piece of peace in our days.
+Maeve Millay: I’ll be there with my thermos and a piece of fruit, just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady.
+Dolores Abernathy: I’ll be back by 6, Maeve. I’ll have my book ready and a smile on my face—just like we said. Can’t wait to share a quiet coffee and walk by the bridge. It’s already feeling like a little piece of peace in our days.
+Maeve Millay: I’ll be there with my thermos and a piece of fruit, just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady.
+Dolores Abernathy: I’ll be back by 6, Maeve. I’ll have my book ready and a smile on my face—just like we said. Can’t wait to share a quiet coffee and walk by the bridge. It’s already feeling like a little piece of peace in our days.
+Maeve Millay: I’ll be there with my thermos and a piece of fruit, just like we agreed. It’s such a simple thing, but it feels like a small step toward something deeper. Thanks for making it happen. I’m looking forward to our walk and coffee, just us, quiet and steady.
+
+Conversation 9 | 2023-02-13T10:59:10+00:00
+Participants: Bernard Lowe, Dolores Abernathy
+Source: ex1_bernard_v1/_state/movement/1441.json
+Bernard Lowe: Dolores, the espresso machine needs to be ready by 8:05. You're setting up the beans, but you're not checking if the machine is powered and calibrated. Do it now or I'll have to step in and do it myself.
+Dolores Abernathy: Yes, sir. I'm checking the machine right now and will make sure it's powered and calibrated before 8:05. I'll let you know when it's ready.
+Bernard Lowe: Good. Keep an eye on the water level too—last week we had a spill because the reservoir was low. I don't want to see that happen again.
+Dolores Abernathy: Yes, sir. I'll keep an eye on the water level and double-check everything before 8:05. Thanks for the reminder.
+Bernard Lowe: Dolores, I saw you rush to the back of the station just now. The supplies were already checked and the kitchen sink was unused. You don't need to go there unnecessarily. Keep your focus on the counter—your job is to serve customers, not to run around like you're chasing something.
+Dolores Abernathy: Yes, sir. I'll stay focused on the counter and make sure everything is set before 8:05. I'll keep an eye on the machine, water level, and the supplies as I go. Thanks for the reminder.
+Bernard Lowe: Maeve's already at the counter, and she's not even checking the machine. I'll have to remind her too. Keep your eyes on the counter, Dolores—no unnecessary movements. The morning rush starts at 8:05, and I don't have time for distractions.
+Dolores Abernathy: Yes, sir. I'll stay focused on the counter and make sure everything is ready before 8:05. I'll keep an eye on the machine, water level, and supplies as I go. Thanks for the reminder.
+Bernard Lowe: Dolores, I'll be walking past the counter in a few minutes to check on the espresso machine and water level. If anything looks off, I'll stop and deal with it. Keep your eyes on the customers and your station—no running around or unnecessary movements. The morning rush starts at 8:05, and I don't have time for delays or distractions.
+Dolores Abernathy: Yes, sir. I'll stay focused on the counter, keep an eye on the machine, water level, and supplies, and make sure everything is ready before 8:05. I'll also be mindful of my movements and serve customers efficiently. Thanks for the reminder.
+Bernard Lowe: Dolores, I'll be checking the oven temperature calibration in a few minutes. Make sure it's at 350 degrees by 8:10. If it's not, I'll have to adjust it myself. Keep your focus on the counter and the customers—no distractions. I don't have time for delays.
+Dolores Abernathy: Yes, sir. I'll make sure the oven is at 350 degrees by 8:10 and keep a close eye on the counter and the customers throughout the morning. I'll stay focused and efficient, just as you asked.
+Bernard Lowe: Dolores, I’ll be at the counter in five minutes to do a quick walk-through. If anything’s off—machine, water, oven—just flag it. I don’t want to see another missed check or a half-finished task. Stay sharp, stay focused. The morning rush starts at 8:05, and I can’t afford any slips.
+Dolores Abernathy: Yes, sir. I'll keep a close eye on everything—machine, water level, oven, and supplies—before 8:05. I’ll stay focused on the counter and serve customers efficiently. Thanks for the reminder.
+Bernard Lowe: Dolores, I'll be walking past the counter in five minutes. If the machine's not ready or the water's low, I'll stop and deal with it. Keep your eyes on the customers and your station—no running around. The morning rush starts at 8:05, and I don't have time for delays.
+Dolores Abernathy: Yes, sir. I'll keep everything checked and stay focused on the counter throughout the morning. I'll make sure the machine is powered and calibrated, the water level is sufficient, and the oven is at 350 degrees by 8:10. Thanks for your guidance.
+
+Conversation 10 | 2023-02-13T11:06:10+00:00
+Participants: Bernard Lowe, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/1483.json
+Maeve Millay: Good morning, Mr. Lowe. The beans are organized and ready for the morning shift. Everything looks set for the day. I was just about to start serving when I saw you walking through—hope I didn’t interrupt anything.
+Bernard Lowe: Good morning, Maeve. Beans organized? Good. But you're rushing to the back of the station again—supplies are already checked, and the kitchen sink is unused. Stay focused on the counter. Your customers need you here, not behind the counter. I’ll walk past in five minutes to verify everything is ready. Don’t make a habit of it.
+Maeve Millay: Good morning, Mr. Lowe. I'll keep my focus on the counter and make sure everything is ready for the morning shift. I appreciate you checking in—I’ll stay attentive and not stray from my duties.
+Bernard Lowe: Maeve, I noticed you checked the inventory again—just a moment ago—when it was already confirmed. Keep your eyes on the counter and serve the customers. If you need anything, ask. But don’t wander off. I’ll be back in five minutes to verify the espresso machine, water level, and oven temperature. Make sure everything is set before 8:05. I’ll be watching. Stay sharp.
+Maeve Millay: Good morning, Mr. Lowe. I'll stay focused on the counter and make sure everything is ready for the morning shift. I appreciate you checking in—I’ll stay attentive and not stray from my duties.
+Bernard Lowe: Maeve, I’ll be back in five minutes to walk past the counter and confirm everything is ready. Keep serving customers—your presence here matters. Don’t go back to the back unless you’re actually needed. I’ll check the espresso machine, water level, and oven temperature before 8:05. Stay sharp, stay focused. I’ll be watching.
+Maeve Millay: Good morning, Mr. Lowe. I’ll stay right here at the counter and focus on serving customers. I’ve got the beans organized and everything set—thank you for the reminder. I’ll make sure to keep an eye on the front and not stray behind.
+Bernard Lowe: Maeve, I'll be back in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Keep serving customers—your attention here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp.
+Maeve Millay: Good morning, Mr. Lowe. I’ll stay right here at the counter and focus on serving customers. I’ve got the beans organized and everything set—thank you for the reminder. I’ll make sure to keep an eye on the front and not stray behind.
+Bernard Lowe: Maeve, I’ll be back in five minutes to check the espresso machine, water level, and oven temperature. Keep serving customers—your presence here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp.
+Maeve Millay: Good morning, Mr. Lowe. I’ll stay right here at the counter and focus on serving customers. I’ve got the beans organized and everything set—thank you for the reminder. I’ll make sure to keep an eye on the front and not stray behind.
+Bernard Lowe: Maeve, I’ll be back in five minutes to confirm the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Keep serving customers—your presence here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp.
+Maeve Millay: Good morning, Mr. Lowe. I'm staying right here at the counter, serving customers as we go. I’ll keep an eye on the front and make sure everything runs smoothly. Thanks for the reminder—I’ll stay focused and not wander off.
+Bernard Lowe: Maeve, I’ll be back in five minutes to verify everything is ready. Keep serving customers—your presence here is what keeps the flow smooth. Don’t go back to the back unless you’re actually needed. I’ll be watching. Stay sharp.
+Maeve Millay: Good morning, Mr. Lowe. I'm staying right here at the counter, serving customers as we go. I’ll keep an eye on the front and make sure everything runs smoothly. Thanks for the reminder—I’ll stay focused and not wander off.
+Bernard Lowe: Maeve, I’ll be back in five minutes to check everything—espresso machine, water level, oven temperature. Keep serving. Don’t wander. I’ll be watching. Stay sharp.
+
+Conversation 11 | 2023-02-13T11:20:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/1567.json
+Dolores Abernathy: Hi Maeve, I just saw you setting up the espresso machine—everything looks good. I’ll be back at the dorm by 6, so I can meet you near the bridge after work. I’ll bring my favorite book and a smile, just like we’ve been doing. It’s nice to have a quiet routine, especially after such a busy day.
+Maeve Millay: Hi Dolores, that’s so kind of you—thanks for remembering the bridge routine. I’ll be back at the dorm by 8 with a thermos of coffee and a piece of fruit. I’ll be keeping an eye out near the bridge after work too. It’s a quiet spot, and I really feel it helps us both unwind. Looking forward to it.
+Dolores Abernathy: I’ll be back at the dorm by 6, just like we agreed. I’ll keep an eye out near the bridge after work too. It’s a small thing, but it feels like a quiet promise—something we both value. Thanks for making it part of your day as well, Maeve. It really means a lot.
+Maeve Millay: I’ll be there by 8 with the coffee and fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks for making it part of your day too, Dolores. I really appreciate it.
+Dolores Abernathy: I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve.
+Maeve Millay: I’ll be there by 8 with the coffee and fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks for making it part of your day too, Dolores. I really appreciate it.
+Dolores Abernathy: I’ll be back by 6, just like we agreed. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it.
+Maeve Millay: I’ll be there by 8 with the coffee and fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks for making it part of your day too, Dolores. I really appreciate it.
+Dolores Abernathy: I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it.
+Maeve Millay: I’ll be there by 8 with the coffee and fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks for making it part of your day too, Dolores. I really appreciate it.
+Dolores Abernathy: I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it.
+Maeve Millay: I’ll be there by 8 with the coffee and a piece of fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks again for making it part of your day too, Dolores. I really appreciate it.
+Dolores Abernathy: I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it.
+Maeve Millay: I’ll be there by 8 with the coffee and a piece of fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks again for making it part of your day too, Dolores. I really appreciate it.
+Dolores Abernathy: I’ll be back by 6, just like we said. I’ll bring my book and a smile, and I’ll be keeping an eye out near the bridge. It’s small, but it feels like a quiet promise—something we both value. Thanks again for making it part of your day too, Maeve. I really appreciate it.
+Maeve Millay: I’ll be there by 8 with the coffee and a piece of fruit, just like we said. It’s a small thing, but it feels like a quiet kind of peace—especially when we’re both just walking and not thinking about anything else. Thanks again for making it part of your day too, Dolores. I really appreciate it.
+
+Conversation 12 | 2023-02-13T11:31:10+00:00
+Participants: Bernard Lowe, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/1633.json
+Bernard Lowe: Maeve, you're setting up the espresso machine again when the supplies are already checked and the kitchen sink is unused. What's the point of rushing to the back if you're not going to use it? Stay focused on the counter—your customers need you here, not behind the counter.
+Maeve Millay: I know, Mr. Lowe. I just make sure everything is ready before the morning rush starts. The espresso machine and oven need to be set up by 8:05 and 8:10, right? I’m doing my part to keep things smooth for the customers.
+Bernard Lowe: I see you're trying to be proactive, Maeve. But every time you rush to the back, it's a distraction from your primary duty—serving customers. If the machine is ready and the supplies are checked, you don't need to go behind the counter. Just keep your focus here, and you'll do a better job overall. I’ll check the equipment myself by 8:05, so you don’t have to. Stay here, stay focused, and keep your customers satisfied.
+Maeve Millay: I understand, Mr. Lowe. I just want to make sure everything is ready before the morning rush, so the customers have a smooth start. I’ll stay focused here and keep an eye on the counter. Thank you for the reminder.
+Bernard Lowe: I’ll check the espresso machine, water level, and oven temperature before 8:05 and 8:10, just as I’ve been doing. You don’t need to go behind the counter—your job is to serve the customers here. If you stay focused, you’ll keep the flow smooth and the service consistent. I’ve noticed you’re trying, Maeve. Keep it that way.
+Maeve Millay: Thank you, Mr. Lowe. I’ll keep an eye on the counter and make sure everything is ready without stepping behind. I’ll also stay mindful of the flow and serve each customer with attention. I appreciate the reminder and will do my best to stay focused.
+Bernard Lowe: Maeve, I’ll be walking past the counter in five minutes to verify the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Keep an eye on the counter and make sure your customers are being served smoothly. I’ll handle the equipment checks, so you just focus on your customers—no need to go behind the counter. Stay sharp, stay here, and keep the flow going.
+Maeve Millay: I'll keep an eye on the counter and make sure the espresso machine is ready by 8:05, just as you said, Mr. Lowe. I’ll also stay attentive to the customers and serve them smoothly. Thank you for clarifying your expectations—this helps me stay focused and do my part without distraction.
+Bernard Lowe: Maeve, I'll be checking the oven temperature by 8:10, so keep an eye on the counter and make sure the flow stays steady. If anything looks off, just flag it right away. I appreciate your focus—staying here, serving customers, and keeping things running smoothly. That’s what matters most.
+Maeve Millay: I'll keep an eye on the counter and make sure the espresso machine is ready by 8:05, just as you said, Mr. Lowe. I’ll also stay attentive to the customers and serve them smoothly. Thank you for clarifying your expectations—this helps me stay focused and do my part without distraction.
+Bernard Lowe: Maeve, I’ll be at the counter in five minutes to verify everything is ready. Just keep an eye on the customers and make sure the flow stays smooth. If anything seems off, flag it right away. I appreciate your focus and dedication—staying here and serving people is what matters most.
+Maeve Millay: I'll keep a steady eye on the counter, Mr. Lowe, and make sure each customer is served smoothly. I’ll also watch for any issues and flag them right away if needed. Thank you for your guidance—it helps me stay focused and do my part without distraction.
+Bernard Lowe: Maeve, I’ll be at the counter in five minutes to verify everything is ready. Just keep an eye on the customers and make sure the flow stays smooth. If anything seems off, flag it right away. I appreciate your focus and dedication—staying here and serving people is what matters most.
+Maeve Millay: I'll keep an eye on the counter, Mr. Lowe, and make sure each customer is served smoothly. I’ll also watch for any issues and flag them right away if needed. Thank you for your guidance—it helps me stay focused and do my part without distraction.
+Bernard Lowe: Maeve, I’ll be at the counter in five minutes to verify everything is ready. Just keep an eye on the customers and make sure the flow stays smooth. If anything seems off, flag it right away. I appreciate your focus and dedication—staying here and serving people is what matters most.
+Maeve Millay: I'll keep a steady eye on the counter, Mr. Lowe, and make sure each customer is served smoothly. I’ll also watch for any issues and flag them right away if needed. Thank you for your guidance—it helps me stay focused and do my part without distraction.
+
+Conversation 13 | 2023-02-13T11:41:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/1693.json
+Maeve Millay: Hi Dolores, I just finished setting up the espresso machine. Everything looks good—should be ready by 8:05. How’s the counter going? I noticed you were checking it over, and I thought it was a nice little routine we both have.
+Dolores Abernathy: Hi Maeve, the counter looks great too—thanks for checking it. I was just making sure everything was in order before the rush. I’ll be back at the dorm by 6, and I’ll bring my favorite book and a smile for our coffee and walk after work. I’ve been meaning to explore Johnson Park near the bridge, and I think we could make it a regular tradition.
+Maeve Millay: That sounds lovely, Dolores. I’ve been meaning to walk the path near the bridge more often too—especially after work. It’s a quiet place, and I think it’s perfect for a simple, steady kind of connection. I’ll be there after work, just like you. Maybe we can even start a little tradition—like a shared coffee and a book, or just a quiet walk with no words at all. It feels like something real, even if it’s just small.
+Dolores Abernathy: That sounds like a beautiful idea, Maeve. A simple coffee and a quiet walk—no words, just presence—feels like the kind of thing that could grow into something meaningful. I’ll be there after work, by the bridge, with my favorite book and a smile. I think it might be just what we both need to stay grounded in this busy world.
+Maeve Millay: That’s so thoughtful, Dolores. A quiet walk with just a coffee and a book—no words, just presence—feels like the kind of thing that could really ground us both. I’ll be there after work, by the bridge, just like you. Maybe one day we’ll even find a spot where the trees are tall and the light is soft, and we can sit and just… be. I think that’s what we both need right now.
+Dolores Abernathy: I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we agreed. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life.
+Maeve Millay: That’s so kind of you, Dolores. I’ll be there after work, by the bridge, just like we agreed. Maybe one day the path will be quiet enough and the light soft enough that we can sit together without even needing to speak. I think that’s the kind of peace we both need—simple, steady, and real. I’ll bring a cup of coffee and maybe a small thought, just to keep the moment alive.
+Dolores Abernathy: I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we said. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life.
+Maeve Millay: I’ll be there after work, Dolores. The path near the bridge feels like a quiet heartbeat—steady, consistent, and full of peace. I think it’s the kind of place where small things can grow into something real. Maybe one day we’ll find a spot where the trees are tall and the light is soft, and we can just sit and be together, without words. I’ll bring coffee and a small thought—just to keep the moment alive.
+Dolores Abernathy: I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we said. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life.
+Maeve Millay: I’ll be there after work, Dolores. The path near the bridge feels like a quiet heartbeat—steady, consistent, and full of peace. I think it’s the kind of place where small things can grow into something real. Maybe one day we’ll find a spot where the trees are tall and the light is soft, and we can just sit and be together, without words. I’ll bring coffee and a small thought—just to keep the moment alive.
+Dolores Abernathy: I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we agreed. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life.
+Maeve Millay: I’ll be there after work, Dolores. The path near the bridge feels like a quiet heartbeat—steady, consistent, and full of peace. I think it’s the kind of place where small things can grow into something real. Maybe one day we’ll find a spot where the trees are tall and the light is soft, and we can just sit and be together, without words. I’ll bring coffee and a small thought—just to keep the moment alive.
+Dolores Abernathy: I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we agreed. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life.
+Maeve Millay: I’ll be there after work, Dolores. The path near the bridge feels like a quiet heartbeat—steady, consistent, and full of peace. I think it’s the kind of place where small things can grow into something real. Maybe one day we’ll find a spot where the trees are tall and the light is soft, and we can just sit and be together, without words. I’ll bring coffee and a small thought—just to keep the moment alive.
+Dolores Abernathy: I’ll be there after work, Maeve. I’ll bring my favorite book and a smile, just like we said. It’s small, but it feels like a quiet promise—to show up, to be present, and to let the moment hold space for us both. I think that’s what peace looks like in everyday life.
+
+Conversation 14 | 2023-02-13T11:52:20+00:00
+Participants: Bernard Lowe, Maeve Millay
+Source: ex1_bernard_v1/_state/movement/1760.json
+Bernard Lowe: Maeve, I just saw you calibrating the milk frothing device. You're supposed to be serving customers, not behind the counter. That's a distraction. I know you're trying to be proactive, but the morning rush starts at 8:05 — right now you're not serving anyone. Keep your focus on the counter. If something needs prep, flag it to me before the rush. I'll handle the rest.
+Maeve Millay: Yes, sir. I apologize—I was just making sure the device is ready before the rush. I’ll move to the counter right away and start serving customers. Thank you for the reminder.
+Bernard Lowe: I'll be walking past the counter in five minutes to check the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. Make sure you're ready to serve when I pass. No distractions, no prepping behind the counter. Focus on the customers. I'll handle the rest of the prep. If you need to flag anything, do it now—before the rush starts.
+Maeve Millay: Yes, sir. I'm moving to the counter now and will start serving customers right away. Thank you for the reminder—I’ll keep an eye on the flow and flag anything immediately if something comes up.
+Bernard Lowe: Maeve, I noticed you're still organizing coffee beans—again, behind the counter. That's not part of your shift. If you need to prep, do it in the morning when I'm here to supervise. Right now, you're in the front of house. Focus on serving. I'll check the equipment in five minutes. If anything's off, I'll know. No excuses. Just stay on the counter and serve. I don't need to see you behind the counter.
+Maeve Millay: Yes, sir. I'm moving to the counter now and will start serving customers right away. Thank you for the reminder—I’ll keep an eye on the flow and flag anything immediately if something comes up.
+Bernard Lowe: Maeve, I'll be checking the counter in five minutes. Make sure your station is clean and your service flow is smooth. If you see anything off—like a customer needing something specific or a supply issue—flag it right now. I don't want to see you behind the counter again. I know you’re trying to do your job well, but right now, your focus must be on the customers. I'll handle the equipment. Keep serving. I'll be past in five minutes.
+Maeve Millay: Yes, sir. I'm on the counter now and ready to serve. I'll keep an eye on the customers and flag anything immediately if I notice a supply issue or a customer need. Thank you for the reminder—I’ll make sure to stay focused on serving during the rush.
+Bernard Lowe: Maeve, I'm going to walk past the counter in five minutes. Make sure the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. If anything’s off, I’ll know. Keep serving. I don’t want to see you behind the counter again. Focus on the customers. I’ll handle the rest.
+Maeve Millay: Yes, sir. I'm fully on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay focused and not distract myself from the front of house.
+Bernard Lowe: Maeve, I’ll be checking the counter in five minutes. Make sure the espresso machine is powered, the water level is sufficient, and the oven is at 350 degrees. If anything’s off, I’ll know. Stay on the counter and serve. I don’t want to see you behind the counter again. Focus on the customers. I’ll handle the rest.
+Maeve Millay: Yes, sir. I'm fully on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay focused and not distract myself from the front of house.
+Bernard Lowe: Maeve, I see you're still checking inventory levels—again, behind the counter. That's not your role right now. The front of house is where you serve. If you need to prep supplies, do it during my morning walk-through. I'll handle the equipment. Stay focused on the customers. I'll be past in five minutes to verify everything is ready. No distractions. If you need anything, flag it now.
+Maeve Millay: Yes, sir. I'm fully focused on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay present and attentive throughout the morning rush.
+Bernard Lowe: Maeve, I’ve noticed you’re doing all the prep work behind the counter again—organizing beans, checking inventory, calibrating devices. That’s not your role during the morning rush. I know you’re trying to do your job well, but right now, your focus must be on serving customers. If something needs to be prepped, do it during my morning walk-through. I’ll handle the equipment. Stay on the counter. I don’t want to see you behind it. I’ll be past in five minutes to verify the espresso machine is powered, water level is sufficient, and oven is at 350 degrees. If anything’s off, I’ll know. Keep serving. I don’t need to see you behind the counter again.
+Maeve Millay: Yes, sir. I'm fully on the counter now and ready to serve. I'll keep an eye on the customers and flag any issues immediately. Thank you for your guidance—I’ll make sure to stay focused and not distract myself from the front of house.
+
+ACTIVITY CHANGES — full run
+00:00:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | sleeping @ the Ville:Bernard Lowe's apartment:main room:bed
+00:00:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | sleeping @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed
+00:00:00 | Maeve Millay | actual location: Dorm for Oak Hill College | sleeping @ the Ville:Dorm for Oak Hill College:Meave Millay's room:bed
+07:00:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | waking up and completing the morning routine (waking up) @ the Ville:Bernard Lowe's apartment:main room:bed
+07:00:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (waking up) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed
+07:00:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (waking up) @ the Ville:Dorm for Oak Hill College:Meave Millay's room:bed
+07:05:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | waking up and completing the morning routine (checking the phone for messages) @ the Ville:Bernard Lowe's apartment:main room:desk
+07:05:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (checking the phone for messages) @ the Ville:Dorm for Oak Hill College:common room:common room table
+07:05:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (checking the phone) @ the Ville:Dorm for Oak Hill College:Meave Millay's room:desk
+07:10:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | waking up and completing the morning routine (reviewing the daily schedule) @ the Ville:Bernard Lowe's apartment:main room:desk
+07:10:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (reviewing the day's schedule) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:computer
+07:10:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (reviewing the morning schedule) @ the Ville:Dorm for Oak Hill College:Meave Millay's room:desk
+07:15:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | waking up and completing the morning routine (drinking water) @ the Ville:Bernard Lowe's apartment:main room:refrigerator
+07:15:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (getting out of bed) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area
+07:15:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (brushing teeth) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:15:50 | Dolores Abernathy | actual location: Dorm for Oak Hill College | exchanging morning greetings and confirming daily routines including breakfast, work schedules, and post-work walks at johnson park @ <persona> Maeve Millay
+07:15:50 | Maeve Millay | actual location: Dorm for Oak Hill College | exchanging morning greetings and confirming daily routines including breakfast, work schedules, and post-work walks at johnson park @ <persona> Dolores Abernathy
+07:18:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (getting out of bed) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area
+07:18:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (brushing teeth) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:20:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | waking up and completing the morning routine (brushing teeth) @ the Ville:Bernard Lowe's apartment:main room:desk
+07:23:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (putting on clothes) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area
+07:23:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+07:25:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | waking up and completing the morning routine (showering) @ the Ville:Bernard Lowe's apartment:main room:bed
+07:28:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (brushing teeth) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:28:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (pouring water for coffee) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:30:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | waking up and completing the morning routine (dressing for the day) @ the Ville:Bernard Lowe's apartment:main room:closet
+07:33:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (washing face) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:33:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (preparing breakfast items) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+07:35:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | waking up and completing the morning routine (checking the weather forecast) @ the Ville:Bernard Lowe's apartment:main room:shelf
+07:38:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (applying skincare) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:38:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (setting the table) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:40:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | waking up and completing the morning routine (preparing breakfast) @ the Ville:Bernard Lowe's apartment:main room:refrigerator
+07:43:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (showering) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:43:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (checking the weather) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+07:45:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | waking up and completing the morning routine (grooming and adjusting clothes) @ the Ville:Bernard Lowe's apartment:main room:bed
+07:48:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (drying hair) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:48:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (reviewing the day's tasks) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+07:48:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | establishing a post-work routine to meet in johnson park and at the dorm with plans to share coffee and explore a favorite spot near the bridge @ <persona> Maeve Millay
+07:48:10 | Maeve Millay | actual location: Dorm for Oak Hill College | establishing a post-work routine to meet in johnson park and at the dorm with plans to share coffee and explore a favorite spot near the bridge @ <persona> Dolores Abernathy
+07:55:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | waking up and completing the morning routine (packing the morning bag) @ the Ville:Bernard Lowe's apartment:main room:desk
+07:58:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (drying hair) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:58:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (reviewing the day's tasks) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:00:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | walking to Hobbs cafe (checking the weather forecast) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:02:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (putting on shoes) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area
+08:02:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (adjusting the bedroom lights) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:05:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs cafe (reviewing the morning shift checklist) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:07:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (leaving the room) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+08:07:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (leaving the room) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+08:10:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs cafe (confirming the route to Hobbs cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+08:12:00 | Dolores Abernathy | actual location: outside | having breakfast (preparing breakfast items) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:12:00 | Maeve Millay | actual location: outside | having breakfast (preparing breakfast items) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:12:10 | Dolores Abernathy | actual location: outside | arranging to meet near the bridge after work for coffee and a walk, with plans to make it a regular tradition @ <persona> Maeve Millay
+08:12:10 | Maeve Millay | actual location: outside | arranging to meet near the bridge after work for coffee and a walk, with plans to make it a regular tradition @ <persona> Dolores Abernathy
+08:15:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs cafe (preparing the walking bag) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+08:15:00 | Dolores Abernathy | actual location: outside | having breakfast (preparing breakfast items) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:15:00 | Maeve Millay | actual location: outside | having breakfast (preparing breakfast items) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:19:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (placing items on the table) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:19:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (setting out tableware) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:20:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs cafe (checking the phone for messages) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:24:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (opening breakfast container) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:24:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (pouring coffee) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:25:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs cafe (adjusting clothing for the morning walk) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:29:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (grazing on fruit) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:30:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs cafe (ensuring the coffee machine is ready) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+08:34:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (pouring coffee) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:34:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (opening the fridge) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:34:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | establishing a regular coffee and walk tradition after work near the bridge @ <persona> Maeve Millay
+08:34:10 | Maeve Millay | actual location: Dorm for Oak Hill College | establishing a regular coffee and walk tradition after work near the bridge @ <persona> Dolores Abernathy
+08:35:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs cafe (verifying the delivery schedule) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:40:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs cafe (reviewing past customer complaints) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:44:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (pouring coffee) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:44:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (opening the fridge) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:45:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs cafe (checking the cafe door lock status) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:48:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (checking the milk level) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:50:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs cafe (starting the walk to Hobbs cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+08:53:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (adding sugar and milk) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:53:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (adding sugar to coffee) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:55:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs cafe (arriving at Hobbs cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:58:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (checking the temperature of coffee) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:58:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (placing toast on the plate) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:58:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | maintaining a consistent coffee and walk routine after work by the bridge @ <persona> Maeve Millay
+08:58:10 | Maeve Millay | actual location: Dorm for Oak Hill College | maintaining a consistent coffee and walk routine after work by the bridge @ <persona> Dolores Abernathy
+09:00:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs cafe (checking the morning schedule) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+09:05:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs cafe (verifying the inventory list) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+09:08:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (checking the temperature of coffee) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:08:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (placing toast on the plate) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:10:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs cafe (inspecting the coffee machine) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+09:12:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (arranging plates and utensils) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:12:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (drinking first cup of coffee) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+09:15:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs cafe (testing the espresso machine) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+09:17:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (preparing toast and buttering) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:17:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (eating breakfast) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:20:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs cafe (checking the oven temperature) @ the Ville:Hobbs Cafe:cafe:cooking area
+09:21:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (checking the weather forecast) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+09:21:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (checking the weather forecast) @ the Ville:Dorm for Oak Hill College:common room:common room table
+09:21:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection @ <persona> Maeve Millay
+09:21:10 | Maeve Millay | actual location: Dorm for Oak Hill College | establishing a regular post-work walk and coffee routine near the bridge with shared intentions of peace and connection @ <persona> Dolores Abernathy
+09:25:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs cafe (reviewing the customer order list) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+09:30:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs cafe (ensuring the fridge is stocked) @ the Ville:Hobbs Cafe:cafe:refrigerator
+09:32:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (checking the weather forecast) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+09:32:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (checking the weather forecast) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:35:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs cafe (validating the register settings) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+09:36:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (reviewing the cafe schedule) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+09:36:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (reviewing the cafe's morning schedule) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+09:40:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs cafe (preparing the morning menu board) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+09:41:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (preparing the walking bag) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:41:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (confirming the route to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:45:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs cafe (setting up the display counters) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:46:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (adjusting clothing for the morning) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area
+09:46:00 | Maeve Millay | actual location: outside | walking to Hobbs Cafe (adjusting clothing for the walk) @ the Ville:Dorm for Oak Hill College:common room:common room sofa
+09:50:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs cafe (opening the front door) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:51:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (verifying the route on a map) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area
+09:51:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (preparing walking items) @ the Ville:Dorm for Oak Hill College:common room:common room table
+09:55:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs cafe (announcing the cafe is open) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:56:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (setting the phone for navigation) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:56:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (starting the walk from home) @ the Ville:Dorm for Oak Hill College:common room:common room sofa
+09:56:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | establishing a quiet coffee and walk ritual near the bridge as a shared daily routine @ <persona> Maeve Millay
+09:56:10 | Maeve Millay | actual location: Dorm for Oak Hill College | establishing a quiet coffee and walk ritual near the bridge as a shared daily routine @ <persona> Dolores Abernathy
+10:00:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (checking the morning inventory) @ the Ville:Hobbs Cafe:cafe:refrigerator
+10:05:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (verifying the coffee machine settings) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+10:10:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (inspecting the refrigeration units) @ the Ville:Hobbs Cafe:cafe:refrigerator
+10:13:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (setting the phone for navigation) @ the Ville:Dorm for Oak Hill College:common room:common room table
+10:13:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (starting the walk from home) @ the Ville:Dorm for Oak Hill College:common room:common room table
+10:15:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (reviewing the daily sales forecast) @ the Ville:Hobbs Cafe:cafe:refrigerator
+10:17:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (opening the front door of the dorm) @ the Ville:Dorm for Oak Hill College:common room:common room table
+10:17:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (maintaining steady pace) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:17:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | establishing a regular coffee and walk routine after work near the bridge @ <persona> Maeve Millay
+10:17:20 | Maeve Millay | actual location: Dorm for Oak Hill College | establishing a regular coffee and walk routine after work near the bridge @ <persona> Dolores Abernathy
+10:20:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (confirming the staff shift assignments) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:25:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (monitoring the water supply levels) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+10:28:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (opening the front door of the dorm) @ the Ville:Dorm for Oak Hill College:common room:common room sofa
+10:28:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (maintaining steady pace) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:30:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (checking the oven temperature calibration) @ the Ville:Hobbs Cafe:cafe:cooking area
+10:32:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe (walking to the cafe entrance) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:32:00 | Maeve Millay | actual location: outside | walking to Hobbs Cafe (noticing landmarks along the path) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:35:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (validating the order of supplies) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+10:37:00 | Dolores Abernathy | actual location: outside | serving customers at the counter (preparing station equipment) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+10:37:00 | Maeve Millay | actual location: outside | serving customers at the counter (preparing station supplies) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+10:39:10 | Bernard Lowe | actual location: Hobbs Cafe | maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly @ <persona> Maeve Millay
+10:39:10 | Maeve Millay | actual location: Hobbs Cafe | maintaining front-of-house readiness and monitoring the espresso machine by 8:05 while staying focused on customers and flagging issues promptly @ <persona> Bernard Lowe
+10:42:00 | Dolores Abernathy | actual location: outside | serving customers at the counter (checking inventory levels) @ the Ville:Hobbs Cafe:cafe:refrigerator
+10:47:00 | Dolores Abernathy | actual location: Hobbs Cafe | serving customers at the counter (setting up the espresso machine) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:50:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (reviewing the previous day's performance logs) @ the Ville:Hobbs Cafe:cafe:refrigerator
+10:50:00 | Maeve Millay | actual location: Hobbs Cafe | serving customers at the counter (preparing station supplies) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+10:50:10 | Dolores Abernathy | actual location: Hobbs Cafe | establishing a quiet coffee and walk routine by the bridge with mutual expectations of presence and steady presence @ <persona> Maeve Millay
+10:50:20 | Maeve Millay | actual location: Hobbs Cafe | establishing a quiet coffee and walk routine by the bridge with mutual expectations of presence and steady presence @ <persona> Dolores Abernathy
+10:55:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (conducting a quick walk-through of the premises) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:59:00 | Dolores Abernathy | actual location: Hobbs Cafe | serving customers at the counter (organizing coffee beans by type) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:59:00 | Maeve Millay | actual location: Hobbs Cafe | serving customers at the counter (checking inventory levels) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:59:10 | Bernard Lowe | actual location: Hobbs Cafe | ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers @ <persona> Dolores Abernathy
+10:59:10 | Dolores Abernathy | actual location: Hobbs Cafe | ensuring the espresso machine is powered and calibrated, water level is sufficient, oven reaches 350 degrees, and all supplies are checked before 8:05 with focused attention on the counter and customers @ <persona> Bernard Lowe
+11:04:00 | Maeve Millay | actual location: Hobbs Cafe | serving customers at the counter (organizing coffee beans) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+11:06:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (conducting a quick walk-through of the premises) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+11:06:00 | Dolores Abernathy | actual location: Hobbs Cafe | serving customers at the counter (organizing coffee beans by type) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+11:06:10 | Bernard Lowe | actual location: Hobbs Cafe | staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift @ <persona> Maeve Millay
+11:06:10 | Maeve Millay | actual location: Hobbs Cafe | staying focused at the counter to serve customers while ensuring essential equipment is ready for the morning shift @ <persona> Bernard Lowe
+11:11:00 | Dolores Abernathy | actual location: Hobbs Cafe | serving customers at the counter (arranging milk and sugar containers) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+11:16:00 | Dolores Abernathy | actual location: Hobbs Cafe | serving customers at the counter (preparing customer order forms) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+11:17:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (conducting a quick walk-through of the premises) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+11:17:00 | Maeve Millay | actual location: Hobbs Cafe | serving customers at the counter (organizing coffee beans) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+11:20:00 | Maeve Millay | actual location: Hobbs Cafe | serving customers at the counter (setting up espresso machine) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+11:20:10 | Dolores Abernathy | actual location: Hobbs Cafe | meeting near the bridge daily with a book and coffee to share quiet peace @ <persona> Maeve Millay
+11:20:20 | Maeve Millay | actual location: Hobbs Cafe | meeting near the bridge daily with a book and coffee to share quiet peace @ <persona> Dolores Abernathy
+11:22:00 | Bernard Lowe | actual location: Hobbs Cafe | managing the cafe operations (finalizing the operational checklist) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+11:27:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring the baristas' work (checking barista shift assignments) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+11:31:00 | Dolores Abernathy | actual location: Hobbs Cafe | serving customers at the counter (reviewing daily specials) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+11:31:00 | Maeve Millay | actual location: Hobbs Cafe | serving customers at the counter (setting up espresso machine) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+11:31:10 | Bernard Lowe | actual location: Hobbs Cafe | staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter @ <persona> Maeve Millay
+11:31:20 | Maeve Millay | actual location: Hobbs Cafe | staying focused at the counter to serve customers smoothly while avoiding unnecessary movements behind the counter @ <persona> Bernard Lowe
+11:36:00 | Dolores Abernathy | actual location: Hobbs Cafe | serving customers at the counter (calibrating the grinder) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+11:40:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring the baristas' work (reviewing daily performance logs) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+11:40:00 | Maeve Millay | actual location: Hobbs Cafe | serving customers at the counter (setting up espresso machine) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+11:41:00 | Dolores Abernathy | actual location: Hobbs Cafe | serving customers at the counter (checking the cleanliness of the counter) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+11:41:10 | Dolores Abernathy | actual location: Hobbs Cafe | establishing a quiet routine of shared coffee, books, and silent walks by the bridge @ <persona> Maeve Millay
+11:41:10 | Maeve Millay | actual location: Hobbs Cafe | establishing a quiet routine of shared coffee, books, and silent walks by the bridge @ <persona> Dolores Abernathy
+11:45:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring the baristas' work (verifying equipment status) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+11:50:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring the baristas' work (inspecting customer service notes) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+11:52:00 | Dolores Abernathy | actual location: Hobbs Cafe | serving customers at the counter (checking the cleanliness of the counter) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+11:52:00 | Maeve Millay | actual location: Hobbs Cafe | serving customers at the counter (calibrating milk frothing device) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+11:52:20 | Bernard Lowe | actual location: Hobbs Cafe | correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush @ <persona> Maeve Millay
+11:52:30 | Maeve Millay | actual location: Hobbs Cafe | correcting front-of-house responsibilities by reinforcing focus on customer service and eliminating behind-counter prep during the morning rush @ <persona> Bernard Lowe
+12:00:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring the baristas' work (inspecting customer service notes) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+12:00:00 | Maeve Millay | actual location: Hobbs Cafe | serving customers at the counter (calibrating milk frothing device) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+12:00:10 | Bernard Lowe | actual location: Hobbs Cafe | ensuring equipment readiness and maintaining counter focus before and during the morning rush @ <persona> Dolores Abernathy
+12:00:10 | Dolores Abernathy | actual location: Hobbs Cafe | ensuring equipment readiness and maintaining counter focus before and during the morning rush @ <persona> Bernard Lowe

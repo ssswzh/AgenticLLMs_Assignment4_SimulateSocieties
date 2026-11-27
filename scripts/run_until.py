@@ -113,6 +113,8 @@ def main():
 
             if stream is not None:
                 for record in new_records(stream):
+                    # if record.get("msg") == "llm_call_fail":
+                    #     raise RuntimeError("LLM call exhausted its retries; stopping now.")
                     if record.get("msg") != "step_start" or not record.get("sim_time"):
                         continue
                     current = game_time(record["sim_time"])

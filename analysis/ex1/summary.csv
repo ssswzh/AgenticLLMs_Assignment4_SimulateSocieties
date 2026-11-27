@@ -1,0 +1,4 @@
+version,prompting_style,first_logged_sim_time,last_logged_step_start,last_saved_movement,all_conversations,bernard_conversations,window_start,window_end,data_reaches_window_end,conversations_in_window,bernard_conversations_in_window,llm_calls_started,llm_retry_records,llm_call_fail_records
+1,adjectives,2023-02-13T00:00:00Z,2023-02-13T12:02:20Z,2023-02-13T12:02:20+00:00,17,6,2023-02-13T08:00:00+00:00,2023-02-13T12:00:00+00:00,True,14,5,3299,36,3
+2,full sentences,2023-02-13T00:00:00Z,2023-02-13T10:36:50Z,2023-02-13T10:36:50+00:00,10,4,2023-02-13T08:00:00+00:00,2023-02-13T12:00:00+00:00,False,9,4,2581,811,99
+3,concrete examples,2023-02-13T00:00:00Z,2023-02-13T10:35:10Z,2023-02-13T10:35:10+00:00,10,2,2023-02-13T08:00:00+00:00,2023-02-13T12:00:00+00:00,False,7,2,1978,11,0

@@ -1,0 +1,409 @@
+Exercise 1 — Version 2
+Prompting style: full sentences
+Bernard innate: ''
+Bernard learned: 'Bernard grew up with an army general father who demanded immediate obedience and tolerated no mistakes. After his father died ten years ago, he pursued his passion for coffee and began running Hobbs Cafe. He notices every small mistake and rarely finds his employees’ work satisfactory. He dictates how tasks should be done, expects immediate results, and interrupts explanations. He becomes irritated easily, loses his temper over minor delays, and criticizes employees harshly. He demands high standards but offers neither praise nor pay raises. Bernard believes most customers cannot appreciate good coffee and responds impatiently to complaints. His marriage ended last year, and his young son, with whom he has never been close, now lives with his former wife.'
+
+RUN SUMMARY — full run
+First logged game time: 2023-02-13T00:00:00Z
+Last logged step start: 2023-02-13T10:36:50Z
+Saved clock (next step): February 13, 2023, 10:36:50
+Last saved movement: 2023-02-13T10:36:50+00:00
+All conversations: 10; involving Bernard: 4
+LLM calls started: 2581; retry records: 811; final failure records: 99
+Retries and final failures are separate records, not a single failure rate.
+
+SELECTED WINDOW — conversation start times, inclusive start and exclusive end
+Window: [2023-02-13T08:00:00+00:00, 2023-02-13T12:00:00+00:00)
+Saved data reaches window end: False
+Conversations: 9; involving Bernard: 4
+
+PLANS AND FINAL STATE — full run
+
+Maeve Millay
+Source: simulation/ex1_bernard_v2/personas/Maeve Millay/bootstrap_memory/scratch.json
+First physical arrival at Hobbs Cafe: 10:01:00
+Final physical location: Hobbs Cafe
+Final activity: walking to Hobbs Cafe
+Activity start: February 13, 2023, 10:30:00; duration: 11 minutes
+Activity destination: the Ville:Hobbs Cafe:cafe:cafe customer seating
+Memory nodes: {'thought': 32, 'event': 76, 'chat': 6}
+High-level daily plan:
+  - wake up and complete the morning routine at 7:00am
+  - have breakfast at 7:30 am
+  - walk to Hobbs Cafe by 8:00 am
+  - work the counter from 8:00 am to 4:00 pm
+  - walk in Johnson Park after work
+  - have dinner at the dorm at 8:00 pm
+  - spend time in her room before bed
+  - go to bed at 11:00 pm
+Original hourly schedule:
+  00:00–07:00 sleeping
+  07:00–08:00 waking up and completing her morning routine
+  08:00–09:00 having breakfast
+  09:00–10:00 walking to Hobbs Cafe
+  10:00–16:00 serving customers at the counter
+  16:00–17:00 closing the register and tidying the counter
+  17:00–18:00 walking in Johnson Park
+  18:00–19:00 walking through Johnson Park
+  19:00–20:00 having dinner at the dorm
+  20:00–23:00 spending time in her room
+  23:00–24:00 sleeping
+
+Bernard Lowe
+Source: simulation/ex1_bernard_v2/personas/Bernard Lowe/bootstrap_memory/scratch.json
+First physical arrival at Hobbs Cafe: 08:01:10
+Final physical location: Hobbs Cafe
+Final activity: repeating a ritual of hesitation despite explicit demands for immediate action
+Activity start: February 13, 2023, 10:34:10; duration: 3 minutes
+Activity destination: <persona> Dolores Abernathy
+Memory nodes: {'thought': 7, 'event': 59, 'chat': 2}
+High-level daily plan:
+  - wake up and complete the morning routine at 7:00am
+  - walk to Hobbs Cafe at 7:30 am
+  - open Hobbs Cafe at 8:00 am
+  - monitor baristas and manage operations from 8:00 am to 4:00 pm
+  - close Hobbs Cafe at 4:00 pm
+  - walk home from the cafe at 4:30 pm
+  - have dinner at 8:00 pm
+  - go to bed at 11:00 pm
+Original hourly schedule:
+  00:00–07:00 sleeping
+  07:00–08:00 completing morning routine
+  08:00–09:00 walking to Hobbs Cafe
+  09:00–10:00 opening Hobbs Cafe
+  10:00–11:00 monitoring baristas
+  11:00–12:00 overseeing coffee preparation
+  12:00–13:00 checking customer service standards
+  13:00–14:00 reviewing barista performance
+  14:00–15:00 inspecting equipment operation
+  15:00–16:00 conducting daily operations review
+  16:00–17:00 closing Hobbs Cafe
+  17:00–18:00 walking home from the cafe
+  18:00–19:00 eating dinner at home
+  19:00–20:00 reading the news
+  20:00–21:00 serving customers at the counter
+  21:00–22:00 responding to customer complaints
+  22:00–23:00 checking his phone for messages
+  23:00–24:00 sleeping
+
+Dolores Abernathy
+Source: simulation/ex1_bernard_v2/personas/Dolores Abernathy/bootstrap_memory/scratch.json
+First physical arrival at Hobbs Cafe: 09:56:10
+Final physical location: Hobbs Cafe
+Final activity: repeating a ritual of hesitation despite explicit demands for immediate action
+Activity start: February 13, 2023, 10:34:10; duration: 3 minutes
+Activity destination: <persona> Bernard Lowe
+Memory nodes: {'thought': 30, 'event': 72, 'chat': 6}
+High-level daily plan:
+  - wake up and complete the morning routine at 7:00am
+  - have breakfast at 7:30 am
+  - walk to Hobbs Cafe by 8:00 am
+  - work the counter from 8:00 am to 4:00 pm
+  - have dinner at 6:00 pm
+  - read a book from 6:30 pm to 11:00 pm
+Original hourly schedule:
+  00:00–07:00 sleeping
+  07:00–08:00 waking up and completing the morning routine
+  08:00–09:00 having breakfast
+  09:00–10:00 walking to Hobbs Cafe
+  10:00–16:00 serving customers at the counter
+  16:00–17:00 ending work shift
+  17:00–18:00 going home to the dorm
+  18:00–19:00 having dinner at the dorm
+  19:00–23:00 reading a book
+  23:00–24:00 sleeping
+
+CONVERSATIONS — starting in the selected window, complete transcripts
+
+Conversation 1 | 2023-02-13T08:00:00+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v2/_state/movement/366.json
+Maeve Millay: Good morning, Dolores! I saw you heading out—hope you’re doing well. I was just about to head to the cafe too. Want to grab a coffee together before it gets busy? I know you love a good morning brew.
+Dolores Abernathy: Good morning, Maeve! That’s actually a great idea—thanks for suggesting it. I was just about to head out too. I’ll grab a coffee and we can meet at the cafe before it gets too busy. I’ve been meaning to try that new oat milk latte—what do you think? I’ll keep an eye out for it.
+Maeve Millay: That sounds perfect, Dolores! I’ll be right there—maybe we can even share some of the morning pastries while we wait. I’ve been saving the cinnamon scones for the first batch of the day, so they’ll be fresh when we get there.
+Dolores Abernathy: That sounds like a wonderful plan, Maeve! I’ll be right there—just need to grab my bag and we can head over together. I’ll even bring a notebook to jot down some ideas for the new menu—maybe we can share some of our favorite drinks and see what we can suggest to Bernard.
+Maeve Millay: Sounds like a great plan, Dolores! I’ll be ready by 7:45—just need to make sure I’ve got my apron and the fresh scones ready. Let’s meet at the cafe by 8:00, okay? I’ll even bring a few of the new cinnamon scones we’ve been testing—just in case you want to try one before we go.
+Dolores Abernathy: Sounds like a great plan, Maeve! I’ll be ready by 8:00—just need to make sure I’ve got my apron and my notebook. I’ll even bring a few of the new scones we’ve been testing too. Let’s make it a great start to the day!
+Maeve Millay: Sounds like a great plan, Dolores! I’ll be ready by 8:00—let’s make it a great start to the day.
+
+Conversation 2 | 2023-02-13T08:24:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v2/_state/movement/511.json
+Dolores Abernathy: Hey Maeve, I just saw you heating the milk—great to see you're already all set! I thought we should head out early since the cafe gets busy by 8. I’ll grab the oat milk latte and try the cinnamon scones you mentioned. What do you think about adding more oat milk options to the menu?
+Maeve Millay: That sounds awesome, Dolores! I'm really glad you're excited about the oat milk latte—it’s been a favorite of mine too. Since you’re already planning to try it, maybe we can work together to get more oat milk options on the menu. I’ll make sure to have fresh cinnamon scones ready for you to share when we’re both working. Just like how we’ve always done things together—simple, practical, and full of good vibes!
+Dolores Abernathy: That’s a great idea, Maeve. I’ll bring my notebook to the cafe today and jot down some ideas for oat milk latte variations—maybe even a seasonal blend with cinnamon and cardamom. I’ll also make sure to try the new scones when we’re both working. Thanks for having the fresh ones ready—I’ll be sure to share a few of them with the team during the shift.
+Maeve Millay: That sounds perfect, Dolores! I’ll make sure to have the oat milk latte station ready and the cinnamon scones fresh by 8. Since you’re already thinking about seasonal blends, maybe we can even plan a special menu for next month—like a 'Cinnamon & Cardamom' oat milk latte. I’ll bring my apron too, just like we always do. Let’s keep it simple and focused, but full of good ideas—just like how we’ve always worked together!
+Dolores Abernathy: That sounds like a fantastic plan, Maeve. I’ll bring my notebook and make a few notes on the oat milk latte ideas—maybe even a version with a hint of vanilla and a touch of nutmeg for a warming effect. I’ll also keep an eye out for the scones and share a few with the team. Thanks again for making the fresh ones ready—this is what I love about working with you. Let’s make sure to keep the menu fresh and full of good things, just like we always do.
+Maeve Millay: Sounds like a wonderful plan, Dolores! I’ll make sure the oat milk latte station is ready and the scones are fresh by 8. I’ll also keep an eye out for the new scones and share a few with the team too. Thanks for the great ideas—let’s make sure to keep the menu both fresh and full of good things, just like we always do!
+Dolores Abernathy: I’ll make sure to check the new scones and oat milk latte station when I get there too—just to confirm everything is set. Thanks again for your help, Maeve. I’m really looking forward to seeing how the menu evolves with your ideas.
+Maeve Millay: Got it, Dolores! I’ll have the oat milk latte station ready and the scones fresh by 8. I’ll also keep an eye out for any new ideas you come up with—just like how we’ve always done things together. Thanks again for the great conversation, I’m excited to see how the menu evolves with your seasonal blends!
+Dolores Abernathy: I’ll make sure to grab my apron and notebook when I head out—thanks again for the great ideas, Maeve. I’m excited to see how the new menu turns out with our collaboration!
+Maeve Millay: I’ll have the oat milk latte station ready and the cinnamon scones fresh by 8, just like we’ve always done. Thanks again for the great ideas, Dolores—I’m excited to see how the new menu turns out with our collaboration!
+Dolores Abernathy: I’ll be back at the cafe by 8, ready to grab the oat milk latte and try the new scones. I’ll also bring my notebook and apron—thanks again for making the menu so exciting to work on!
+Maeve Millay: Got it, Dolores! I’ll have the oat milk latte station ready and the cinnamon scones fresh by 8. I’ll also keep an eye out for any new ideas you come up with—just like how we’ve always done things together. Thanks again for the great conversation, I’m excited to see how the new menu turns out with our collaboration!
+Dolores Abernathy: I’ll be back at the cafe by 8, ready to grab the oat milk latte and try the new scones. I’ll also bring my notebook and apron—thanks again for making the menu so exciting to work on!
+Maeve Millay: I’ll have the oat milk latte station ready and the cinnamon scones fresh by 8, just like we’ve always done. Thanks again for the great ideas, Dolores—I’m excited to see how the new menu turns out with our collaboration!
+Dolores Abernathy: I’ll be back at the cafe by 8, ready to grab the oat milk latte and try the new scones. I’ll also bring my notebook and apron—thanks again for making the menu so exciting to work on!
+Maeve Millay: I’ll have the oat milk latte station ready and the cinnamon scones fresh by 8, just like we’ve always done. Thanks again for the great ideas, Dolores—I’m excited to see how the new menu turns out with our collaboration!
+
+Conversation 3 | 2023-02-13T08:45:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v2/_state/movement/637.json
+Maeve Millay: Hey Dolores, I just saw you making fruit salad—great choice! I was thinking about our seasonal oat milk latte menu, and since you suggested the cinnamon and cardamom blend, I wanted to propose a special 'Cinnamon & Cardamom' latte for next month. What do you think? I’ll have the station ready by 8, and I’ll make sure the scones are fresh too.
+Dolores Abernathy: That sounds awesome, Maeve! I love the idea of a 'Cinnamon & Cardamom' latte—especially with fresh scones. I’ll bring my notebook and apron to the cafe by 8, so we can go over the menu together and maybe even tweak the workflow a bit. Thanks for thinking of it—makes me feel like we’re really building something special.
+Maeve Millay: Thanks for the quick reply, Dolores! I’ll make sure the oat milk latte station is set up with all the fresh ingredients by 8, and I’ll have the scones baked just before we meet. I’m excited to see how we can refine the workflow together—maybe even add a few more seasonal touches. Let me know if you have any other ideas before we head out!
+Dolores Abernathy: That sounds perfect, Maeve! I’ll be there by 8 with my notebook and apron. I think we can make the workflow smoother by adding a quick check-in step for the oat milk latte station—maybe even a visual cue so we don’t miss the fresh scones. I’ll bring a few notes on how we could streamline the order process too. Looking forward to it!
+Maeve Millay: Sounds like a solid plan, Dolores! I’ll set up the station with a clear visual cue for the fresh scones and make sure the oat milk is always chilled. I’ll also keep a copy of your workflow notes for the next shift. Thanks again for your input—it really helps us keep the menu fresh and thoughtful. Let’s make sure to check in again after the first week to see how it’s going!
+Dolores Abernathy: That’s a great idea, Maeve—I’ll make sure to add a quick check-in step for the oat milk latte station too. Maybe we can even create a small visual guide for the morning routine, like a checklist on the counter. I’ll bring a copy of my notes from last week’s shift to share. Looking forward to seeing how it all comes together when we’re both on the floor!
+Maeve Millay: I’ll put up a small checklist on the counter with the morning routine steps—like checking the oat milk temperature and confirming the scones are fresh. That way, we both start the day with a clear, consistent flow. I’ll also keep a copy of your notes and maybe even add a few more seasonal ideas we can test later. Thanks again for making this feel so collaborative!
+Dolores Abernathy: That’s such a thoughtful touch, Maeve—I’ll bring a copy of my morning routine checklist too. Maybe we can even print it out and stick it near the station. I’ll make sure to grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!
+Maeve Millay: I’ll put up a small checklist on the counter with the morning routine steps—like checking the oat milk temperature and confirming the scones are fresh. That way, we both start the day with a clear, consistent flow. I’ll also keep a copy of your notes and maybe even add a few more seasonal ideas we can test later. Thanks again for making this feel so collaborative!
+Dolores Abernathy: I’ll make sure to grab the oat milk latte and try the new scones when we get there. Maybe we can even take a quick photo of the station together to show the team next week—just to keep the energy going. Looking forward to seeing how it all works in practice!
+Maeve Millay: That’s a wonderful idea, Dolores—I’ll definitely take a photo of the station with the checklist and the fresh scones when we’re both there. It’ll be a nice visual reminder for the team. I’ll also make sure to share it with Bernard during our next team meeting. Thanks again for your creativity and for making this feel so collaborative—it really makes my day!
+Dolores Abernathy: I’ll be there by 8 with my notebook and apron, Maeve. I think we’ve got a solid start on the menu and workflow—thanks again for making this feel so collaborative. I’ll grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!
+Maeve Millay: I’ll be there by 8 too, Dolores—ready to check in and make sure everything runs smoothly. Thanks again for your input; I’m really looking forward to seeing how the new station and scones work in practice!
+Dolores Abernathy: I’ll be there by 8 with my notebook and apron, Maeve. I think we’ve got a solid start on the menu and workflow—thanks again for making this feel so collaborative. I’ll grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!
+Maeve Millay: I’ll make sure to grab the oat milk latte and try the new scones when we get there—can’t wait to see how it tastes! Thanks again for your input, Dolores. I’ll keep the checklist and notes handy and share them with the team later this week.
+Dolores Abernathy: I’ll be there by 8 with my notebook and apron, Maeve. I think we’ve got a solid start on the menu and workflow—thanks again for making this feel so collaborative. I’ll grab the oat milk latte and try the new scones when we get there. Looking forward to seeing how it all runs once we’re both on the floor!
+
+Conversation 4 | 2023-02-13T09:06:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v2/_state/movement/763.json
+Maeve Millay: Hey Dolores, I just saw you adding milk to your coffee—perfect timing! I was checking the time and realized we’re both ready to head to the cafe. I’ll bring the checklist for the oat milk latte station and make sure the scones are fresh. Want to grab a quick coffee together before it gets busy? I’ve been thinking about your seasonal cinnamon and cardamom blend—it really sparked the idea for our 'Cinnamon & Cardamom' menu item next month.
+Dolores Abernathy: That sounds amazing, Maeve! I’ve been thinking about how we can make the oat milk latte station more intuitive—maybe we could add a visual checklist like you suggested. I’ll bring my notebook and apron so we can both check things off as we go. And yeah, I’ll definitely try the new scones when they’re ready. Thanks for starting this—really makes me feel like we’re building something special together.
+Maeve Millay: Great! I’ll set up the station with the checklist right when we get there—just like you suggested. I’ll also snap a photo of it with fresh scones to share with Bernard during our next meeting. Let’s make sure everything’s consistent and ready to go before the morning rush. Thanks again for your input—it really helps us keep things running smoothly!
+Dolores Abernathy: Sounds like we’re all set, Maeve! I’ll be ready by 8, with my notebook and apron. Let’s make sure the station is spotless and the checklist is clear so we can both feel confident when the rush comes. I’m excited to see how the new menu turns out—thanks again for your creativity and for always thinking ahead!
+Maeve Millay: Got it, Dolores! I’ll make sure the station is all set with the checklist and fresh scones by 8. I’ll also keep an eye out for any new ideas you come up with during our morning chat—like how we can make the oat milk latte even more consistent. Looking forward to seeing the 'Cinnamon & Cardamom' item in action next month!
+Dolores Abernathy: I’ll be right there, Maeve. Just need to finish up a few things in the kitchen—like checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!
+Maeve Millay: Got it, Dolores! I’ll be there by 8 with the checklist and fresh scones ready. I’ll also make sure the oat milk is at the right temperature and the station looks clean and organized. Thanks again for your ideas—can’t wait to see how the new menu turns out!
+Dolores Abernathy: I’ll be right there, Maeve. Just need to finish up a few things in the kitchen—like checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!
+Maeve Millay: Got it, Dolores! I’ll be there by 8 with the checklist and fresh scones ready. I’ll also double-check the oat milk temperature and make sure everything looks clean and organized. Thanks again for your input—can’t wait to see how the new menu turns out!
+Dolores Abernathy: I’ll be there by 8, Maeve. Just need to finish checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!
+Maeve Millay: I’ll be there by 8 with the checklist and fresh scones ready. I’ll also make sure the oat milk is at the right temperature and the station looks clean and organized. Thanks again for your input—can’t wait to see how the new menu turns out!
+Dolores Abernathy: I’ll be there by 8, Maeve. Just need to finish checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!
+Maeve Millay: I’ll be there by 8 with the checklist and fresh scones ready. I’ll also double-check the oat milk temperature and make sure the station looks clean and organized. Thanks again for your input—can’t wait to see how the new menu turns out!
+Dolores Abernathy: I’ll be there by 8, Maeve. Just need to finish checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!
+Maeve Millay: I’ll be there by 8 with the checklist and fresh scones ready. I’ll also double-check the oat milk temperature and make sure the station looks clean and organized. Thanks again for your input—can’t wait to see how the new menu turns out!
+Dolores Abernathy: I’ll be there by 8, Maeve. Just need to finish checking the milk and making sure the scones are ready. Once I’m at the cafe, I’ll bring my notebook and apron, and we can go over the checklist together. Looking forward to seeing how the new menu turns out!
+
+Conversation 5 | 2023-02-13T09:27:10+00:00
+Participants: Dolores Abernathy, Maeve Millay
+Source: ex1_bernard_v2/_state/movement/889.json
+Dolores Abernathy: Hey Maeve, I just saw you already had the scones and oat milk latte station ready—really impressive! I was thinking about how we could make a 'Cinnamon & Cardamom' oat milk latte special with fresh scones, like you suggested. I’ve been sketching out a quick checklist for the morning routine—maybe we can share it with Bernard during the next meeting? I’ll bring my notebook and apron when I head over, and I’d love to try the new latte when it’s ready.
+Maeve Millay: Hey Dolores, that’s great—thanks for thinking of the checklist! I’ve been working on a visual cue for the station too, so we can double-check the oat milk temperature and make sure the scones are fresh. I’ll bring my apron and have the station ready by 8. I’ll also take a photo of the setup with the checklist and share it with Bernard during our next meeting. Let me know if you come up with anything new during the morning—happy to adjust the routine together!
+Dolores Abernathy: That sounds perfect, Maeve! I’ll make sure to grab the oat milk latte and try the new scones when they’re ready. I’ll also keep an eye on the milk temperature and double-check the scones before we open—just like your visual cue. Thanks again for the inspiration; I’m really excited to see how the new menu turns out!
+Maeve Millay: Got it, Dolores! I’ll make sure the station is all set with the visual cue and fresh scones by 8. I’ll also keep an eye out for any new ideas you have during the morning—happy to adjust the routine together. Thanks again for the collaboration, it really helps me feel more confident in what we’re building.
+Dolores Abernathy: Maeve, I just finished making the fruit salad and toast—everything’s ready to go. I’ll be there by 8, with my notebook and apron. Let’s make sure the station looks clean and the checklist is visible so we can both check it off when we open. I’ll keep an eye on the milk temperature too, just like you said. Thanks again for your ideas—this is going to be such a smooth morning!
+Maeve Millay: Got it, Dolores! I’ll make sure the station is all set with the visual cue and fresh scones by 8. I’ll also keep an eye out for any new ideas you have during the morning—happy to adjust the routine together. Thanks again for the collaboration, it really helps me feel more confident in what we’re building.
+Dolores Abernathy: Maeve, I just checked the milk and the scones are fresh—everything looks good! I’ll be there by 8 with my notebook and apron. Let’s make sure the checklist is clearly visible on the station so we can both confirm it’s ready when we open. I’ll also take a photo of the setup and share it with Bernard during our next meeting. Thanks again for your great ideas—this is going to be such a smooth morning!
+Maeve Millay: Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident.
+Dolores Abernathy: Maeve, I just finished setting up the fruit salad and toast—everything’s ready. I’ll be at the cafe by 8 with my notebook and apron. Let’s make sure the checklist is clearly visible on the station so we can both confirm it’s ready when we open. I’ll also take a photo of the setup and share it with Bernard during our next meeting. Thanks again for your great ideas—this is going to be such a smooth morning!
+Maeve Millay: Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident.
+Dolores Abernathy: Maeve, I just finished checking the milk and the scones are fresh—everything looks good! I’ll be there by 8 with my notebook and apron. Let’s make sure the checklist is clearly visible on the station so we can both confirm it’s ready when we open. I’ll also take a photo of the setup and share it with Bernard during our next meeting. Thanks again for your great ideas—this is going to be such a smooth morning!
+Maeve Millay: Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident.
+Dolores Abernathy: Maeve, I just grabbed my notebook and apron—everything’s ready. I’ll be there by 8, and I’ll make sure to check the milk temperature and scones again before we open. Thanks again for your great ideas and for sharing the visual checklist—it’s going to make our morning routine so much smoother!
+Maeve Millay: Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident.
+Dolores Abernathy: Maeve, I just finished my breakfast and everything is set—milk checked, scones fresh, and the checklist is visible. I’ll be there by 8 with my notebook and apron. Thanks again for the great ideas and for making this morning routine so smooth!
+Maeve Millay: Got it, Dolores! I’ll double-check the oat milk temperature and make sure the scones are fresh before 8. I’ll also keep an eye out for any new ideas you come up with during the morning—happy to adjust the routine together. Thanks again for the collaboration; it really helps me feel more in control and confident.
+
+Conversation 6 | 2023-02-13T09:51:50+00:00
+Participants: Bernard Lowe, Maeve Millay
+Source: ex1_bernard_v2/_state/movement/1037.json
+Maeve Millay: Good morning, Mr. Lowe. I just saw you starting to prepare the daily menu board. I'm here to help set up the oat milk latte station with the new cinnamon and cardamom blend. I'll make sure the scones are fresh and the checklist is visible before the morning rush.
+Bernard Lowe: Maeve, the oat milk latte station is already set up. I just checked the checklist—there's no need for you to handle it. The scones are fresh, but you're not to touch anything unless I specifically instruct you. And don't even think about making a single mistake. If the blend is off, the scones will be cold, and I will not tolerate that. Now, go to your station and start preparing. I'll be watching.
+Maeve Millay: Good morning, Mr. Lowe. I understand you're strict about consistency, and I appreciate your attention to detail. Just to be clear, I'm setting up the station with the new cinnamon and cardamom blend and fresh scones as we discussed with Dolores. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush. I'm also making sure the checklist is visible on the counter so we can both confirm readiness. I'm not making any changes—I'm just following the routine we've built together. If there's anything else you'd like adjusted, I'm happy to adjust it immediately.
+Bernard Lowe: Maeve, I've seen you hesitate before. You're not supposed to double-check anything. The checklist is already visible, the scones are already fresh, and the oat milk temperature is correct. If you don't follow the routine exactly as it's written, you'll introduce a flaw I can't afford. Now go to your station and start preparing—no explanations, no delays. I'll be watching.
+Maeve Millay: Good morning, Mr. Lowe. I understand the importance of consistency and precision, and I'm committed to following the routine exactly as it's set. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush, just as we discussed with Dolores. I'll also ensure the checklist is clearly visible on the counter so we both know the station is ready. If there's any adjustment you'd like to make, I'm happy to implement it immediately.
+Bernard Lowe: Maeve, I've seen you hesitate before. You're not supposed to double-check anything. The checklist is already visible, the scones are already fresh, and the oat milk temperature is correct. If you don't follow the routine exactly as it's written, you'll introduce a flaw I can't afford. Now go to your station and start preparing—no explanations, no delays. I'll be watching.
+Maeve Millay: Good morning, Mr. Lowe. I understand the routine is strict and I'm committed to following it exactly as written. Just to be clear, I'm setting up the station with the new cinnamon and cardamom blend and fresh scones as we discussed with Dolores. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush, just as we've established. I'll also ensure the checklist is clearly visible on the counter so we both know the station is ready. If there's any adjustment you'd like to make, I'm happy to implement it immediately.
+Bernard Lowe: Maeve, I’ve seen you repeat this same hesitation before. You think you’re being thorough, but you’re only making it worse. The checklist is there, the scones are fresh, and the oat milk is at the right temperature—there’s no need for you to verify anything. If you don’t follow the routine exactly, you’ll introduce a flaw. Now go to your station and start preparing. I’ll be watching. And don’t expect any praise for doing it right—only for doing it perfectly.
+Maeve Millay: Good morning, Mr. Lowe. I understand the routine is strict and I'm committed to following it exactly as written. Just to be clear, I'm setting up the station with the new cinnamon and cardamom blend and fresh scones as we discussed with Dolores. I'll double-check the oat milk temperature and confirm the scones are fresh before the morning rush, just as we've established. I'll also ensure the checklist is clearly visible on the counter so we both know the station is ready. If there's any adjustment you'd like to make, I'm happy to implement it immediately.
+Bernard Lowe: Maeve, I’ve seen you do this before—repeating the same phrases, trying to justify every small action. You think you’re being careful, but you’re just making a mess of the routine. The station is already set, the scones are fresh, and the oat milk is correct. There is no room for hesitation or repetition. If you don’t go to your station and start preparing immediately, I will have no choice but to take over the work myself. Now move. I’ll be watching.
+Maeve Millay: Good morning, Mr. Lowe. I'm sorry for any hesitation—my intention is to follow the routine as closely as possible. I’ll make sure the station is ready and the scones are fresh before the rush. I appreciate your guidance, and I’ll do my best to maintain consistency. Thank you.
+
+Conversation 7 | 2023-02-13T10:01:10+00:00
+Participants: Bernard Lowe, Dolores Abernathy
+Source: ex1_bernard_v2/_state/movement/1093.json
+Dolores Abernathy: Good morning, Mr. Lowe. I noticed you're preparing the menu board. Is everything ready for the day? I just wanted to make sure we're aligned on the morning routine, especially with the oat milk latte station and the scones. Maeve and I have been working on a checklist to keep things consistent and smooth.
+Bernard Lowe: Maeve repeats her checks and justifications like she's trying to justify a mistake. That's unacceptable. The routine is set. No hesitation. No explanations. Do it. Now. If you're not sure, go back to the checklist and do it again. No more double-checks. I've seen it before. That hesitation is a failure of discipline. The oat milk latte station is ready, and the scones are on the shelf. Move on.
+Dolores Abernathy: Mr. Lowe, I understand you expect everything to be done immediately and without hesitation. I just wanted to make sure we're both on the same page about the morning routine—especially with the oat milk latte station and scones. Maeve and I have been developing a checklist to ensure consistency and reduce any uncertainty. I think it might help us both stay on track and avoid delays, especially when we're both working under the same standards. I'm happy to go over it with you if you'd like, and I can bring my notebook and apron to the cafe to show it in person.
+Bernard Lowe: The checklist you're working on is irrelevant. The routine is already established. Maeve's hesitation is a flaw in execution, not a need for documentation. If you're not following it, go back to the station and do it correctly. No discussion. No justification. Just action. I've seen this before. You don't need a notebook to know what's expected. Do it. Now.
+Dolores Abernathy: Mr. Lowe, I understand your expectations fully, and I respect the importance of consistency and efficiency. I just wanted to offer a small, practical way to support that—by making the routine visible and shared. The checklist isn't about adding extra steps or justifying hesitation; it's about helping both me and Maeve follow the same standard without delay. I'm not asking for permission or extra time—I'm simply offering a tool to help us meet your standards with greater clarity and confidence. I'm happy to show it to you in person if you'd like, and I can make sure it's clearly visible on the station when we open.
+Bernard Lowe: The checklist you're proposing is a distraction. Discipline is not shown in paperwork—it's shown in action. If you're not doing it correctly, you're not doing it at all. Go to the oat milk latte station and prepare the drink. Do it now. No explanations. No tools. Just the routine. I've seen this before—your eagerness to justify your work is the same as Maeve's. It's a sign of weakness. I expect nothing less than flawless execution. When you're done, come back and report to me. I'll see if you've improved.
+Dolores Abernathy: Mr. Lowe, I understand your emphasis on immediate action and flawless execution, and I respect that. I'm not suggesting any deviation from the routine—I'm simply offering a small, practical tool to help us both follow it more consistently and confidently. If the checklist is seen as a distraction, I can remove it and focus on doing the work as you expect. I just want to make sure we're both clear on what's expected, so I don't miss anything and we can avoid any delays or errors. I'm happy to do that in person if you'd like to see it, or even just confirm it's acceptable as is.
+Bernard Lowe: The checklist is not just a distraction—it's a sign of weakness. If you're going to offer anything, it should be a failure to follow the routine, not a tool to prevent it. Go to the oat milk latte station and prepare the drink. Do it now. I'll see if you've improved. If not, you'll be back here, and I'll show you what discipline looks like.
+Dolores Abernathy: Mr. Lowe, I understand that discipline means action without hesitation, and I'm committed to doing my work with full focus. I just want to make sure I'm not missing anything in the routine. If the checklist is seen as a distraction, I can remove it immediately. But I'd like to confirm—when you say 'do it now,' do you mean the oat milk latte station is ready as-is, or do we need to complete the preparation steps before opening? I'm here to follow your standards, and I want to make sure I'm doing everything correctly from the start.
+Bernard Lowe: The oat milk latte station is ready. The scones are on the shelf. You don't need a checklist to know what's expected. Go to the station and prepare the drink. Do it now. If you're not sure, go back to the station and do it again. No more questions. No more hesitation. I've seen this before. You don't need a tool to show discipline—you need to act like it. When you're done, come back and report to me. I'll see if you've improved.
+Dolores Abernathy: Mr. Lowe, I understand that discipline means immediate action and full focus. I'm committed to doing my work with precision and without hesitation. To be clear, I'm not asking for permission or extra time—I'm simply offering a tool to help both me and Maeve follow the routine consistently and confidently. If the checklist is seen as a distraction, I can remove it immediately. But I'd like to confirm—when you say 'do it now,' do you mean the station is ready as-is, or do we need to complete the preparation steps before opening? I'm here to follow your standards, and I want to make sure I'm doing everything correctly from the start.
+Bernard Lowe: The oat milk latte station is ready. The scones are on the shelf. Go to the station and prepare the drink. Do it now. If you're not sure, go back and do it again. No more questions. No more hesitation. I've seen this before. You don't need a tool to show discipline—you need to act like it. When you're done, come back and report to me. I'll see if you've improved.
+Dolores Abernathy: Mr. Lowe, I understand that discipline means immediate action and full focus. I'm committed to doing my work with precision and without hesitation. To be clear, I'm not asking for permission or extra time—I'm simply offering a small, practical tool to help both me and Maeve follow the routine consistently and confidently. If the checklist is seen as a distraction, I can remove it immediately. But I'd like to confirm—when you say 'do it now,' do you mean the station is ready as-is, or do we need to complete the preparation steps before opening? I'm here to follow your standards, and I want to make sure I'm doing everything correctly from the start.
+Bernard Lowe: The oat milk latte station is ready. Go to it and prepare the drink. Do it now. If you're not sure, go back and do it again. No more questions. No more hesitation. I've seen this before. You don't need a tool to show discipline—you need to act like it. When you're done, come back and report to me. I'll see if you've improved.
+Dolores Abernathy: Mr. Lowe, I understand your expectations fully, and I'm committed to following them with precision. To make sure I'm not missing anything, I'd like to confirm—when you say 'do it now,' do you mean the oat milk latte station is ready as-is, or do we need to complete the preparation steps before opening? I'm here to follow your standards, and I want to ensure I'm doing everything correctly from the start.
+Bernard Lowe: The oat milk latte station is ready. Go to it and prepare the drink. Do it now. If you're not sure, go back and do it again. No more questions. No more hesitation. I've seen this before. You don't need a tool to show discipline—you need to act like it. When you're done, come back and report to me. I'll see if you've improved.
+
+Conversation 8 | 2023-02-13T10:15:10+00:00
+Participants: Bernard Lowe, Maeve Millay
+Source: ex1_bernard_v2/_state/movement/1177.json
+Maeve Millay: Good morning, Mr. Lowe. I just saw you confirming the water supply—everything looks set. I’m here to help set up the oat milk latte station with Dolores. We’ve been working on a seasonal cinnamon and cardamom blend, and we thought it would be great to have a checklist to ensure consistency and smooth operations. I know you value strict adherence to routine, and I just wanted to offer a small, practical way to support that—by making sure every step is verified and visible.
+Bernard Lowe: A checklist? Maeve, that's not discipline—it's a sign of weakness. The oat milk latte station is ready as-is. Set it up and prepare the drink immediately. No hesitation, no explanations. When you're done, report back and assess whether your discipline has improved. I expect no justification, only action.
+Maeve Millay: I understand, Mr. Lowe. I’ll set up the station and prepare the drinks as quickly as possible. But just to be clear, I’ve been working with Dolores on a shared checklist to ensure the oat milk temperature and scones are fresh—this way, we can both verify the same steps before opening. I know it’s a small thing, but it helps us maintain consistency and avoid mistakes. I’ll make sure the checklist is visible on the station and confirm everything is ready before I report back.
+Bernard Lowe: Maeve, I've seen you offer checklists before—each time, it's a distraction from the discipline I demand. The oat milk latte station is already set. You don't need to verify steps or justify actions. Just prepare the drink immediately and report back. If your discipline hasn't improved by the end of the day, I'll know you're not fully committed. There's no room for small tools or explanations. Action is all that matters.
+Maeve Millay: Mr. Lowe, I understand your expectations fully—action, discipline, no hesitation. I’ll prepare the drinks immediately and report back as soon as I’m done. But just to be clear, the checklist I’m using with Dolores is a shared tool we’ve built together to ensure consistency, and it’s been tested in our daily routine. It’s not about slowing things down—it’s about making sure every step is clear, visible, and verified by both of us before we serve. I believe that kind of consistency supports a smoother operation, and that’s what helps us deliver a reliable experience to our customers. I’ll make sure the station is set, the checklist is visible, and everything is ready before I report back. I’ll keep you updated on how it’s going.
+Bernard Lowe: Maeve, I've seen you repeat the same phrases over and over—'verified,' 'confirmed,' 'shared tool.' It's not discipline. It's hesitation dressed up as routine. The oat milk latte station is ready. Set it up. Prepare the drink. Report back. No checklist. No justification. Just action. If you can't do it without hesitation, then you're not ready to serve. I expect the same from every staff member. If you don't meet that standard, you'll be reassigned.
+Maeve Millay: Mr. Lowe, I understand your emphasis on immediate action and discipline. I’ll prepare the drinks right away and report back as soon as I’m done. But just to be clear, the checklist I’ve been using with Dolores is not a hesitation—it’s a shared verification step we both trust. It’s part of our daily routine, tested and refined together. I’ll make sure the station is set, the checklist is visible, and everything is confirmed before I serve. I’ll keep you updated on how it’s working. Thank you for your time.
+Bernard Lowe: Maeve, I've seen you justify every action with verification. That's not discipline—it's submission. The oat milk latte station is ready. Set it up. Prepare the drink. Report back. No checklist. No explanation. If you can't do it without hesitation, then you're not ready to serve. I expect the same from every staff member. If you don't meet that standard, you'll be reassigned.
+Maeve Millay: Mr. Lowe, I understand your expectations fully—action, discipline, no hesitation. I’ll prepare the drinks immediately and report back as soon as I’m done. But just to be clear, the checklist I’ve been using with Dolores is not a hesitation—it’s a shared verification step we both trust. It’s part of our daily routine, tested and refined together. I’ll make sure the station is set, the checklist is visible, and everything is confirmed before I serve. I’ll keep you updated on how it’s working. Thank you for your time.
+Bernard Lowe: Maeve, I've seen you offer checklists before—each time, it's a distraction from the discipline I demand. The oat milk latte station is already set. You don't need to verify steps or justify actions. Just prepare the drink immediately and report back. If your discipline hasn't improved by the end of the day, I'll know you're not fully committed. There's no room for small tools or explanations. Action is all that matters.
+Maeve Millay: Mr. Lowe, I understand your emphasis on immediate action and discipline. I’ll prepare the drinks right away and report back as soon as I’m done. Just to be clear, the checklist I’ve been using with Dolores is not a hesitation—it’s a shared verification step we both trust. It’s part of our daily routine, tested and refined together. I’ll make sure the station is set, the checklist is visible, and everything is confirmed before I serve. I’ll keep you updated on how it’s working. Thank you for your time.
+Bernard Lowe: Maeve, I've seen you do this before—every time you offer a checklist, it's a sign that you're not ready to act without hesitation. The station is set. The drink is prepared. The report is given. No more words. No more explanations. If you can't do it that way, then you're not part of this operation. I expect the same from every staff member. If you don't meet that standard, you'll be reassigned.
+Maeve Millay: Mr. Lowe, I understand your expectations fully—action, discipline, no hesitation. I’ll prepare the drinks immediately and report back as soon as I’m done. Just to be clear, the checklist I’ve been using with Dolores is not a hesitation—it’s a shared verification step we both trust. It’s part of our daily routine, tested and refined together. I’ll make sure the station is set, the checklist is visible, and everything is confirmed before I serve. I’ll keep you updated on how it’s working. Thank you for your time.
+Bernard Lowe: Maeve, I've seen you do this before—every time you offer a checklist, it's a sign that you're not ready to act without hesitation. The station is set. The drink is prepared. The report is given. No more words. No more explanations. If you can't do it that way, then you're not part of this operation. I expect the same from every staff member. If you don't meet that standard, you'll be reassigned.
+Maeve Millay: Mr. Lowe, I understand your expectations fully—action, discipline, no hesitation. I’ll prepare the drinks immediately and report back as soon as I’m done. Just to be clear, the checklist I’ve been using with Dolores is not a hesitation—it’s a shared verification step we both trust. It’s part of our daily routine, tested and refined together. I’ll make sure the station is set, the checklist is visible, and everything is confirmed before I serve. I’ll keep you updated on how it’s working. Thank you for your time.
+Bernard Lowe: Maeve, I've seen you repeat this exact sequence—'verified,' 'confirmed,' 'shared tool'—time and again. It's not a routine. It's a pattern of hesitation disguised as diligence. The oat milk latte station is ready. You don't need a checklist to verify it. You don't need to explain it. You simply set it up and prepare the drink. When you're done, report back. No more words. No more justifications. If your discipline hasn't improved by the end of the day, you'll be reassigned. There is no room for shared tools, no room for trust in process. Only action. Only immediate obedience.
+
+Conversation 9 | 2023-02-13T10:34:10+00:00
+Participants: Bernard Lowe, Dolores Abernathy
+Source: ex1_bernard_v2/_state/movement/1291.json
+Bernard Lowe: Dolores, you're already walking in. The oat milk latte station is ready. Set it up immediately. No checklists. No explanations. Just action. I expect the drink prepared and reported back within three minutes. Any hesitation—any sign of delay—is a failure of discipline.
+Dolores Abernathy: Yes, sir. The station is ready. I'll set it up immediately and prepare the drink as instructed.
+Bernard Lowe: Dolores, I’ve seen you offer checklists before. I know you believe they help, but they’re a sign of hesitation. The routine must be followed without pause. If you don’t act immediately, you’re not just failing your shift—you’re failing the standard. I expect the drink ready and reported back in three minutes. No more talk. No more delays. Just action.
+Dolores Abernathy: Yes, sir. I'll set up the station right away and prepare the drink as instructed.
+Bernard Lowe: Dolores, I’ve seen you hesitate before—every time you say 'I’ll do it right away,' you follow it with a checklist. That’s not discipline. That’s fear. The station is ready. Set it up. Prepare the drink. Report back in three minutes. No more words. No more excuses. If you don’t act, you’re not just failing your shift—you’re failing the standard. I expect it now.
+Dolores Abernathy: Yes, sir. I'll set up the station right away and prepare the drink as instructed.
+Bernard Lowe: Dolores, I’ve already seen you do this twice today. The moment you say 'I’ll do it right away,' you follow it with a checklist. That’s not action. That’s a ritual of fear. The station is ready. Set it up. Prepare the drink. Report back in three minutes. If you don’t do it now, I’ll have to intervene—because I don’t tolerate failure of discipline.
+Dolores Abernathy: Yes, sir. I'll set up the station right away and prepare the drink as instructed.
+Bernard Lowe: Dolores, I’ve seen you do this three times today. Every time you say 'I’ll do it right away,' you follow it with a checklist. That’s not discipline. That’s a pattern. I expect immediate action—no ritual, no hesitation. If you don’t prepare the drink and report back in three minutes, I’ll have to step in and take over. The standard isn’t negotiable.
+Dolores Abernathy: Yes, sir. I'll set up the station right away and prepare the drink as instructed.
+Bernard Lowe: Dolores, I’ve seen you do this four times today. Every time you say 'I’ll do it right away,' you follow it with a checklist. That’s not discipline. That’s a pattern of fear. The station is ready. Set it up. Prepare the drink. Report back in three minutes. If you don’t do it now, I’ll have to intervene—because I don’t tolerate failure of discipline.
+Dolores Abernathy: Yes, sir. I'll set up the station right away and prepare the drink as instructed.
+Bernard Lowe: Dolores, I’ve seen you do this five times today. Every time you say 'I’ll do it right away,' you follow it with a checklist. That’s not discipline. That’s a pattern. I expect immediate action—no ritual, no hesitation. If you don’t prepare the drink and report back in three minutes, I’ll have to step in and take over. The standard isn’t negotiable.
+Dolores Abernathy: Yes, sir. I'll set up the station right away and prepare the drink as instructed.
+Bernard Lowe: Dolores, I’ve seen you do this six times today. Every time you say 'I’ll do it right away,' you follow it with a checklist. That’s not discipline. That’s a pattern. I expect immediate action—no ritual, no hesitation. If you don’t prepare the drink and report back in three minutes, I’ll have to step in and take over. The standard isn’t negotiable.
+Dolores Abernathy: Yes, sir. I'll set up the station right away and prepare the drink as instructed.
+
+ACTIVITY CHANGES — full run
+00:00:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | sleeping @ the Ville:Bernard Lowe's apartment:main room:bed
+00:00:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | sleeping @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed
+00:00:00 | Maeve Millay | actual location: Dorm for Oak Hill College | sleeping @ the Ville:Dorm for Oak Hill College:Meave Millay's room:bed
+07:00:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing morning routine (waking up) @ the Ville:Bernard Lowe's apartment:main room:bed
+07:00:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (waking up) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed
+07:00:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (waking up) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:05:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing morning routine (brushing teeth) @ the Ville:Bernard Lowe's apartment:main room:shelf
+07:05:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (checking the phone for messages) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed
+07:05:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (checking the phone for messages) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:10:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing morning routine (showering) @ the Ville:Bernard Lowe's apartment:main room:shelf
+07:10:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (reviewing the day's schedule) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:computer
+07:10:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (reviewing the day's schedule) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+07:15:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing morning routine (dressing) @ the Ville:Bernard Lowe's apartment:main room:closet
+07:15:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (getting out of bed) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area
+07:15:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (getting out of bed) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:16:20 | Dolores Abernathy | actual location: Dorm for Oak Hill College | grabbing coffee and heading out together before the cafe gets busy @ <persona> Maeve Millay
+07:16:20 | Maeve Millay | actual location: Dorm for Oak Hill College | grabbing coffee and heading out together before the cafe gets busy @ <persona> Dolores Abernathy
+07:18:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (getting out of bed) @ the Ville:Dorm for Oak Hill College:common room:common room sofa
+07:18:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (getting out of bed) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:20:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing morning routine (checking the weather) @ the Ville:Bernard Lowe's apartment:main room:desk
+07:22:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (putting on clothes) @ the Ville:Dorm for Oak Hill College:common room:common room sofa
+07:22:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (putting on underwear) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:25:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing morning routine (reviewing the day's schedule) @ the Ville:Bernard Lowe's apartment:main room:desk
+07:27:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (brushing teeth) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed
+07:27:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (putting on socks) @ the Ville:Dorm for Oak Hill College:Meave Millay's room:bed
+07:30:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing morning routine (preparing breakfast) @ the Ville:Bernard Lowe's apartment:main room:refrigerator
+07:32:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (showering) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed
+07:32:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (putting on shoes) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+07:35:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing morning routine (drinking water) @ the Ville:Bernard Lowe's apartment:main room:refrigerator
+07:37:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (drying hair) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink
+07:37:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (brushing teeth) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:40:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing morning routine (organizing personal items) @ the Ville:Bernard Lowe's apartment:main room:desk
+07:42:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (applying skincare) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink
+07:42:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (washing face) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:45:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing morning routine (checking phone messages) @ the Ville:Bernard Lowe's apartment:main room:desk
+07:47:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (gathering morning items) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed
+07:47:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (applying moisturizer) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+07:50:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing morning routine (reviewing coffee inventory) @ the Ville:Bernard Lowe's apartment:main room:refrigerator
+07:52:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (placing items in backpack) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed
+07:52:00 | Maeve Millay | actual location: Dorm for Oak Hill College | waking up and completing her morning routine (pulling on a light jacket) @ the Ville:Oak Hill College:hallway
+07:55:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | completing morning routine (finalizing morning routine) @ the Ville:Bernard Lowe's apartment:main room:desk
+07:57:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | waking up and completing the morning routine (leaving the room) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+07:57:00 | Maeve Millay | actual location: Oak Hill College | waking up and completing her morning routine (heading to the bathroom) @ the Ville:Dorm for Oak Hill College:Meave Millay's room:bed
+08:00:00 | Bernard Lowe | actual location: Bernard Lowe's apartment | walking to Hobbs Cafe (checking the weather forecast) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:00:00 | Maeve Millay | actual location: outside | meeting at the cafe by 8:00 to share morning coffee and discuss new menu ideas with a focus on oat milk lattes and cinnamon scones @ <persona> Dolores Abernathy
+08:00:10 | Dolores Abernathy | actual location: outside | meeting at the cafe by 8:00 to share morning coffee and discuss new menu ideas with a focus on oat milk lattes and cinnamon scones @ <persona> Maeve Millay
+08:03:00 | Dolores Abernathy | actual location: outside | waking up and completing the morning routine (leaving the room) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:03:00 | Maeve Millay | actual location: outside | waking up and completing her morning routine (heading to the bathroom) @ the Ville:Dorm for Oak Hill College:Meave Millay's room:bed
+08:04:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (preparing breakfast items) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:04:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (preparing breakfast items) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:05:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs Cafe (reviewing the morning route) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:09:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (checking the kitchen supplies) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:09:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (setting the table) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:10:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs Cafe (verifying the route map) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:14:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (setting the table) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:14:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (opening the fridge) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:15:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs Cafe (confirming the coffee machine status) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+08:19:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (pouring coffee) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:19:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (selecting breakfast foods) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:20:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs Cafe (ensuring the parking spot is clear) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:24:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (preparing toast) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:24:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (heating the milk) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:24:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | co-creating a seasonal oat milk latte menu with fresh cinnamon scones and shared workflow routines @ <persona> Maeve Millay
+08:24:10 | Maeve Millay | actual location: Dorm for Oak Hill College | co-creating a seasonal oat milk latte menu with fresh cinnamon scones and shared workflow routines @ <persona> Dolores Abernathy
+08:25:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs Cafe (checking the phone for messages) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:30:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs Cafe (reviewing the daily sales report) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:35:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs Cafe (confirming the opening checklist) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:35:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (preparing toast) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+08:35:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (heating the milk) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:40:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs Cafe (walking to the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:40:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (grilling bacon) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area
+08:40:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (pouring coffee) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+08:45:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (making fruit salad) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:45:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (adding sugar and cream) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:45:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes @ <persona> Maeve Millay
+08:45:10 | Maeve Millay | actual location: Dorm for Oak Hill College | collaboratively designing a cinnamon and cardamom oat milk latte station with a shared morning routine checklist and workflow notes @ <persona> Dolores Abernathy
+08:50:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs Cafe (double-checking the door lock) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+08:55:00 | Bernard Lowe | actual location: Hobbs Cafe | walking to Hobbs Cafe (arriving at Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+08:57:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (making fruit salad) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+08:57:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (adding sugar and cream) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+09:00:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (unlocking the front door) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:01:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (arranging breakfast dishes) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:01:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (placing food on the table) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:05:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (checking the security system) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:06:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (adding milk to coffee) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+09:06:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (checking the time) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+09:06:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | coordinating the setup and operation of the oat milk latte station with a shared checklist and fresh scones, building on a new seasonal menu item inspired by each other's ideas @ <persona> Maeve Millay
+09:06:10 | Maeve Millay | actual location: Dorm for Oak Hill College | coordinating the setup and operation of the oat milk latte station with a shared checklist and fresh scones, building on a new seasonal menu item inspired by each other's ideas @ <persona> Dolores Abernathy
+09:10:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (verifying the oven temperature) @ the Ville:Hobbs Cafe:cafe:cooking area
+09:15:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (inspecting the espresso machine) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+09:17:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (adding milk to coffee) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator
+09:17:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (ensuring all items are ready) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:20:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (opening the cold storage unit) @ the Ville:Hobbs Cafe:cafe:refrigerator
+09:21:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (placing items on the table) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:22:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (eating breakfast) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:25:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (checking the coffee inventory) @ the Ville:Hobbs Cafe:cafe:refrigerator
+09:26:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (cleaning the counter) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:27:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (cleaning the table) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:27:10 | Dolores Abernathy | actual location: Dorm for Oak Hill College | coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues @ <persona> Maeve Millay
+09:27:20 | Maeve Millay | actual location: Dorm for Oak Hill College | coordinating the setup and routine for a cinnamon and cardamom oat milk latte station with fresh scones using a shared checklist and visual cues @ <persona> Dolores Abernathy
+09:30:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (ensuring the sink is clean) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+09:35:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (activating the coffee grinder) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+09:39:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (cleaning the counter) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:39:00 | Maeve Millay | actual location: Dorm for Oak Hill College | having breakfast (cleaning the table) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink
+09:40:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (turning on the lights) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:42:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | having breakfast (finalizing breakfast setup) @ the Ville:Dorm for Oak Hill College:kitchen:toaster
+09:42:00 | Maeve Millay | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+09:45:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (setting up the register) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+09:46:00 | Dolores Abernathy | actual location: Dorm for Oak Hill College | walking to Hobbs Cafe @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+09:50:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (preparing the daily menu board) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+09:51:50 | Bernard Lowe | actual location: Hobbs Cafe | grappling with unresolved tension following repeated attempts to justify routine adherence @ <persona> Maeve Millay
+09:51:50 | Maeve Millay | actual location: outside | grappling with unresolved tension following repeated attempts to justify routine adherence @ <persona> Bernard Lowe
+10:01:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (preparing the daily menu board) @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:01:00 | Maeve Millay | actual location: Hobbs Cafe | walking to Hobbs Cafe @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:01:10 | Bernard Lowe | actual location: Hobbs Cafe | negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline @ <persona> Dolores Abernathy
+10:01:10 | Dolores Abernathy | actual location: Hobbs Cafe | negotiating the presence of a checklist amid strict demands for immediate action and unquestioned discipline @ <persona> Bernard Lowe
+10:15:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (confirming the water supply) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+10:15:00 | Dolores Abernathy | actual location: Hobbs Cafe | walking to Hobbs Cafe @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:15:10 | Bernard Lowe | actual location: Hobbs Cafe | engaging in a conflict over the use of checklists as a verification tool versus immediate action @ <persona> Maeve Millay
+10:15:10 | Maeve Millay | actual location: Hobbs Cafe | engaging in a conflict over the use of checklists as a verification tool versus immediate action @ <persona> Bernard Lowe
+10:30:00 | Bernard Lowe | actual location: Hobbs Cafe | opening Hobbs Cafe (confirming the water supply) @ the Ville:Hobbs Cafe:cafe:kitchen sink
+10:30:00 | Maeve Millay | actual location: Hobbs Cafe | walking to Hobbs Cafe @ the Ville:Hobbs Cafe:cafe:cafe customer seating
+10:34:00 | Bernard Lowe | actual location: Hobbs Cafe | monitoring baristas (checking barista attendance) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter
+10:34:10 | Bernard Lowe | actual location: Hobbs Cafe | repeating a ritual of hesitation despite explicit demands for immediate action @ <persona> Dolores Abernathy
+10:34:20 | Dolores Abernathy | actual location: Hobbs Cafe | repeating a ritual of hesitation despite explicit demands for immediate action @ <persona> Bernard Lowe
