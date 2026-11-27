@@ -31,10 +31,21 @@ IMPORTANT TIME CONSTRAINTS:
 - You are **FORBIDDEN** from emitting any time values other than the 24 explicitly listed.
 - Examples of **INVALID OUTPUT** include (but are not limited to): `"08:30 am"`, `"8 am"`, `"9:15 pm"`.
 - If any time value differs from the template, the entire output is invalid.
+- Each fixed time labels a one-hour interval: "7:00 am" covers [7:00 am, 8:00 am).
+- Merge all activities within that interval into its activity field, preserving every activity and their chronological order. Omit their individual minute timestamps.
+- For activities spanning multiple hours, include the relevant activity in each hourly interval they overlap. Never insert non-hourly times into the output "time" fields.
+
+Example:
+7:20 am: brushing teeth
+7:30 am: eating breakfast
+7:40 am: leaving for Hobbs Cafe
+
+Merged hourly entry:
+{"time":"7:00 am","activity":"brushing teeth, eating breakfast, leaving for Hobbs Cafe"}
 
 Rules:
 - **Exactly 24 entries:** One entry for each hour of the day.
-- **One activity per hour:** Each hour maps to exactly one activity.
+- **One entry per hour:** Each hour has exactly one entry, whose activity may combine multiple actions occurring within that hour.
 - **Sleep:** Outside waking hours, the activity must be `"sleeping"`, consistent with the persona’s lifestyle.
 - **Consistency:** The schedule must align with the persona’s daily requirements and the broad daily plan.
 - **No interruptions:** Do NOT introduce unexpected events or deviations.
