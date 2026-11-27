@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        72,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "managing operations, monitoring baristas, serving customers at the counter (inspecting coffee grinder settings) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        72,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "serving customers at the counter (preparing the espresso machine) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciato": "👩‍💼",
+      "description": "serving customers at the counter (checking the register) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:32:10"
+  }
+}

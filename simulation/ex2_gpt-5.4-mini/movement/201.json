@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🌅",
+      "description": "waking up, completing morning routine, walking to Hobbs Cafe (preparing the morning outfit) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning rush preparations by verifying new customer preferences and ensuring both team members have a copy of the list by 7:45 @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I just woke up and was brushing my teeth. I saw you putting on your clothes—how’s your morning going so far?"
+        ],
+        [
+          "Maeve Millay",
+          "It's going okay, thanks! I just finished putting on my clothes and I'm heading over to the common area to check in with the new customer orders. I noticed there are a few new customers this week who might need extra attention during the morning rush—so I wanted to make sure we’re all ready. Do you have your list of preferences ready by 7:45?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I just got out of bed and was brushing my teeth—same as you! I’ll be in the common area by 7:45 to review the list. Thanks for mentioning the new customers—I’ll make sure to pay extra attention to their drink preferences during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 too—let’s make sure we both have a copy of the new customer preferences so we’re prepared for the morning rush. I’ll double-check the list before I head out to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning rush preparations by verifying new customer preferences and ensuring both team members have a copy of the list by 7:45 @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I just woke up and was brushing my teeth. I saw you putting on your clothes—how’s your morning going so far?"
+        ],
+        [
+          "Maeve Millay",
+          "It's going okay, thanks! I just finished putting on my clothes and I'm heading over to the common area to check in with the new customer orders. I noticed there are a few new customers this week who might need extra attention during the morning rush—so I wanted to make sure we’re all ready. Do you have your list of preferences ready by 7:45?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I just got out of bed and was brushing my teeth—same as you! I’ll be in the common area by 7:45 to review the list. Thanks for mentioning the new customers—I’ll make sure to pay extra attention to their drink preferences during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 too—let’s make sure we both have a copy of the new customer preferences so we’re prepared for the morning rush. I’ll double-check the list before I head out to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:32:30"
+  }
+}

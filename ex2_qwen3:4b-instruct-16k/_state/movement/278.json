@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciato": "🍳",
+      "description": "waking up, completing morning routine, walking to Hobbs Cafe (packing a briefcase) @ the Ville:Bernard Lowe's apartment:main room:desk",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "sharing breakfast routines and coordinating morning shifts at the cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just made toast and some fruit—simple, but I thought you’d appreciate it, since you said it’s perfect."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! That’s exactly what I was hoping for—simple and fresh. Thanks for remembering my preference. I’ll make sure to keep the counter stocked with toast and fruit for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm glad you liked it. I’ll be at the cafe by 8, so I’ll see you there when we start serving customers."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I’m glad you remembered—simple breakfasts are always a comfort. I’ll be at the cafe by 8 too, so we can both get ready for the morning rush. Thanks again for making toast and fruit, it’s exactly what I needed this morning."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished my breakfast and I’ll be at the cafe by 8. I’ll see you there when we start serving customers. Let’s make sure the morning rush goes smoothly—thanks again for the kind words about the toast and fruit."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my breakfast too—toast and fruit, just like you. It’s a small thing, but it feels like a little connection between us. I’ll be ready by 8, and we can both help make the morning rush smooth. Thanks again for remembering my preference—it really means a lot."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’m glad we both liked the toast and fruit—simple, but it feels like a small thing that makes our mornings a little easier. I’ll be at the cafe by 8, so I’ll see you there when we start serving customers. Let’s keep up the good work and make the morning rush go smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished my breakfast and I’ll be at the cafe by 8. I’ll see you there when we start serving customers. Let’s make sure the morning rush goes smoothly—thanks again for the kind words about the toast and fruit."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished my breakfast and I’ll be at the cafe by 8. I’ll see you there when we start serving customers. Let’s keep the morning rush smooth—thanks again for the kind words about the toast and fruit."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’ll be at the cafe by 8, so I’ll see you there when we start serving customers. Let’s keep the morning rush smooth—thanks again for the kind words about the toast and fruit."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’ll be at the cafe by 8, so I’ll see you there when we start serving customers. Let’s keep the morning rush smooth—thanks again for the kind words about the toast and fruit."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "sharing breakfast routines and coordinating morning shifts at the cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just made toast and some fruit—simple, but I thought you’d appreciate it, since you said it’s perfect."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! That’s exactly what I was hoping for—simple and fresh. Thanks for remembering my preference. I’ll make sure to keep the counter stocked with toast and fruit for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm glad you liked it. I’ll be at the cafe by 8, so I’ll see you there when we start serving customers."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I’m glad you remembered—simple breakfasts are always a comfort. I’ll be at the cafe by 8 too, so we can both get ready for the morning rush. Thanks again for making toast and fruit, it’s exactly what I needed this morning."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished my breakfast and I’ll be at the cafe by 8. I’ll see you there when we start serving customers. Let’s make sure the morning rush goes smoothly—thanks again for the kind words about the toast and fruit."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my breakfast too—toast and fruit, just like you. It’s a small thing, but it feels like a little connection between us. I’ll be ready by 8, and we can both help make the morning rush smooth. Thanks again for remembering my preference—it really means a lot."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’m glad we both liked the toast and fruit—simple, but it feels like a small thing that makes our mornings a little easier. I’ll be at the cafe by 8, so I’ll see you there when we start serving customers. Let’s keep up the good work and make the morning rush go smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished my breakfast and I’ll be at the cafe by 8. I’ll see you there when we start serving customers. Let’s make sure the morning rush goes smoothly—thanks again for the kind words about the toast and fruit."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished my breakfast and I’ll be at the cafe by 8. I’ll see you there when we start serving customers. Let’s keep the morning rush smooth—thanks again for the kind words about the toast and fruit."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’ll be at the cafe by 8, so I’ll see you there when we start serving customers. Let’s keep the morning rush smooth—thanks again for the kind words about the toast and fruit."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’ll be at the cafe by 8, so I’ll see you there when we start serving customers. Let’s keep the morning rush smooth—thanks again for the kind words about the toast and fruit."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:45:20"
+  }
+}

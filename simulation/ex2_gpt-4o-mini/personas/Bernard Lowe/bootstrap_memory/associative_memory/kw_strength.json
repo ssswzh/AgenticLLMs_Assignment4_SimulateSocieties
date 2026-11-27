@@ -1,0 +1,25 @@
+{
+  "kw_strength_thought": {
+    "bernard lowe": 8,
+    "checks": 1,
+    "found it noteworthy that": 3,
+    "learned": 1,
+    "none": 8,
+    "plan": 3,
+    "remember to be at the counter by 8:00": 2,
+    "verify": 1
+  },
+  "kw_strength_event": {
+    "bed": 4,
+    "behind the cafe counter": 10,
+    "bernard lowe": 22,
+    "cafe customer seating": 2,
+    "cooking area": 1,
+    "dolores abernathy": 11,
+    "espresso machine": 2,
+    "kitchen sink": 6,
+    "maeve millay": 10,
+    "none": 44,
+    "refrigerator": 4
+  }
+}

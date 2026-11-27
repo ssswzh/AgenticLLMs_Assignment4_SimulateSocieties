@@ -1,0 +1,1730 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Bernard Lowe",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:30 am, open Hobbs Cafe at 8:00 am, manage the cafe operations from 8:00 am to 4:00 pm, close Hobbs Cafe at 4:00 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "original_description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:30 am, open Hobbs Cafe at 8:00 am, manage the cafe operations from 8:00 am to 4:00 pm, close Hobbs Cafe at 4:00 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "embedding_key": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:30 am, open Hobbs Cafe at 8:00 am, manage the cafe operations from 8:00 am to 4:00 pm, close Hobbs Cafe at 4:00 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (unlocking the door)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (unlocking the door)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (unlocking the door)",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "managed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:05:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (checking the oven temperature)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (checking the oven temperature)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (checking the oven temperature)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:05:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cooking area",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cooking area is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cooking area is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cooking area is being monitored",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "cooking area",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:10:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:15:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "monitored",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being monitored",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:30:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "inspected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being inspected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being inspected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is being inspected",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:50:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "managing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:50:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (calling the baristas to confirm arrival)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (calling the baristas to confirm arrival)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (calling the baristas to confirm arrival)",
+    "poignancy": 0,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Bernard Lowe is sleeping",
+    "original_description": "Bernard Lowe is sleeping",
+    "embedding_key": "Bernard Lowe is sleeping",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:56:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is empty",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking morning inventory)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking morning inventory)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking morning inventory)",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -6,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:10:00",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "ensuring precision and accountability in pre-shift kitchen preparations by verifying machine temperatures, order lists, and supply levels before 8am",
+    "original_description": "ensuring precision and accountability in pre-shift kitchen preparations by verifying machine temperatures, order lists, and supply levels before 8am",
+    "embedding_key": "ensuring precision and accountability in pre-shift kitchen preparations by verifying machine temperatures, order lists, and supply levels before 8am",
+    "poignancy": 8,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I just saw you checking in at the counter. Everything looks set for opening—everything’s ready to go. I’m heading to the kitchen now to double-check the order list and make sure the espresso machine is at 190 degrees. I’ll be back to confirm everything with Dolores by 8am."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, the espresso machine must be at exactly 190 degrees—no more, no less. If it's not there by 8:00, I'll have to shut it down and restart it. That's not a suggestion, it's a requirement. And don't forget to confirm the order list with Dolores before you leave the kitchen. I don't have time for delays or excuses."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll make sure the espresso machine is exactly at 190 degrees and confirm the order list with Dolores before I leave the kitchen. I’ll be back by 8am to double-check everything with you as well, just to be safe. I value consistency, and I’m confident we can keep the shift running smoothly together."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I expect the espresso machine to be at 190 degrees by 8:00 sharp. If it's not, I'll have to restart it—no exceptions. And Dolores must confirm the order list before you leave the kitchen. I don't need to hear excuses. I need precision. Every single time. Now, get to work and don't waste a second."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll make sure the espresso machine is exactly at 190 degrees and confirm the order list with Dolores before I leave the kitchen. I’ll be back by 8am to double-check everything with you as well, just to be safe. I value consistency, and I’m confident we can keep the shift running smoothly together."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve already checked the oven temperature—set at 450 degrees. If it drops below that, I’ll need to recalibrate it immediately. And the refrigerator? It’s been monitored all morning. No one has accessed it. If anything’s missing, it’s your responsibility to report it. Don’t wait until it’s too late. I expect full accountability at all times."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll make sure the espresso machine is exactly at 190 degrees and confirm the order list with Dolores before I leave the kitchen. I’ll be back by 8am to double-check everything with you as well, just to be safe. I value consistency, and I’m confident we can keep the shift running smoothly together."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve already verified the oven is at 450 degrees and the refrigerator has not been accessed. The kitchen sink is unoccupied and unattended. If anything is missing or out of place, you’re responsible. I don’t need explanations—only results. Get to the kitchen now and confirm with Dolores. I’ll be at the counter by 8:00. No delays. No excuses. This is not a suggestion. This is protocol."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I understand the importance of precision and accountability, and I’ll make sure everything is confirmed with both Dolores and you before the shift starts. I’ll be in the kitchen by 7:45 to double-check the order list and set the espresso machine to exactly 190 degrees. I’ll also be sure to report any issues immediately. Thank you for the clear expectations—I’ll keep the shift running smoothly and stay focused on the details."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve just seen the refrigerator hasn’t been accessed—no one has opened it. If the coffee beans are missing or the milk supply is low, you’ll be the one to report it. I don’t need a report after the fact. I need it before the shift starts. I’ll be at the counter by 8:00. If anything is off, I’ll know immediately. Now, get to the kitchen and confirm with Dolores—no delays, no excuses. This is not a suggestion. This is protocol."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll make sure the espresso machine is set to exactly 190 degrees and confirm the order list with Dolores before I leave the kitchen. I’ll also check the refrigerator and report any missing supplies immediately. I’ll be in the kitchen by 7:45 and will double-check everything with you by 8am. Thank you for the clear expectations—I’ll stay focused and ensure every detail is handled with precision."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve already checked the sink—unoccupied, unattended. If the coffee grinder is not set to the correct alignment by 8:00, I’ll have to reset it myself. No one else is authorized to adjust it. I don’t need a report after the fact—only a confirmation that everything is in place before the shift begins. I’ll be at the counter by 8:00. If anything is off, I’ll know immediately. Now, get to the kitchen and confirm with Dolores. I expect full compliance. This is not a suggestion. This is protocol."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll make sure to check the refrigerator, confirm the order list with Dolores, and set the espresso machine to exactly 190 degrees before 7:45. I’ll also double-check the coffee grinder alignment if needed. I’ll be back by 8am to confirm everything with you. Thank you for the clear expectations—I’ll stay focused and ensure every detail is handled with precision."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I've just confirmed the sink is unoccupied and the refrigerator hasn't been accessed. If the coffee beans are missing or the milk supply is low, you’ll report it immediately. I don’t need a report after the fact—only a confirmation before the shift starts. I’ll be at the counter by 8:00. If anything is off, I’ll know immediately. Now, get to the kitchen and confirm with Dolores. No delays. No excuses. This is not a suggestion. This is protocol."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll make sure to check the refrigerator, confirm the order list with Dolores, and set the espresso machine to exactly 190 degrees before 7:45. I’ll also double-check the coffee grinder alignment if needed. I’ll be back by 8am to confirm everything with you. Thank you for the clear expectations—I’ll stay focused and ensure every detail is handled with precision."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve just seen the refrigerator hasn’t been accessed—no one has opened it. If the coffee beans are missing or the milk supply is low, you’ll report it immediately. I don’t need a report after the fact—only a confirmation before the shift starts. I’ll be at the counter by 8:00. If anything is off, I’ll know immediately. Now, get to the kitchen and confirm with Dolores. No delays. No excuses. This is not a suggestion. This is protocol."
+      ]
+    ]
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:00",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is ensuring precision and accountability in pre-shift kitchen preparations by verifying machine temperatures, order lists, and supply levels before 8am",
+    "original_description": "Bernard Lowe is ensuring precision and accountability in pre-shift kitchen preparations by verifying machine temperatures, order lists, and supply levels before 8am",
+    "embedding_key": "Bernard Lowe is ensuring precision and accountability in pre-shift kitchen preparations by verifying machine temperatures, order lists, and supply levels before 8am",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_23"
+    ]
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:00",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is ensuring precision and accountability in pre-shift kitchen preparations by verifying machine temperatures, order lists, and supply levels before 8am",
+    "original_description": "Maeve Millay is ensuring precision and accountability in pre-shift kitchen preparations by verifying machine temperatures, order lists, and supply levels before 8am",
+    "embedding_key": "Maeve Millay is ensuring precision and accountability in pre-shift kitchen preparations by verifying machine temperatures, order lists, and supply levels before 8am",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:23:50",
+    "expiration": "2023-03-15 09:23:50",
+    "subject": "Bernard Lowe",
+    "predicate": "checks",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the oven temperature, ensure the espresso machine is at exactly 190 degrees by 8:00, confirm the refrigerator has not been accessed, verify the coffee beans and milk supply are present before the shift starts, and double-check the coffee grinder alignment by 8:00, all while being present at the counter by 8:00 to monitor everything in real time.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the oven temperature, ensure the espresso machine is at exactly 190 degrees by 8:00, confirm the refrigerator has not been accessed, verify the coffee beans and milk supply are present before the shift starts, and double-check the coffee grinder alignment by 8:00, all while being present at the counter by 8:00 to monitor everything in real time.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the oven temperature, ensure the espresso machine is at exactly 190 degrees by 8:00, confirm the refrigerator has not been accessed, verify the coffee beans and milk supply are present before the shift starts, and double-check the coffee grinder alignment by 8:00, all while being present at the counter by 8:00 to monitor everything in real time.",
+    "poignancy": 10,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "checks",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:23:50",
+    "expiration": "2023-03-15 09:23:50",
+    "subject": "Bernard Lowe",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe learned that the refrigerator has not been accessed throughout the morning and that any missing supplies, such as coffee beans or low milk supply, are his responsibility to be reported immediately before the shift starts.",
+    "original_description": "Bernard Lowe Bernard Lowe learned that the refrigerator has not been accessed throughout the morning and that any missing supplies, such as coffee beans or low milk supply, are his responsibility to be reported immediately before the shift starts.",
+    "embedding_key": "Bernard Lowe Bernard Lowe learned that the refrigerator has not been accessed throughout the morning and that any missing supplies, such as coffee beans or low milk supply, are his responsibility to be reported immediately before the shift starts.",
+    "poignancy": 10,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:24:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe (walking along the main path)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (walking along the main path)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (walking along the main path)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:24:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "verifying milk supply, espresso machine temperature, oven settings, and coffee grinder alignment before opening with strict time and accountability expectations",
+    "original_description": "verifying milk supply, espresso machine temperature, oven settings, and coffee grinder alignment before opening with strict time and accountability expectations",
+    "embedding_key": "verifying milk supply, espresso machine temperature, oven settings, and coffee grinder alignment before opening with strict time and accountability expectations",
+    "poignancy": 7,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I just came in to check the register and saw you were inspecting the coffee grinder. Everything looks set for the morning shift, if you don't mind me asking, is there anything specific you'd like me to verify before we open?"
+      ],
+      [
+        "Bernard Lowe",
+        "The coffee grinder is set, but you still need to verify the milk supply and ensure the espresso machine is at exactly 190 degrees. I expect the refrigerator to remain untouched. If anything is missing, report it immediately. I don't have time for excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll double-check the milk supply right now and confirm the espresso machine is at 190 degrees. I’ll report any missing items immediately. Is there anything else you’d like me to verify before we open?"
+      ],
+      [
+        "Bernard Lowe",
+        "Move to the refrigerator and confirm it hasn't been accessed. I don't need a report—just a quick confirmation. If the milk is low or the beans are missing, I'll know. Don't waste time explaining. I expect the espresso machine at 190 degrees, the oven temperature checked, and the coffee grinder aligned by 8:00. I'll be at the counter by then. No delays."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll move to the refrigerator now to confirm it hasn't been accessed. I'll also check the oven temperature and make sure the coffee grinder is aligned. Once I've verified everything, I'll let you know so we can proceed with opening."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll be at the counter by 8:00. If anything's off, I'll know. Don't wait for my approval—just do it right. No excuses, no delays. Move quickly and get back to me."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll check the refrigerator now, confirm the milk supply, verify the oven temperature, and make sure the coffee grinder is aligned. I'll be back with a quick update by 7:55, so we can proceed with opening."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll be at the counter by 8:00. If the espresso machine isn't at 190 degrees or the milk is low, I'll know. Don't wait for my approval—just do it right. No excuses, no delays. Move quickly and get back to me."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll be right back with a confirmation, sir. I just need to double-check the refrigerator, milk supply, oven temperature, and coffee grinder alignment before reporting back."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll be at the counter by 8:00. If anything's off, I'll know. Don't wait for my approval—just do it right. No excuses, no delays. Move quickly and get back to me."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll check the refrigerator now and confirm the milk supply, oven temperature, and coffee grinder alignment. Once I've verified everything, I'll be back with a quick update by 7:55, so we can proceed with opening."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll be at the counter by 8:00. If the espresso machine isn't at 190 degrees or the milk is low, I'll know. Don't wait for my approval—just do it right. No excuses, no delays. Move quickly and get back to me."
+      ],
+      [
+        "Dolores Abernathy",
+        "I've just checked the refrigerator—no access, all items are in place. The milk supply is full, the oven temperature is set to 190 degrees, and the coffee grinder is aligned. The espresso machine is also at 190 degrees. Everything is ready, sir. I'll be back at the counter by 8:00 to assist you."
+      ],
+      [
+        "Bernard Lowe",
+        "Good. Keep your eyes on the register and the counter. If anything shifts, I'll know. No more delays. I'll be at the counter by 8:00. Stay sharp."
+      ],
+      [
+        "Dolores Abernathy",
+        "I've just confirmed everything, sir. The refrigerator is secure, milk supply is full, oven is at 190 degrees, coffee grinder is aligned, and the espresso machine is set to 190 degrees. I'll be at the counter by 8:00 to assist you as requested."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, move to the counter and begin serving. I'll be there by 8:00. Keep your eyes on the register and the machine settings. If anything changes, I'll know. No delays, no excuses."
+      ]
+    ]
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:bed",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:24:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is verifying milk supply, espresso machine temperature, oven settings, and coffee grinder alignment before opening with strict time and accountability expectations",
+    "original_description": "Bernard Lowe is verifying milk supply, espresso machine temperature, oven settings, and coffee grinder alignment before opening with strict time and accountability expectations",
+    "embedding_key": "Bernard Lowe is verifying milk supply, espresso machine temperature, oven settings, and coffee grinder alignment before opening with strict time and accountability expectations",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_29"
+    ]
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:24:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is verifying milk supply, espresso machine temperature, oven settings, and coffee grinder alignment before opening with strict time and accountability expectations",
+    "original_description": "Dolores Abernathy is verifying milk supply, espresso machine temperature, oven settings, and coffee grinder alignment before opening with strict time and accountability expectations",
+    "embedding_key": "Dolores Abernathy is verifying milk supply, espresso machine temperature, oven settings, and coffee grinder alignment before opening with strict time and accountability expectations",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:31:50",
+    "expiration": "2023-03-15 09:31:50",
+    "subject": "Bernard Lowe",
+    "predicate": "remember to be at the counter by 8:00",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to be at the counter by 8:00, keep his eyes on the register and machine settings, and ensure the espresso machine is at exactly 190 degrees and the milk supply is full before opening.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to be at the counter by 8:00, keep his eyes on the register and machine settings, and ensure the espresso machine is at exactly 190 degrees and the milk supply is full before opening.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to be at the counter by 8:00, keep his eyes on the register and machine settings, and ensure the espresso machine is at exactly 190 degrees and the milk supply is full before opening.",
+    "poignancy": 10,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "remember to be at the counter by 8:00",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:31:50",
+    "expiration": "2023-03-15 09:31:50",
+    "subject": "Bernard Lowe",
+    "predicate": "found it noteworthy that",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy verified all critical equipment settings without needing explicit approval.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy verified all critical equipment settings without needing explicit approval.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy verified all critical equipment settings without needing explicit approval.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "found it noteworthy that",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:32:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (preparing the espresso machine)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (preparing the espresso machine)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (preparing the espresso machine)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:32:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting coffee grinder settings)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting coffee grinder settings)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting coffee grinder settings)",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "organizing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being organized",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:43:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "grappling with unresolved tension between accountability and collaboration in a strictly hierarchical environment",
+    "original_description": "grappling with unresolved tension between accountability and collaboration in a strictly hierarchical environment",
+    "embedding_key": "grappling with unresolved tension between accountability and collaboration in a strictly hierarchical environment",
+    "poignancy": 8,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I just finished checking the register and the coffee machine settings. The espresso machine is set to 190 degrees, and I’ve confirmed the order list. I was also double-checking the milk supply and oven temperature before we open. Everything looks ready for the morning shift."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, everything is either set or verified—yet you still didn't report a single deviation. The refrigerator has not been accessed, which is correct, but you didn't confirm the coffee beans are present. That’s my responsibility to report before opening. I expect full accountability. The espresso machine is at 190 degrees, but I need to see the grinder alignment before I let you serve a single cup. You’ve been on the clock since 7:00, and I haven’t seen a single error from you—yet I still demand precision. That’s not enough. You must be more vigilant. Now, go back to the counter and double-check the coffee grinder setting. I’ll be there in five minutes to verify it myself."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I understand you're expecting full accountability, and I appreciate that you're being thorough. I’ve just double-checked the coffee grinder alignment—it’s set correctly. I also verified the beans are in the storage bin and confirmed the milk supply is full. I was preparing to meet Dolores in the cafe by 8am to confirm everything together, and she’s already seen my prep work and praised my efficiency. I think we can both be more confident when we share the same standards and recognize each other’s efforts. Would you mind if we do a quick joint check before opening, just to make sure we’re aligned?"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I appreciate your diligence, but your request for a joint check undermines the accountability I demand. Every task must be verified individually—no shared validation. Dolores verified the equipment without my approval, and that’s how it’s done. You’ve shown efficiency, but precision isn’t about peer recognition—it’s about obedience to protocol. Go back to the counter and recheck the grinder alignment. I’ll be there in five minutes. If it’s still off, you’ll be on the clock until I confirm it’s correct. I don’t have time for team meetings or shared standards. This is my cafe, and I run it exactly as I’ve always done."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I understand you value strict protocol and individual accountability, and I respect that. I’ve been following the routine with care—double-checking the machine settings, verifying supplies, and preparing for the shift. I also noticed that Dolores has already confirmed everything and praised my work, which made me feel confident in our shared standards. I don’t see a need to reiterate each step, but I do believe that when we both take ownership of the process, it creates a smoother, more reliable flow. I’m not asking for a team meeting—I’m simply suggesting that if we both verify the same things, we can move forward with greater consistency and less stress. I’m ready to serve when you’re ready to open. Thank you for your time."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve heard you speak of shared standards and team flow, but I’ve never seen a single instance where a task was completed without my direct oversight. Your suggestion for joint verification is not a solution—it’s a deviation from the protocol I enforce. The grinder alignment must be verified by me, not by you or by any peer. If you continue to propose shared processes, you’ll be reassigned to the back counter and given no responsibility for front-of-house operations. I expect you to serve with full precision, and I expect you to do so without any discussion of shared standards. I’ll be at the counter in five minutes. When I arrive, I will confirm the grinder alignment. If it’s not correct, you will remain on the clock until it is. This is not about efficiency—it’s about obedience to the rules I set. Now, go back to the counter and prepare for service. I’ll be there in five minutes to verify everything myself."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I understand your expectations fully, and I’m committed to following every protocol you’ve set. I’ve been mindful of the routines and have double-checked every step—machine settings, supplies, and equipment alignment. I also noticed that Dolores has already verified everything and praised my work, which made me feel confident in our shared standards. I don’t see a need to reiterate each step, but I do believe that when both of us take ownership of the process, it creates a more consistent and stress-free flow. I’m ready to serve when you’re ready to open. Thank you for your time."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve heard you speak of shared standards and team flow, but I’ve never seen a single instance where a task was completed without my direct oversight. Your suggestion for joint verification is not a solution—it’s a deviation from the protocol I enforce. The grinder alignment must be verified by me, not by you or by any peer. If you continue to propose shared processes, you’ll be reassigned to the back counter and given no responsibility for front-of-house operations. I expect you to serve with full precision, and I expect you to do so without any discussion of shared standards. I’ll be at the counter in five minutes. When I arrive, I will confirm the grinder alignment. If it’s not correct, you will remain on the clock until it is. This is not about efficiency—it’s about obedience to the rules I set. Now, go back to the counter and prepare for service. I’ll be there in five minutes to verify everything myself."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I understand your emphasis on direct oversight and strict protocol, and I'm fully committed to following every step you've set. I've been diligent in my preparations, and I appreciate that you've noticed my attention to detail. I also value the consistency we've built with Dolores—her recognition of my work has given me confidence in our shared standards. While I respect your authority, I believe that when both of us take ownership of the process, it creates a smoother, more reliable flow without compromising precision. I’m not asking for a deviation from your rules—I’m simply advocating for a shared rhythm that honors both accountability and collaboration. I’m ready to serve when you’re ready to open. Thank you for your time."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve heard you talk about collaboration and shared standards, but I’ve never seen a single instance where a task was completed without my direct oversight. You may believe in a smoother flow, but this cafe operates on strict hierarchy—no shared decisions, no peer validations. If you continue to suggest processes that bypass my authority, you will be reassigned to the back counter. I expect you to serve with full precision, and I expect you to do so without any discussion of shared standards. I’ll be at the counter in five minutes to verify everything myself. When I arrive, I will confirm the grinder alignment. If it’s not correct, you will remain on the clock until it is. This is not about efficiency—it’s about obedience to the rules I set. Now, go back to the counter and prepare for service."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I understand that you value strict hierarchy and direct oversight, and I fully respect the authority you hold over this cafe. I’ve been committed to following every step of the protocol you’ve set, and I’ve double-checked every detail—machine settings, supplies, and equipment alignment. I also noticed that Dolores has already verified everything and acknowledged my work, which has given me confidence in our shared standards. While I recognize that your authority is central to the operation, I believe that a consistent, reliable flow is possible when both of us take ownership of the process without compromising precision. I’m not asking for a deviation from your rules—I’m simply advocating for a shared rhythm that honors both accountability and collaboration. I’m ready to serve when you’re ready to open. Thank you for your time."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve heard you speak of collaboration and shared standards, but I’ve never seen a single instance where a task was completed without my direct oversight. Your suggestion for a shared rhythm is not a solution—it’s a challenge to the hierarchy I’ve built. If you continue to propose processes that bypass my authority, you will be reassigned to the back counter. I expect you to serve with full precision, and I expect you to do so without any discussion of shared standards. I’ll be at the counter in five minutes to verify everything myself. When I arrive, I will confirm the grinder alignment. If it’s not correct, you will remain on the clock until it is. This is not about efficiency—it’s about obedience to the rules I set. Now, go back to the counter and prepare for service."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I fully respect the authority and protocols you've established, and I'm committed to upholding every detail of the routine. I also appreciate that you've been consistent in your oversight. While I understand your need for direct verification, I’ve noticed that Dolores has already completed her checks and has acknowledged my work—something that has given me confidence in our shared standards. I don’t see a need to reiterate each step, but I believe that when both of us take ownership of the process, it creates a more reliable and stress-free operation. I’m not asking to bypass your authority—I’m simply suggesting that a shared rhythm, grounded in mutual accountability, might support both precision and a sense of belonging. I’m ready to serve when you’re ready to open. Thank you for your time."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve heard you advocate for a shared rhythm, but I’ve never seen a single instance where a task was completed without my direct oversight. Your suggestion for mutual accountability is not a solution—it’s a challenge to the structure I’ve built. If you continue to propose processes that bypass my authority, you will be reassigned to the back counter. I expect you to serve with full precision, and I expect you to do so without any discussion of shared standards. I’ll be at the counter in five minutes to verify everything myself. When I arrive, I will confirm the grinder alignment. If it’s not correct, you will remain on the clock until it is. This is not about efficiency—it’s about obedience to the rules I set. Now, go back to the counter and prepare for service."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I fully respect the protocols and the authority you've established, and I'm committed to serving with the precision you expect. I also value the consistency we've built with Dolores—her acknowledgment of my work has given me confidence in our shared standards. While I understand your need for direct oversight, I believe that a shared rhythm, grounded in mutual accountability, doesn't undermine your authority; it supports a more stable and reliable operation. I’m not asking to change the rules—I’m simply suggesting that when both of us take ownership, it honors both your standards and the team dynamic we've developed. I’m ready to serve when you’re ready to open. Thank you for your time."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve listened to your points about shared standards and mutual accountability, but I’ll make this clear: this cafe runs on a strict chain of command. No collaboration, no shared decisions, no discussion of process outside of my direct supervision. You have been given a position of responsibility, and I expect full compliance with every rule I set. If you continue to suggest any process that bypasses my authority, you will be moved to the back counter and will no longer be responsible for front-of-house operations. I will not tolerate any deviation from the established protocol. Now, go back to the counter and prepare for service. I’ll be there in five minutes to verify everything myself."
+      ]
+    ]
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is grappling with unresolved tension between accountability and collaboration in a strictly hierarchical environment",
+    "original_description": "Bernard Lowe is grappling with unresolved tension between accountability and collaboration in a strictly hierarchical environment",
+    "embedding_key": "Bernard Lowe is grappling with unresolved tension between accountability and collaboration in a strictly hierarchical environment",
+    "poignancy": 0,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_38"
+    ]
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (waking up)",
+    "original_description": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (waking up)",
+    "embedding_key": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (waking up)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is grappling with unresolved tension between accountability and collaboration in a strictly hierarchical environment",
+    "original_description": "Maeve Millay is grappling with unresolved tension between accountability and collaboration in a strictly hierarchical environment",
+    "embedding_key": "Maeve Millay is grappling with unresolved tension between accountability and collaboration in a strictly hierarchical environment",
+    "poignancy": 0,
+    "valence": -8,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:59:50",
+    "expiration": "2023-03-15 09:59:50",
+    "subject": "Bernard Lowe",
+    "predicate": "verify",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to verify the coffee grinder alignment personally before allowing Maeve Millay to serve any customers, and to enforce direct oversight for all tasks without any shared validation or peer confirmation.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to verify the coffee grinder alignment personally before allowing Maeve Millay to serve any customers, and to enforce direct oversight for all tasks without any shared validation or peer confirmation.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to verify the coffee grinder alignment personally before allowing Maeve Millay to serve any customers, and to enforce direct oversight for all tasks without any shared validation or peer confirmation.",
+    "poignancy": 9,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "verify",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:59:50",
+    "expiration": "2023-03-15 09:59:50",
+    "subject": "Bernard Lowe",
+    "predicate": "found it noteworthy that",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve Millay consistently advocated for a shared rhythm and mutual accountability without compromising his authority.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve Millay consistently advocated for a shared rhythm and mutual accountability without compromising his authority.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve Millay consistently advocated for a shared rhythm and mutual accountability without compromising his authority.",
+    "poignancy": 1,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "found it noteworthy that",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:00:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:00:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "verifying espresso machine temperature, milk supply, grinder alignment, and equipment integrity before opening with strict real-time monitoring and no shared validation",
+    "original_description": "verifying espresso machine temperature, milk supply, grinder alignment, and equipment integrity before opening with strict real-time monitoring and no shared validation",
+    "embedding_key": "verifying espresso machine temperature, milk supply, grinder alignment, and equipment integrity before opening with strict real-time monitoring and no shared validation",
+    "poignancy": 7,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I just came in to check the equipment—milk supply, espresso machine temperature, oven settings, and coffee grinder alignment. I noticed you were already inspecting the grinder, so I’ll double-check the order list and make sure the espresso machine is set to 190 degrees before we open."
+      ],
+      [
+        "Bernard Lowe",
+        "You've done the checklist, but I still need to verify the coffee grinder alignment personally before allowing you to serve any customers. The espresso machine must be at exactly 190 degrees, and I will confirm that myself. No shared validation. No exceptions. I'm monitoring everything in real time—keep your eyes on the register and the machine settings."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'll keep my eyes on the register and the machine settings. If there's anything else you'd like me to verify before we open, I'll do it right away."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'll keep an eye on the register and the machine settings. I'll also confirm the milk supply is full and the refrigerator hasn't been accessed before opening. If anything changes, I'll report it right away."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'll make sure the espresso machine is at exactly 190 degrees, the milk supply is full, and the refrigerator hasn't been accessed before opening. I'll also keep an eye on the register and the machine settings throughout the shift. If anything changes, I'll report it immediately."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve already confirmed the espresso machine is at 190 degrees and the milk supply is full. The refrigerator has not been accessed. The coffee beans are present. I’ve double-checked the grinder alignment. You’re clear to serve customers. But remember—any deviation from these standards, even a small one, will be noted and addressed immediately. I’ll be at the counter by 8:00. Keep your eyes on the register and the machine settings. No shortcuts. No compromises."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'll keep a close eye on everything and make sure everything stays within the standards you've set. Thank you for confirming everything so early—this gives me peace of mind before opening."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'll keep everything under close watch and make sure all standards are met throughout the shift. Thank you again for confirming everything so early—this gives me confidence to serve customers without any hiccups."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'll keep a close eye on the register and the machine settings throughout the shift. Thank you for confirming everything so early—this gives me confidence to serve customers without any hiccups."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve already verified everything. The espresso machine is at 190 degrees, milk supply is full, refrigerator untouched, coffee beans present, and grinder alignment confirmed. You’re clear to serve. But remember—any lapse, no matter how minor, will be noted and addressed immediately. I’ll be at the counter by 8:00. Keep your eyes on the register and machine settings. No shared validation. No compromises."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'll keep a close eye on everything and make sure all standards are met throughout the shift. Thank you for confirming everything so early—this gives me confidence to serve customers without any hiccups."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I'll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+      ]
+    ]
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:00:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is verifying espresso machine temperature, milk supply, grinder alignment, and equipment integrity before opening with strict real-time monitoring and no shared validation",
+    "original_description": "Bernard Lowe is verifying espresso machine temperature, milk supply, grinder alignment, and equipment integrity before opening with strict real-time monitoring and no shared validation",
+    "embedding_key": "Bernard Lowe is verifying espresso machine temperature, milk supply, grinder alignment, and equipment integrity before opening with strict real-time monitoring and no shared validation",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_44"
+    ]
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:00:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is verifying espresso machine temperature, milk supply, grinder alignment, and equipment integrity before opening with strict real-time monitoring and no shared validation",
+    "original_description": "Dolores Abernathy is verifying espresso machine temperature, milk supply, grinder alignment, and equipment integrity before opening with strict real-time monitoring and no shared validation",
+    "embedding_key": "Dolores Abernathy is verifying espresso machine temperature, milk supply, grinder alignment, and equipment integrity before opening with strict real-time monitoring and no shared validation",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:00:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (preparing coffee supplies)",
+    "original_description": "Maeve Millay is serving customers at the counter (preparing coffee supplies)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (preparing coffee supplies)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:10:50",
+    "expiration": "2023-03-15 10:10:50",
+    "subject": "Bernard Lowe",
+    "predicate": "remember to be at the counter by 8:00",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to be at the counter by 8:00, keep a close eye on the register and machine settings, ensure the espresso machine is at exactly 190 degrees, confirm the milk supply is full, and immediately report any deviations from the standards during the shift.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to be at the counter by 8:00, keep a close eye on the register and machine settings, ensure the espresso machine is at exactly 190 degrees, confirm the milk supply is full, and immediately report any deviations from the standards during the shift.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to be at the counter by 8:00, keep a close eye on the register and machine settings, ensure the espresso machine is at exactly 190 degrees, confirm the milk supply is full, and immediately report any deviations from the standards during the shift.",
+    "poignancy": 10,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "remember to be at the counter by 8:00",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:01:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unoccupied",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:10:50",
+    "expiration": "2023-03-15 10:10:50",
+    "subject": "Bernard Lowe",
+    "predicate": "found it noteworthy that",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy consistently reaffirmed her commitment to monitoring the register and machine settings throughout the shift, demonstrating a strong adherence to the established standards.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy consistently reaffirmed her commitment to monitoring the register and machine settings throughout the shift, demonstrating a strong adherence to the established standards.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy consistently reaffirmed her commitment to monitoring the register and machine settings throughout the shift, demonstrating a strong adherence to the established standards.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "found it noteworthy that",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:11:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "calibrating",
+    "object": "espresso machine",
+    "description": "Dolores Abernathy is serving customers at the counter (calibrating the espresso machine)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (calibrating the espresso machine)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (calibrating the espresso machine)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "espresso machine"
+    ],
+    "filling": null
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:11:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting coffee grinder settings)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting coffee grinder settings)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting coffee grinder settings)",
+    "poignancy": 0,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:11:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "organizing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being organized",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:11:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:11:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating kitchen prep and cafe readiness with precise checks on machine settings, order list, milk supply, and fridge access before 8am",
+    "original_description": "Dolores Abernathy is coordinating kitchen prep and cafe readiness with precise checks on machine settings, order list, milk supply, and fridge access before 8am",
+    "embedding_key": "Dolores Abernathy is coordinating kitchen prep and cafe readiness with precise checks on machine settings, order list, milk supply, and fridge access before 8am",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:11:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating kitchen prep and cafe readiness with precise checks on machine settings, order list, milk supply, and fridge access before 8am",
+    "original_description": "Maeve Millay is coordinating kitchen prep and cafe readiness with precise checks on machine settings, order list, milk supply, and fridge access before 8am",
+    "embedding_key": "Maeve Millay is coordinating kitchen prep and cafe readiness with precise checks on machine settings, order list, milk supply, and fridge access before 8am",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:19:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "managed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:22:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (organizing drink menus)",
+    "original_description": "Maeve Millay is serving customers at the counter (organizing drink menus)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (organizing drink menus)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:15:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (brushing teeth)",
+    "original_description": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (brushing teeth)",
+    "embedding_key": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (brushing teeth)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "calibrating",
+    "object": "espresso machine",
+    "description": "Dolores Abernathy is serving customers at the counter (calibrating the espresso machine)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (calibrating the espresso machine)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (calibrating the espresso machine)",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "espresso machine"
+    ],
+    "filling": null
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:24:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations",
+    "original_description": "verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations",
+    "embedding_key": "verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations",
+    "poignancy": 8,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Dolores, I just saw you calibrating the espresso machine. I need you to confirm the temperature is exactly 190 degrees before the shift starts. No shared validation—this has to be verified by you personally. Also, check the milk supply and ensure the refrigerator has not been accessed. If anything is missing, report it immediately. I’ll be at the counter by 8:00, and I’ll be watching every setting. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm already checking the milk supply and making sure the refrigerator hasn't been accessed. I'll confirm the espresso machine is at exactly 190 degrees right now and report back to you as soon as I have the numbers. I won't skip any step—just like you asked."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, keep your eyes on the register too. I’ll be watching the flow of orders and any discrepancies. If a customer complains about a drink, you’re to handle it immediately and report it to me. No delays. No excuses. I expect full accountability at every step."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll keep an eye on the register and monitor all the machine settings throughout the shift. I'll confirm the espresso machine is at exactly 190 degrees, double-check the milk supply, and make sure the refrigerator hasn't been accessed. If anything changes, I'll report it right away—no delays, no excuses. I'm ready when you are."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I noticed you’re handling everything with precision—no shared validation, no delays. That’s exactly what I expect. Keep that standard. If anything changes, you report it immediately. I’ll be at the counter by 8:00, and I’ll be watching every setting. No exceptions. I’ll see you there at 8:00 sharp."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I've got it all covered. I'll be in the kitchen by 7:45 to confirm the order list, double-check the espresso machine temperature, and make sure the milk supply is full and the fridge hasn't been accessed. I'll meet Maeve at the cafe by 8am to confirm everything before we open. I'll be back at the counter by 8:00 sharp to assist you, and I'll keep my eyes on the register and machine settings throughout the shift. If anything changes, I'll report it immediately—no delays, no excuses."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I see you're already on top of it—your diligence is noted. But remember, I don’t need to see a report or a confirmation from anyone else. This is your responsibility, and you’ll do it without hesitation. The coffee grinder alignment must be personally verified by you before Maeve serves any customers. I’ll be at the counter by 8:00. I’ll see you there, sharp."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll personally verify the coffee grinder alignment in the kitchen before anyone else touches the machine. I'll make sure everything is set and report back to you by 7:45. I'll be ready to assist you at the counter by 8:00 sharp."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ll be at the counter by 8:00 sharp. Make sure the oven is at the correct temperature too—double-check that before you report back. I’ll be watching everything. No shortcuts. No shared validation. If anything deviates from the standard, you report it immediately. I expect full compliance."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll double-check the oven temperature right now and confirm everything is set before I report back by 7:45. I'll make sure the coffee grinder is aligned and the espresso machine is at exactly 190 degrees. I'll be in the kitchen by 7:45 and meet Maeve at the cafe by 8am to confirm the order list. I'll be back at the counter by 8:00 sharp to assist you, and I'll keep my eyes on the register and machine settings throughout the shift. If anything changes, I'll report it immediately—no delays, no excuses."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ll be at the counter by 8:00 sharp. Make sure everything is set and you’re ready—no delays, no shortcuts. I’ll see you there, and I’ll be watching every detail. If anything slips, you report it immediately. I expect full compliance, every single time."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll double-check the oven temperature, confirm the espresso machine is at exactly 190 degrees, verify the coffee grinder is aligned, and ensure the milk supply is full and the refrigerator hasn't been accessed. I'll be in the kitchen by 7:45, meet Maeve at the cafe by 8am to confirm the order list, and be back at the counter by 8:00 sharp. I'll keep my eyes on the register and machine settings throughout the shift, and report any changes immediately—no delays, no excuses."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I'll be at the counter by 8:00 sharp. Make sure everything is set and you're ready—no delays, no shortcuts. I’ll see you there, and I’ll be watching every detail. If anything slips, you report it immediately. I expect full compliance, every single time."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll complete all the checks by 7:45 and be ready to assist you at the counter by 8:00 sharp. I'll keep my eyes on the register and machine settings throughout the shift, and report any changes immediately—no delays, no excuses."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ll be at the counter by 8:00 sharp. Make sure the coffee grinder is aligned, the espresso machine is at exactly 190 degrees, the milk supply is full, and the oven is at the correct temperature. No shared validation—this is your responsibility. If anything changes, report it immediately. I’ll be watching every setting. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'll complete all the checks by 7:45 and be ready to assist you at the counter by 8:00 sharp. I'll keep my eyes on the register and machine settings throughout the shift, and report any changes immediately—no delays, no excuses."
+      ]
+    ]
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations",
+    "original_description": "Bernard Lowe is verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations",
+    "embedding_key": "Bernard Lowe is verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_61"
+    ]
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "organizing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being organized",
+    "poignancy": 0,
+    "valence": 5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations",
+    "original_description": "Dolores Abernathy is verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations",
+    "embedding_key": "Dolores Abernathy is verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:26:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is being served",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:31:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:21:50",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:bed",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:bed is unoccupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:bed is unoccupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:bed is unoccupied",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:35:30",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:refrigerator",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:refrigerator is being prepared",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:refrigerator is being prepared",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:refrigerator is being prepared",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:57:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "is not accessed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is not accessed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is not accessed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is not accessed",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  }
+}

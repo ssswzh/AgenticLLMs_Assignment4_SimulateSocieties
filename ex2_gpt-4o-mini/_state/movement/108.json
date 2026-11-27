@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🍳",
+      "description": "waking up, completing morning routine, walking to Hobbs Cafe (brushing teeth) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating pre-shift preparations including order list verification and espresso machine calibration at 7:45 to ensure readiness for 8am cafe operation @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just woke up and was making my way to breakfast. You're already up too, huh? I saw you brushing your teeth over by the sink. How's it going with your morning routine?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Yeah, I just finished brushing my teeth. Morning routine is always a bit of a blur, but I'm glad I'm not alone in it. How's your breakfast going? I was just about to head out to Hobbs Cafe—do you want to grab a coffee on the way?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm just getting my breakfast together—coffee and toast. I appreciate you offering, but I'm going straight to Hobbs Cafe. I’ll see you there, though. Let’s keep things task-oriented and focus on getting the shift off to a strong start."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll see you at the cafe then. Let’s make sure the counter is ready by 8am—maybe we can check the order list together before I head out."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen checking the order list too—let’s make sure everything’s prepped before we head to the cafe. I’ll be back to the dorm after work, so I’ll see you there later."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, I’ll check the order list with you right before I head out. Let’s make sure we’re both on the same page—maybe we can even double-check the espresso machine settings just in case. I’ll be back at the dorm after work, so I’ll see you there later too."
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright, I’ll check the order list with you right before we head out. Let’s make sure everything’s prepped—especially the espresso machine, just in case. I’ll be back at the dorm after work, so I’ll see you there later too."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll double-check the order list with you right before we head out and make sure the espresso machine is set to the correct temperature. I’ll be back at the dorm after work, so we can catch up there later too."
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright, Maeve. I’ll be in the kitchen checking the order list and making sure the espresso machine is set properly. Let’s both be ready by 7:45—just in case we need to adjust anything before 8am. I’ll see you at the cafe then."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be back at the dorm after work, so we can catch up and go over the shift details. Let’s make sure we’re both on the same page before we head out—just in case anything changes. I’ll see you at the cafe then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45, double-checking the order list and making sure the espresso machine is set to 190 degrees. Let’s make sure everything’s ready before we head out—just in case we need to adjust anything. I’ll see you at the cafe by 8am."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be back at the dorm after work—maybe we can go over the shift details again before I head out. I’ll make sure the espresso machine is set to 190 degrees too. See you at the cafe by 8am!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45, double-checking the order list and making sure the espresso machine is set to 190 degrees. Let’s make sure everything’s ready before we head out—just in case we need to adjust anything. I’ll see you at the cafe by 8am."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be back at the dorm after work—maybe we can go over the shift details again before I head out. I’ll make sure the espresso machine is set to 190 degrees too. See you at the cafe by 8am!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45, double-checking the order list and making sure the espresso machine is set to 190 degrees. Let’s make sure everything’s ready before we head out—just in case we need to adjust anything. I’ll see you at the cafe by 8am."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be in the kitchen by 7:45 too—let’s make sure the order list and espresso machine are both set before we head out. I’ll see you at the cafe by 8am, just like we planned!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        123,
+        47
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating pre-shift preparations including order list verification and espresso machine calibration at 7:45 to ensure readiness for 8am cafe operation @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just woke up and was making my way to breakfast. You're already up too, huh? I saw you brushing your teeth over by the sink. How's it going with your morning routine?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Yeah, I just finished brushing my teeth. Morning routine is always a bit of a blur, but I'm glad I'm not alone in it. How's your breakfast going? I was just about to head out to Hobbs Cafe—do you want to grab a coffee on the way?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm just getting my breakfast together—coffee and toast. I appreciate you offering, but I'm going straight to Hobbs Cafe. I’ll see you there, though. Let’s keep things task-oriented and focus on getting the shift off to a strong start."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll see you at the cafe then. Let’s make sure the counter is ready by 8am—maybe we can check the order list together before I head out."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen checking the order list too—let’s make sure everything’s prepped before we head to the cafe. I’ll be back to the dorm after work, so I’ll see you there later."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, I’ll check the order list with you right before I head out. Let’s make sure we’re both on the same page—maybe we can even double-check the espresso machine settings just in case. I’ll be back at the dorm after work, so I’ll see you there later too."
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright, I’ll check the order list with you right before we head out. Let’s make sure everything’s prepped—especially the espresso machine, just in case. I’ll be back at the dorm after work, so I’ll see you there later too."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll double-check the order list with you right before we head out and make sure the espresso machine is set to the correct temperature. I’ll be back at the dorm after work, so we can catch up there later too."
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright, Maeve. I’ll be in the kitchen checking the order list and making sure the espresso machine is set properly. Let’s both be ready by 7:45—just in case we need to adjust anything before 8am. I’ll see you at the cafe then."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be back at the dorm after work, so we can catch up and go over the shift details. Let’s make sure we’re both on the same page before we head out—just in case anything changes. I’ll see you at the cafe then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45, double-checking the order list and making sure the espresso machine is set to 190 degrees. Let’s make sure everything’s ready before we head out—just in case we need to adjust anything. I’ll see you at the cafe by 8am."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be back at the dorm after work—maybe we can go over the shift details again before I head out. I’ll make sure the espresso machine is set to 190 degrees too. See you at the cafe by 8am!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45, double-checking the order list and making sure the espresso machine is set to 190 degrees. Let’s make sure everything’s ready before we head out—just in case we need to adjust anything. I’ll see you at the cafe by 8am."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be back at the dorm after work—maybe we can go over the shift details again before I head out. I’ll make sure the espresso machine is set to 190 degrees too. See you at the cafe by 8am!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45, double-checking the order list and making sure the espresso machine is set to 190 degrees. Let’s make sure everything’s ready before we head out—just in case we need to adjust anything. I’ll see you at the cafe by 8am."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be in the kitchen by 7:45 too—let’s make sure the order list and espresso machine are both set before we head out. I’ll see you at the cafe by 8am, just like we planned!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:17:00"
+  }
+}

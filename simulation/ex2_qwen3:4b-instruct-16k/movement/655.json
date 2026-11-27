@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "opening Hobbs Cafe, supervising baristas, serving customers at the counter (confirming equipment readiness) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        117,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "maintaining a consistent morning routine with shared responsibilities and mutual appreciation for simplicity @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just saw you packing your lunch—how’s the weather today? I was checking the forecast before heading out. Looks like a nice morning, perfect for the cafe rush."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! The weather is perfect—just like you said. I was making a smoothie for breakfast, and I noticed the toaster is still on. I’ll make sure to check it before I get to the cafe. How’s your morning going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I was just about to check the sink too—makes sure everything’s ready for the morning rush. I love how you make your smoothies with fresh berries and banana, it’s so simple and fresh, just like our breakfasts. I’ll keep the toast and fruit on hand too, since you always say it’s perfect. See you at the counter in a bit!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I’ll keep the counter clean and the fruit stocked—just like we always do. Thanks for reminding me about the toast and fruit. I’m glad we both appreciate the simple things. See you at the counter when you arrive!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just double-checked the toaster and sink—everything’s ready. I’ll keep the toast and fruit on hand, just like we’ve always done. Thanks for making the smoothie—it’s a nice touch. See you at the counter when you get there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just double-checked everything—the toaster’s off, the sink is clean, and the fruit’s fresh. I’ll keep the toast and fruit ready, just like we’ve always done. Thanks for making sure the coffee’s hot—it’s a small thing, but it feels good to have the same routine every day. See you at the counter when you get there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just made sure the toast and fruit are ready—like we always do. It’s nice to see the same routine every day, it feels grounding. See you at the counter when you get there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just double-checked everything—the toaster’s off, the sink is clean, and the fruit’s fresh. I’ll keep the toast and fruit ready, just like we’ve always done. It’s nice to see the same routine every day—it feels grounding. See you at the counter when you get there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just made sure the toast and fruit are ready—like we always do. It’s nice to see the same routine every day, it feels grounding. See you at the counter when you get there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just made sure the toast and fruit are ready—like we always do. It’s nice to see the same routine every day, it feels grounding. See you at the counter when you get there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        117,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "maintaining a consistent morning routine with shared responsibilities and mutual appreciation for simplicity @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just saw you packing your lunch—how’s the weather today? I was checking the forecast before heading out. Looks like a nice morning, perfect for the cafe rush."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! The weather is perfect—just like you said. I was making a smoothie for breakfast, and I noticed the toaster is still on. I’ll make sure to check it before I get to the cafe. How’s your morning going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I was just about to check the sink too—makes sure everything’s ready for the morning rush. I love how you make your smoothies with fresh berries and banana, it’s so simple and fresh, just like our breakfasts. I’ll keep the toast and fruit on hand too, since you always say it’s perfect. See you at the counter in a bit!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I’ll keep the counter clean and the fruit stocked—just like we always do. Thanks for reminding me about the toast and fruit. I’m glad we both appreciate the simple things. See you at the counter when you arrive!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just double-checked the toaster and sink—everything’s ready. I’ll keep the toast and fruit on hand, just like we’ve always done. Thanks for making the smoothie—it’s a nice touch. See you at the counter when you get there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just double-checked everything—the toaster’s off, the sink is clean, and the fruit’s fresh. I’ll keep the toast and fruit ready, just like we’ve always done. Thanks for making sure the coffee’s hot—it’s a small thing, but it feels good to have the same routine every day. See you at the counter when you get there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just made sure the toast and fruit are ready—like we always do. It’s nice to see the same routine every day, it feels grounding. See you at the counter when you get there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just double-checked everything—the toaster’s off, the sink is clean, and the fruit’s fresh. I’ll keep the toast and fruit ready, just like we’ve always done. It’s nice to see the same routine every day—it feels grounding. See you at the counter when you get there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just made sure the toast and fruit are ready—like we always do. It’s nice to see the same routine every day, it feels grounding. See you at the counter when you get there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just made sure the toast and fruit are ready—like we always do. It’s nice to see the same routine every day, it feels grounding. See you at the counter when you get there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:48:10"
+  }
+}

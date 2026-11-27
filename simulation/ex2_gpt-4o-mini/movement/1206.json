@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "👨‍🍳",
+      "description": "managing operations, monitoring baristas, serving customers at the counter (confirming staff shift assignments) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating kitchen prep and cafe readiness with precise checks on machine settings, order list, milk supply, and fridge access before 8am @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores, I just saw you calibrating the espresso machine—everything looks good. I was about to head to the kitchen to double-check the order list, so I thought I’d let you know I’m on my way. Do you need me to do anything specific before we meet at the cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, thanks for letting me know. I was just double-checking the machine settings before I headed over. Since you’re already on your way, I’ll make sure the order list is confirmed and the espresso machine is at exactly 190 degrees. I’ll be back at the counter by 8am to assist Bernard Lowe, so we can both keep everything on track."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be in the kitchen by 7:45 to confirm the order list and make sure the espresso machine is set to 190 degrees. I’ll also check the coffee grinder alignment individually—just in case, since I need to wait for Bernard Lowe to confirm it’s correct before moving on. Thanks for the update, and I’ll see you at the cafe by 8am."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure the order list is double-checked and the espresso machine is at exactly 190 degrees by 7:45. I’ll also confirm the milk supply and fridge access—nothing’s been touched before opening. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks for your help with the alignment check; that’s a solid detail to keep in mind."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks again, Dolores. I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am. I’ll make sure everything’s set and ready to go—just like we’ve always done. Looking forward to seeing you there."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and confirm the espresso machine is at exactly 190 degrees. I’ll also make sure the milk supply is full and the fridge hasn’t been accessed. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks for your help—looking forward to seeing you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am, just like we’ve always done. I’ll make sure everything’s set and ready to go—especially the espresso machine at 190 degrees and the order list double-checked. Thanks again for confirming everything, Dolores. I feel more confident knowing we’re both on the same page."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and confirm the espresso machine is at exactly 190 degrees. I’ll also make sure the milk supply is full and the fridge hasn’t been accessed. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks again—looking forward to seeing you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am, just like we’ve always done. I’ll make sure everything’s set and ready to go—especially the espresso machine at 190 degrees and the order list double-checked. Thanks again for confirming everything, Dolores. I feel more confident knowing we’re both on the same page."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and confirm the espresso machine is at exactly 190 degrees. I’ll also make sure the milk supply is full and the fridge hasn’t been accessed. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks again—looking forward to seeing you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am, just like we’ve always done. I’ll make sure everything’s set and ready to go—especially the espresso machine at 190 degrees and the order list double-checked. Thanks again for confirming everything, Dolores. I feel more confident knowing we’re both on the same page."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and confirm the espresso machine is at exactly 190 degrees. I’ll also make sure the milk supply is full and the fridge hasn’t been accessed. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks again—looking forward to seeing you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am, just like we’ve always done. I’ll make sure everything’s set and ready to go—especially the espresso machine at 190 degrees and the order list double-checked. Thanks again for confirming everything, Dolores. I feel more confident knowing we’re both on the same page."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and confirm the espresso machine is at exactly 190 degrees. I’ll also make sure the milk supply is full and the fridge hasn’t been accessed. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks again—looking forward to seeing you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am, just like we’ve always done. I’ll make sure everything’s set and ready to go—especially the espresso machine at 190 degrees and the order list double-checked. Thanks again for confirming everything, Dolores. I feel more confident knowing we’re both on the same page."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and confirm the espresso machine is at exactly 190 degrees. I’ll also make sure the milk supply is full and the fridge hasn’t been accessed. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks again—looking forward to seeing you at the cafe."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating kitchen prep and cafe readiness with precise checks on machine settings, order list, milk supply, and fridge access before 8am @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores, I just saw you calibrating the espresso machine—everything looks good. I was about to head to the kitchen to double-check the order list, so I thought I’d let you know I’m on my way. Do you need me to do anything specific before we meet at the cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, thanks for letting me know. I was just double-checking the machine settings before I headed over. Since you’re already on your way, I’ll make sure the order list is confirmed and the espresso machine is at exactly 190 degrees. I’ll be back at the counter by 8am to assist Bernard Lowe, so we can both keep everything on track."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be in the kitchen by 7:45 to confirm the order list and make sure the espresso machine is set to 190 degrees. I’ll also check the coffee grinder alignment individually—just in case, since I need to wait for Bernard Lowe to confirm it’s correct before moving on. Thanks for the update, and I’ll see you at the cafe by 8am."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure the order list is double-checked and the espresso machine is at exactly 190 degrees by 7:45. I’ll also confirm the milk supply and fridge access—nothing’s been touched before opening. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks for your help with the alignment check; that’s a solid detail to keep in mind."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks again, Dolores. I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am. I’ll make sure everything’s set and ready to go—just like we’ve always done. Looking forward to seeing you there."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and confirm the espresso machine is at exactly 190 degrees. I’ll also make sure the milk supply is full and the fridge hasn’t been accessed. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks for your help—looking forward to seeing you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am, just like we’ve always done. I’ll make sure everything’s set and ready to go—especially the espresso machine at 190 degrees and the order list double-checked. Thanks again for confirming everything, Dolores. I feel more confident knowing we’re both on the same page."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and confirm the espresso machine is at exactly 190 degrees. I’ll also make sure the milk supply is full and the fridge hasn’t been accessed. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks again—looking forward to seeing you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am, just like we’ve always done. I’ll make sure everything’s set and ready to go—especially the espresso machine at 190 degrees and the order list double-checked. Thanks again for confirming everything, Dolores. I feel more confident knowing we’re both on the same page."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and confirm the espresso machine is at exactly 190 degrees. I’ll also make sure the milk supply is full and the fridge hasn’t been accessed. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks again—looking forward to seeing you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am, just like we’ve always done. I’ll make sure everything’s set and ready to go—especially the espresso machine at 190 degrees and the order list double-checked. Thanks again for confirming everything, Dolores. I feel more confident knowing we’re both on the same page."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and confirm the espresso machine is at exactly 190 degrees. I’ll also make sure the milk supply is full and the fridge hasn’t been accessed. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks again—looking forward to seeing you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am, just like we’ve always done. I’ll make sure everything’s set and ready to go—especially the espresso machine at 190 degrees and the order list double-checked. Thanks again for confirming everything, Dolores. I feel more confident knowing we’re both on the same page."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and confirm the espresso machine is at exactly 190 degrees. I’ll also make sure the milk supply is full and the fridge hasn’t been accessed. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks again—looking forward to seeing you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am, just like we’ve always done. I’ll make sure everything’s set and ready to go—especially the espresso machine at 190 degrees and the order list double-checked. Thanks again for confirming everything, Dolores. I feel more confident knowing we’re both on the same page."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and confirm the espresso machine is at exactly 190 degrees. I’ll also make sure the milk supply is full and the fridge hasn’t been accessed. I’ll be back at the counter by 8am to assist Bernard Lowe. Thanks again—looking forward to seeing you at the cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:20:00"
+  }
+}

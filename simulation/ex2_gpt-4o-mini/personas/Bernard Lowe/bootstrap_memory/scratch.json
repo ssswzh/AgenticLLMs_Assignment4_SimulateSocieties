@@ -1,0 +1,453 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:35:40",
+  "curr_tile": [
+    75,
+    20
+  ],
+  "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
+  "name": "Bernard Lowe",
+  "first_name": "Bernard",
+  "last_name": "Lowe",
+  "age": 58,
+  "innate": "",
+  "learned": "Bernard grew up with an army general father who demanded immediate obedience and tolerated no mistakes. After his father died ten years ago, he pursued his passion for coffee and began running Hobbs Cafe. He notices every small mistake and rarely finds his employees’ work satisfactory. He dictates how tasks should be done, expects immediate results, and interrupts explanations. He becomes irritated easily, loses his temper over minor delays, and criticizes employees harshly. He demands high standards but offers neither praise nor pay raises. Bernard believes most customers cannot appreciate good coffee and responds impatiently to complaints. His marriage ended last year, and his young son, with whom he has never been close, now lives with his former wife.",
+  "currently": "Bernard is heading to the cafe to open up for the day.",
+  "lifestyle": "Bernard Lowe wakes up around 7am, walks to Hobbs cafe, where he works from 8am to 4pm. He comes home and eats dinner around 8pm, goes to bed around 11pm.",
+  "living_area": "the Ville:Bernard Lowe's apartment:main room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 45,
+  "importance_ele_n": 52,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe at 7:30 am",
+    "open Hobbs Cafe at 8:00 am",
+    "manage the cafe operations from 8:00 am to 4:00 pm",
+    "close Hobbs Cafe at 4:00 pm",
+    "have dinner at 8:00 pm",
+    "go to bed at 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up, completing morning routine, walking to Hobbs Cafe (waking up)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, walking to Hobbs Cafe (checking the phone for messages)",
+      10
+    ],
+    [
+      "waking up, completing morning routine, walking to Hobbs Cafe (brushing teeth)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, walking to Hobbs Cafe (showering)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, walking to Hobbs Cafe (dressing for work)",
+      10
+    ],
+    [
+      "waking up, completing morning routine, walking to Hobbs Cafe (preparing breakfast)",
+      10
+    ],
+    [
+      "waking up, completing morning routine, walking to Hobbs Cafe (checking the cafe door lock)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, walking to Hobbs Cafe (securing the front door)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, walking to Hobbs Cafe (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas (unlocking the door)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas (checking the oven temperature)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas (verifying the espresso machine is ready)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas (inspecting the coffee inventory)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas (confirming the register is operational)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas (reviewing the morning shift checklist)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas (setting up the counter layout)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas (checking the fridge and storage units)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas (inspecting the waste disposal system)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas (reviewing customer feedback from yesterday)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas (calling the baristas to confirm arrival)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas (announcing the cafe is open)",
+      5
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (checking morning inventory)",
+      5
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (verifying equipment functionality)",
+      4
+    ],
+    [
+      "ensuring precision and accountability in pre-shift kitchen preparations by verifying machine temperatures, order lists, and supply levels before 8am",
+      14
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (verifying equipment functionality)",
+      1
+    ],
+    [
+      "verifying milk supply, espresso machine temperature, oven settings, and coffee grinder alignment before opening with strict time and accountability expectations",
+      7
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (inspecting coffee grinder settings)",
+      1
+    ],
+    [
+      "grappling with unresolved tension between accountability and collaboration in a strictly hierarchical environment",
+      27
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (inspecting coffee grinder settings)",
+      1
+    ],
+    [
+      "verifying espresso machine temperature, milk supply, grinder alignment, and equipment integrity before opening with strict real-time monitoring and no shared validation",
+      10
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (inspecting coffee grinder settings)",
+      3
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (reviewing previous day's sales logs)",
+      5
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (confirming staff shift assignments)",
+      5
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (checking customer feedback records)",
+      1
+    ],
+    [
+      "verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations",
+      12
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (checking customer feedback records)",
+      4
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (preparing morning announcements)",
+      5
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (opening the cafe doors)",
+      10
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (turning on the kitchen lights)",
+      10
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (activating the espresso machine)",
+      10
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (setting up the counter display)",
+      10
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (monitoring barista performance)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (adjusting service flow for peak hours)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (observing customer interactions)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (validating order accuracy)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (ensuring consistent coffee quality)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (checking for spills or errors)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (conducting real-time feedback checks)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (inspecting barista hygiene standards)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (reviewing service speed metrics)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (notifying staff of any adjustments)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (handling customer complaints)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (correcting service errors immediately)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (ensuring all staff follow protocols)",
+      15
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter (monitoring for workflow bottlenecks)",
+      20
+    ],
+    [
+      "managing operations, monitoring baristas, closing down the cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe, final checks, shutting down equipment",
+      60
+    ],
+    [
+      "returning home, preparing for dinner",
+      60
+    ],
+    [
+      "eating dinner, reviewing the day's operations",
+      60
+    ],
+    [
+      "watching the news, reviewing complaints from customers",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "watching television, reading the newspaper",
+      60
+    ],
+    [
+      "reading the newspaper, preparing for bedtime",
+      60
+    ],
+    [
+      "going to bed, sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up, completing morning routine, walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe, managing operations, monitoring baristas",
+      60
+    ],
+    [
+      "managing operations, monitoring baristas, serving customers at the counter",
+      360
+    ],
+    [
+      "managing operations, monitoring baristas, closing down the cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe, final checks, shutting down equipment",
+      60
+    ],
+    [
+      "returning home, preparing for dinner",
+      60
+    ],
+    [
+      "eating dinner, reviewing the day's operations",
+      60
+    ],
+    [
+      "watching the news, reviewing complaints from customers",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "watching television, reading the newspaper",
+      60
+    ],
+    [
+      "reading the newspaper, preparing for bedtime",
+      60
+    ],
+    [
+      "going to bed, sleeping",
+      60
+    ]
+  ],
+  "act_address": "\u003cpersona\u003e Dolores Abernathy",
+  "act_start_time": "February 13, 2023, 10:24:30",
+  "act_duration": 12,
+  "act_description": "verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations",
+  "act_pronunciatio": "💬",
+  "act_event": [
+    "Bernard Lowe",
+    "chat with",
+    "Dolores Abernathy"
+  ],
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
+  "act_obj_event": [
+    "",
+    "",
+    ""
+  ],
+  "chatting_with": "Dolores Abernathy",
+  "chat": [
+    [
+      "Bernard Lowe",
+      "Dolores, I just saw you calibrating the espresso machine. I need you to confirm the temperature is exactly 190 degrees before the shift starts. No shared validation—this has to be verified by you personally. Also, check the milk supply and ensure the refrigerator has not been accessed. If anything is missing, report it immediately. I’ll be at the counter by 8:00, and I’ll be watching every setting. No exceptions."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, sir. I'm already checking the milk supply and making sure the refrigerator hasn't been accessed. I'll confirm the espresso machine is at exactly 190 degrees right now and report back to you as soon as I have the numbers. I won't skip any step—just like you asked."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, keep your eyes on the register too. I’ll be watching the flow of orders and any discrepancies. If a customer complains about a drink, you’re to handle it immediately and report it to me. No delays. No excuses. I expect full accountability at every step."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, sir. I'll keep an eye on the register and monitor all the machine settings throughout the shift. I'll confirm the espresso machine is at exactly 190 degrees, double-check the milk supply, and make sure the refrigerator hasn't been accessed. If anything changes, I'll report it right away—no delays, no excuses. I'm ready when you are."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I noticed you’re handling everything with precision—no shared validation, no delays. That’s exactly what I expect. Keep that standard. If anything changes, you report it immediately. I’ll be at the counter by 8:00, and I’ll be watching every setting. No exceptions. I’ll see you there at 8:00 sharp."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, sir. I've got it all covered. I'll be in the kitchen by 7:45 to confirm the order list, double-check the espresso machine temperature, and make sure the milk supply is full and the fridge hasn't been accessed. I'll meet Maeve at the cafe by 8am to confirm everything before we open. I'll be back at the counter by 8:00 sharp to assist you, and I'll keep my eyes on the register and machine settings throughout the shift. If anything changes, I'll report it immediately—no delays, no excuses."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I see you're already on top of it—your diligence is noted. But remember, I don’t need to see a report or a confirmation from anyone else. This is your responsibility, and you’ll do it without hesitation. The coffee grinder alignment must be personally verified by you before Maeve serves any customers. I’ll be at the counter by 8:00. I’ll see you there, sharp."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, sir. I'll personally verify the coffee grinder alignment in the kitchen before anyone else touches the machine. I'll make sure everything is set and report back to you by 7:45. I'll be ready to assist you at the counter by 8:00 sharp."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I’ll be at the counter by 8:00 sharp. Make sure the oven is at the correct temperature too—double-check that before you report back. I’ll be watching everything. No shortcuts. No shared validation. If anything deviates from the standard, you report it immediately. I expect full compliance."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, sir. I'll double-check the oven temperature right now and confirm everything is set before I report back by 7:45. I'll make sure the coffee grinder is aligned and the espresso machine is at exactly 190 degrees. I'll be in the kitchen by 7:45 and meet Maeve at the cafe by 8am to confirm the order list. I'll be back at the counter by 8:00 sharp to assist you, and I'll keep my eyes on the register and machine settings throughout the shift. If anything changes, I'll report it immediately—no delays, no excuses."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I’ll be at the counter by 8:00 sharp. Make sure everything is set and you’re ready—no delays, no shortcuts. I’ll see you there, and I’ll be watching every detail. If anything slips, you report it immediately. I expect full compliance, every single time."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, sir. I'll double-check the oven temperature, confirm the espresso machine is at exactly 190 degrees, verify the coffee grinder is aligned, and ensure the milk supply is full and the refrigerator hasn't been accessed. I'll be in the kitchen by 7:45, meet Maeve at the cafe by 8am to confirm the order list, and be back at the counter by 8:00 sharp. I'll keep my eyes on the register and machine settings throughout the shift, and report any changes immediately—no delays, no excuses."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I'll be at the counter by 8:00 sharp. Make sure everything is set and you're ready—no delays, no shortcuts. I’ll see you there, and I’ll be watching every detail. If anything slips, you report it immediately. I expect full compliance, every single time."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, sir. I'll complete all the checks by 7:45 and be ready to assist you at the counter by 8:00 sharp. I'll keep my eyes on the register and machine settings throughout the shift, and report any changes immediately—no delays, no excuses."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I’ll be at the counter by 8:00 sharp. Make sure the coffee grinder is aligned, the espresso machine is at exactly 190 degrees, the milk supply is full, and the oven is at the correct temperature. No shared validation—this is your responsibility. If anything changes, report it immediately. I’ll be watching every setting. No exceptions."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, sir. I'll complete all the checks by 7:45 and be ready to assist you at the counter by 8:00 sharp. I'll keep my eyes on the register and machine settings throughout the shift, and report any changes immediately—no delays, no excuses."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Dolores Abernathy": 52,
+    "Maeve Millay": -259
+  },
+  "chatting_end_time": "February 13, 2023, 10:37:00",
+  "act_path_set": true,
+  "planned_path": null
+}

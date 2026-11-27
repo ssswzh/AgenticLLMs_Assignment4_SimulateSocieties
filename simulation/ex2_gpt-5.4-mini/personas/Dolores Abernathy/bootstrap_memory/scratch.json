@@ -1,0 +1,432 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:37:30",
+  "curr_tile": [
+    78,
+    19
+  ],
+  "daily_plan_req": "Dolores Abernathy wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she goes straight back to her room at the dorm and reads. She has dinner at the dorm at 6pm. She spends the rest of the evening reading and working on the computer in her room. She goes to bed at 11pm.",
+  "name": "Dolores Abernathy",
+  "first_name": "Dolores",
+  "last_name": "Abernathy",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Dolores Abernathy is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Dolores and Maeve are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Dolores goes straight to her room and reads. She loves to read.",
+  "currently": "Dolores is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Dolores Abernathy wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she reads in her room. She has dinner around 6pm. She reads in her room until she goes to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 45,
+  "importance_ele_n": 22,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "have breakfast at 7:30 am",
+    "walk to Hobbs Cafe by 8:00 am",
+    "work the counter from 8:00 am to 4:00 pm",
+    "have dinner at 6:00 pm",
+    "read a book from 6:30 pm to 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (waking up from sleep)",
+      1
+    ],
+    [
+      "coordinating morning shift preparations by reviewing new customer orders and drink preferences together in the common area by 7:45",
+      8
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (checking the phone for messages)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (getting out of bed)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (putting on clothes)",
+      5
+    ],
+    [
+      "coordinating morning rush preparations by verifying new customer preferences and ensuring both team members have a copy of the list by 7:45",
+      8
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (brushing teeth)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (showering)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (drying hair)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (applying makeup)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (preparing breakfast items)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (eating breakfast)",
+      1
+    ],
+    [
+      "coordinating morning shift preparations and confirming lactose-intolerant customer preferences for all orders",
+      9
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (eating breakfast)",
+      4
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (organizing personal items)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (finalizing morning routine)",
+      5
+    ],
+    [
+      "coordinating meeting in the common area by 7:45 to review and verify the lactose-free note on the customer preferences list during the morning rush",
+      4
+    ],
+    [
+      "walking to Hobbs Cafe (checking the weather forecast)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (reviewing the cafe’s daily schedule)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (confirming the route to Hobbs Cafe)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (preparing breakfast items)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (packing a light jacket)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (checking phone for messages)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (setting navigation on phone)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (adjusting backpack straps)",
+      4
+    ],
+    [
+      "serving customers at the counter (checking the register)",
+      5
+    ],
+    [
+      "serving customers at the counter (preparing coffee supplies)",
+      3
+    ],
+    [
+      "coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+      7
+    ],
+    [
+      "serving customers at the counter (preparing coffee supplies)",
+      2
+    ],
+    [
+      "serving customers at the counter (setting up the espresso machine)",
+      1
+    ],
+    [
+      "ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+      15
+    ],
+    [
+      "serving customers at the counter (setting up the espresso machine)",
+      1
+    ],
+    [
+      "coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+      12
+    ],
+    [
+      "serving customers at the counter (setting up the espresso machine)",
+      3
+    ],
+    [
+      "serving customers at the counter (organizing ingredients for drinks)",
+      5
+    ],
+    [
+      "serving customers at the counter (inspecting the display shelves)",
+      5
+    ],
+    [
+      "serving customers at the counter (calibrating the temperature settings)",
+      2
+    ],
+    [
+      "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+      21
+    ],
+    [
+      "serving customers at the counter (calibrating the temperature settings)",
+      1
+    ],
+    [
+      "upholding a strict protocol for lactose-free order visibility and accountability by ensuring the customer list and note are visibly confirmed and accessible by 7:45 with immediate reporting of any changes",
+      19
+    ],
+    [
+      "serving customers at the counter (calibrating the temperature settings)",
+      2
+    ],
+    [
+      "serving customers at the counter (reviewing customer order patterns)",
+      5
+    ],
+    [
+      "serving customers at the counter (preparing the morning menu board)",
+      5
+    ],
+    [
+      "serving customers at the counter (checking inventory levels)",
+      5
+    ],
+    [
+      "serving customers at the counter (opening the customer service counter)",
+      10
+    ],
+    [
+      "serving customers at the counter (greeting arriving customers)",
+      15
+    ],
+    [
+      "serving customers at the counter (taking customer orders)",
+      15
+    ],
+    [
+      "serving customers at the counter (preparing beverages)",
+      20
+    ],
+    [
+      "serving customers at the counter (handling special requests)",
+      20
+    ],
+    [
+      "serving customers at the counter (assisting with table setup)",
+      20
+    ],
+    [
+      "serving customers at the counter (monitoring customer flow)",
+      20
+    ],
+    [
+      "serving customers at the counter (addressing customer concerns)",
+      20
+    ],
+    [
+      "serving customers at the counter (updating order logs)",
+      20
+    ],
+    [
+      "serving customers at the counter (managing cash transactions)",
+      20
+    ],
+    [
+      "serving customers at the counter (processing credit card payments)",
+      20
+    ],
+    [
+      "serving customers at the counter (cleaning station surfaces)",
+      20
+    ],
+    [
+      "serving customers at the counter (restocking drink cups)",
+      20
+    ],
+    [
+      "serving customers at the counter (replenishing sugar and syrups)",
+      20
+    ],
+    [
+      "serving customers at the counter (cleaning the espresso machine)",
+      20
+    ],
+    [
+      "serving customers at the counter (wiping down the counter)",
+      17
+    ],
+    [
+      "ending work shift",
+      60
+    ],
+    [
+      "going home to dorm, having dinner",
+      60
+    ],
+    [
+      "reading a book",
+      300
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up, completing morning routine, having breakfast",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      420
+    ],
+    [
+      "ending work shift",
+      60
+    ],
+    [
+      "going home to dorm, having dinner",
+      60
+    ],
+    [
+      "reading a book",
+      300
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "\u003cpersona\u003e Bernard Lowe",
+  "act_start_time": "February 13, 2023, 10:27:00",
+  "act_duration": 19,
+  "act_description": "upholding a strict protocol for lactose-free order visibility and accountability by ensuring the customer list and note are visibly confirmed and accessible by 7:45 with immediate reporting of any changes",
+  "act_pronunciatio": "💬",
+  "act_event": [
+    "Dolores Abernathy",
+    "chat with",
+    "Bernard Lowe"
+  ],
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
+  "act_obj_event": [
+    "",
+    "",
+    ""
+  ],
+  "chatting_with": "Bernard Lowe",
+  "chat": [
+    [
+      "Bernard Lowe",
+      "Dolores, you've double-checked that list four times today. I expect immediate action, not hesitation. The lactose-free note must be visible and confirmed by Maeve by 7:45, and the espresso machine must be ready by 8:05. If it’s not, I’ll intervene. No exceptions. I don’t have time for delays or repeated confirmations."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, Mr. Lowe. I’ve already confirmed with Maeve that the lactose-free note is clearly highlighted on the customer list and visible on the counter. We’ve double-checked every order, especially those with dairy-based drinks. The espresso machine is ready, and I’ll keep an eye on everything throughout the morning rush. I’m here to ensure everything is accurate and safe for our customers."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I’ve heard you confirm the note four times—without showing me the list. That’s not diligence, that’s a failure to communicate. If you’re going to follow protocol, do it visibly and immediately. I expect to see the list and the note in front of me by 7:45. If you can’t meet that, then you’re not doing your job properly. I’ll have no choice but to take over the verification myself."
+    ],
+    [
+      "Dolores Abernathy",
+      "Mr. Lowe, I understand your concern, and I appreciate your emphasis on clear visibility and protocol. I’ve just double-checked with Maeve again—both the customer list and the lactose-free note are clearly highlighted and visible in the common area. I’ll be in the common area by 7:45 with a copy of the list, and I’ll confirm everything one last time with you before the morning rush begins. I’ve also kept an eye on all orders, especially those with dairy-based drinks, and I’ll report immediately if anything changes. I’m committed to ensuring accuracy and safety, and I’ll do everything I can to meet the standard you’ve set."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I’ve seen you confirm that list four times—without showing me the list. That’s not diligence, that’s negligence. If you’re going to follow protocol, you must show me the list by 7:45. If you can’t do that, then you’re not fulfilling your responsibility. I’ll take over the verification myself. No room for error, no room for hesitation. I expect to see the list and the note in front of me, clearly visible and confirmed. If you don’t meet that, you’ll be out of the position."
+    ],
+    [
+      "Dolores Abernathy",
+      "Mr. Lowe, I understand your expectation fully, and I’m committed to meeting it. I’ll be in the common area by 7:45 with a clear copy of the customer list, the lactose-free note prominently highlighted, and verified with Maeve. I’ll also ensure the note is visibly displayed on the counter. I’ve double-checked all orders, especially those with dairy-based drinks, and will keep a close eye throughout the morning rush. If there’s any change, I’ll report it immediately. I’m here to ensure accuracy and safety, and I’ll do everything I can to uphold the protocol you’ve set."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I’ve seen you confirm that list four times—without showing me the list. That’s not diligence, that’s negligence. If you’re going to follow protocol, you must show me the list by 7:45. If you can’t do that, then you’re not fulfilling your responsibility. I’ll take over the verification myself. No room for error, no room for hesitation. I expect to see the list and the note in front of me, clearly visible and confirmed. If you don’t meet that, you’ll be out of the position."
+    ],
+    [
+      "Dolores Abernathy",
+      "Mr. Lowe, I understand your concern and the importance of clear visibility. I’ll be in the common area by 7:45 with a copy of the customer list, the lactose-free note clearly highlighted, and verified with Maeve. I’ll also ensure the note is visibly displayed on the counter. I’ve double-checked all orders, especially those with dairy-based drinks, and will keep a close eye throughout the morning rush. If there’s any change, I’ll report it immediately. I’m committed to upholding the protocol you’ve set and ensuring every order is accurate and safe for our customers."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I’ve seen you confirm that list four times—without showing me the list. That’s not diligence, that’s negligence. If you’re going to follow protocol, you must show me the list by 7:45. If you can’t do that, then you’re not fulfilling your responsibility. I’ll take over the verification myself. No room for error, no room for hesitation. I expect to see the list and the note in front of me, clearly visible and confirmed. If you don’t meet that, you’ll be out of the position."
+    ],
+    [
+      "Dolores Abernathy",
+      "Mr. Lowe, I understand your concern completely, and I’m committed to meeting every part of the protocol. I’ll be in the common area by 7:45 with a clear, printed copy of the customer list, the lactose-free note prominently highlighted and visible. I’ve already confirmed with Maeve that all orders—especially those with dairy-based drinks—are flagged and double-checked. I’ll keep a close eye throughout the morning rush and report any changes immediately. I’ll also ensure the note is clearly visible on the counter at all times. I’m here to uphold the standard you’ve set, and I’ll do everything I can to ensure accuracy and safety for every customer."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I’ve heard you say you’ve confirmed it four times—without showing me the list. That’s not professionalism, that’s a breach of protocol. I expect to see the list and the note in front of me by 7:45. If you’re not there, if you’re not visible, if you’re not accountable—I’ll step in. No exceptions. This isn’t about being careful. This is about being responsible. And if you can’t meet that, you’re not serving the standard I’ve built this place on."
+    ],
+    [
+      "Dolores Abernathy",
+      "Mr. Lowe, I understand your expectations fully and I’m committed to meeting them. I’ll be in the common area by 7:45 with a clear, printed copy of the customer list, the lactose-free note prominently highlighted and visible. I’ve already confirmed with Maeve that all orders—especially those with dairy-based drinks—are flagged and double-checked. I’ll keep a close eye throughout the morning rush and report any changes immediately. I’ll also ensure the note is clearly visible on the counter at all times. I’m here to uphold the standard you’ve set, and I’ll do everything I can to ensure accuracy and safety for every customer."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I’ve seen you confirm it four times—without showing me the list. That’s not diligence, that’s negligence. If you’re going to follow protocol, you must show me the list by 7:45. If you can’t do that, then you’re not fulfilling your responsibility. I’ll take over the verification myself. No room for error, no room for hesitation. I expect to see the list and the note in front of me, clearly visible and confirmed. If you don’t meet that, you’ll be out of the position."
+    ],
+    [
+      "Dolores Abernathy",
+      "Mr. Lowe, I’m already in the common area with a clear copy of the customer list, and the lactose-free note is prominently highlighted and visible. I’ve double-checked it with Maeve, and we’ve confirmed all orders—especially those with dairy-based drinks—are properly flagged. I’ll keep a vigilant eye throughout the morning rush and report any changes immediately. I’m committed to ensuring every detail is visible and accurate, as you’ve emphasized. I’m here to uphold the standard you’ve set, and I’ll do everything I can to meet it."
+    ],
+    [
+      "Bernard Lowe",
+      "Dolores, I’ve seen you confirm it four times—without showing me the list. That’s not diligence, that’s negligence. I expect to see the list and the note in front of me by 7:45. If you’re not there, if you’re not visible, if you’re not accountable—I’ll step in. No exceptions. This isn’t about being careful. This is about being responsible. And if you can’t meet that, you’re not serving the standard I’ve built this place on."
+    ],
+    [
+      "Dolores Abernathy",
+      "Mr. Lowe, I’m already in the common area with the customer list and the lactose-free note clearly highlighted. I’ve just double-checked with Maeve again to confirm all orders—especially those with dairy-based drinks—are properly flagged. The note is visible on the counter, and I’ll keep a vigilant eye throughout the morning rush. If anything changes, I’ll report it immediately. I’m committed to upholding the standard you’ve set, and I’ve made sure every detail is visible and accurate."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Bernard Lowe": 57,
+    "Maeve Millay": -236
+  },
+  "chatting_end_time": "February 13, 2023, 10:47:00",
+  "act_path_set": true,
+  "planned_path": null
+}

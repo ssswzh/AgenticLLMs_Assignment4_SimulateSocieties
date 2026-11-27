@@ -1,0 +1,91 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🍳",
+      "description": "waking up, completing morning routine, walking to Hobbs Cafe (waking up) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        123,
+        47
+      ],
+      "pronunciato": "🍳",
+      "description": "waking up, completing morning routine, having breakfast (waking up) @ the Ville:Dorm for Oak Hill College:kitchen",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging morning greetings and confirming breakfast routines at hobbs cafe by 8 @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just saw you waking up—how’s your morning going so far? I hope your breakfast is as good as mine."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! My morning is going well so far—just getting ready for breakfast. Yours must be amazing, since you’re already off to a great start. I’ll be heading to Hobbs Cafe soon, so I’ll see you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just saw you waking up—how’s your morning going so far? I hope your breakfast is as good as mine. I’ll be heading to Hobbs Cafe soon too, so I’ll see you there!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm just getting my breakfast ready—something simple like toast and fruit. I’ll be at Hobbs Cafe by 8, so I’ll see you there when you start work. Hope your morning is going well too!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just saw you getting your breakfast—toast and fruit, I love that. Simple and perfect. I’ll be at the cafe by 8, so I’ll see you there when you start. Hope your day at work goes smoothly!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm just getting my toast and fruit ready—simple stuff, but it's a nice start. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day at work goes smoothly too!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just saw you getting your toast and fruit—simple and perfect. I’ll be at the cafe by 8, so I’ll see you there when you start. Hope your day at work goes smoothly too!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm just getting my toast and fruit ready—simple stuff, but it's a nice start. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day at work goes smoothly too!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just saw you getting your toast and fruit—simple stuff, but it's a nice start. I’ll be at the cafe by 8, so I’ll see you there when you start. Hope your day at work goes smoothly too!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm just finishing up my toast and fruit—simple, but it's a good start. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day at work goes smoothly too!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just saw you getting your toast and fruit—simple, but it's a good start. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day at work goes smoothly too!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm just finishing up my toast and fruit—simple, but it's a good start. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day at work goes smoothly too!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just saw you getting your toast and fruit—simple, but it's a good start. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day at work goes smoothly too!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm all set with my breakfast—just toast and fruit. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day goes smoothly too!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:01:50"
+  }
+}

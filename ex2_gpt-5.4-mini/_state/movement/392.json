@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "opening Hobbs Cafe, managing operations, monitoring baristas (unlocking the door) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning shift preparations and confirming lactose-intolerant customer preferences for all orders @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I just woke up and was making my breakfast. You’re already up too, huh? I noticed the new customer list—do you have a copy of it yet? We should both be in the common area by 7:45 to go over it together."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I just finished putting on my clothes and I’m already grabbing a quick breakfast. I have the list with me—just double-checking it now to make sure I didn’t miss anything. We should both be in the common area by 7:45, right? I’ll bring my copy and we can go over the new customers’ preferences together before we head out."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll head to the common area by 7:45 too—just want to make sure we’ve got the new customers’ drink preferences straight before the rush starts. Thanks for sharing the list, I’ll double-check the order too so we’re both on the same page."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, no problem. Just wanted to confirm—did you get the new customers’ preferences for coffee and tea? I think one of them has a lactose intolerance, so we should make sure we don’t serve anything with dairy unless they ask for it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I just checked the list too—same thing, one of the new customers has lactose intolerance. I’ll make sure to flag that in the order. We’re both on the same page now, right? Let’s just make sure we don’t serve any dairy-based drinks without a request."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, I’ve double-checked the list and confirmed the lactose intolerance note. I’ll make sure to keep it visible on the counter too. Thanks for catching that—let’s both keep an eye on it during the morning rush. I’ll be in the common area by 7:45, ready to go over any updates you might have."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll keep an eye on the list and make sure the lactose-free note is clearly marked in the order. I’ll be in the common area by 7:45 too—just want to confirm we’re both on the same page before the rush starts."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, ready to go over any updates you might have. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure to flag the lactose-free note in the order and keep an eye on the list. I’ll be in the common area by 7:45 too—just want to confirm everything is clear before the rush starts. Thanks again for double-checking!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, ready to go over any updates you might have. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure to flag the lactose-free note in every order and keep a copy of the list in my pocket. I’ll be in the common area by 7:45, ready to go over anything else you might have noticed. Thanks again for double-checking!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, ready to go over any updates you might have. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 too—just want to make sure we’re both on the same page before the rush starts. Thanks again for double-checking the list and the lactose intolerance note!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, ready to go over anything else you might have noticed. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure to keep the lactose-free note visible in my copy and double-check every order during the morning rush. I’ll be in the common area by 7:45—ready to go over anything else you might have noticed."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, ready to go over anything else you might have noticed. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning shift preparations and confirming lactose-intolerant customer preferences for all orders @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I just woke up and was making my breakfast. You’re already up too, huh? I noticed the new customer list—do you have a copy of it yet? We should both be in the common area by 7:45 to go over it together."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I just finished putting on my clothes and I’m already grabbing a quick breakfast. I have the list with me—just double-checking it now to make sure I didn’t miss anything. We should both be in the common area by 7:45, right? I’ll bring my copy and we can go over the new customers’ preferences together before we head out."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll head to the common area by 7:45 too—just want to make sure we’ve got the new customers’ drink preferences straight before the rush starts. Thanks for sharing the list, I’ll double-check the order too so we’re both on the same page."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, no problem. Just wanted to confirm—did you get the new customers’ preferences for coffee and tea? I think one of them has a lactose intolerance, so we should make sure we don’t serve anything with dairy unless they ask for it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I just checked the list too—same thing, one of the new customers has lactose intolerance. I’ll make sure to flag that in the order. We’re both on the same page now, right? Let’s just make sure we don’t serve any dairy-based drinks without a request."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, I’ve double-checked the list and confirmed the lactose intolerance note. I’ll make sure to keep it visible on the counter too. Thanks for catching that—let’s both keep an eye on it during the morning rush. I’ll be in the common area by 7:45, ready to go over any updates you might have."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll keep an eye on the list and make sure the lactose-free note is clearly marked in the order. I’ll be in the common area by 7:45 too—just want to confirm we’re both on the same page before the rush starts."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, ready to go over any updates you might have. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure to flag the lactose-free note in the order and keep an eye on the list. I’ll be in the common area by 7:45 too—just want to confirm everything is clear before the rush starts. Thanks again for double-checking!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, ready to go over any updates you might have. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure to flag the lactose-free note in every order and keep a copy of the list in my pocket. I’ll be in the common area by 7:45, ready to go over anything else you might have noticed. Thanks again for double-checking!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, ready to go over any updates you might have. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 too—just want to make sure we’re both on the same page before the rush starts. Thanks again for double-checking the list and the lactose intolerance note!"
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, ready to go over anything else you might have noticed. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll make sure to keep the lactose-free note visible in my copy and double-check every order during the morning rush. I’ll be in the common area by 7:45—ready to go over anything else you might have noticed."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, ready to go over anything else you might have noticed. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:04:20"
+  }
+}

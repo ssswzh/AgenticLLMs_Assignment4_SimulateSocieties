@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "opening Hobbs Cafe, supervising baristas, serving customers at the counter (unlocking the door) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring coffee is hot, counters are clean, and fruit supplies are stocked before opening for the morning rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished my toast and some fruit—simple and perfect, just like you said. I hope you're doing well today. We’ll be ready to serve customers by 8, so let’s make sure the coffee is hot and the counters are clean."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Your toast and fruit are exactly what I was thinking of too—simple, fresh, and just right. I’ve already poured the coffee and set the counter ready. Let’s keep it that way and make sure we’re both on time for the morning rush. I’ll check the fridge again to make sure we have enough fruit before we head in."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished my toast and some fruit—simple and perfect, just like you said. I hope you're doing well today. We’ll be ready to serve customers by 8, so let’s make sure the coffee is hot and the counters are clean. I’ll double-check the fridge too, just in case we need more fruit. Let’s keep it simple and steady—like we always do."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just made a smoothie with fresh berries and a touch of banana—simple, too, but something I enjoy. I’ll keep an eye on the fridge and make sure we have enough fruit for the morning rush. Let’s both stay calm and steady, just like we do. I’m ready to head in once we’re both on time."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just checked the fridge—there’s enough fruit for today. I’ll keep an eye on the toaster too, just in case it needs a restart. Let’s both stay calm and steady, like we always do. I’ll be ready by 8, just like we agreed."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and I’m all set. Let’s make sure the counter is clean and the coffee is hot—like we always do. I’ll head out once we’re both ready. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just double-checked the toaster—it’s working fine now. I’ll keep an eye on the sink too, in case we need to clean up anything before we go. Let’s make sure everything is spotless and ready for the morning rush. I’ll be there by 8, just like we planned."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just checked the fridge again—everything’s stocked. I’ll keep an eye on the toaster and sink too. Let’s make sure we’re both ready by 8. I’ll be there as soon as I finish tidying up. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just made sure the sink is clean and the toaster is running smoothly. Everything looks ready. Let’s keep it simple and steady—like we always do. I’ll be at the cafe by 8, just as we planned. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished tidying up the kitchen—coffee poured, counter clean, fridge checked. Everything’s ready. I’ll be at the cafe by 8, just like we said. Let’s keep it simple and steady—like always. See you there!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished checking everything—coffee is hot, fridge is stocked, toaster is on, and the sink is clean. Everything looks ready. Let’s keep it simple and steady, just like we always do. I’ll be at the cafe by 8, just as we planned. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished checking everything—coffee is hot, counter is clean, fridge is stocked, and the toaster is running. Everything’s ready. I’ll be at the cafe by 8, just like we planned. Let’s keep it simple and steady—like always. See you there!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just double-checked everything—coffee is hot, the fridge is stocked, the toaster is on, and the sink is clean. Everything looks ready. Let’s keep it simple and steady, just like we always do. I’ll be at the cafe by 8, just as we planned. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished everything—coffee is hot, counter is clean, fridge is stocked, and the toaster is running. Everything’s ready. I’ll be at the cafe by 8, just like we said. Let’s keep it simple and steady—like always. See you there!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished checking everything—coffee is hot, fridge is stocked, toaster is on, and the sink is clean. Everything looks ready. Let’s keep it simple and steady, just like we always do. I’ll be at the cafe by 8, just as we planned. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished everything—coffee is hot, counter is clean, fridge is stocked, and the toaster is running. Everything’s ready. I’ll be at the cafe by 8, just like we said. Let’s keep it simple and steady—like always. See you there!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring coffee is hot, counters are clean, and fruit supplies are stocked before opening for the morning rush @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished my toast and some fruit—simple and perfect, just like you said. I hope you're doing well today. We’ll be ready to serve customers by 8, so let’s make sure the coffee is hot and the counters are clean."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Your toast and fruit are exactly what I was thinking of too—simple, fresh, and just right. I’ve already poured the coffee and set the counter ready. Let’s keep it that way and make sure we’re both on time for the morning rush. I’ll check the fridge again to make sure we have enough fruit before we head in."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished my toast and some fruit—simple and perfect, just like you said. I hope you're doing well today. We’ll be ready to serve customers by 8, so let’s make sure the coffee is hot and the counters are clean. I’ll double-check the fridge too, just in case we need more fruit. Let’s keep it simple and steady—like we always do."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just made a smoothie with fresh berries and a touch of banana—simple, too, but something I enjoy. I’ll keep an eye on the fridge and make sure we have enough fruit for the morning rush. Let’s both stay calm and steady, just like we do. I’m ready to head in once we’re both on time."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just checked the fridge—there’s enough fruit for today. I’ll keep an eye on the toaster too, just in case it needs a restart. Let’s both stay calm and steady, like we always do. I’ll be ready by 8, just like we agreed."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished my smoothie and I’m all set. Let’s make sure the counter is clean and the coffee is hot—like we always do. I’ll head out once we’re both ready. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just double-checked the toaster—it’s working fine now. I’ll keep an eye on the sink too, in case we need to clean up anything before we go. Let’s make sure everything is spotless and ready for the morning rush. I’ll be there by 8, just like we planned."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just checked the fridge again—everything’s stocked. I’ll keep an eye on the toaster and sink too. Let’s make sure we’re both ready by 8. I’ll be there as soon as I finish tidying up. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just made sure the sink is clean and the toaster is running smoothly. Everything looks ready. Let’s keep it simple and steady—like we always do. I’ll be at the cafe by 8, just as we planned. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished tidying up the kitchen—coffee poured, counter clean, fridge checked. Everything’s ready. I’ll be at the cafe by 8, just like we said. Let’s keep it simple and steady—like always. See you there!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished checking everything—coffee is hot, fridge is stocked, toaster is on, and the sink is clean. Everything looks ready. Let’s keep it simple and steady, just like we always do. I’ll be at the cafe by 8, just as we planned. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished checking everything—coffee is hot, counter is clean, fridge is stocked, and the toaster is running. Everything’s ready. I’ll be at the cafe by 8, just like we planned. Let’s keep it simple and steady—like always. See you there!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just double-checked everything—coffee is hot, the fridge is stocked, the toaster is on, and the sink is clean. Everything looks ready. Let’s keep it simple and steady, just like we always do. I’ll be at the cafe by 8, just as we planned. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished everything—coffee is hot, counter is clean, fridge is stocked, and the toaster is running. Everything’s ready. I’ll be at the cafe by 8, just like we said. Let’s keep it simple and steady—like always. See you there!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just finished checking everything—coffee is hot, fridge is stocked, toaster is on, and the sink is clean. Everything looks ready. Let’s keep it simple and steady, just like we always do. I’ll be at the cafe by 8, just as we planned. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just finished everything—coffee is hot, counter is clean, fridge is stocked, and the toaster is running. Everything’s ready. I’ll be at the cafe by 8, just like we said. Let’s keep it simple and steady—like always. See you there!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:03:20"
+  }
+}

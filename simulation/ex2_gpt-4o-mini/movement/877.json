@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        72,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "verifying milk supply, espresso machine temperature, oven settings, and coffee grinder alignment before opening with strict time and accountability expectations @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I just came in to check the register and saw you were inspecting the coffee grinder. Everything looks set for the morning shift, if you don't mind me asking, is there anything specific you'd like me to verify before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "The coffee grinder is set, but you still need to verify the milk supply and ensure the espresso machine is at exactly 190 degrees. I expect the refrigerator to remain untouched. If anything is missing, report it immediately. I don't have time for excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll double-check the milk supply right now and confirm the espresso machine is at 190 degrees. I’ll report any missing items immediately. Is there anything else you’d like me to verify before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Move to the refrigerator and confirm it hasn't been accessed. I don't need a report—just a quick confirmation. If the milk is low or the beans are missing, I'll know. Don't waste time explaining. I expect the espresso machine at 190 degrees, the oven temperature checked, and the coffee grinder aligned by 8:00. I'll be at the counter by then. No delays."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll move to the refrigerator now to confirm it hasn't been accessed. I'll also check the oven temperature and make sure the coffee grinder is aligned. Once I've verified everything, I'll let you know so we can proceed with opening."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be at the counter by 8:00. If anything's off, I'll know. Don't wait for my approval—just do it right. No excuses, no delays. Move quickly and get back to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll check the refrigerator now, confirm the milk supply, verify the oven temperature, and make sure the coffee grinder is aligned. I'll be back with a quick update by 7:55, so we can proceed with opening."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be at the counter by 8:00. If the espresso machine isn't at 190 degrees or the milk is low, I'll know. Don't wait for my approval—just do it right. No excuses, no delays. Move quickly and get back to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll be right back with a confirmation, sir. I just need to double-check the refrigerator, milk supply, oven temperature, and coffee grinder alignment before reporting back."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be at the counter by 8:00. If anything's off, I'll know. Don't wait for my approval—just do it right. No excuses, no delays. Move quickly and get back to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll check the refrigerator now and confirm the milk supply, oven temperature, and coffee grinder alignment. Once I've verified everything, I'll be back with a quick update by 7:55, so we can proceed with opening."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be at the counter by 8:00. If the espresso machine isn't at 190 degrees or the milk is low, I'll know. Don't wait for my approval—just do it right. No excuses, no delays. Move quickly and get back to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've just checked the refrigerator—no access, all items are in place. The milk supply is full, the oven temperature is set to 190 degrees, and the coffee grinder is aligned. The espresso machine is also at 190 degrees. Everything is ready, sir. I'll be back at the counter by 8:00 to assist you."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Keep your eyes on the register and the counter. If anything shifts, I'll know. No more delays. I'll be at the counter by 8:00. Stay sharp."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've just confirmed everything, sir. The refrigerator is secure, milk supply is full, oven is at 190 degrees, coffee grinder is aligned, and the espresso machine is set to 190 degrees. I'll be at the counter by 8:00 to assist you as requested."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, move to the counter and begin serving. I'll be there by 8:00. Keep your eyes on the register and the machine settings. If anything changes, I'll know. No delays, no excuses."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        72,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "verifying milk supply, espresso machine temperature, oven settings, and coffee grinder alignment before opening with strict time and accountability expectations @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I just came in to check the register and saw you were inspecting the coffee grinder. Everything looks set for the morning shift, if you don't mind me asking, is there anything specific you'd like me to verify before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "The coffee grinder is set, but you still need to verify the milk supply and ensure the espresso machine is at exactly 190 degrees. I expect the refrigerator to remain untouched. If anything is missing, report it immediately. I don't have time for excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll double-check the milk supply right now and confirm the espresso machine is at 190 degrees. I’ll report any missing items immediately. Is there anything else you’d like me to verify before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Move to the refrigerator and confirm it hasn't been accessed. I don't need a report—just a quick confirmation. If the milk is low or the beans are missing, I'll know. Don't waste time explaining. I expect the espresso machine at 190 degrees, the oven temperature checked, and the coffee grinder aligned by 8:00. I'll be at the counter by then. No delays."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll move to the refrigerator now to confirm it hasn't been accessed. I'll also check the oven temperature and make sure the coffee grinder is aligned. Once I've verified everything, I'll let you know so we can proceed with opening."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be at the counter by 8:00. If anything's off, I'll know. Don't wait for my approval—just do it right. No excuses, no delays. Move quickly and get back to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll check the refrigerator now, confirm the milk supply, verify the oven temperature, and make sure the coffee grinder is aligned. I'll be back with a quick update by 7:55, so we can proceed with opening."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be at the counter by 8:00. If the espresso machine isn't at 190 degrees or the milk is low, I'll know. Don't wait for my approval—just do it right. No excuses, no delays. Move quickly and get back to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll be right back with a confirmation, sir. I just need to double-check the refrigerator, milk supply, oven temperature, and coffee grinder alignment before reporting back."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be at the counter by 8:00. If anything's off, I'll know. Don't wait for my approval—just do it right. No excuses, no delays. Move quickly and get back to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll check the refrigerator now and confirm the milk supply, oven temperature, and coffee grinder alignment. Once I've verified everything, I'll be back with a quick update by 7:55, so we can proceed with opening."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be at the counter by 8:00. If the espresso machine isn't at 190 degrees or the milk is low, I'll know. Don't wait for my approval—just do it right. No excuses, no delays. Move quickly and get back to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've just checked the refrigerator—no access, all items are in place. The milk supply is full, the oven temperature is set to 190 degrees, and the coffee grinder is aligned. The espresso machine is also at 190 degrees. Everything is ready, sir. I'll be back at the counter by 8:00 to assist you."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Keep your eyes on the register and the counter. If anything shifts, I'll know. No more delays. I'll be at the counter by 8:00. Stay sharp."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've just confirmed everything, sir. The refrigerator is secure, milk supply is full, oven is at 190 degrees, coffee grinder is aligned, and the espresso machine is set to 190 degrees. I'll be at the counter by 8:00 to assist you as requested."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, move to the counter and begin serving. I'll be there by 8:00. Keep your eyes on the register and the machine settings. If anything changes, I'll know. No delays, no excuses."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🚶‍♂️",
+      "description": "walking to Hobbs Cafe (walking along the main path) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:25:10"
+  }
+}

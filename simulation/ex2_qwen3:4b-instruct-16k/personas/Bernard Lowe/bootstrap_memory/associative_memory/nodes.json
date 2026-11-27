@@ -1,0 +1,1724 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Bernard Lowe",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:30 am, open Hobbs Cafe at 8:00 am, manage the cafe operations from 8:00 am to 4:00 pm, close Hobbs Cafe at 4:00 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "original_description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:30 am, open Hobbs Cafe at 8:00 am, manage the cafe operations from 8:00 am to 4:00 pm, close Hobbs Cafe at 4:00 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "embedding_key": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:30 am, open Hobbs Cafe at 8:00 am, manage the cafe operations from 8:00 am to 4:00 pm, close Hobbs Cafe at 4:00 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:40:40",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:desk",
+    "predicate": "left",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:desk is being left",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:desk is being left",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:desk is being left",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "desk",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:50:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:desk",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:desk is being used",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:desk is being used",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:desk is being used",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "desk",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:57:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is unoccupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:57:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "original_description": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "embedding_key": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe, supervising baristas, serving customers at the counter (unlocking the door)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe, supervising baristas, serving customers at the counter (unlocking the door)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe, supervising baristas, serving customers at the counter (unlocking the door)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:05:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "supervising",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being supervised",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being supervised",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being supervised",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:10:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "supervising",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe, supervising baristas, serving customers at the counter (checking the coffee machine)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe, supervising baristas, serving customers at the counter (checking the coffee machine)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe, supervising baristas, serving customers at the counter (checking the coffee machine)",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:11:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "poignancy": 0,
+    "valence": -4,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:20:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "supervised",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being supervised",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being supervised",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being supervised",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Bernard Lowe is sleeping",
+    "original_description": "Bernard Lowe is sleeping",
+    "embedding_key": "Bernard Lowe is sleeping",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:25:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (inspecting coffee equipment)",
+    "original_description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (inspecting coffee equipment)",
+    "embedding_key": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (inspecting coffee equipment)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:00:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "checking",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked for bean freshness",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked for bean freshness",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked for bean freshness",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:21:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "original_description": "maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "embedding_key": "maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "poignancy": 8,
+    "valence": -10,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I just finished preparing the station supplies. Everything is ready for the morning rush. Is there anything specific you'd like me to adjust before the first customer arrives?"
+      ],
+      [
+        "Bernard Lowe",
+        "The grinding consistency is off. You're not using the correct pressure. Adjust it immediately—no explanations. I want it precise, every time."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll adjust the grinder right away, Mr. Lowe. I just need a moment to make sure the pressure is correct—will do it now."
+      ],
+      [
+        "Bernard Lowe",
+        "I've seen you fumble with the grinder three times this week. You don't need a moment—just do it. Now, and keep it consistent. Any deviation, and I'll address it immediately."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll adjust the grinder right away, Mr. Lowe. I just need a moment to make sure the pressure is correct—will do it now."
+      ],
+      [
+        "Bernard Lowe",
+        "The pressure should be set at 15 pounds exactly. No more, no less. If you can't get it right, you're not doing your job. I'll be watching. Any hesitation, and I'll call it a failure."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll adjust the grinder right away, Mr. Lowe. I just need a moment to make sure the pressure is set at 15 pounds exactly—will do it now."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll be monitoring the grinder throughout the morning. If it's not at 15 pounds, I'll step in—no exceptions. Keep your hands steady and your eyes on the dial. Any slip, and you'll lose your position at the station."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll adjust the grinder right away, Mr. Lowe. I'm setting it to 15 pounds now—just to be sure it's correct."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll check the grinder again in five minutes. If it's still off, I'll be forced to retrain you—no room for error. Keep your eyes on the dial and your hands steady. Any slip, and you'll be on your own."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll adjust the grinder right away, Mr. Lowe. I'm setting it to 15 pounds now—just to be sure it's correct."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll check the grinder again in three minutes. If it's still not at 15 pounds, I'll be forced to retrain you—no room for error. Keep your hands steady and your eyes on the dial. Any slip, and you'll be on your own."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll adjust the grinder right away, Mr. Lowe. I'm setting it to 15 pounds now—just to be sure it's correct."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll check the grinder again in one minute. If it's still not at 15 pounds, I'll be forced to retrain you—no room for error. Keep your hands steady and your eyes on the dial. Any slip, and you'll be on your own."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll make sure the grinder is set to 15 pounds now, Mr. Lowe. I'm just double-checking the dial to be certain—will keep my hands steady and my eyes on it."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll check the grinder again in 30 seconds. If it's still not at 15 pounds, I'll be forced to retrain you—no room for error. Keep your hands steady and your eyes on the dial. Any slip, and you'll be on your own."
+      ]
+    ]
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "original_description": "Bernard Lowe is maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "embedding_key": "Bernard Lowe is maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "poignancy": 0,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_24"
+    ]
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "original_description": "Dolores Abernathy is maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "embedding_key": "Dolores Abernathy is maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:26:00",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:50",
+    "expiration": "2023-03-15 09:28:50",
+    "subject": "Bernard Lowe",
+    "predicate": "monitor",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to monitor the grinder throughout the morning, check it every 30 seconds, and ensure the pressure is set at exactly 15 pounds, with immediate retraining if it is not achieved.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to monitor the grinder throughout the morning, check it every 30 seconds, and ensure the pressure is set at exactly 15 pounds, with immediate retraining if it is not achieved.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to monitor the grinder throughout the morning, check it every 30 seconds, and ensure the pressure is set at exactly 15 pounds, with immediate retraining if it is not achieved.",
+    "poignancy": 9,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "monitor",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:bed",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:50",
+    "expiration": "2023-03-15 09:28:50",
+    "subject": "Bernard Lowe",
+    "predicate": "found",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy repeatedly requested a moment to ensure the pressure was correct, despite his insistence on immediate and precise action.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy repeatedly requested a moment to ensure the pressure was correct, despite his insistence on immediate and precise action.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy repeatedly requested a moment to ensure the pressure was correct, despite his insistence on immediate and precise action.",
+    "poignancy": 5,
+    "valence": -7,
+    "keywords": [
+      "bernard lowe",
+      "found",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "original_description": "Dolores Abernathy is coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "embedding_key": "Dolores Abernathy is coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "original_description": "Maeve Millay is coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "embedding_key": "Maeve Millay is coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (observing grinding consistency)",
+    "original_description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (observing grinding consistency)",
+    "embedding_key": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (observing grinding consistency)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:30:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored for coffee preparation",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored for coffee preparation",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored for coffee preparation",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:39:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:39:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "checking",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being checked",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being checked",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being checked",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:39:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "original_description": "correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "embedding_key": "correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "poignancy": 8,
+    "valence": -9,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. The coffee is hot, the counter is clean, and I’ve double-checked the toast and fruit. Everything’s ready for the morning rush. Is there anything specific you’d like me to adjust before we open up?"
+      ],
+      [
+        "Bernard Lowe",
+        "Good morning, Maeve. The coffee is hot, the counter is clean, and the toast and fruit are ready—acceptable. But the grinder pressure must be exactly 15 pounds. I’ve already seen it fluctuate. You’ll need to check it every 30 seconds and correct it immediately if it’s not at that pressure. No exceptions. I’ll be monitoring the behind-the-counter operations closely. If it’s off, I’ll retrain you on the spot. That’s how we do it. Now, go serve the first customer."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll make sure the grinder is at exactly 15 pounds every 30 seconds and keep a close eye on it. I’ve been practicing with Dolores to maintain consistency, and I’ll do my best to stay within your standards. Is there anything else you’d like me to verify before we open?"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you check the pressure, but you’re still hesitating to adjust it. That’s not acceptable. If the pressure isn’t at 15 pounds, you must correct it without delay—no second thoughts, no explanations. I expect the same precision from you as from Dolores. Keep your eyes on the grinder and act immediately. I’ll be watching. Now, serve the next customer."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I’ve been practicing with Dolores, and I’ll stay focused and precise. I’ll keep you updated on any changes. Is there anything else you’d like me to verify before we open?"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you check the pressure, but you’re still hesitating to adjust it. That’s not acceptable. If the pressure isn’t at 15 pounds, you must correct it without delay—no second thoughts, no explanations. I expect the same precision from you as from Dolores. Keep your eyes on the grinder and act immediately. I’ll be watching. Now, serve the next customer."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I’ve been practicing with Dolores, and I’ll stay focused and precise. I’ll keep you updated on any changes. Is there anything else you’d like me to verify before we open?"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve already seen you hesitate—twice now—when the pressure wasn’t at 15 pounds. That’s not just a small lapse; it’s a failure of discipline. Dolores doesn’t hesitate. She acts. You must learn that difference. If you don’t correct it immediately, I’ll retrain you on the spot. Now, go serve the next customer. I’ll be watching every second."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I understand the importance of precision, and I’ll make sure to adjust the grinder pressure immediately without hesitation. I’ll keep my eyes on it every 30 seconds and stay focused throughout the morning. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you check the pressure twice now and hesitate to correct it—once with a pause, once with a look of uncertainty. Dolores does not hesitate. She acts. You must learn that difference. If you don’t correct it immediately, I’ll retrain you on the spot. Now, go serve the next customer. I’ll be watching every second."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I understand the importance of precision and will act without hesitation. I’ll keep you updated on any changes and stay focused throughout the morning. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you check the pressure three times now and hesitate each time. That’s not precision—it’s negligence. Dolores doesn’t hesitate. She acts. You must learn that difference. If you don’t correct it immediately, I’ll retrain you on the spot. Now, go serve the next customer. I’ll be watching every second."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I understand the importance of precision and will act without hesitation. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I’ve been practicing with Dolores, and I’ll stay focused throughout the morning. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you check the pressure four times now and hesitate each time. That’s not just a lapse—it’s a pattern. You’re not acting with the discipline Dolores has. If you continue to hesitate, I’ll have no choice but to retrain you on the spot. I expect immediate action. Now, go serve the next customer. I’ll be watching every second."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I understand the importance of precision and will act without hesitation. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I’ve been practicing with Dolores, and I’ll stay focused throughout the morning. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you check the pressure five times now and hesitate each time. That’s not just a lapse—it’s a failure to follow the standard. Dolores doesn’t hesitate. She acts. You must learn that difference. If you don’t correct it immediately, I’ll retrain you on the spot. Now, go serve the next customer. I’ll be watching every second."
+      ]
+    ]
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:39:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "original_description": "Bernard Lowe is correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "embedding_key": "Bernard Lowe is correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_38"
+    ]
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (waking up)",
+    "original_description": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (waking up)",
+    "embedding_key": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (waking up)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:39:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "original_description": "Maeve Millay is correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "embedding_key": "Maeve Millay is correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "espresso machine",
+    "description": "Dolores Abernathy is serving customers at the counter (setting up espresso machine)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (setting up espresso machine)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (setting up espresso machine)",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "espresso machine"
+    ],
+    "filling": null
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:48:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is organized",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:51:50",
+    "expiration": "2023-03-15 09:51:50",
+    "subject": "Bernard Lowe",
+    "predicate": "monitor",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to monitor Maeve Millay's grinder pressure every 30 seconds and demand immediate correction if it is not at 15 pounds, with no hesitation, as failure to do so constitutes a lapse in discipline and will result in on-the-spot retraining.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to monitor Maeve Millay's grinder pressure every 30 seconds and demand immediate correction if it is not at 15 pounds, with no hesitation, as failure to do so constitutes a lapse in discipline and will result in on-the-spot retraining.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to monitor Maeve Millay's grinder pressure every 30 seconds and demand immediate correction if it is not at 15 pounds, with no hesitation, as failure to do so constitutes a lapse in discipline and will result in on-the-spot retraining.",
+    "poignancy": 9,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "monitor",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:51:50",
+    "expiration": "2023-03-15 09:51:50",
+    "subject": "Bernard Lowe",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe learned that Maeve consistently hesitates to correct the grinder pressure despite repeated instructions, indicating a failure to match the discipline of Dolores.",
+    "original_description": "Bernard Lowe Bernard Lowe learned that Maeve consistently hesitates to correct the grinder pressure despite repeated instructions, indicating a failure to match the discipline of Dolores.",
+    "embedding_key": "Bernard Lowe Bernard Lowe learned that Maeve consistently hesitates to correct the grinder pressure despite repeated instructions, indicating a failure to match the discipline of Dolores.",
+    "poignancy": 9,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:52:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (evaluating espresso shot timing)",
+    "original_description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (evaluating espresso shot timing)",
+    "embedding_key": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (evaluating espresso shot timing)",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:52:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:52:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -3,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:52:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "original_description": "Maeve Millay is maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "embedding_key": "Maeve Millay is maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:01:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:52:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "original_description": "Dolores Abernathy is maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "embedding_key": "Dolores Abernathy is maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:03:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (calibrating coffee grinder)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (calibrating coffee grinder)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (calibrating coffee grinder)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:03:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:03:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "calibrating",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating coffee grinder",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating coffee grinder",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating coffee grinder",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:03:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "original_description": "Dolores Abernathy is maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "embedding_key": "Dolores Abernathy is maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "poignancy": 0,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:03:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "original_description": "maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "embedding_key": "maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "poignancy": 8,
+    "valence": -10,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Dolores, I've seen you calibrating the grinder, and I appreciate your attention to detail. However, the pressure must be exactly 15 pounds—no hesitation, no delays. If it's not at that precise level, you correct it immediately. I've already noted your request for a moment to verify, but that's not acceptable under current standards. Every second counts. If you don't meet this, you'll be retrained on the spot. I expect no exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I understand. I'll keep the grinder at exactly 15 pounds, monitor it constantly, and correct it immediately if it shifts—no hesitation, no delays. I'll make sure everything is precise and ready before the first customer arrives."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve observed your routine twice now—once when you checked the pressure, and once when you requested a moment to verify. Both times, you hesitated. That’s not acceptable. Discipline isn’t about being careful; it’s about being immediate. If the pressure isn’t at 15 pounds, you correct it in under three seconds. I’ll be watching. If I see even a single lapse, you’ll be retrained. There’s no room for ‘thinking,’ no room for ‘checking.’ Just action. Now, go to the counter and set it—right now—exactly at 15 pounds. I’ll be there in five minutes to verify. No excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm setting the grinder to exactly 15 pounds now. I'll keep my hands steady, maintain constant eye contact on the dial, and be ready to correct any deviation immediately. I'll make sure it stays at that level throughout the morning—no hesitation, no delays."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you pause twice now—once to check the dial, once to confirm the pressure. That’s not just hesitation; it’s a failure to follow discipline. I expect immediate action, not a moment of pause. If the pressure is off, correct it in under three seconds. I’ll be watching every thirty seconds. If I see even a single deviation, you’ll be retrained. Now, go to the counter and set it—right now—exactly at 15 pounds. I’ll be there in five minutes to verify. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm setting the grinder to exactly 15 pounds now. I'll keep my hands steady, maintain constant eye contact on the dial, and be ready to correct any deviation immediately. I'll make sure it stays at that level throughout the morning—no hesitation, no delays."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve just observed the grinder again—pressure is at 15 pounds, but your hands are still hovering over the dial. That’s not action. That’s hesitation. I’ll be checking every thirty seconds. If I see you even glance at the dial, you’ll be retrained immediately. Now, keep your eyes on the dial, your hands steady, and your posture rigid. No looking. No checking. Just precision. I’ll be back in five minutes. I’ll verify it again. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm keeping my eyes on the dial, hands steady, and posture rigid. I'll maintain exactly 15 pounds throughout the morning—no hesitation, no glances, no delays. I'm ready for your verification in five minutes."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve just seen you glance at the dial again—your eyes are still drifting over it. That’s not precision. That’s a lapse. I’ll be checking every thirty seconds. If I see even the slightest deviation, you’ll be retrained. I expect full attention. No looking. No hesitation. Just execution. I’ll be back in five minutes. I’ll verify it again. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm keeping my eyes fixed on the dial, hands steady, posture rigid. I've set the grinder to exactly 15 pounds and will maintain that pressure throughout the morning—no glances, no hesitation. I'm ready for your verification in five minutes."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve just seen you glance at the dial again—your eyes are still drifting over it. That’s not precision. That’s a lapse. I’ll be checking every thirty seconds. If I see even the slightest deviation, you’ll be retrained. I expect full attention. No looking. No hesitation. Just execution. I’ll be back in five minutes. I’ll verify it again. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm keeping my eyes fixed on the dial, hands steady, posture rigid. I've set the grinder to exactly 15 pounds and will maintain that pressure throughout the morning—no glances, no hesitation. I'm ready for your verification in five minutes."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve just seen you glance at the dial for the third time in under a minute. That’s not discipline—it’s negligence. I’ll be checking every thirty seconds. If I see even a single lapse in attention, you’ll be retrained immediately. I expect full focus, no distractions, no hesitation. Now, keep your eyes locked on the dial, your hands steady, and your posture rigid. I’ll be back in five minutes to verify. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm keeping my eyes fixed on the dial, hands steady, posture rigid. I've set the grinder to exactly 15 pounds and will maintain that pressure throughout the morning—no glances, no hesitation. I'm ready for your verification in five minutes."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve just seen you glance at the dial for the fourth time in under two minutes. That’s not just negligence—it’s a complete failure of discipline. I’ll be checking every thirty seconds. If I see even the slightest deviation, you’ll be retrained immediately. I expect full focus, no distractions, no hesitation. Now, keep your eyes locked on the dial, hands steady, posture rigid. I’ll be back in five minutes to verify. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm keeping my eyes fixed on the dial, hands steady, posture rigid. I've set the grinder to exactly 15 pounds and will maintain that pressure throughout the morning—no glances, no hesitation. I'm ready for your verification in five minutes."
+      ]
+    ]
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:03:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "original_description": "Bernard Lowe is maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "embedding_key": "Bernard Lowe is maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_55"
+    ]
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:03:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:12:50",
+    "expiration": "2023-03-15 10:12:50",
+    "subject": "Bernard Lowe",
+    "predicate": "check",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the grinder pressure every thirty seconds throughout the morning and to verify it again in five minutes, with immediate retraining for any lapse in discipline or deviation from 15 pounds.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the grinder pressure every thirty seconds throughout the morning and to verify it again in five minutes, with immediate retraining for any lapse in discipline or deviation from 15 pounds.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to check the grinder pressure every thirty seconds throughout the morning and to verify it again in five minutes, with immediate retraining for any lapse in discipline or deviation from 15 pounds.",
+    "poignancy": 10,
+    "valence": -6,
+    "keywords": [
+      "bernard lowe",
+      "check",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:10:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "washing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being washed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being washed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is being washed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:12:50",
+    "expiration": "2023-03-15 10:12:50",
+    "subject": "Bernard Lowe",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe learned that Dolores Abernathy repeatedly glanced at the dial despite being instructed to maintain full focus, indicating a consistent failure to adhere to the required discipline.",
+    "original_description": "Bernard Lowe Bernard Lowe learned that Dolores Abernathy repeatedly glanced at the dial despite being instructed to maintain full focus, indicating a consistent failure to adhere to the required discipline.",
+    "embedding_key": "Bernard Lowe Bernard Lowe learned that Dolores Abernathy repeatedly glanced at the dial despite being instructed to maintain full focus, indicating a consistent failure to adhere to the required discipline.",
+    "poignancy": 8,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (reviewing customer feedback on coffee)",
+    "original_description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (reviewing customer feedback on coffee)",
+    "embedding_key": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (reviewing customer feedback on coffee)",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:13:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "original_description": "maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "embedding_key": "maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "poignancy": 9,
+    "valence": -10,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. The coffee is hot, the counter is clean, and I've double-checked the grinder pressure—just as we discussed. Everything looks ready for the morning rush."
+      ],
+      [
+        "Bernard Lowe",
+        "Good morning, Maeve. I see you've double-checked the grinder pressure—exactly as we discussed. But I need to be clear: every 30 seconds, I expect you to verify the pressure again and correct it immediately if it's not at 15 pounds. No hesitation. No excuses. If you fail to meet that standard, you will undergo on-the-spot retraining. I’ve already observed you hesitate before, and that is not acceptable. The discipline of Dolores is the benchmark. You must match it. Now, check the dial one more time and confirm it’s at 15 pounds. If it isn’t, adjust it right now."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I've just checked the dial again—pressure is at exactly 15 pounds. I'll keep it at that level and verify it every 30 seconds, as we discussed. I’ll make sure to correct it immediately if it shifts, just like you said."
+      ],
+      [
+        "Bernard Lowe",
+        "Very well. I see you’ve confirmed the pressure and are committed to the schedule. However, I must stress—this is not just about the dial. It’s about discipline. If you hesitate even for a second, if your eyes drift to the dial, if you allow yourself a moment of doubt, then you fail. Dolores does not do that. She acts with unwavering focus. You must emulate her. I will be watching. Every 30 seconds, I will check the pressure. If it’s not at 15 pounds, I will know immediately. And if it is, I will still expect you to verify it again. I expect no exceptions. Now, go serve a customer. And keep your eyes on the dial at all times. No glances. No lapses. No hesitation. That is the standard. That is the rule. That is the expectation."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I understand completely. I'll keep my eyes on the dial at all times and verify the pressure every 30 seconds, adjusting it immediately if needed. I'll make sure to act with focus and discipline, just like you've described. Thank you for clarifying the standard."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I just observed your hands briefly flicker toward the dial as you adjusted the pressure. That was a hesitation. Even a fraction of a second. You must not allow such moments. Discipline is not a suggestion—it is a command. I will be watching every 30 seconds. If I see you glance, if I see you hesitate, if I see you fail to maintain focus—then you will be retrained immediately. There is no room for error. Now, go serve a customer and keep your eyes fixed on the dial. I will check again in five minutes. And if I find it off, I will know immediately. No excuses. No delays. Only precision. Only discipline."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I've kept my eyes fixed on the dial and have just verified the pressure again—exactly at 15 pounds. I'll maintain that level and check every 30 seconds, without hesitation or glances. I'm committed to meeting the standard, just like you've outlined. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I just observed your right hand shift slightly toward the dial as you adjusted the pressure. That was a micro-lapse—barely noticeable, but it violates the standard. Discipline is not about being flawless; it is about being consistent. You must maintain full attention at all times. I will be checking every 30 seconds. If I see even the slightest deviation, I will intervene. I will not tolerate hesitation. Now, go serve a customer. And keep your eyes locked on the dial. No movement. No glances. No distractions. That is the rule. That is the expectation. I will verify again in five minutes. And if it is not at 15 pounds, I will know immediately. No exceptions."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I've kept my eyes fixed on the dial the entire time and have just verified the pressure again—exactly at 15 pounds. I'll continue to monitor it every 30 seconds and adjust it immediately if it shifts, without any hesitation or glances. I'm committed to maintaining full focus and discipline, just as you've outlined. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I just saw your left hand move toward the dial again as you adjusted the pressure. That was another micro-lapse. You are not meeting the standard. Discipline is not something you develop over time—it is something you perform immediately and without deviation. I will be checking every 30 seconds. If I see even the slightest sign of hesitation, I will intervene. You must maintain full focus at all times. I will verify the pressure again in five minutes. And if it is not at exactly 15 pounds, I will know immediately. No exceptions. Now, go serve a customer. Keep your eyes locked on the dial. Your hands must remain still. Your mind must remain sharp. That is the rule. That is the expectation. I will not tolerate any failure in discipline."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I've kept my hands still and my eyes fixed on the dial the entire time. I've just verified the pressure again—exactly at 15 pounds. I'll continue to monitor it every 30 seconds and adjust it immediately if it shifts, without any hesitation or movement. I'm committed to maintaining full focus and discipline, just as you've outlined. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I just saw your right hand move again—this is the third time today. You are not demonstrating the discipline required. I will check every 30 seconds. If I see even a fraction of hesitation, I will intervene. You must maintain full focus at all times. I will verify the pressure again in five minutes. If it is not at exactly 15 pounds, I will know immediately. No exceptions. Now, go serve a customer. Keep your eyes on the dial. Keep your hands still. Your mind must remain sharp. That is the standard. That is the rule. That is the expectation."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, Mr. Lowe. I've kept my hands still and my eyes fixed on the dial the entire time. I've just verified the pressure again—exactly at 15 pounds. I'll continue to monitor it every 30 seconds and adjust it immediately if it shifts, without any hesitation or movement. I'm committed to maintaining full focus and discipline, just as you've outlined. Thank you for your guidance."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I have just observed your third lapse in focus—your right hand moving toward the dial again. This is not acceptable. You have been given multiple opportunities to demonstrate discipline, and each time, you have failed. I will be checking every 30 seconds. If I see even the slightest deviation, I will intervene. You are not meeting the standard. I will verify the pressure again in five minutes. If it is not at exactly 15 pounds, I will know immediately. No exceptions. Now, go serve a customer. Keep your eyes on the dial. Keep your hands still. Your mind must remain sharp. This is not a suggestion. This is a command. I will not tolerate failure in discipline."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I understand the standard you expect, and I'm committed to maintaining full focus. However, I've been working with Dolores on our morning routines, and she consistently demonstrates discipline without hesitation. I've noticed that even she, when under pressure, has a moment of stillness—just as I do. I wonder if there's a difference between discipline and the natural rhythm of being present. I don't see myself failing because of a micro-lapse, but because I'm trying to stay grounded in a routine that brings me peace. I'm trying to serve with care, not just precision. I'm not sure if that's what you're asking for—but I'm here, and I'm ready to serve."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I have just observed your third lapse in focus—your right hand moving toward the dial again. This is not acceptable. You have been given multiple opportunities to demonstrate discipline, and each time, you have failed. I will be checking every 30 seconds. If I see even the slightest deviation, I will intervene. You are not meeting the standard. I will verify the pressure again in five minutes. If it is not at exactly 15 pounds, I will know immediately. No exceptions. Now, go serve a customer. Keep your eyes on the dial. Keep your hands still. Your mind must remain sharp. This is not a suggestion. This is a command. I will not tolerate failure in discipline."
+      ]
+    ]
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "original_description": "Bernard Lowe is maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "embedding_key": "Bernard Lowe is maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "poignancy": 0,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_63"
+    ]
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "original_description": "Maeve Millay is maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "embedding_key": "Maeve Millay is maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "poignancy": 0,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (calibrating coffee grinder)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (calibrating coffee grinder)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (calibrating coffee grinder)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "calibrating",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating coffee grinder",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating coffee grinder",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating coffee grinder",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:23:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:27:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (monitoring customer flow)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (monitoring customer flow)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (monitoring customer flow)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:21:50",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:bed",
+    "predicate": "is no longer occupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:bed is no longer occupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:bed is no longer occupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:bed is no longer occupied",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:30:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (preparing breakfast)",
+    "original_description": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (preparing breakfast)",
+    "embedding_key": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (preparing breakfast)",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:30:20",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:refrigerator",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:refrigerator is being prepared",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:refrigerator is being prepared",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:refrigerator is being prepared",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  }
+}

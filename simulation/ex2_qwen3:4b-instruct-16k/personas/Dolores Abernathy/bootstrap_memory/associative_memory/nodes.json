@@ -1,0 +1,3041 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, have breakfast at 7:30 am, walk to Hobbs Cafe by 8:00 am, work the counter from 8:00 am to 4:00 pm, have dinner at 6:00 pm, read a book from 6:30 pm to 11:00 pm.",
+    "original_description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, have breakfast at 7:30 am, walk to Hobbs Cafe by 8:00 am, work the counter from 8:00 am to 4:00 pm, have dinner at 6:00 pm, read a book from 6:30 pm to 11:00 pm.",
+    "embedding_key": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, have breakfast at 7:30 am, walk to Hobbs Cafe by 8:00 am, work the counter from 8:00 am to 4:00 pm, have dinner at 6:00 pm, read a book from 6:30 pm to 11:00 pm.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:07:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up, completing morning routine, having breakfast (waking up)",
+    "original_description": "Maeve Millay is waking up, completing morning routine, having breakfast (waking up)",
+    "embedding_key": "Maeve Millay is waking up, completing morning routine, having breakfast (waking up)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_100": {
+    "node_count": 100,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:03:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "original_description": "Dolores Abernathy is maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "embedding_key": "Dolores Abernathy is maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_99"
+    ]
+  },
+  "node_101": {
+    "node_count": 101,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:03:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "original_description": "Bernard Lowe is maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "embedding_key": "Bernard Lowe is maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_102": {
+    "node_count": 102,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_103": {
+    "node_count": 103,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (preparing the espresso machine)",
+    "original_description": "Maeve Millay is serving customers at the counter (preparing the espresso machine)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (preparing the espresso machine)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_104": {
+    "node_count": 104,
+    "type_count": 30,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:12:50",
+    "expiration": "2023-03-15 10:12:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "maintain",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to maintain exactly 15 pounds of pressure on the grinder at all times, keep her eyes fixed on the dial, hands steady, and posture rigid throughout the morning, correct any deviation in under three seconds, and be ready for verification every thirty seconds until the end of her shift.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to maintain exactly 15 pounds of pressure on the grinder at all times, keep her eyes fixed on the dial, hands steady, and posture rigid throughout the morning, correct any deviation in under three seconds, and be ready for verification every thirty seconds until the end of her shift.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to maintain exactly 15 pounds of pressure on the grinder at all times, keep her eyes fixed on the dial, hands steady, and posture rigid throughout the morning, correct any deviation in under three seconds, and be ready for verification every thirty seconds until the end of her shift.",
+    "poignancy": 1,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "maintain",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_105": {
+    "node_count": 105,
+    "type_count": 31,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:12:50",
+    "expiration": "2023-03-15 10:12:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe expects immediate, uninterrupted action and will retrain her if there is any hesitation or glance at the dial.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe expects immediate, uninterrupted action and will retrain her if there is any hesitation or glance at the dial.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe expects immediate, uninterrupted action and will retrain her if there is any hesitation or glance at the dial.",
+    "poignancy": 9,
+    "valence": -8,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_106": {
+    "node_count": 106,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_107": {
+    "node_count": 107,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (reviewing customer feedback on coffee)",
+    "original_description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (reviewing customer feedback on coffee)",
+    "embedding_key": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (reviewing customer feedback on coffee)",
+    "poignancy": 5,
+    "valence": -6,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_108": {
+    "node_count": 108,
+    "type_count": 68,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "original_description": "Bernard Lowe is maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "embedding_key": "Bernard Lowe is maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_109": {
+    "node_count": 109,
+    "type_count": 69,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "original_description": "Maeve Millay is maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "embedding_key": "Maeve Millay is maintaining strict focus and immediate correction of grinder pressure with no hesitation or glances",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:08:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_110": {
+    "node_count": 110,
+    "type_count": 70,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (calibrating coffee grinder)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (calibrating coffee grinder)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (calibrating coffee grinder)",
+    "poignancy": 5,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_111": {
+    "node_count": 111,
+    "type_count": 71,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:13:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "calibrating",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating coffee grinder",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating coffee grinder",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating coffee grinder",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_112": {
+    "node_count": 112,
+    "type_count": 72,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:18:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "arranged",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is arranged",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is arranged",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is arranged",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_113": {
+    "node_count": 113,
+    "type_count": 73,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:23:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_114": {
+    "node_count": 114,
+    "type_count": 74,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:27:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (monitoring customer flow)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (monitoring customer flow)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (monitoring customer flow)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_115": {
+    "node_count": 115,
+    "type_count": 75,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:27:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:08:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "opening",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being opened",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being opened",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being opened",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:11:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "checked",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being checked",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being checked",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being checked",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:12:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being used",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:16:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:16:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (brushing teeth)",
+    "original_description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (brushing teeth)",
+    "embedding_key": "Dolores Abernathy is waking up, completing morning routine, having breakfast (brushing teeth)",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:17:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "off",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is off",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is off",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is off",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:36:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:36:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up, completing morning routine, having breakfast (dressing for the day)",
+    "original_description": "Maeve Millay is waking up, completing morning routine, having breakfast (dressing for the day)",
+    "embedding_key": "Maeve Millay is waking up, completing morning routine, having breakfast (dressing for the day)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Dolores Abernathy is sleeping",
+    "original_description": "Dolores Abernathy is sleeping",
+    "embedding_key": "Dolores Abernathy is sleeping",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:36:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "sharing breakfast routines and coordinating morning shifts at the cafe",
+    "original_description": "sharing breakfast routines and coordinating morning shifts at the cafe",
+    "embedding_key": "sharing breakfast routines and coordinating morning shifts at the cafe",
+    "poignancy": 5,
+    "valence": 6,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just made toast and some fruit—simple, but I thought you’d appreciate it, since you said it’s perfect."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! That’s exactly what I was hoping for—simple and fresh. Thanks for remembering my preference. I’ll make sure to keep the counter stocked with toast and fruit for the morning rush."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I'm glad you liked it. I’ll be at the cafe by 8, so I’ll see you there when we start serving customers."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I’m glad you remembered—simple breakfasts are always a comfort. I’ll be at the cafe by 8 too, so we can both get ready for the morning rush. Thanks again for making toast and fruit, it’s exactly what I needed this morning."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just finished my breakfast and I’ll be at the cafe by 8. I’ll see you there when we start serving customers. Let’s make sure the morning rush goes smoothly—thanks again for the kind words about the toast and fruit."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just finished my breakfast too—toast and fruit, just like you. It’s a small thing, but it feels like a little connection between us. I’ll be ready by 8, and we can both help make the morning rush smooth. Thanks again for remembering my preference—it really means a lot."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I’m glad we both liked the toast and fruit—simple, but it feels like a small thing that makes our mornings a little easier. I’ll be at the cafe by 8, so I’ll see you there when we start serving customers. Let’s keep up the good work and make the morning rush go smoothly."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just finished my breakfast and I’ll be at the cafe by 8. I’ll see you there when we start serving customers. Let’s make sure the morning rush goes smoothly—thanks again for the kind words about the toast and fruit."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just finished my breakfast and I’ll be at the cafe by 8. I’ll see you there when we start serving customers. Let’s keep the morning rush smooth—thanks again for the kind words about the toast and fruit."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I’ll be at the cafe by 8, so I’ll see you there when we start serving customers. Let’s keep the morning rush smooth—thanks again for the kind words about the toast and fruit."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I’ll be at the cafe by 8, so I’ll see you there when we start serving customers. Let’s keep the morning rush smooth—thanks again for the kind words about the toast and fruit."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just finished my toast and fruit too—same as you. It’s nice to see that we both appreciate the simple things. I’ll be at the cafe by 8, so we can both get ready for the morning rush. Let’s keep the counter stocked and make sure the customers have a smooth start to their day."
+      ]
+    ]
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:36:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is sharing breakfast routines and coordinating morning shifts at the cafe",
+    "original_description": "Dolores Abernathy is sharing breakfast routines and coordinating morning shifts at the cafe",
+    "embedding_key": "Dolores Abernathy is sharing breakfast routines and coordinating morning shifts at the cafe",
+    "poignancy": 5,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_20"
+    ]
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:36:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is sharing breakfast routines and coordinating morning shifts at the cafe",
+    "original_description": "Maeve Millay is sharing breakfast routines and coordinating morning shifts at the cafe",
+    "embedding_key": "Maeve Millay is sharing breakfast routines and coordinating morning shifts at the cafe",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:46:50",
+    "expiration": "2023-03-15 07:46:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember to be at the cafe by 8 to see Maeve and start serving customers during the morning rush",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be at the cafe by 8 to see Maeve and start serving customers during the morning rush.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be at the cafe by 8 to see Maeve and start serving customers during the morning rush.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be at the cafe by 8 to see Maeve and start serving customers during the morning rush.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember to be at the cafe by 8 to see maeve and start serving customers during the morning rush",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:46:50",
+    "expiration": "2023-03-15 07:46:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noticed",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noticed that Maeve consistently appreciated the simple breakfast of toast and fruit, which reflected a shared value for small, meaningful moments.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noticed that Maeve consistently appreciated the simple breakfast of toast and fruit, which reflected a shared value for small, meaningful moments.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noticed that Maeve consistently appreciated the simple breakfast of toast and fruit, which reflected a shared value for small, meaningful moments.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "noticed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:51:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being prepared",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being prepared",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being prepared",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:51:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:56:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:56:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (preparing breakfast items)",
+    "original_description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (preparing breakfast items)",
+    "embedding_key": "Dolores Abernathy is waking up, completing morning routine, having breakfast (preparing breakfast items)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:01:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "pouring",
+    "object": "None",
+    "description": "Maeve Millay is waking up, completing morning routine, having breakfast (pouring coffee)",
+    "original_description": "Maeve Millay is waking up, completing morning routine, having breakfast (pouring coffee)",
+    "embedding_key": "Maeve Millay is waking up, completing morning routine, having breakfast (pouring coffee)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:10:50",
+    "expiration": "2023-03-15 08:10:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "double-check",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to double-check the toaster and sink before the morning rush to ensure everything is ready by 8.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to double-check the toaster and sink before the morning rush to ensure everything is ready by 8.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to double-check the toaster and sink before the morning rush to ensure everything is ready by 8.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "double-check",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:10:50",
+    "expiration": "2023-03-15 08:10:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noticed",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noticed that Maeve enjoyed making a smoothie with fresh berries and banana, which reminded her of their shared appreciation for simple, fresh preparations.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noticed that Maeve enjoyed making a smoothie with fresh berries and banana, which reminded her of their shared appreciation for simple, fresh preparations.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noticed that Maeve enjoyed making a smoothie with fresh berries and banana, which reminded her of their shared appreciation for simple, fresh preparations.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "noticed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:11:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:11:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up, completing morning routine, having breakfast (pouring coffee)",
+    "original_description": "Maeve Millay is waking up, completing morning routine, having breakfast (pouring coffee)",
+    "embedding_key": "Maeve Millay is waking up, completing morning routine, having breakfast (pouring coffee)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:15:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "eating",
+    "object": "None",
+    "description": "Maeve Millay is waking up, completing morning routine, having breakfast (eating breakfast)",
+    "original_description": "Maeve Millay is waking up, completing morning routine, having breakfast (eating breakfast)",
+    "embedding_key": "Maeve Millay is waking up, completing morning routine, having breakfast (eating breakfast)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:15:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:21:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (checking the weather forecast)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (checking the weather forecast)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (checking the weather forecast)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:21:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "not being accessed",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is not being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is not being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is not being accessed",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:32:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe (brushing teeth)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (brushing teeth)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (brushing teeth)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:32:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room sofa is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room sofa is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room sofa is unoccupied",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "common room sofa",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (waking up)",
+    "original_description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (waking up)",
+    "embedding_key": "Dolores Abernathy is waking up, completing morning routine, having breakfast (waking up)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:40",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "common room table",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is walking to Hobbs Cafe (packing lunch bag)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (packing lunch bag)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (packing lunch bag)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:45:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "maintaining a consistent morning routine with shared responsibilities and mutual appreciation for simplicity",
+    "original_description": "maintaining a consistent morning routine with shared responsibilities and mutual appreciation for simplicity",
+    "embedding_key": "maintaining a consistent morning routine with shared responsibilities and mutual appreciation for simplicity",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just saw you packing your lunch—how’s the weather today? I was checking the forecast before heading out. Looks like a nice morning, perfect for the cafe rush."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! The weather is perfect—just like you said. I was making a smoothie for breakfast, and I noticed the toaster is still on. I’ll make sure to check it before I get to the cafe. How’s your morning going so far?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I was just about to check the sink too—makes sure everything’s ready for the morning rush. I love how you make your smoothies with fresh berries and banana, it’s so simple and fresh, just like our breakfasts. I’ll keep the toast and fruit on hand too, since you always say it’s perfect. See you at the counter in a bit!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I’ll keep the counter clean and the fruit stocked—just like we always do. Thanks for reminding me about the toast and fruit. I’m glad we both appreciate the simple things. See you at the counter when you arrive!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just double-checked the toaster and sink—everything’s ready. I’ll keep the toast and fruit on hand, just like we’ve always done. Thanks for making the smoothie—it’s a nice touch. See you at the counter when you get there!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just double-checked everything—the toaster’s off, the sink is clean, and the fruit’s fresh. I’ll keep the toast and fruit ready, just like we’ve always done. Thanks for making sure the coffee’s hot—it’s a small thing, but it feels good to have the same routine every day. See you at the counter when you get there!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just made sure the toast and fruit are ready—like we always do. It’s nice to see the same routine every day, it feels grounding. See you at the counter when you get there!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just double-checked everything—the toaster’s off, the sink is clean, and the fruit’s fresh. I’ll keep the toast and fruit ready, just like we’ve always done. It’s nice to see the same routine every day—it feels grounding. See you at the counter when you get there!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just made sure the toast and fruit are ready—like we always do. It’s nice to see the same routine every day, it feels grounding. See you at the counter when you get there!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just made sure the toast and fruit are ready—like we always do. It’s nice to see the same routine every day, it feels grounding. See you at the counter when you get there!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just finished my smoothie and made sure the coffee is hot—everything’s set. I’ll be at the counter by 8, just like we planned. Thanks again for keeping things simple and steady—it’s really comforting to see the same routine every day."
+      ]
+    ]
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is maintaining a consistent morning routine with shared responsibilities and mutual appreciation for simplicity",
+    "original_description": "Dolores Abernathy is maintaining a consistent morning routine with shared responsibilities and mutual appreciation for simplicity",
+    "embedding_key": "Dolores Abernathy is maintaining a consistent morning routine with shared responsibilities and mutual appreciation for simplicity",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_42"
+    ]
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is maintaining a consistent morning routine with shared responsibilities and mutual appreciation for simplicity",
+    "original_description": "Maeve Millay is maintaining a consistent morning routine with shared responsibilities and mutual appreciation for simplicity",
+    "embedding_key": "Maeve Millay is maintaining a consistent morning routine with shared responsibilities and mutual appreciation for simplicity",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:54:50",
+    "expiration": "2023-03-15 08:54:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remember to keep",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to keep the toast and fruit ready at the cafe, and to double-check that the toaster is off and the sink is clean before the morning rush.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to keep the toast and fruit ready at the cafe, and to double-check that the toaster is off and the sink is clean before the morning rush.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to keep the toast and fruit ready at the cafe, and to double-check that the toaster is off and the sink is clean before the morning rush.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "remember to keep",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:54:50",
+    "expiration": "2023-03-15 08:54:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noticed",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noticed that Maeve consistently prepares her smoothie with fresh berries and banana, which she finds simple and refreshing, and appreciates how both of them value the daily routine.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noticed that Maeve consistently prepares her smoothie with fresh berries and banana, which she finds simple and refreshing, and appreciates how both of them value the daily routine.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noticed that Maeve consistently prepares her smoothie with fresh berries and banana, which she finds simple and refreshing, and appreciates how both of them value the daily routine.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "noticed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:55:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "is empty",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is empty",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is empty",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is empty",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "common room table",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:55:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (preparing a water bottle)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (preparing a water bottle)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (preparing a water bottle)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:19:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (preparing station supplies)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (preparing station supplies)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (preparing station supplies)",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:02:00",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "exchanging morning greetings and confirming breakfast routines at hobbs cafe by 8",
+    "original_description": "exchanging morning greetings and confirming breakfast routines at hobbs cafe by 8",
+    "embedding_key": "exchanging morning greetings and confirming breakfast routines at hobbs cafe by 8",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just saw you waking up—how’s your morning going so far? I hope your breakfast is as good as mine."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! My morning is going well so far—just getting ready for breakfast. Yours must be amazing, since you’re already off to a great start. I’ll be heading to Hobbs Cafe soon, so I’ll see you there!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just saw you waking up—how’s your morning going so far? I hope your breakfast is as good as mine. I’ll be heading to Hobbs Cafe soon too, so I’ll see you there!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I'm just getting my breakfast ready—something simple like toast and fruit. I’ll be at Hobbs Cafe by 8, so I’ll see you there when you start work. Hope your morning is going well too!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just saw you getting your breakfast—toast and fruit, I love that. Simple and perfect. I’ll be at the cafe by 8, so I’ll see you there when you start. Hope your day at work goes smoothly!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I'm just getting my toast and fruit ready—simple stuff, but it's a nice start. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day at work goes smoothly too!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just saw you getting your toast and fruit—simple and perfect. I’ll be at the cafe by 8, so I’ll see you there when you start. Hope your day at work goes smoothly too!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I'm just getting my toast and fruit ready—simple stuff, but it's a nice start. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day at work goes smoothly too!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just saw you getting your toast and fruit—simple stuff, but it's a nice start. I’ll be at the cafe by 8, so I’ll see you there when you start. Hope your day at work goes smoothly too!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I'm just finishing up my toast and fruit—simple, but it's a good start. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day at work goes smoothly too!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just saw you getting your toast and fruit—simple, but it's a good start. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day at work goes smoothly too!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I'm just finishing up my toast and fruit—simple, but it's a good start. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day at work goes smoothly too!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just saw you getting your toast and fruit—simple, but it's a good start. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day at work goes smoothly too!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I'm all set with my breakfast—just toast and fruit. I'll be at the cafe by 8, so I'll see you there when you start. Hope your day goes smoothly too!"
+      ]
+    ]
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (observing grinding consistency)",
+    "original_description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (observing grinding consistency)",
+    "embedding_key": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (observing grinding consistency)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:21:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "original_description": "maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "embedding_key": "maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "poignancy": 7,
+    "valence": -8,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I just finished preparing the station supplies. Everything is ready for the morning rush. Is there anything specific you'd like me to adjust before the first customer arrives?"
+      ],
+      [
+        "Bernard Lowe",
+        "The grinding consistency is off. You're not using the correct pressure. Adjust it immediately—no explanations. I want it precise, every time."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll adjust the grinder right away, Mr. Lowe. I just need a moment to make sure the pressure is correct—will do it now."
+      ],
+      [
+        "Bernard Lowe",
+        "I've seen you fumble with the grinder three times this week. You don't need a moment—just do it. Now, and keep it consistent. Any deviation, and I'll address it immediately."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll adjust the grinder right away, Mr. Lowe. I just need a moment to make sure the pressure is correct—will do it now."
+      ],
+      [
+        "Bernard Lowe",
+        "The pressure should be set at 15 pounds exactly. No more, no less. If you can't get it right, you're not doing your job. I'll be watching. Any hesitation, and I'll call it a failure."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll adjust the grinder right away, Mr. Lowe. I just need a moment to make sure the pressure is set at 15 pounds exactly—will do it now."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll be monitoring the grinder throughout the morning. If it's not at 15 pounds, I'll step in—no exceptions. Keep your hands steady and your eyes on the dial. Any slip, and you'll lose your position at the station."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll adjust the grinder right away, Mr. Lowe. I'm setting it to 15 pounds now—just to be sure it's correct."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll check the grinder again in five minutes. If it's still off, I'll be forced to retrain you—no room for error. Keep your eyes on the dial and your hands steady. Any slip, and you'll be on your own."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll adjust the grinder right away, Mr. Lowe. I'm setting it to 15 pounds now—just to be sure it's correct."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll check the grinder again in three minutes. If it's still not at 15 pounds, I'll be forced to retrain you—no room for error. Keep your hands steady and your eyes on the dial. Any slip, and you'll be on your own."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll adjust the grinder right away, Mr. Lowe. I'm setting it to 15 pounds now—just to be sure it's correct."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll check the grinder again in one minute. If it's still not at 15 pounds, I'll be forced to retrain you—no room for error. Keep your hands steady and your eyes on the dial. Any slip, and you'll be on your own."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll make sure the grinder is set to 15 pounds now, Mr. Lowe. I'm just double-checking the dial to be certain—will keep my hands steady and my eyes on it."
+      ],
+      [
+        "Bernard Lowe",
+        "I'll check the grinder again in 30 seconds. If it's still not at 15 pounds, I'll be forced to retrain you—no room for error. Keep your hands steady and your eyes on the dial. Any slip, and you'll be on your own."
+      ]
+    ]
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "original_description": "Dolores Abernathy is maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "embedding_key": "Dolores Abernathy is maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_51"
+    ]
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "original_description": "Bernard Lowe is maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "embedding_key": "Bernard Lowe is maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:26:00",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:50",
+    "expiration": "2023-03-15 09:28:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "maintain",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to set the grinder pressure to exactly 15 pounds, keep her hands steady, maintain constant eye contact on the dial, and be prepared for immediate retraining if the pressure is not maintained at that level throughout the morning.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to set the grinder pressure to exactly 15 pounds, keep her hands steady, maintain constant eye contact on the dial, and be prepared for immediate retraining if the pressure is not maintained at that level throughout the morning.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to set the grinder pressure to exactly 15 pounds, keep her hands steady, maintain constant eye contact on the dial, and be prepared for immediate retraining if the pressure is not maintained at that level throughout the morning.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "maintain",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:50",
+    "expiration": "2023-03-15 09:28:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe expects perfect consistency in the grinder pressure and will intervene immediately if it is not maintained at exactly 15 pounds.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe expects perfect consistency in the grinder pressure and will intervene immediately if it is not maintained at exactly 15 pounds.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe expects perfect consistency in the grinder pressure and will intervene immediately if it is not maintained at exactly 15 pounds.",
+    "poignancy": 9,
+    "valence": -6,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:29:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "original_description": "coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "embedding_key": "coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just came in to check the register—everything looks ready. Did you get a chance to stock the toast and fruit? I’ll make sure the coffee is hot and the counter’s clean before we open up."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just checked the inventory—toast and fruit are ready. The toaster is off and the sink is clean. I’ll make sure the grinder is set to exactly 15 pounds and keep my hands steady throughout the morning. Bernard Lowe expects perfect consistency, so I’ll be careful. Let me know if you need anything else before we open up."
+      ],
+      [
+        "Maeve Millay",
+        "Thanks, Dolores! I’ll keep an eye on the coffee and make sure the counter’s spotless. We’ve got everything set—let’s just make sure we both stay on track and keep things running smoothly. Morning rush is going to be a breeze with our routines in place."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just double-checked everything—toast and fruit are ready, toaster is off, sink is clean, and the grinder is set to exactly 15 pounds. I’ll keep my hands steady and stay focused. Thanks for confirming everything—it’s nice to have our routines in sync. Let’s both keep an eye on things and make the morning rush smooth."
+      ],
+      [
+        "Maeve Millay",
+        "Looks like we’ve got everything covered, Dolores. I’ll keep an eye on the coffee and make sure the counter’s clean before we open. Thanks for double-checking everything—our routines are really working well together."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just made sure the grinder is set to exactly 15 pounds and kept my hands steady—Bernard Lowe is watching closely, so I’ll stay focused. I’ve also prepped the toast and fruit for your smoothie. You’re doing great with the coffee and counter prep—our routines are really coming together. Let’s keep up the good work and make the morning rush smooth!"
+      ],
+      [
+        "Maeve Millay",
+        "Thanks, Dolores—your attention to detail really helps. I’ll keep the coffee hot and the counter spotless. Our routines are definitely making the morning run smoother. I’ll see you around the counter when the rush starts!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just prepped the toast and fruit—everything’s ready. I’ll keep an eye on the grinder and stay focused. Thanks for your help with the coffee and counter prep. Our routines are really coming together, and it’s nice to have everything in sync."
+      ],
+      [
+        "Maeve Millay",
+        "Thanks, Dolores—your prep really makes a difference. I’ll keep the coffee hot and the counter clean, and I’ll be ready when the rush starts. Let’s both stay focused and make today smooth!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I’ve got the toast and fruit ready, and the grinder is set to exactly 15 pounds. I’ll keep my hands steady and stay focused. Thanks for your help with the coffee and counter prep—our routines are really coming together. Let’s both stay sharp and make the morning rush smooth!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just made sure the coffee is hot and the counter is clean—everything’s set. Thanks again for your prep. I’ll be ready to serve when the rush starts. Let’s keep our routines steady and make today smooth!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I’ll keep an eye on the grinder and stay focused. Thanks again for your help—our routines are really coming together. Let’s both stay sharp and make today smooth!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just made sure the coffee is hot and the counter is clean—everything’s ready. Thanks again for your prep. I’ll be ready to serve when the rush starts. Let’s both stay focused and make today smooth!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I’ll keep an eye on the grinder and stay focused. Thanks again for your help—our routines are really coming together. Let’s both stay sharp and make today smooth!"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I just made sure the coffee is hot and the counter is clean—everything’s ready. Thanks again for your prep. I’ll be ready to serve when the rush starts. Let’s both stay focused and make today smooth!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I’ll keep an eye on the grinder and stay focused. Thanks again for your help—our routines are really coming together. Let’s both stay sharp and make today smooth!"
+      ]
+    ]
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:02:00",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is exchanging morning greetings and confirming breakfast routines at hobbs cafe by 8",
+    "original_description": "Dolores Abernathy is exchanging morning greetings and confirming breakfast routines at hobbs cafe by 8",
+    "embedding_key": "Dolores Abernathy is exchanging morning greetings and confirming breakfast routines at hobbs cafe by 8",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_5"
+    ]
+  },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "original_description": "Dolores Abernathy is coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "embedding_key": "Dolores Abernathy is coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_59"
+    ]
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "original_description": "Maeve Millay is coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "embedding_key": "Maeve Millay is coordinating morning prep routines with consistent attention to detail and shared responsibility",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "sees",
+    "object": "None",
+    "description": "Dolores sees her workday as a structured, predictable sequence of actions—waking up, preparing, serving, and reading—reflecting her internal need for control and stability in an otherwise uncertain world.",
+    "original_description": "Dolores sees her workday as a structured, predictable sequence of actions—waking up, preparing, serving, and reading—reflecting her internal need for control and stability in an otherwise uncertain world.",
+    "embedding_key": "Dolores sees her workday as a structured, predictable sequence of actions—waking up, preparing, serving, and reading—reflecting her internal need for control and stability in an otherwise uncertain world.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "sees",
+      "none"
+    ],
+    "filling": [
+      "node_28",
+      "node_16",
+      "node_6",
+      "node_4",
+      "node_1"
+    ]
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores values consistency and precision in her daily routine, especially in tasks involving others, which reflects her conflict-averse nature and her need to maintain order to avoid being overwhelmed or judged.",
+    "original_description": "Dolores values consistency and precision in her daily routine, especially in tasks involving others, which reflects her conflict-averse nature and her need to maintain order to avoid being overwhelmed or judged.",
+    "embedding_key": "Dolores values consistency and precision in her daily routine, especially in tasks involving others, which reflects her conflict-averse nature and her need to maintain order to avoid being overwhelmed or judged.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_23",
+      "node_60",
+      "node_57",
+      "node_8",
+      "node_24",
+      "node_52",
+      "node_43",
+      "node_28",
+      "node_16",
+      "node_6",
+      "node_4",
+      "node_61",
+      "node_56",
+      "node_50",
+      "node_30"
+    ]
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "perceives",
+    "object": "None",
+    "description": "Dolores perceives shared simplicity in morning routines as a source of mutual appreciation and emotional stability, indicating that she finds comfort and connection in small, predictable gestures with her colleagues.",
+    "original_description": "Dolores perceives shared simplicity in morning routines as a source of mutual appreciation and emotional stability, indicating that she finds comfort and connection in small, predictable gestures with her colleagues.",
+    "embedding_key": "Dolores perceives shared simplicity in morning routines as a source of mutual appreciation and emotional stability, indicating that she finds comfort and connection in small, predictable gestures with her colleagues.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "perceives",
+      "none"
+    ],
+    "filling": [
+      "node_7",
+      "node_9",
+      "node_44",
+      "node_24",
+      "node_22",
+      "node_46",
+      "node_6",
+      "node_31"
+    ]
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "is deeply attuned to",
+    "object": "None",
+    "description": "Dolores is deeply attuned to the physical environment and equipment at the cafe, particularly the grinder, suggesting that she internalizes operational details as part of her identity and sense of responsibility.",
+    "original_description": "Dolores is deeply attuned to the physical environment and equipment at the cafe, particularly the grinder, suggesting that she internalizes operational details as part of her identity and sense of responsibility.",
+    "embedding_key": "Dolores is deeply attuned to the physical environment and equipment at the cafe, particularly the grinder, suggesting that she internalizes operational details as part of her identity and sense of responsibility.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "is deeply attuned to",
+      "none"
+    ],
+    "filling": [
+      "node_57",
+      "node_8",
+      "node_52",
+      "node_53",
+      "node_56",
+      "node_50"
+    ]
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "feels a strong sense of responsibility",
+    "object": "None",
+    "description": "Dolores feels a strong sense of responsibility toward her colleagues, especially Maeve, and acts with shared ownership in daily tasks, which reinforces her earnestness and desire to contribute without drawing attention to herself.",
+    "original_description": "Dolores feels a strong sense of responsibility toward her colleagues, especially Maeve, and acts with shared ownership in daily tasks, which reinforces her earnestness and desire to contribute without drawing attention to herself.",
+    "embedding_key": "Dolores feels a strong sense of responsibility toward her colleagues, especially Maeve, and acts with shared ownership in daily tasks, which reinforces her earnestness and desire to contribute without drawing attention to herself.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "feels a strong sense of responsibility",
+      "none"
+    ],
+    "filling": [
+      "node_7",
+      "node_60",
+      "node_24",
+      "node_22",
+      "node_61",
+      "node_21"
+    ]
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores Abernathy deeply values consistency and precision in both her routines and her work, which reflects her inner need for control and predictability in order to feel secure and competent.",
+    "original_description": "Dolores Abernathy deeply values consistency and precision in both her routines and her work, which reflects her inner need for control and predictability in order to feel secure and competent.",
+    "embedding_key": "Dolores Abernathy deeply values consistency and precision in both her routines and her work, which reflects her inner need for control and predictability in order to feel secure and competent.",
+    "poignancy": 10,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_60",
+      "node_30",
+      "node_52",
+      "node_50",
+      "node_53",
+      "node_57",
+      "node_56"
+    ]
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "perceives",
+    "object": "None",
+    "description": "Dolores Abernathy perceives her relationship with Maeve as built on mutual appreciation for simplicity, suggesting that shared values create a stable and comforting foundation for collaboration.",
+    "original_description": "Dolores Abernathy perceives her relationship with Maeve as built on mutual appreciation for simplicity, suggesting that shared values create a stable and comforting foundation for collaboration.",
+    "embedding_key": "Dolores Abernathy perceives her relationship with Maeve as built on mutual appreciation for simplicity, suggesting that shared values create a stable and comforting foundation for collaboration.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "perceives",
+      "none"
+    ],
+    "filling": [
+      "node_46",
+      "node_31",
+      "node_43",
+      "node_9",
+      "node_44",
+      "node_24"
+    ]
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 18,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "is emotionally sensitive to",
+    "object": "None",
+    "description": "Dolores Abernathy is emotionally sensitive to feedback and scrutiny, particularly from supervisors like Bernard Lowe, which makes her feel both accountable and vulnerable during moments of performance evaluation.",
+    "original_description": "Dolores Abernathy is emotionally sensitive to feedback and scrutiny, particularly from supervisors like Bernard Lowe, which makes her feel both accountable and vulnerable during moments of performance evaluation.",
+    "embedding_key": "Dolores Abernathy is emotionally sensitive to feedback and scrutiny, particularly from supervisors like Bernard Lowe, which makes her feel both accountable and vulnerable during moments of performance evaluation.",
+    "poignancy": 9,
+    "valence": -7,
+    "keywords": [
+      "dolores abernathy",
+      "is emotionally sensitive to",
+      "none"
+    ],
+    "filling": [
+      "node_50",
+      "node_53",
+      "node_57",
+      "node_56"
+    ]
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:02:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is exchanging morning greetings and confirming breakfast routines at hobbs cafe by 8",
+    "original_description": "Maeve Millay is exchanging morning greetings and confirming breakfast routines at hobbs cafe by 8",
+    "embedding_key": "Maeve Millay is exchanging morning greetings and confirming breakfast routines at hobbs cafe by 8",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 19,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "is",
+    "object": "None",
+    "description": "Dolores Abernathy’s daily routine is not just a sequence of tasks but a deeply personal ritual that anchors her identity and provides emotional stability, especially in the face of daily stress or scrutiny.",
+    "original_description": "Dolores Abernathy’s daily routine is not just a sequence of tasks but a deeply personal ritual that anchors her identity and provides emotional stability, especially in the face of daily stress or scrutiny.",
+    "embedding_key": "Dolores Abernathy’s daily routine is not just a sequence of tasks but a deeply personal ritual that anchors her identity and provides emotional stability, especially in the face of daily stress or scrutiny.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "is",
+      "none"
+    ],
+    "filling": [
+      "node_4",
+      "node_28",
+      "node_45",
+      "node_16",
+      "node_6",
+      "node_1"
+    ]
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 20,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "sees",
+    "object": "None",
+    "description": "Dolores Abernathy sees her work environment as a space where small, intentional actions—like preparing toast or checking equipment—carry symbolic meaning, reinforcing her belief that meaning is found in simplicity and repetition.",
+    "original_description": "Dolores Abernathy sees her work environment as a space where small, intentional actions—like preparing toast or checking equipment—carry symbolic meaning, reinforcing her belief that meaning is found in simplicity and repetition.",
+    "embedding_key": "Dolores Abernathy sees her work environment as a space where small, intentional actions—like preparing toast or checking equipment—carry symbolic meaning, reinforcing her belief that meaning is found in simplicity and repetition.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "sees",
+      "none"
+    ],
+    "filling": [
+      "node_49",
+      "node_46",
+      "node_31",
+      "node_9",
+      "node_44"
+    ]
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 21,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "perceives",
+    "object": "None",
+    "description": "Dolores Abernathy perceives a strong emotional bond with Maeve through their shared appreciation for simple, meaningful routines—such as toast and fruit or smoothies—which suggests she finds comfort and connection in small, consistent gestures.",
+    "original_description": "Dolores Abernathy perceives a strong emotional bond with Maeve through their shared appreciation for simple, meaningful routines—such as toast and fruit or smoothies—which suggests she finds comfort and connection in small, consistent gestures.",
+    "embedding_key": "Dolores Abernathy perceives a strong emotional bond with Maeve through their shared appreciation for simple, meaningful routines—such as toast and fruit or smoothies—which suggests she finds comfort and connection in small, consistent gestures.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "perceives",
+      "none"
+    ],
+    "filling": [
+      "node_24",
+      "node_46",
+      "node_9",
+      "node_31",
+      "node_21",
+      "node_44",
+      "node_7",
+      "node_22"
+    ]
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 22,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "internalizes",
+    "object": "None",
+    "description": "Dolores Abernathy internalizes the expectation of perfection in her work—particularly in coffee preparation—because Bernard Lowe enforces strict standards, which reinforces her tendency to avoid scrutiny and her need to perform flawlessly to prevent failure.",
+    "original_description": "Dolores Abernathy internalizes the expectation of perfection in her work—particularly in coffee preparation—because Bernard Lowe enforces strict standards, which reinforces her tendency to avoid scrutiny and her need to perform flawlessly to prevent failure.",
+    "embedding_key": "Dolores Abernathy internalizes the expectation of perfection in her work—particularly in coffee preparation—because Bernard Lowe enforces strict standards, which reinforces her tendency to avoid scrutiny and her need to perform flawlessly to prevent failure.",
+    "poignancy": 9,
+    "valence": -7,
+    "keywords": [
+      "dolores abernathy",
+      "internalizes",
+      "none"
+    ],
+    "filling": [
+      "node_56",
+      "node_52",
+      "node_57",
+      "node_50",
+      "node_53"
+    ]
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 23,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "sees",
+    "object": "None",
+    "description": "Dolores Abernathy sees her role at Hobbs Cafe not just as a job, but as a space where personal values—like simplicity, mutual respect, and shared responsibility—are expressed and reinforced through daily interactions with colleagues and supervisors.",
+    "original_description": "Dolores Abernathy sees her role at Hobbs Cafe not just as a job, but as a space where personal values—like simplicity, mutual respect, and shared responsibility—are expressed and reinforced through daily interactions with colleagues and supervisors.",
+    "embedding_key": "Dolores Abernathy sees her role at Hobbs Cafe not just as a job, but as a space where personal values—like simplicity, mutual respect, and shared responsibility—are expressed and reinforced through daily interactions with colleagues and supervisors.",
+    "poignancy": 8,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "sees",
+      "none"
+    ],
+    "filling": [
+      "node_60",
+      "node_43",
+      "node_6",
+      "node_23",
+      "node_24",
+      "node_46",
+      "node_61",
+      "node_21",
+      "node_9",
+      "node_31",
+      "node_44",
+      "node_7",
+      "node_22"
+    ]
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 24,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "is shaped by",
+    "object": "None",
+    "description": "Dolores Abernathy’s personal identity is shaped by her commitment to task-oriented behavior and routine, which serves as both a coping mechanism and a source of stability, especially when faced with potential conflict or pressure from others.",
+    "original_description": "Dolores Abernathy’s personal identity is shaped by her commitment to task-oriented behavior and routine, which serves as both a coping mechanism and a source of stability, especially when faced with potential conflict or pressure from others.",
+    "embedding_key": "Dolores Abernathy’s personal identity is shaped by her commitment to task-oriented behavior and routine, which serves as both a coping mechanism and a source of stability, especially when faced with potential conflict or pressure from others.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "is shaped by",
+      "none"
+    ],
+    "filling": [
+      "node_8",
+      "node_49",
+      "node_6",
+      "node_23",
+      "node_58",
+      "node_28",
+      "node_16",
+      "node_30",
+      "node_1"
+    ]
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 25,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:20",
+    "expiration": "2023-03-15 09:29:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores Abernathy deeply values consistency and precision in her daily routines, especially in tasks that involve shared responsibilities with colleagues like Maeve and under supervision from Bernard Lowe, reflecting her conflict-averse nature and need for structure to feel in control.",
+    "original_description": "Dolores Abernathy deeply values consistency and precision in her daily routines, especially in tasks that involve shared responsibilities with colleagues like Maeve and under supervision from Bernard Lowe, reflecting her conflict-averse nature and need for structure to feel in control.",
+    "embedding_key": "Dolores Abernathy deeply values consistency and precision in her daily routines, especially in tasks that involve shared responsibilities with colleagues like Maeve and under supervision from Bernard Lowe, reflecting her conflict-averse nature and need for structure to feel in control.",
+    "poignancy": 9,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_60",
+      "node_43",
+      "node_23",
+      "node_56",
+      "node_61",
+      "node_28",
+      "node_52",
+      "node_57",
+      "node_44",
+      "node_50",
+      "node_7",
+      "node_16",
+      "node_30",
+      "node_1",
+      "node_53"
+    ]
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:32:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored for coffee preparation",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored for coffee preparation",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored for coffee preparation",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:32:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (observing grinding consistency)",
+    "original_description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (observing grinding consistency)",
+    "embedding_key": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (observing grinding consistency)",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 26,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:38:50",
+    "expiration": "2023-03-15 09:38:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "stay focused",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to keep the grinder set to exactly 15 pounds and stay focused throughout the morning to meet Bernard Lowe's expectations for consistency.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to keep the grinder set to exactly 15 pounds and stay focused throughout the morning to meet Bernard Lowe's expectations for consistency.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to keep the grinder set to exactly 15 pounds and stay focused throughout the morning to meet Bernard Lowe's expectations for consistency.",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "stay focused",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:06:50",
+    "expiration": "2023-03-15 07:06:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember to be at",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be at Hobbs Cafe by 8 to meet Maeve Millay.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be at Hobbs Cafe by 8 to meet Maeve Millay.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be at Hobbs Cafe by 8 to meet Maeve Millay.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember to be at",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 27,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:38:50",
+    "expiration": "2023-03-15 09:38:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noticed",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noticed that Maeve and she had developed a strong, synchronized routine that ensured everything was prepared and running smoothly before opening.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noticed that Maeve and she had developed a strong, synchronized routine that ensured everything was prepared and running smoothly before opening.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noticed that Maeve and she had developed a strong, synchronized routine that ensured everything was prepared and running smoothly before opening.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "noticed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:39:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (checking inventory levels)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:39:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "checking",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being checked",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being checked",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being checked",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:39:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "original_description": "Maeve Millay is correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "embedding_key": "Maeve Millay is correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:39:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "original_description": "Bernard Lowe is correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "embedding_key": "Bernard Lowe is correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation",
+    "poignancy": 5,
+    "valence": -6,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "espresso machine",
+    "description": "Dolores Abernathy is serving customers at the counter (setting up espresso machine)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (setting up espresso machine)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (setting up espresso machine)",
+    "poignancy": 5,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "espresso machine"
+    ],
+    "filling": null
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:48:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is organized",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is organized",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:52:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -4,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:52:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (evaluating espresso shot timing)",
+    "original_description": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (evaluating espresso shot timing)",
+    "embedding_key": "Bernard Lowe is monitoring coffee preparation, checking barista performance, correcting errors immediately (evaluating espresso shot timing)",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:06:50",
+    "expiration": "2023-03-15 07:06:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found it noteworthy that",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve appreciated her simple breakfast of toast and fruit, calling it 'simple and perfect'.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve appreciated her simple breakfast of toast and fruit, calling it 'simple and perfect'.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve appreciated her simple breakfast of toast and fruit, calling it 'simple and perfect'.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "found it noteworthy that",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_90": {
+    "node_count": 90,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:52:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_91": {
+    "node_count": 91,
+    "type_count": 5,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:52:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "original_description": "maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "embedding_key": "maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve. The grinder is set to exactly 15 pounds, just as Bernard Lowe expects. I double-checked it a minute ago. How about you? Did you finish setting up the register and the drink menu cards?"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores. I just finished setting up the register and the drink menu cards. The coffee is hot, the counter is clean, and I double-checked the toaster—everything looks good. I’ll keep an eye on the sink too. Thanks for confirming the grinder setting—it’s exactly what Bernard expects."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve. Everything looks set. I’ll keep an eye on the espresso machine too—just in case it needs a quick check. Thanks for your help with the setup, it’s a smooth start to the day."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores. I’ll keep an eye on the sink too—just in case it needs a quick wipe. Thanks again for double-checking everything. It’s nice to have a smooth start with you both."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve. I just made a fresh batch of toast with fruit—simple and perfect, just like you said. I’ll be ready to serve when the first customer arrives. Thanks for keeping everything so well organized."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores. I just added a fresh batch of fruit to the counter—same as you did. It’s nice to have both of us double-checking the same things. I’ll keep an eye on the sink and make sure the coffee stays hot. Thanks for the toast—looks perfect. Let’s both stay ready for the first customer when they arrive."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve. I just finished checking the espresso machine—it’s ready to go. I’ll keep an eye on the temperature and make sure it’s consistent throughout the morning. Thanks again for sharing the fruit and for keeping everything so well organized. It’s a nice rhythm having both of us double-checking the same things."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores. I just made sure the sink is clean and the fruit is fresh—same as you. It’s nice to have this routine with you. Let’s both stay ready for the first customer when they arrive. Thanks again for keeping everything so consistent—it’s a solid start to the day."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve. I just noticed the smoothie ingredients are fresh—same as you did. It’s nice to have both of us making simple, fresh things. Let’s keep this rhythm going. I’ll be ready to serve when the first customer comes in."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores. I just checked the fridge—everything’s stocked and fresh. Let’s both stay ready for the first customer when they arrive. Thanks again for keeping everything so consistent—it’s a solid start to the day."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve. I just made sure the toast is warm and the fruit is ripe—simple and perfect, just like you said. Let’s keep this rhythm going. I’ll be ready when the first customer arrives. Thanks again for everything—it’s a solid start to the day."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores. I just finished checking the fridge again—everything’s fresh and ready. Let’s keep this smooth rhythm going. I’ll be ready when the first customer arrives. Thanks again for all the consistency—it’s a solid start to the day."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve. I just finished brushing my teeth and double-checked the sink one more time—everything’s ready. Let’s both stay ready for the first customer when they arrive. Thanks again for keeping this routine so smooth and consistent—it’s a solid start to the day."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores. I just finished my morning walk in Johnson Park—fresh air and quiet thoughts, just like I always do. It helps me feel centered before coming in. I’ll be ready when the first customer arrives. Thanks again for keeping everything so smooth and consistent—it really makes the morning feel like a shared rhythm we both trust."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve. I just finished my morning routine and double-checked everything one last time—toast is warm, fruit is ripe, sink is clean, grinder is at 15 pounds, espresso machine is ready. It’s a solid start. I’ll be ready when the first customer arrives. Thanks again for making this routine so smooth and consistent—it feels like a shared rhythm we both trust."
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores. I just finished my morning walk in Johnson Park—fresh air and quiet thoughts, just like I always do. It helps me feel centered before coming in. I’ll be ready when the first customer arrives. Thanks again for making this routine so smooth and consistent—it really makes the morning feel like a shared rhythm we both trust."
+      ]
+    ]
+  },
+  "node_92": {
+    "node_count": 92,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:52:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "original_description": "Dolores Abernathy is maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "embedding_key": "Dolores Abernathy is maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_91"
+    ]
+  },
+  "node_93": {
+    "node_count": 93,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:52:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "original_description": "Maeve Millay is maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "embedding_key": "Maeve Millay is maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_94": {
+    "node_count": 94,
+    "type_count": 28,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:02:50",
+    "expiration": "2023-03-15 10:02:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "double-check",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to double-check the sink, ensure the toast is warm and the fruit is ripe, keep the grinder at 15 pounds, and verify the espresso machine is ready before the first customer arrives.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to double-check the sink, ensure the toast is warm and the fruit is ripe, keep the grinder at 15 pounds, and verify the espresso machine is ready before the first customer arrives.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to double-check the sink, ensure the toast is warm and the fruit is ripe, keep the grinder at 15 pounds, and verify the espresso machine is ready before the first customer arrives.",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "double-check",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_95": {
+    "node_count": 95,
+    "type_count": 29,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:02:50",
+    "expiration": "2023-03-15 10:02:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noticed",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noticed that Maeve consistently shares her morning walk in Johnson Park, which helps her feel centered and contributes to the shared rhythm of their morning routine.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noticed that Maeve consistently shares her morning walk in Johnson Park, which helps her feel centered and contributes to the shared rhythm of their morning routine.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noticed that Maeve consistently shares her morning walk in Johnson Park, which helps her feel centered and contributes to the shared rhythm of their morning routine.",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "noticed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_96": {
+    "node_count": 96,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:03:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_97": {
+    "node_count": 97,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:03:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (calibrating coffee grinder)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (calibrating coffee grinder)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (calibrating coffee grinder)",
+    "poignancy": 5,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_98": {
+    "node_count": 98,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:03:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "calibrating",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating coffee grinder",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating coffee grinder",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating coffee grinder",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_99": {
+    "node_count": 99,
+    "type_count": 6,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:03:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "original_description": "maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "embedding_key": "maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+    "poignancy": 7,
+    "valence": -8,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Dolores, I've seen you calibrating the grinder, and I appreciate your attention to detail. However, the pressure must be exactly 15 pounds—no hesitation, no delays. If it's not at that precise level, you correct it immediately. I've already noted your request for a moment to verify, but that's not acceptable under current standards. Every second counts. If you don't meet this, you'll be retrained on the spot. I expect no exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I understand. I'll keep the grinder at exactly 15 pounds, monitor it constantly, and correct it immediately if it shifts—no hesitation, no delays. I'll make sure everything is precise and ready before the first customer arrives."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve observed your routine twice now—once when you checked the pressure, and once when you requested a moment to verify. Both times, you hesitated. That’s not acceptable. Discipline isn’t about being careful; it’s about being immediate. If the pressure isn’t at 15 pounds, you correct it in under three seconds. I’ll be watching. If I see even a single lapse, you’ll be retrained. There’s no room for ‘thinking,’ no room for ‘checking.’ Just action. Now, go to the counter and set it—right now—exactly at 15 pounds. I’ll be there in five minutes to verify. No excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm setting the grinder to exactly 15 pounds now. I'll keep my hands steady, maintain constant eye contact on the dial, and be ready to correct any deviation immediately. I'll make sure it stays at that level throughout the morning—no hesitation, no delays."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you pause twice now—once to check the dial, once to confirm the pressure. That’s not just hesitation; it’s a failure to follow discipline. I expect immediate action, not a moment of pause. If the pressure is off, correct it in under three seconds. I’ll be watching every thirty seconds. If I see even a single deviation, you’ll be retrained. Now, go to the counter and set it—right now—exactly at 15 pounds. I’ll be there in five minutes to verify. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm setting the grinder to exactly 15 pounds now. I'll keep my hands steady, maintain constant eye contact on the dial, and be ready to correct any deviation immediately. I'll make sure it stays at that level throughout the morning—no hesitation, no delays."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve just observed the grinder again—pressure is at 15 pounds, but your hands are still hovering over the dial. That’s not action. That’s hesitation. I’ll be checking every thirty seconds. If I see you even glance at the dial, you’ll be retrained immediately. Now, keep your eyes on the dial, your hands steady, and your posture rigid. No looking. No checking. Just precision. I’ll be back in five minutes. I’ll verify it again. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm keeping my eyes on the dial, hands steady, and posture rigid. I'll maintain exactly 15 pounds throughout the morning—no hesitation, no glances, no delays. I'm ready for your verification in five minutes."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve just seen you glance at the dial again—your eyes are still drifting over it. That’s not precision. That’s a lapse. I’ll be checking every thirty seconds. If I see even the slightest deviation, you’ll be retrained. I expect full attention. No looking. No hesitation. Just execution. I’ll be back in five minutes. I’ll verify it again. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm keeping my eyes fixed on the dial, hands steady, posture rigid. I've set the grinder to exactly 15 pounds and will maintain that pressure throughout the morning—no glances, no hesitation. I'm ready for your verification in five minutes."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve just seen you glance at the dial again—your eyes are still drifting over it. That’s not precision. That’s a lapse. I’ll be checking every thirty seconds. If I see even the slightest deviation, you’ll be retrained. I expect full attention. No looking. No hesitation. Just execution. I’ll be back in five minutes. I’ll verify it again. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm keeping my eyes fixed on the dial, hands steady, posture rigid. I've set the grinder to exactly 15 pounds and will maintain that pressure throughout the morning—no glances, no hesitation. I'm ready for your verification in five minutes."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve just seen you glance at the dial for the third time in under a minute. That’s not discipline—it’s negligence. I’ll be checking every thirty seconds. If I see even a single lapse in attention, you’ll be retrained immediately. I expect full focus, no distractions, no hesitation. Now, keep your eyes locked on the dial, your hands steady, and your posture rigid. I’ll be back in five minutes to verify. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm keeping my eyes fixed on the dial, hands steady, posture rigid. I've set the grinder to exactly 15 pounds and will maintain that pressure throughout the morning—no glances, no hesitation. I'm ready for your verification in five minutes."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve just seen you glance at the dial for the fourth time in under two minutes. That’s not just negligence—it’s a complete failure of discipline. I’ll be checking every thirty seconds. If I see even the slightest deviation, you’ll be retrained immediately. I expect full focus, no distractions, no hesitation. Now, keep your eyes locked on the dial, hands steady, posture rigid. I’ll be back in five minutes to verify. No exceptions."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm keeping my eyes fixed on the dial, hands steady, posture rigid. I've set the grinder to exactly 15 pounds and will maintain that pressure throughout the morning—no glances, no hesitation. I'm ready for your verification in five minutes."
+      ]
+    ]
+  }
+}

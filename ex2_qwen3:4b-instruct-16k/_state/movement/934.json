@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "monitoring coffee preparation, checking barista performance, correcting errors immediately (monitoring water temperature) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning prep routines with consistent attention to detail and shared responsibility @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just came in to check the register—everything looks ready. Did you get a chance to stock the toast and fruit? I’ll make sure the coffee is hot and the counter’s clean before we open up."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just checked the inventory—toast and fruit are ready. The toaster is off and the sink is clean. I’ll make sure the grinder is set to exactly 15 pounds and keep my hands steady throughout the morning. Bernard Lowe expects perfect consistency, so I’ll be careful. Let me know if you need anything else before we open up."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I’ll keep an eye on the coffee and make sure the counter’s spotless. We’ve got everything set—let’s just make sure we both stay on track and keep things running smoothly. Morning rush is going to be a breeze with our routines in place."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just double-checked everything—toast and fruit are ready, toaster is off, sink is clean, and the grinder is set to exactly 15 pounds. I’ll keep my hands steady and stay focused. Thanks for confirming everything—it’s nice to have our routines in sync. Let’s both keep an eye on things and make the morning rush smooth."
+        ],
+        [
+          "Maeve Millay",
+          "Looks like we’ve got everything covered, Dolores. I’ll keep an eye on the coffee and make sure the counter’s clean before we open. Thanks for double-checking everything—our routines are really working well together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just made sure the grinder is set to exactly 15 pounds and kept my hands steady—Bernard Lowe is watching closely, so I’ll stay focused. I’ve also prepped the toast and fruit for your smoothie. You’re doing great with the coffee and counter prep—our routines are really coming together. Let’s keep up the good work and make the morning rush smooth!"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores—your attention to detail really helps. I’ll keep the coffee hot and the counter spotless. Our routines are definitely making the morning run smoother. I’ll see you around the counter when the rush starts!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just prepped the toast and fruit—everything’s ready. I’ll keep an eye on the grinder and stay focused. Thanks for your help with the coffee and counter prep. Our routines are really coming together, and it’s nice to have everything in sync."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores—your prep really makes a difference. I’ll keep the coffee hot and the counter clean, and I’ll be ready when the rush starts. Let’s both stay focused and make today smooth!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’ve got the toast and fruit ready, and the grinder is set to exactly 15 pounds. I’ll keep my hands steady and stay focused. Thanks for your help with the coffee and counter prep—our routines are really coming together. Let’s both stay sharp and make the morning rush smooth!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just made sure the coffee is hot and the counter is clean—everything’s set. Thanks again for your prep. I’ll be ready to serve when the rush starts. Let’s keep our routines steady and make today smooth!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’ll keep an eye on the grinder and stay focused. Thanks again for your help—our routines are really coming together. Let’s both stay sharp and make today smooth!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just made sure the coffee is hot and the counter is clean—everything’s ready. Thanks again for your prep. I’ll be ready to serve when the rush starts. Let’s both stay focused and make today smooth!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’ll keep an eye on the grinder and stay focused. Thanks again for your help—our routines are really coming together. Let’s both stay sharp and make today smooth!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just made sure the coffee is hot and the counter is clean—everything’s ready. Thanks again for your prep. I’ll be ready to serve when the rush starts. Let’s both stay focused and make today smooth!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’ll keep an eye on the grinder and stay focused. Thanks again for your help—our routines are really coming together. Let’s both stay sharp and make today smooth!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning prep routines with consistent attention to detail and shared responsibility @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just came in to check the register—everything looks ready. Did you get a chance to stock the toast and fruit? I’ll make sure the coffee is hot and the counter’s clean before we open up."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just checked the inventory—toast and fruit are ready. The toaster is off and the sink is clean. I’ll make sure the grinder is set to exactly 15 pounds and keep my hands steady throughout the morning. Bernard Lowe expects perfect consistency, so I’ll be careful. Let me know if you need anything else before we open up."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I’ll keep an eye on the coffee and make sure the counter’s spotless. We’ve got everything set—let’s just make sure we both stay on track and keep things running smoothly. Morning rush is going to be a breeze with our routines in place."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just double-checked everything—toast and fruit are ready, toaster is off, sink is clean, and the grinder is set to exactly 15 pounds. I’ll keep my hands steady and stay focused. Thanks for confirming everything—it’s nice to have our routines in sync. Let’s both keep an eye on things and make the morning rush smooth."
+        ],
+        [
+          "Maeve Millay",
+          "Looks like we’ve got everything covered, Dolores. I’ll keep an eye on the coffee and make sure the counter’s clean before we open. Thanks for double-checking everything—our routines are really working well together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just made sure the grinder is set to exactly 15 pounds and kept my hands steady—Bernard Lowe is watching closely, so I’ll stay focused. I’ve also prepped the toast and fruit for your smoothie. You’re doing great with the coffee and counter prep—our routines are really coming together. Let’s keep up the good work and make the morning rush smooth!"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores—your attention to detail really helps. I’ll keep the coffee hot and the counter spotless. Our routines are definitely making the morning run smoother. I’ll see you around the counter when the rush starts!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just prepped the toast and fruit—everything’s ready. I’ll keep an eye on the grinder and stay focused. Thanks for your help with the coffee and counter prep. Our routines are really coming together, and it’s nice to have everything in sync."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores—your prep really makes a difference. I’ll keep the coffee hot and the counter clean, and I’ll be ready when the rush starts. Let’s both stay focused and make today smooth!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’ve got the toast and fruit ready, and the grinder is set to exactly 15 pounds. I’ll keep my hands steady and stay focused. Thanks for your help with the coffee and counter prep—our routines are really coming together. Let’s both stay sharp and make the morning rush smooth!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just made sure the coffee is hot and the counter is clean—everything’s set. Thanks again for your prep. I’ll be ready to serve when the rush starts. Let’s keep our routines steady and make today smooth!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’ll keep an eye on the grinder and stay focused. Thanks again for your help—our routines are really coming together. Let’s both stay sharp and make today smooth!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just made sure the coffee is hot and the counter is clean—everything’s ready. Thanks again for your prep. I’ll be ready to serve when the rush starts. Let’s both stay focused and make today smooth!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’ll keep an eye on the grinder and stay focused. Thanks again for your help—our routines are really coming together. Let’s both stay sharp and make today smooth!"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I just made sure the coffee is hot and the counter is clean—everything’s ready. Thanks again for your prep. I’ll be ready to serve when the rush starts. Let’s both stay focused and make today smooth!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I’ll keep an eye on the grinder and stay focused. Thanks again for your help—our routines are really coming together. Let’s both stay sharp and make today smooth!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:34:40"
+  }
+}

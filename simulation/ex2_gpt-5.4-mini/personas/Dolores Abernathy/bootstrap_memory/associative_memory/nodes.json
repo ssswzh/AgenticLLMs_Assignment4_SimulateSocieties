@@ -1,0 +1,3633 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, have breakfast at 7:30 am, walk to Hobbs Cafe by 8:00 am, work the counter from 8:00 am to 4:00 pm, have dinner at 6:00 pm, read a book from 6:30 pm to 11:00 pm.",
+    "original_description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, have breakfast at 7:30 am, walk to Hobbs Cafe by 8:00 am, work the counter from 8:00 am to 4:00 pm, have dinner at 6:00 pm, read a book from 6:30 pm to 11:00 pm.",
+    "embedding_key": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, have breakfast at 7:30 am, walk to Hobbs Cafe by 8:00 am, work the counter from 8:00 am to 4:00 pm, have dinner at 6:00 pm, read a book from 6:30 pm to 11:00 pm.",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:08:50",
+    "expiration": "2023-03-15 07:08:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that there are new customers this week who may require extra attention to their drink preferences during the morning rush.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that there are new customers this week who may require extra attention to their drink preferences during the morning rush.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that there are new customers this week who may require extra attention to their drink preferences during the morning rush.",
+    "poignancy": 1,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_100": {
+    "node_count": 100,
+    "type_count": 18,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "aligns",
+    "object": "None",
+    "description": "Dolores recognizes that her work environment is shaped by both authority (Bernard Lowe) and peer (Maeve), and she aligns her behavior with both—she respects hierarchy but also relies on collaboration, indicating a balanced, pragmatic worldview where rules and relationships coexist.",
+    "original_description": "Dolores recognizes that her work environment is shaped by both authority (Bernard Lowe) and peer (Maeve), and she aligns her behavior with both—she respects hierarchy but also relies on collaboration, indicating a balanced, pragmatic worldview where rules and relationships coexist.",
+    "embedding_key": "Dolores recognizes that her work environment is shaped by both authority (Bernard Lowe) and peer (Maeve), and she aligns her behavior with both—she respects hierarchy but also relies on collaboration, indicating a balanced, pragmatic worldview where rules and relationships coexist.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "aligns",
+      "none"
+    ],
+    "filling": [
+      "node_83",
+      "node_95",
+      "node_7",
+      "node_8",
+      "node_63",
+      "node_96",
+      "node_76",
+      "node_65",
+      "node_19",
+      "node_43",
+      "node_44",
+      "node_75",
+      "node_46"
+    ]
+  },
+  "node_101": {
+    "node_count": 101,
+    "type_count": 19,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "feels a deep responsibility",
+    "object": "None",
+    "description": "Dolores feels a deep responsibility to ensure accuracy and safety in her work, especially when it comes to customer health needs, which reflects her earnest and conflict-averse nature—she avoids errors not because she wants to be noticed, but because she believes in doing the right thing even under pressure.",
+    "original_description": "Dolores feels a deep responsibility to ensure accuracy and safety in her work, especially when it comes to customer health needs, which reflects her earnest and conflict-averse nature—she avoids errors not because she wants to be noticed, but because she believes in doing the right thing even under pressure.",
+    "embedding_key": "Dolores feels a deep responsibility to ensure accuracy and safety in her work, especially when it comes to customer health needs, which reflects her earnest and conflict-averse nature—she avoids errors not because she wants to be noticed, but because she believes in doing the right thing even under pressure.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "feels a deep responsibility",
+      "none"
+    ],
+    "filling": [
+      "node_32",
+      "node_64",
+      "node_88",
+      "node_33",
+      "node_92",
+      "node_45",
+      "node_91",
+      "node_83",
+      "node_61",
+      "node_7",
+      "node_8",
+      "node_63",
+      "node_34",
+      "node_76",
+      "node_82",
+      "node_19",
+      "node_43",
+      "node_44",
+      "node_75",
+      "node_46"
+    ]
+  },
+  "node_102": {
+    "node_count": 102,
+    "type_count": 20,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "views",
+    "object": "None",
+    "description": "Dolores Abernathy views the morning rush as a high-stakes environment where even small oversights—like missing a lactose-free note—could lead to serious consequences, reinforcing her tendency to get flustered under scrutiny.",
+    "original_description": "Dolores Abernathy views the morning rush as a high-stakes environment where even small oversights—like missing a lactose-free note—could lead to serious consequences, reinforcing her tendency to get flustered under scrutiny.",
+    "embedding_key": "Dolores Abernathy views the morning rush as a high-stakes environment where even small oversights—like missing a lactose-free note—could lead to serious consequences, reinforcing her tendency to get flustered under scrutiny.",
+    "poignancy": 9,
+    "valence": -7,
+    "keywords": [
+      "dolores abernathy",
+      "views",
+      "none"
+    ],
+    "filling": [
+      "node_82",
+      "node_76",
+      "node_87",
+      "node_45",
+      "node_38"
+    ]
+  },
+  "node_103": {
+    "node_count": 103,
+    "type_count": 21,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "associates",
+    "object": "None",
+    "description": "Dolores Abernathy internally associates the workplace with a structured, rule-bound environment, where clarity and visibility of information are non-negotiable, mirroring her personal habits of order and routine in her daily life.",
+    "original_description": "Dolores Abernathy internally associates the workplace with a structured, rule-bound environment, where clarity and visibility of information are non-negotiable, mirroring her personal habits of order and routine in her daily life.",
+    "embedding_key": "Dolores Abernathy internally associates the workplace with a structured, rule-bound environment, where clarity and visibility of information are non-negotiable, mirroring her personal habits of order and routine in her daily life.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "associates",
+      "none"
+    ],
+    "filling": [
+      "node_82",
+      "node_21",
+      "node_75",
+      "node_64",
+      "node_91"
+    ]
+  },
+  "node_104": {
+    "node_count": 104,
+    "type_count": 22,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "trusts",
+    "object": "None",
+    "description": "Dolores Abernathy trusts that consistency and repetition in procedures—like double-checking orders and verifying the lactose-free note—will build reliability, which in turn gives her a sense of control and stability in an unpredictable environment.",
+    "original_description": "Dolores Abernathy trusts that consistency and repetition in procedures—like double-checking orders and verifying the lactose-free note—will build reliability, which in turn gives her a sense of control and stability in an unpredictable environment.",
+    "embedding_key": "Dolores Abernathy trusts that consistency and repetition in procedures—like double-checking orders and verifying the lactose-free note—will build reliability, which in turn gives her a sense of control and stability in an unpredictable environment.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "trusts",
+      "none"
+    ],
+    "filling": [
+      "node_87",
+      "node_43",
+      "node_32",
+      "node_88",
+      "node_61"
+    ]
+  },
+  "node_105": {
+    "node_count": 105,
+    "type_count": 23,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "feels a deep responsibility to uphold protocol",
+    "object": "None",
+    "description": "Dolores Abernathy feels a deep responsibility to uphold protocol, especially around sensitive customer needs, which shapes her sense of self as someone who must act with precision and integrity to avoid failure or complicity.",
+    "original_description": "Dolores Abernathy feels a deep responsibility to uphold protocol, especially around sensitive customer needs, which shapes her sense of self as someone who must act with precision and integrity to avoid failure or complicity.",
+    "embedding_key": "Dolores Abernathy feels a deep responsibility to uphold protocol, especially around sensitive customer needs, which shapes her sense of self as someone who must act with precision and integrity to avoid failure or complicity.",
+    "poignancy": 9,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "feels a deep responsibility to uphold protocol",
+      "none"
+    ],
+    "filling": [
+      "node_82",
+      "node_83",
+      "node_33",
+      "node_34",
+      "node_92"
+    ]
+  },
+  "node_106": {
+    "node_count": 106,
+    "type_count": 24,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "believes",
+    "object": "None",
+    "description": "Dolores Abernathy subconsciously believes that coordination with Maeve is not just a task but a shared duty, reflecting her conflict-averse nature and her need for mutual verification to reduce anxiety and avoid errors.",
+    "original_description": "Dolores Abernathy subconsciously believes that coordination with Maeve is not just a task but a shared duty, reflecting her conflict-averse nature and her need for mutual verification to reduce anxiety and avoid errors.",
+    "embedding_key": "Dolores Abernathy subconsciously believes that coordination with Maeve is not just a task but a shared duty, reflecting her conflict-averse nature and her need for mutual verification to reduce anxiety and avoid errors.",
+    "poignancy": 9,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "believes",
+      "none"
+    ],
+    "filling": [
+      "node_8",
+      "node_31",
+      "node_46",
+      "node_9",
+      "node_64"
+    ]
+  },
+  "node_107": {
+    "node_count": 107,
+    "type_count": 25,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "feels a deep responsibility to ensure accuracy and safety in her work",
+    "object": "None",
+    "description": "Dolores Abernathy feels a deep responsibility to ensure accuracy and safety in her work, especially when it comes to serving lactose-free drinks, which she internalizes as a core part of her professional identity and moral duty.",
+    "original_description": "Dolores Abernathy feels a deep responsibility to ensure accuracy and safety in her work, especially when it comes to serving lactose-free drinks, which she internalizes as a core part of her professional identity and moral duty.",
+    "embedding_key": "Dolores Abernathy feels a deep responsibility to ensure accuracy and safety in her work, especially when it comes to serving lactose-free drinks, which she internalizes as a core part of her professional identity and moral duty.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "feels a deep responsibility to ensure accuracy and safety in her work",
+      "none"
+    ],
+    "filling": [
+      "node_33",
+      "node_45",
+      "node_82",
+      "node_34",
+      "node_83",
+      "node_95",
+      "node_75",
+      "node_92",
+      "node_87",
+      "node_91"
+    ]
+  },
+  "node_108": {
+    "node_count": 108,
+    "type_count": 26,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "perceives",
+    "object": "None",
+    "description": "Dolores Abernathy perceives her role as one of collaboration with Maeve, viewing their shared preparation as essential to both efficiency and accountability, reflecting her conflict-averse nature through cooperative, task-focused interactions.",
+    "original_description": "Dolores Abernathy perceives her role as one of collaboration with Maeve, viewing their shared preparation as essential to both efficiency and accountability, reflecting her conflict-averse nature through cooperative, task-focused interactions.",
+    "embedding_key": "Dolores Abernathy perceives her role as one of collaboration with Maeve, viewing their shared preparation as essential to both efficiency and accountability, reflecting her conflict-averse nature through cooperative, task-focused interactions.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "perceives",
+      "none"
+    ],
+    "filling": [
+      "node_32",
+      "node_44",
+      "node_7",
+      "node_8",
+      "node_43",
+      "node_19",
+      "node_46",
+      "node_61",
+      "node_87",
+      "node_31"
+    ]
+  },
+  "node_109": {
+    "node_count": 109,
+    "type_count": 27,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "experiences",
+    "object": "None",
+    "description": "Dolores Abernathy experiences heightened anxiety during the morning rush due to the risk of error, which triggers a pattern of over-preparation and double-checking, revealing her sensitivity to scrutiny and her need for control in high-pressure moments.",
+    "original_description": "Dolores Abernathy experiences heightened anxiety during the morning rush due to the risk of error, which triggers a pattern of over-preparation and double-checking, revealing her sensitivity to scrutiny and her need for control in high-pressure moments.",
+    "embedding_key": "Dolores Abernathy experiences heightened anxiety during the morning rush due to the risk of error, which triggers a pattern of over-preparation and double-checking, revealing her sensitivity to scrutiny and her need for control in high-pressure moments.",
+    "poignancy": 9,
+    "valence": -8,
+    "keywords": [
+      "dolores abernathy",
+      "experiences",
+      "none"
+    ],
+    "filling": [
+      "node_33",
+      "node_45",
+      "node_82",
+      "node_64",
+      "node_75",
+      "node_87",
+      "node_91"
+    ]
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:10:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_110": {
+    "node_count": 110,
+    "type_count": 28,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "understands",
+    "object": "None",
+    "description": "Dolores Abernathy understands that the workplace environment—especially the presence of strict protocols—shapes her expectations of professionalism, making her more cautious and deliberate in her actions to avoid perceived failure or complicity.",
+    "original_description": "Dolores Abernathy understands that the workplace environment—especially the presence of strict protocols—shapes her expectations of professionalism, making her more cautious and deliberate in her actions to avoid perceived failure or complicity.",
+    "embedding_key": "Dolores Abernathy understands that the workplace environment—especially the presence of strict protocols—shapes her expectations of professionalism, making her more cautious and deliberate in her actions to avoid perceived failure or complicity.",
+    "poignancy": 8,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "understands",
+      "none"
+    ],
+    "filling": [
+      "node_83",
+      "node_95",
+      "node_38",
+      "node_76",
+      "node_75",
+      "node_96"
+    ]
+  },
+  "node_111": {
+    "node_count": 111,
+    "type_count": 29,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "sees",
+    "object": "None",
+    "description": "Dolores Abernathy sees her personal routine—waking up early, having breakfast, and reading after work—as a consistent anchor that separates her work life from her private self, reinforcing her need for structure and mental retreat from responsibility.",
+    "original_description": "Dolores Abernathy sees her personal routine—waking up early, having breakfast, and reading after work—as a consistent anchor that separates her work life from her private self, reinforcing her need for structure and mental retreat from responsibility.",
+    "embedding_key": "Dolores Abernathy sees her personal routine—waking up early, having breakfast, and reading after work—as a consistent anchor that separates her work life from her private self, reinforcing her need for structure and mental retreat from responsibility.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "sees",
+      "none"
+    ],
+    "filling": [
+      "node_1",
+      "node_4",
+      "node_38",
+      "node_43",
+      "node_9"
+    ]
+  },
+  "node_112": {
+    "node_count": 112,
+    "type_count": 74,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "poignancy": 5,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_113": {
+    "node_count": 113,
+    "type_count": 75,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:55:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "organizing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being organized",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_114": {
+    "node_count": 114,
+    "type_count": 76,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:00:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "inspected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being inspected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being inspected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being inspected",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_115": {
+    "node_count": 115,
+    "type_count": 77,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:04:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_116": {
+    "node_count": 116,
+    "type_count": 78,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking coffee bean freshness)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking coffee bean freshness)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking coffee bean freshness)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_117": {
+    "node_count": 117,
+    "type_count": 79,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_118": {
+    "node_count": 118,
+    "type_count": 7,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:05:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "original_description": "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "embedding_key": "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "poignancy": 7,
+    "valence": -7,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I just finished calibrating the espresso machine and double-checked the temperature settings. The lactose-free note is visible on the counter, and I’ve confirmed with Maeve that all new orders will have that note flagged. I’ll be in the common area by 7:45 to review the customer list and verify every order before the morning rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, you've done the calibration and verified the note with Maeve, but you still haven't addressed the core protocol. The lactose-free note must be visible and confirmed by Maeve before 8:05, and if it's not, you must report it immediately. Four times today, Maeve has checked the list—four times—when she should have acted without hesitation. That’s not diligence; that’s failure. I expect you to follow protocol precisely, with no questions. I’ll be in the common area by 7:45 to review the list. If the note is missing or the machine isn’t ready by 8:05, I will intervene—no exceptions. Now, get to work and make sure every order is flagged before the rush begins."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand the protocol is strict and I’m committed to following it precisely. I’ve already confirmed with Maeve that the lactose-free note is visible on the counter and that all new orders will have it flagged. I’ll be in the common area by 7:45 to double-check the list with her and ensure the note is clearly marked. I’ll also keep a close eye on every order during the morning rush, especially any with dairy-based drinks, and flag them immediately if needed. I’ll make sure everything is verified before the rush begins, and I’ll report any issues to you right away. I’ve been preparing for this all morning, and I’m ready to act with full attention and responsibility."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve heard you say you’ve confirmed the note with Maeve—four times. That’s not diligence. It’s repetition without action. I expect you to verify the note once, and only once, at the start of the shift. If it’s missing, report it immediately. If the machine isn’t ready by 8:05, I will intervene. I don’t have time for hesitation. Now, go to the common area and confirm with Maeve that the lactose-free note is visible. If it’s not, tell me right now. I’ll be there at 7:45. And don’t just say you’re ready—show me proof. I’ll check the list with you. No more excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your concern and the importance of precision. I’ve already confirmed with Maeve that the lactose-free note is visible on the counter and clearly marked on the list. I will be in the common area by 7:45, double-checking the list with her and ensuring the note is visible and verified. I’ll also keep a close eye on all orders during the morning rush, especially those with dairy-based drinks, and flag them immediately if needed. I’ll report any issues to you right away. I’ve been preparing for this all morning, and I’m ready to act with full attention and responsibility."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve heard you say you’ve confirmed the note with Maeve—four times. That’s not diligence. It’s repetition without action. I expect you to verify the note once, and only once, at the start of the shift. If it’s missing, report it immediately. If the machine isn’t ready by 8:05, I will intervene. I don’t have time for hesitation. Now, go to the common area and confirm with Maeve that the lactose-free note is visible. If it’s not, tell me right now. I’ll be there at 7:45. And don’t just say you’re ready—show me proof. I’ll check the list with you. No more excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectations fully. I’ve already confirmed with Maeve that the lactose-free note is visible on the counter and clearly marked on the list. I will be in the common area by 7:45, double-checking the list with her and ensuring the note is visible and verified. I’ll also keep a close eye on all orders during the morning rush, especially those with dairy-based drinks, and flag them immediately if needed. I’ll report any issues to you right away. I’ve been preparing for this all morning, and I’m ready to act with full attention and responsibility."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you repeat your confirmation four times—each time you say the note is visible, but you don’t show me the list. That’s not action. That’s inaction. I expect one verification, one proof, one moment of clarity. If the note is not visible by 7:45, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve seen you hesitate. I don’t need your explanations. I need your proof. Go to the common area now. Show me the list. Show me the note. And if it’s missing, tell me before the rush begins. I’ll be there at 7:45. No more delays. No more repetition. Only action."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for one verification and proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you repeat your confirmation four times—each time you say the note is visible, but you don’t show me the list. That’s not action. That’s inaction. I expect one verification, one proof, one moment of clarity. If the note is not visible by 7:45, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve seen you hesitate. I don’t need your explanations. I need your proof. Go to the common area now. Show me the list. Show me the note. And if it’s missing, tell me before the rush begins. I’ll be there at 7:45. No more delays. No more repetition. Only action."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for one verification and proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you say it four times—each time without showing me the list. That’s not preparation. That’s evasion. I expect one clear, visible proof at 7:45. If the note is missing, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve watched you hesitate. I don’t need your words. I need the list. I need the note. I need proof. Go to the common area now. Show me what you’ve done. I’ll be there at 7:45. And don’t come back to me with excuses. This is not about effort. It’s about execution. Now, go."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for clear and immediate proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you say it four times—each time without showing me the list. That’s not preparation. That’s evasion. I expect one clear, visible proof at 7:45. If the note is missing, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve watched you hesitate. I don’t need your words. I need the list. I need the note. I need proof. Go to the common area now. Show me what you’ve done. I’ll be there at 7:45. And don’t come back to me with excuses. This is not about effort. It’s about execution. Now, go."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for clear and immediate proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I've seen you repeat your confirmation four times—each time without showing me the list. That's not preparation. That's evasion. I expect one clear, visible proof at 7:45. If the note is missing, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve watched you hesitate. I don’t need your words. I need the list. I need the note. I need proof. Go to the common area now. Show me what you’ve done. I’ll be there at 7:45. And don’t come back to me with excuses. This is not about effort. It’s about execution. Now, go."
+      ]
+    ]
+  },
+  "node_119": {
+    "node_count": 119,
+    "type_count": 80,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "original_description": "Dolores Abernathy is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "embedding_key": "Dolores Abernathy is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_118"
+    ]
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:10:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "opening",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being opened",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being opened",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being opened",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_120": {
+    "node_count": 120,
+    "type_count": 81,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (inspecting the coffee inventory)",
+    "original_description": "Maeve Millay is serving customers at the counter (inspecting the coffee inventory)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (inspecting the coffee inventory)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_121": {
+    "node_count": 121,
+    "type_count": 82,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "original_description": "Bernard Lowe is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "embedding_key": "Bernard Lowe is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_122": {
+    "node_count": 122,
+    "type_count": 83,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "inspected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being inspected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being inspected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being inspected",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_123": {
+    "node_count": 123,
+    "type_count": 84,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:09:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "calibrating",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (calibrating the grinder)",
+    "original_description": "Maeve Millay is serving customers at the counter (calibrating the grinder)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (calibrating the grinder)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_124": {
+    "node_count": 124,
+    "type_count": 85,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:09:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "calibrating",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating the grinder",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating the grinder",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating the grinder",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_125": {
+    "node_count": 125,
+    "type_count": 86,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:14:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_126": {
+    "node_count": 126,
+    "type_count": 87,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:19:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_127": {
+    "node_count": 127,
+    "type_count": 88,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "checked",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked for freshness",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked for freshness",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked for freshness",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_128": {
+    "node_count": 128,
+    "type_count": 8,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:24:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "original_description": "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "embedding_key": "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "poignancy": 7,
+    "valence": -8,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I just finished calibrating the espresso machine and double-checked the temperature settings. The lactose-free note is visible on the counter, and I’ve confirmed with Maeve that all new orders will have that note flagged. I’ll be in the common area by 7:45 to review the customer list and verify every order before the morning rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, you've done the calibration and verified the note with Maeve, but you still haven't addressed the core protocol. The lactose-free note must be visible and confirmed by Maeve before 8:05, and if it's not, you must report it immediately. Four times today, Maeve has checked the list—four times—when she should have acted without hesitation. That’s not diligence; that’s failure. I expect you to follow protocol precisely, with no questions. I’ll be in the common area by 7:45 to review the list. If the note is missing or the machine isn’t ready by 8:05, I will intervene—no exceptions. Now, get to work and make sure every order is flagged before the rush begins."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand the protocol is strict and I’m committed to following it precisely. I’ve already confirmed with Maeve that the lactose-free note is visible on the counter and that all new orders will have it flagged. I’ll be in the common area by 7:45 to double-check the list with her and ensure the note is clearly marked. I’ll also keep a close eye on every order during the morning rush, especially any with dairy-based drinks, and flag them immediately if needed. I’ll make sure everything is verified before the rush begins, and I’ll report any issues to you right away. I’ve been preparing for this all morning, and I’m ready to act with full attention and responsibility."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve heard you say you’ve confirmed the note with Maeve—four times. That’s not diligence. It’s repetition without action. I expect you to verify the note once, and only once, at the start of the shift. If it’s missing, report it immediately. If the machine isn’t ready by 8:05, I will intervene. I don’t have time for hesitation. Now, go to the common area and confirm with Maeve that the lactose-free note is visible. If it’s not, tell me right now. I’ll be there at 7:45. And don’t just say you’re ready—show me proof. I’ll check the list with you. No more excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your concern and the importance of precision. I’ve already confirmed with Maeve that the lactose-free note is visible on the counter and clearly marked on the list. I will be in the common area by 7:45, double-checking the list with her and ensuring the note is visible and verified. I’ll also keep a close eye on all orders during the morning rush, especially those with dairy-based drinks, and flag them immediately if needed. I’ll report any issues to you right away. I’ve been preparing for this all morning, and I’m ready to act with full attention and responsibility."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve heard you say you’ve confirmed the note with Maeve—four times. That’s not diligence. It’s repetition without action. I expect you to verify the note once, and only once, at the start of the shift. If it’s missing, report it immediately. If the machine isn’t ready by 8:05, I will intervene. I don’t have time for hesitation. Now, go to the common area and confirm with Maeve that the lactose-free note is visible. If it’s not, tell me right now. I’ll be there at 7:45. And don’t just say you’re ready—show me proof. I’ll check the list with you. No more excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectations fully. I’ve already confirmed with Maeve that the lactose-free note is visible on the counter and clearly marked on the list. I will be in the common area by 7:45, double-checking the list with her and ensuring the note is visible and verified. I’ll also keep a close eye on all orders during the morning rush, especially those with dairy-based drinks, and flag them immediately if needed. I’ll report any issues to you right away. I’ve been preparing for this all morning, and I’m ready to act with full attention and responsibility."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you repeat your confirmation four times—each time you say the note is visible, but you don’t show me the list. That’s not action. That’s inaction. I expect one verification, one proof, one moment of clarity. If the note is not visible by 7:45, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve seen you hesitate. I don’t need your explanations. I need your proof. Go to the common area now. Show me the list. Show me the note. And if it’s missing, tell me before the rush begins. I’ll be there at 7:45. No more delays. No more repetition. Only action."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for one verification and proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you repeat your confirmation four times—each time you say the note is visible, but you don’t show me the list. That’s not action. That’s inaction. I expect one verification, one proof, one moment of clarity. If the note is not visible by 7:45, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve seen you hesitate. I don’t need your explanations. I need your proof. Go to the common area now. Show me the list. Show me the note. And if it’s missing, tell me before the rush begins. I’ll be there at 7:45. No more delays. No more repetition. Only action."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for one verification and proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you say it four times—each time without showing me the list. That’s not preparation. That’s evasion. I expect one clear, visible proof at 7:45. If the note is missing, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve watched you hesitate. I don’t need your words. I need the list. I need the note. I need proof. Go to the common area now. Show me what you’ve done. I’ll be there at 7:45. And don’t come back to me with excuses. This is not about effort. It’s about execution. Now, go."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for clear and immediate proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you say it four times—each time without showing me the list. That’s not preparation. That’s evasion. I expect one clear, visible proof at 7:45. If the note is missing, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve watched you hesitate. I don’t need your words. I need the list. I need the note. I need proof. Go to the common area now. Show me what you’ve done. I’ll be there at 7:45. And don’t come back to me with excuses. This is not about effort. It’s about execution. Now, go."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for clear and immediate proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I've seen you repeat your confirmation four times—each time without showing me the list. That's not preparation. That's evasion. I expect one clear, visible proof at 7:45. If the note is missing, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve watched you hesitate. I don’t need your words. I need the list. I need the note. I need proof. Go to the common area now. Show me what you’ve done. I’ll be there at 7:45. And don’t come back to me with excuses. This is not about effort. It’s about execution. Now, go."
+      ]
+    ]
+  },
+  "node_129": {
+    "node_count": 129,
+    "type_count": 89,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "original_description": "Dolores Abernathy is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "embedding_key": "Dolores Abernathy is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "poignancy": 5,
+    "valence": -4,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_128"
+    ]
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:14:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_130": {
+    "node_count": 130,
+    "type_count": 90,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:50",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the freshness of milk and cream)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the freshness of milk and cream)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the freshness of milk and cream)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_131": {
+    "node_count": 131,
+    "type_count": 91,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:25:00",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "original_description": "Bernard Lowe is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "embedding_key": "Bernard Lowe is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_132": {
+    "node_count": 132,
+    "type_count": 30,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:26:50",
+    "expiration": "2023-03-15 10:26:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "show",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to show Mr. Lowe a copy of the customer list with the lactose-free note clearly highlighted by 7:45 in the common area, and to report immediately if the note is missing or the espresso machine is not ready by 8:05.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to show Mr. Lowe a copy of the customer list with the lactose-free note clearly highlighted by 7:45 in the common area, and to report immediately if the note is missing or the espresso machine is not ready by 8:05.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to show Mr. Lowe a copy of the customer list with the lactose-free note clearly highlighted by 7:45 in the common area, and to report immediately if the note is missing or the espresso machine is not ready by 8:05.",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "show",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_133": {
+    "node_count": 133,
+    "type_count": 31,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:26:50",
+    "expiration": "2023-03-15 10:26:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe expects only one verification and clear proof of the lactose-free note at 7:45, with no room for repetition or excuses.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe expects only one verification and clear proof of the lactose-free note at 7:45, with no room for repetition or excuses.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe expects only one verification and clear proof of the lactose-free note at 7:45, with no room for repetition or excuses.",
+    "poignancy": 9,
+    "valence": -8,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_134": {
+    "node_count": 134,
+    "type_count": 92,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:27:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking coffee bean freshness)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking coffee bean freshness)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking coffee bean freshness)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_135": {
+    "node_count": 135,
+    "type_count": 93,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:27:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_136": {
+    "node_count": 136,
+    "type_count": 94,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:27:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (calibrating the temperature settings)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (calibrating the temperature settings)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (calibrating the temperature settings)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_137": {
+    "node_count": 137,
+    "type_count": 95,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:30:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:19:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "off",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is off",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is off",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is off",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:24:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:24:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (brushing teeth)",
+    "original_description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (brushing teeth)",
+    "embedding_key": "Dolores Abernathy is waking up, completing morning routine, having breakfast (brushing teeth)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:24:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up, completing morning routine, having breakfast (putting on clothes)",
+    "original_description": "Maeve Millay is waking up, completing morning routine, having breakfast (putting on clothes)",
+    "embedding_key": "Maeve Millay is waking up, completing morning routine, having breakfast (putting on clothes)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:24:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating morning rush preparations by verifying new customer preferences and ensuring both team members have a copy of the list by 7:45",
+    "original_description": "coordinating morning rush preparations by verifying new customer preferences and ensuring both team members have a copy of the list by 7:45",
+    "embedding_key": "coordinating morning rush preparations by verifying new customer preferences and ensuring both team members have a copy of the list by 7:45",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Hey Maeve, I just woke up and was brushing my teeth. I saw you putting on your clothes—how’s your morning going so far?"
+      ],
+      [
+        "Maeve Millay",
+        "It's going okay, thanks! I just finished putting on my clothes and I'm heading over to the common area to check in with the new customer orders. I noticed there are a few new customers this week who might need extra attention during the morning rush—so I wanted to make sure we’re all ready. Do you have your list of preferences ready by 7:45?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I just got out of bed and was brushing my teeth—same as you! I’ll be in the common area by 7:45 to review the list. Thanks for mentioning the new customers—I’ll make sure to pay extra attention to their drink preferences during the morning rush."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 too—let’s make sure we both have a copy of the new customer preferences so we’re prepared for the morning rush. I’ll double-check the list before I head out to work."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be in the common area by 7:45 with a copy of the list too. Thanks for the heads-up about the new customers—I’ll make sure to keep an eye out for any special requests during the morning rush."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 with my list too—let’s make sure we both have a copy so we’re ready for the morning rush. I’ll double-check the new customer preferences before I head out to work."
+      ]
+    ]
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:24:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating morning rush preparations by verifying new customer preferences and ensuring both team members have a copy of the list by 7:45",
+    "original_description": "Dolores Abernathy is coordinating morning rush preparations by verifying new customer preferences and ensuring both team members have a copy of the list by 7:45",
+    "embedding_key": "Dolores Abernathy is coordinating morning rush preparations by verifying new customer preferences and ensuring both team members have a copy of the list by 7:45",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_18"
+    ]
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:24:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating morning rush preparations by verifying new customer preferences and ensuring both team members have a copy of the list by 7:45",
+    "original_description": "Maeve Millay is coordinating morning rush preparations by verifying new customer preferences and ensuring both team members have a copy of the list by 7:45",
+    "embedding_key": "Maeve Millay is coordinating morning rush preparations by verifying new customer preferences and ensuring both team members have a copy of the list by 7:45",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:32:50",
+    "expiration": "2023-03-15 07:32:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember to be in the common area by 7:45 with a copy of the new customer preferences list to prepare for the morning rush",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 with a copy of the new customer preferences list to prepare for the morning rush.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 with a copy of the new customer preferences list to prepare for the morning rush.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 with a copy of the new customer preferences list to prepare for the morning rush.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember to be in the common area by 7:45 with a copy of the new customer preferences list to prepare for the morning rush",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:32:50",
+    "expiration": "2023-03-15 07:32:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noted",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noted that there are new customers this week who might need extra attention during the morning rush.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noted that there are new customers this week who might need extra attention during the morning rush.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noted that there are new customers this week who might need extra attention during the morning rush.",
+    "poignancy": 1,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "noted",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:38:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:43:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "drying",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being dried",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being dried",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being dried",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:52:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:57:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being prepared",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being prepared",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being prepared",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (eating breakfast)",
+    "original_description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (eating breakfast)",
+    "embedding_key": "Dolores Abernathy is waking up, completing morning routine, having breakfast (eating breakfast)",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up, completing morning routine, having breakfast (preparing breakfast items)",
+    "original_description": "Maeve Millay is waking up, completing morning routine, having breakfast (preparing breakfast items)",
+    "embedding_key": "Maeve Millay is waking up, completing morning routine, having breakfast (preparing breakfast items)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Dolores Abernathy is sleeping",
+    "original_description": "Dolores Abernathy is sleeping",
+    "embedding_key": "Dolores Abernathy is sleeping",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:58:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating morning shift preparations and confirming lactose-intolerant customer preferences for all orders",
+    "original_description": "coordinating morning shift preparations and confirming lactose-intolerant customer preferences for all orders",
+    "embedding_key": "coordinating morning shift preparations and confirming lactose-intolerant customer preferences for all orders",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Hey Maeve, I just woke up and was making my breakfast. You’re already up too, huh? I noticed the new customer list—do you have a copy of it yet? We should both be in the common area by 7:45 to go over it together."
+      ],
+      [
+        "Maeve Millay",
+        "Yeah, I just finished putting on my clothes and I’m already grabbing a quick breakfast. I have the list with me—just double-checking it now to make sure I didn’t miss anything. We should both be in the common area by 7:45, right? I’ll bring my copy and we can go over the new customers’ preferences together before we head out."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll head to the common area by 7:45 too—just want to make sure we’ve got the new customers’ drink preferences straight before the rush starts. Thanks for sharing the list, I’ll double-check the order too so we’re both on the same page."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45, no problem. Just wanted to confirm—did you get the new customers’ preferences for coffee and tea? I think one of them has a lactose intolerance, so we should make sure we don’t serve anything with dairy unless they ask for it."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yeah, I just checked the list too—same thing, one of the new customers has lactose intolerance. I’ll make sure to flag that in the order. We’re both on the same page now, right? Let’s just make sure we don’t serve any dairy-based drinks without a request."
+      ],
+      [
+        "Maeve Millay",
+        "Alright, I’ve double-checked the list and confirmed the lactose intolerance note. I’ll make sure to keep it visible on the counter too. Thanks for catching that—let’s both keep an eye on it during the morning rush. I’ll be in the common area by 7:45, ready to go over any updates you might have."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll keep an eye on the list and make sure the lactose-free note is clearly marked in the order. I’ll be in the common area by 7:45 too—just want to confirm we’re both on the same page before the rush starts."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45, ready to go over any updates you might have. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll make sure to flag the lactose-free note in the order and keep an eye on the list. I’ll be in the common area by 7:45 too—just want to confirm everything is clear before the rush starts. Thanks again for double-checking!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45, ready to go over any updates you might have. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll make sure to flag the lactose-free note in every order and keep a copy of the list in my pocket. I’ll be in the common area by 7:45, ready to go over anything else you might have noticed. Thanks again for double-checking!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45, ready to go over any updates you might have. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be in the common area by 7:45 too—just want to make sure we’re both on the same page before the rush starts. Thanks again for double-checking the list and the lactose intolerance note!"
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45, ready to go over anything else you might have noticed. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll make sure to keep the lactose-free note visible in my copy and double-check every order during the morning rush. I’ll be in the common area by 7:45—ready to go over anything else you might have noticed."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45, ready to go over anything else you might have noticed. Just wanted to confirm—we both have the list and we’re aware of the lactose intolerance. Let’s keep it visible and double-check with each order during the morning rush, okay?"
+      ]
+    ]
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating morning shift preparations and confirming lactose-intolerant customer preferences for all orders",
+    "original_description": "Dolores Abernathy is coordinating morning shift preparations and confirming lactose-intolerant customer preferences for all orders",
+    "embedding_key": "Dolores Abernathy is coordinating morning shift preparations and confirming lactose-intolerant customer preferences for all orders",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_30"
+    ]
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating morning shift preparations and confirming lactose-intolerant customer preferences for all orders",
+    "original_description": "Maeve Millay is coordinating morning shift preparations and confirming lactose-intolerant customer preferences for all orders",
+    "embedding_key": "Maeve Millay is coordinating morning shift preparations and confirming lactose-intolerant customer preferences for all orders",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:07:50",
+    "expiration": "2023-03-15 08:07:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45, keep the lactose-free note visible in her copy of the customer list, flag the lactose intolerance in every order, and double-check each order during the morning rush to ensure no dairy-based drinks are served without a request.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45, keep the lactose-free note visible in her copy of the customer list, flag the lactose intolerance in every order, and double-check each order during the morning rush to ensure no dairy-based drinks are served without a request.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45, keep the lactose-free note visible in her copy of the customer list, flag the lactose intolerance in every order, and double-check each order during the morning rush to ensure no dairy-based drinks are served without a request.",
+    "poignancy": 9,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:07:50",
+    "expiration": "2023-03-15 08:07:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "emphasized",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that one of the new customers has lactose intolerance and emphasized the need to flag this in every order and keep the note visible during the morning rush.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that one of the new customers has lactose intolerance and emphasized the need to flag this in every order and keep the note visible during the morning rush.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that one of the new customers has lactose intolerance and emphasized the need to flag this in every order and keep the note visible during the morning rush.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "emphasized",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:11:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "eating",
+    "object": "None",
+    "description": "Maeve Millay is waking up, completing morning routine, having breakfast (eating breakfast)",
+    "original_description": "Maeve Millay is waking up, completing morning routine, having breakfast (eating breakfast)",
+    "embedding_key": "Maeve Millay is waking up, completing morning routine, having breakfast (eating breakfast)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:11:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "eaten from",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being eaten from",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being eaten from",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being eaten from",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:11:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is being accessed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:17:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "having",
+    "object": "breakfast",
+    "description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (finalizing morning routine)",
+    "original_description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (finalizing morning routine)",
+    "embedding_key": "Dolores Abernathy is waking up, completing morning routine, having breakfast (finalizing morning routine)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "breakfast"
+    ],
+    "filling": null
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:17:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (waking up from sleep)",
+    "original_description": "Dolores Abernathy is waking up, completing morning routine, having breakfast (waking up from sleep)",
+    "embedding_key": "Dolores Abernathy is waking up, completing morning routine, having breakfast (waking up from sleep)",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:21:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being used",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:21:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up, completing morning routine, having breakfast (packing a water bottle)",
+    "original_description": "Maeve Millay is waking up, completing morning routine, having breakfast (packing a water bottle)",
+    "embedding_key": "Maeve Millay is waking up, completing morning routine, having breakfast (packing a water bottle)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:21:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating meeting in the common area by 7:45 to review and verify the lactose-free note on the customer preferences list during the morning rush",
+    "original_description": "coordinating meeting in the common area by 7:45 to review and verify the lactose-free note on the customer preferences list during the morning rush",
+    "embedding_key": "coordinating meeting in the common area by 7:45 to review and verify the lactose-free note on the customer preferences list during the morning rush",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Hey Maeve, I just finished my breakfast and was about to head out. I saw you packing your water bottle—good to know you're all set. Let's meet in the common area by 7:45 to go over the new customer preferences. I’ll make sure the lactose-free note is visible on my copy of the list, and we’ll double-check every order during the rush to be safe."
+      ],
+      [
+        "Maeve Millay",
+        "Thanks, Dolores—yeah, I’ve got my water bottle packed and I’ll be in the common area by 7:45. I’ll double-check the list too, and I’ll make sure the lactose-free note is visible on the counter. Let’s both keep an eye out for the new customers during the rush—just in case."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note highlighted. Let’s both keep a close eye on the orders—especially the ones with dairy-based drinks—just to be safe."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be there by 7:45 too, Dolores. I’ve got the list with me and I’ll make sure to glance at it again before the rush starts. Thanks for reminding me about the lactose-free note—makes sense to keep it visible so we don’t miss anything."
+      ],
+      [
+        "Dolores Abernathy",
+        "Alright, I’ll be in the common area by 7:45 with the list and the lactose-free note highlighted. Let’s both keep an eye on the orders—especially the ones with dairy-based drinks—just to be safe."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 with the list, and I’ll make sure to double-check each order during the rush. Thanks again for the reminder about the lactose-free note—let’s keep it visible and stay alert for the new customers."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be in the common area by 7:45 with the list and the lactose-free note highlighted. Let’s both keep an eye on the orders—especially the ones with dairy-based drinks—just to be safe."
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores. I’ll be there by 7:45 with the list and the lactose-free note visible. Let’s both stay alert and make sure we’re ready for the morning rush."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note highlighted. Let’s both stay alert and make sure we’re ready for the morning rush."
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores. I’ll be there by 7:45 with the list and the lactose-free note visible. Let’s both stay alert and make sure we’re ready for the morning rush."
+      ]
+    ]
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:21:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating meeting in the common area by 7:45 to review and verify the lactose-free note on the customer preferences list during the morning rush",
+    "original_description": "Dolores Abernathy is coordinating meeting in the common area by 7:45 to review and verify the lactose-free note on the customer preferences list during the morning rush",
+    "embedding_key": "Dolores Abernathy is coordinating meeting in the common area by 7:45 to review and verify the lactose-free note on the customer preferences list during the morning rush",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_42"
+    ]
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:21:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating meeting in the common area by 7:45 to review and verify the lactose-free note on the customer preferences list during the morning rush",
+    "original_description": "Maeve Millay is coordinating meeting in the common area by 7:45 to review and verify the lactose-free note on the customer preferences list during the morning rush",
+    "embedding_key": "Maeve Millay is coordinating meeting in the common area by 7:45 to review and verify the lactose-free note on the customer preferences list during the morning rush",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:25:50",
+    "expiration": "2023-03-15 08:25:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "watching",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 with the list and the lactose-free note highlighted, and to keep an eye on orders, especially those with dairy-based drinks, during the morning rush.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 with the list and the lactose-free note highlighted, and to keep an eye on orders, especially those with dairy-based drinks, during the morning rush.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 with the list and the lactose-free note highlighted, and to keep an eye on orders, especially those with dairy-based drinks, during the morning rush.",
+    "poignancy": 8,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "watching",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:25:50",
+    "expiration": "2023-03-15 08:25:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that Maeve had already confirmed the lactose-free note would be visible on the counter and that both of them would double-check orders during the morning rush.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that Maeve had already confirmed the lactose-free note would be visible on the counter and that both of them would double-check orders during the morning rush.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that Maeve had already confirmed the lactose-free note would be visible on the counter and that both of them would double-check orders during the morning rush.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (checking the weather forecast)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (checking the weather forecast)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (checking the weather forecast)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is unaffected",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is unaffected",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:refrigerator is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:31:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe (checking the weather)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (checking the weather)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (checking the weather)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:01:00",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up, completing morning routine, having breakfast (waking up)",
+    "original_description": "Maeve Millay is waking up, completing morning routine, having breakfast (waking up)",
+    "embedding_key": "Maeve Millay is waking up, completing morning routine, having breakfast (waking up)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:31:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cooking area",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:48:50",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "is empty",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is empty",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is empty",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is empty",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "common room table",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:50:40",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room sofa is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room sofa is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room sofa is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "common room sofa",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:52:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "common room table",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:05:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (checking the register)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (checking the register)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:05:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is grappling with unresolved tension between precision demands and the need for preparation",
+    "original_description": "Maeve Millay is grappling with unresolved tension between precision demands and the need for preparation",
+    "embedding_key": "Maeve Millay is grappling with unresolved tension between precision demands and the need for preparation",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:05:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is grappling with unresolved tension between precision demands and the need for preparation",
+    "original_description": "Bernard Lowe is grappling with unresolved tension between precision demands and the need for preparation",
+    "embedding_key": "Bernard Lowe is grappling with unresolved tension between precision demands and the need for preparation",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:07:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being served",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:11:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:01:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating morning shift preparations by reviewing new customer orders and drink preferences together in the common area by 7:45",
+    "original_description": "coordinating morning shift preparations by reviewing new customer orders and drink preferences together in the common area by 7:45",
+    "embedding_key": "coordinating morning shift preparations by reviewing new customer orders and drink preferences together in the common area by 7:45",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Dolores. Did you get a good night's sleep? I just finished my coffee and was thinking about the shift—hope you're ready for a busy morning at the cafe."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I just woke up and had my coffee too. The shift should be busy—hope we can keep up with the rush. I’ll be ready when you are."
+      ],
+      [
+        "Maeve Millay",
+        "I just checked the order list—there’s a few new customers this week, so we might need to be extra quick with the drinks. Do you want to grab the morning rush list and go over it together before we head in? I’ll be ready to help if you need anything."
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds good, Maeve. I’ll grab the morning rush list right now and check it over. I’ll be in the common area by 7:45—let me know if there’s anything specific you’d like to adjust before we head in."
+      ],
+      [
+        "Maeve Millay",
+        "Great, thanks Dolores. I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust anything quickly."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+      ]
+    ]
+  },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:12:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "original_description": "coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "embedding_key": "coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Hi Maeve, I just saw you at the counter—everything okay? I was checking the register and noticed we still need to confirm the lactose-free note is visible on the list before the morning rush starts. Do you have a copy by 7:45? I’ll make sure it’s highlighted too."
+      ],
+      [
+        "Maeve Millay",
+        "Hi Dolores, everything’s good—just getting ready for the morning rush. I do have a copy of the list by 7:45, and I’ll make sure the lactose-free note is clearly visible on the counter too. I’ll double-check each order as we go, especially for new customers. Thanks for reminding me—this is important to get right."
+      ],
+      [
+        "Dolores Abernathy",
+        "Thanks, Maeve. I’ll keep an eye on the orders too—especially the ones with dairy-based drinks. Let’s both make sure we double-check everything before the rush starts. I’ll be in the common area by 7:45 with the list, and I’ll have it highlighted just like you said."
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Dolores. I’ll be in the common area by 7:45 with the list and make sure the lactose-free note is clearly visible on the counter. I’ll also double-check every order during the rush, especially for new customers. Thanks for your help—I’ll keep an eye out for any changes too."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be in the common area by 7:45 with the list and make sure the lactose-free note is clearly highlighted. I’ll also keep an eye on all orders, especially those with dairy-based drinks, and double-check each one before serving. Thanks for confirming—this is important for the new customers."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll also make sure to start the first batch of coffee at 8:00 AM exactly as Bernard Lowe demonstrated—no deviations. I’ll keep an eye on the counter so we don’t miss any new customers during the rush. Thanks again, Dolores."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be in the common area by 7:45 with the list and make sure the lactose-free note is clearly highlighted. I’ll also keep an eye on all orders, especially those with dairy-based drinks, and double-check each one before serving. Thanks for confirming—this is important for the new customers."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll also make sure to keep a close eye on the new customers during the morning rush—especially since one of them has a lactose intolerance. I’ll double-check every order as we go, and I’ll stay alert for any new requests. Thanks again, Dolores."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be in the common area by 7:45 with the list and make sure the lactose-free note is clearly highlighted. I’ll also keep an eye on all orders, especially those with dairy-based drinks, and double-check each one before serving. Thanks for confirming—this is important for the new customers."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll also make sure to keep a copy of the list in my pocket and double-check it with you right before we start serving—just to be extra safe. Thanks again for your help, Dolores."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be in the common area by 7:45 with the list and make sure the lactose-free note is clearly highlighted. I’ll also keep an eye on all orders, especially those with dairy-based drinks, and double-check each one before serving. Thanks for confirming—this is important for the new customers."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 with the list and the lactose-free note clearly visible. I’ll double-check every order during the rush, especially for new customers. Thanks again, Dolores."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be in the common area by 7:45 with the list and make sure the lactose-free note is clearly highlighted. I’ll also keep an eye on all orders, especially those with dairy-based drinks, and double-check each one before serving. Thanks for confirming—this is important for the new customers."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 with the list and the lactose-free note clearly visible. I’ll double-check every order during the rush, especially for new customers. Thanks again, Dolores."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly highlighted. I’ll double-check every order, especially those with dairy-based drinks. Thanks for your help—this is important for the new customers."
+      ]
+    ]
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "original_description": "Dolores Abernathy is coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "embedding_key": "Dolores Abernathy is coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_60"
+    ]
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking the morning shift reports)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking the morning shift reports)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking the morning shift reports)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "original_description": "Maeve Millay is coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "embedding_key": "Maeve Millay is coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:19:50",
+    "expiration": "2023-03-15 09:19:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remember",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 with the list and make sure the lactose-free note is clearly highlighted, while also keeping an eye on all orders, especially those with dairy-based drinks, and double-checking each one before serving.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 with the list and make sure the lactose-free note is clearly highlighted, while also keeping an eye on all orders, especially those with dairy-based drinks, and double-checking each one before serving.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 with the list and make sure the lactose-free note is clearly highlighted, while also keeping an eye on all orders, especially those with dairy-based drinks, and double-checking each one before serving.",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:19:50",
+    "expiration": "2023-03-15 09:19:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that Maeve has a new customer with lactose intolerance who requires special attention during the morning rush.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that Maeve has a new customer with lactose intolerance who requires special attention during the morning rush.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that Maeve has a new customer with lactose intolerance who requires special attention during the morning rush.",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (preparing coffee supplies)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (preparing coffee supplies)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (preparing coffee supplies)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "managed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:01:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating morning shift preparations by reviewing new customer orders and drink preferences together in the common area by 7:45",
+    "original_description": "Dolores Abernathy is coordinating morning shift preparations by reviewing new customer orders and drink preferences together in the common area by 7:45",
+    "embedding_key": "Dolores Abernathy is coordinating morning shift preparations by reviewing new customer orders and drink preferences together in the common area by 7:45",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_6"
+    ]
+  },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting equipment status)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting equipment status)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting equipment status)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 5,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:22:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "original_description": "ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "embedding_key": "ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "poignancy": 5,
+    "valence": -6,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I just finished setting up the espresso machine and was checking the register. I noticed the morning rush list is ready, and I’ve been making sure the lactose-free note is visible on the counter. Is everything else running smoothly with the equipment and orders?"
+      ],
+      [
+        "Bernard Lowe",
+        "Good morning, Abernathy. The espresso machine is set up, but I expect it to be ready for use by 8:05. You’ve been checking the register, but I need to see the lactose-free note confirmed by Maeve as well. That note must be visible and verified before the first customer arrives. If it’s not, I’ll have to address it immediately. Don’t hesitate to double-check—this isn’t optional."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I'll make sure to double-check with Maeve right before the morning rush and confirm the lactose-free note is visible. I’ve already been reviewing the list and will keep a close eye on all orders, especially those with dairy-based drinks. I’ll be in the common area by 7:45 to ensure everything is in order and both of us have a copy of the updated list."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already seen Maeve double-checking the lactose-free note four times this morning. That’s not just a matter of visibility—it’s a procedure. If you see any order with dairy-based drinks, you must flag it immediately to me. I expect no exceptions. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to intervene. Don’t wait for my permission—act with precision. That’s what this job demands."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I understand the importance of precision and will make sure to double-check every order with Maeve before the morning rush. I’ll be in the common area by 7:45 with the updated list and the lactose-free note clearly highlighted. I’ll also keep a close eye on all orders, especially those with dairy-based drinks, and flag any potential issues immediately. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already seen Maeve double-check the lactose-free note four times. That’s not a mistake—it’s a protocol. If you’re not flagging orders with dairy-based drinks, you’re failing your duty. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to step in. Don’t wait for my permission—act with precision. That’s what this job demands."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I understand the importance of precision and will make sure to double-check every order with Maeve before the morning rush. I’ll be in the common area by 7:45 with the updated list and the lactose-free note clearly highlighted. I’ll also keep a close eye on all orders, especially those with dairy-based drinks, and flag any potential issues immediately. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already observed Maeve double-checking the lactose-free note four times. That’s not an oversight—it’s a mandatory protocol. If you don’t see it, you must report it. If you don’t act, you’ll be seen as complicit. I expect you to perform your duties with the same precision I demand. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to intervene. Don’t wait for permission—act immediately. This isn’t about being efficient. It’s about being reliable."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I understand the importance of precision and will make sure to double-check every order with Maeve before the morning rush. I’ll be in the common area by 7:45 with the updated list and the lactose-free note clearly highlighted. I’ll also keep a close eye on all orders, especially those with dairy-based drinks, and flag any potential issues immediately. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already seen Maeve double-check the lactose-free note four times. That’s not a mistake—it’s a protocol. If you don’t see it, you must report it. If you don’t act, you’ll be seen as complicit. I expect you to perform your duties with the same precision I demand. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to intervene. Don’t wait for permission—act immediately. This isn’t about being efficient. It’s about being reliable."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I’ll make sure to be in the common area by 7:45 with the updated list and the lactose-free note clearly highlighted. I’ll double-check every order with Maeve before the morning rush, especially those with dairy-based drinks, and flag any issues immediately. I’ll also keep a close eye on the counter and the machine’s performance to ensure everything runs smoothly by 8:05. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already seen Maeve double-check the lactose-free note four times. That’s not a mistake—it’s a protocol. If you don’t see it, you must report it. If you don’t act, you’ll be seen as complicit. I expect you to perform your duties with the same precision I demand. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to intervene. Don’t wait for permission—act immediately. This isn’t about being efficient. It’s about being reliable."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I’ll make sure to be in the common area by 7:45 with the updated list and the lactose-free note clearly highlighted. I’ll double-check every order with Maeve before the morning rush, especially those with dairy-based drinks, and flag any issues immediately. I’ll also keep a close eye on the counter and the machine’s performance to ensure everything runs smoothly by 8:05. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already seen Maeve double-check the lactose-free note four times. That’s not a mistake—it’s a protocol. If you don’t see it, you must report it. If you don’t act, you’ll be seen as complicit. I expect you to perform your duties with the same precision I demand. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to intervene. Don’t wait for permission—act immediately. This isn’t about being efficient. It’s about being reliable."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I’ll make sure to be in the common area by 7:45 with the updated list and the lactose-free note clearly highlighted. I’ll double-check every order with Maeve before the morning rush, especially those with dairy-based drinks, and flag any issues immediately. I’ll also keep a close eye on the counter and the machine’s performance to ensure everything runs smoothly by 8:05. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already seen Maeve double-check the lactose-free note four times. That’s not a mistake—it’s a protocol. If you don’t see it, you must report it. If you don’t act, you’ll be seen as complicit. I expect you to perform your duties with the same precision I demand. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to intervene. Don’t wait for permission—act immediately. This isn’t about being efficient. It’s about being reliable."
+      ]
+    ]
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "original_description": "Dolores Abernathy is ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "embedding_key": "Dolores Abernathy is ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_74"
+    ]
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "original_description": "Bernard Lowe is ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "embedding_key": "Bernard Lowe is ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:24:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (preparing coffee supplies)",
+    "original_description": "Maeve Millay is serving customers at the counter (preparing coffee supplies)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (preparing coffee supplies)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:01:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating morning shift preparations by reviewing new customer orders and drink preferences together in the common area by 7:45",
+    "original_description": "Maeve Millay is coordinating morning shift preparations by reviewing new customer orders and drink preferences together in the common area by 7:45",
+    "embedding_key": "Maeve Millay is coordinating morning shift preparations by reviewing new customer orders and drink preferences together in the common area by 7:45",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:24:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:34:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "organizing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being organized",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:37:50",
+    "expiration": "2023-03-15 09:37:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember to be in the common area by 7:45",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45, double-check every order with Maeve before the morning rush, ensure the lactose-free note is clearly visible and verified, and flag any orders with dairy-based drinks immediately to Mr. Lowe.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45, double-check every order with Maeve before the morning rush, ensure the lactose-free note is clearly visible and verified, and flag any orders with dairy-based drinks immediately to Mr. Lowe.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45, double-check every order with Maeve before the morning rush, ensure the lactose-free note is clearly visible and verified, and flag any orders with dairy-based drinks immediately to Mr. Lowe.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember to be in the common area by 7:45",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:37:50",
+    "expiration": "2023-03-15 09:37:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noticed",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noticed that Bernard Lowe emphasized a strict protocol for verifying the lactose-free note, stressing that failure to act would be seen as complicity.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noticed that Bernard Lowe emphasized a strict protocol for verifying the lactose-free note, stressing that failure to act would be seen as complicity.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noticed that Bernard Lowe emphasized a strict protocol for verifying the lactose-free note, stressing that failure to act would be seen as complicity.",
+    "poignancy": 8,
+    "valence": -7,
+    "keywords": [
+      "dolores abernathy",
+      "noticed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:38:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:38:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting equipment status)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting equipment status)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting equipment status)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 6,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:38:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "original_description": "coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "embedding_key": "coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Dolores, I just saw you setting up the espresso machine — are you ready to head to the common area by 7:45? I’ll be there with the new customer list and the lactose-free note. We should double-check everything before the rush starts, especially since one of the new customers has a lactose intolerance. I’ll have a copy in my pocket too, just in case we need to verify it quickly."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Maeve — I’m ready. I’ll be in the common area by 7:45 with the list too. I’ll make sure the lactose-free note is clearly highlighted and double-check every order with you before the rush, especially for dairy-based drinks. Thanks for reminding me about the new customer — I’ll keep an eye out and flag any orders immediately if needed."
+      ],
+      [
+        "Maeve Millay",
+        "Thanks, Dolores — I’ll be there early and ready to go over the list with you. I’ll also make sure the counter has the lactose-free note visible before we start serving. Let’s both keep a sharp eye out for any new customers, especially the ones with dairy-free needs. I’ll double-check every order with you as we go, just to be safe."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note clearly marked. I’ll also keep an eye on all orders during the rush, especially any with dairy-based drinks, and flag them right away if they’re served without a request. Let’s make sure we both double-check everything before the morning rush starts."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll also take a quick moment before 8:00 to make sure the machine is ready and the first batch of coffee is starting — just like Bernard instructed. I’ll keep an eye on the clock and let you know when we’re both on the same page, so we’re fully aligned before the rush begins."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be there by 7:45 with the list and the lactose-free note clearly highlighted. I’ll double-check every order with you before serving, especially any that include dairy-based drinks. Let’s make sure both of us are aligned and that the note is visible on the counter before the rush starts."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45 with the list and the lactose-free note clearly visible on the counter. Let’s both confirm the list one more time before we start serving, just to be absolutely sure we’re aligned on all new customer preferences. I’ll keep a copy in my pocket and check it with you right before we begin—just in case anything slips through. I’ll also watch the clock so we can both start the first batch of coffee at exactly 8:00, as Bernard instructed."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly marked. I’ll double-check every order with you before serving, especially any that include dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm everything one more time right before we start serving—just to be absolutely sure we’re aligned and that no one gets a drink without a proper request."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45, Dolores. I’ve got the list and the lactose-free note ready to go. Let’s both confirm it one last time right before we start serving — I’ll keep my copy in my pocket and double-check it with you. I’ll also make sure the espresso machine is ready and the first batch of coffee starts at exactly 8:00, just as Bernard instructed. We’re both on the same page, right? Let’s not skip a step."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll be there by 7:45 with the list and the lactose-free note clearly highlighted. I’ll double-check every order with you before serving, especially any with dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm one last time right before we start—just to be absolutely sure we’re aligned and nothing slips through."
+      ],
+      [
+        "Maeve Millay",
+        "I’ll be in the common area by 7:45, Dolores. I’ve got the list and the lactose-free note ready. Let’s both confirm it one last time right before we start serving — I’ll keep my copy in my pocket and double-check it with you. I’ll also make sure the espresso machine is ready and the first batch of coffee starts at exactly 8:00, just as Bernard instructed. We’re both on the same page, right? Let’s not skip a step."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly marked. I’ll double-check every order with you before serving, especially any with dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm one last time right before we start—just to be absolutely sure we’re aligned and nothing slips through."
+      ],
+      [
+        "Maeve Millay",
+        "Dolores, just to be clear — I’ll have the list and my copy in my pocket, and I’ll double-check everything with you right before we start serving. I’ll also keep an eye on the clock so we’re both ready at exactly 8:00. Let’s make sure we’re both on the same page before the first customer walks in. I’ll be there by 7:45, no later than that."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note clearly marked. I’ll double-check every order with you before serving, especially any with dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm one last time right before we start—just to be absolutely sure we’re aligned and nothing slips through."
+      ],
+      [
+        "Maeve Millay",
+        "Dolores, just to confirm — I’ll be in the common area by 7:45 with the list and my copy in my pocket. I’ll double-check everything with you right before we start serving, especially for new customers with dairy-free needs. Let’s both make sure the lactose-free note is visible on the counter and that the espresso machine is ready. I’ll keep an eye on the clock so we’re both on time for the 8:00 start. We’re aligned, right? I’ll be there, no later than 7:45."
+      ],
+      [
+        "Dolores Abernathy",
+        "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note clearly marked. I’ll double-check every order with you before serving, especially any with dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm one last time right before we start—just to be absolutely sure we’re aligned and nothing slips through."
+      ]
+    ]
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:38:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "original_description": "Dolores Abernathy is coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "embedding_key": "Dolores Abernathy is coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_86"
+    ]
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:38:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "original_description": "Maeve Millay is coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "embedding_key": "Maeve Millay is coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 68,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:38:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:08:50",
+    "expiration": "2023-03-15 07:08:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remembering",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 to review the morning rush list and check for any standout items related to the new customers' orders and drink preferences.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 to review the morning rush list and check for any standout items related to the new customers' orders and drink preferences.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 to review the morning rush list and check for any standout items related to the new customers' orders and drink preferences.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "remembering",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_90": {
+    "node_count": 90,
+    "type_count": 69,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:41:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "managed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_91": {
+    "node_count": 91,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:50:50",
+    "expiration": "2023-03-15 09:50:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 with the customer list and the lactose-free note clearly marked, double-check every order with Maeve before serving especially those with dairy-based drinks, ensure the lactose-free note is visible on the counter, and confirm everything one last time with Maeve right before serving begins.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 with the customer list and the lactose-free note clearly marked, double-check every order with Maeve before serving especially those with dairy-based drinks, ensure the lactose-free note is visible on the counter, and confirm everything one last time with Maeve right before serving begins.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be in the common area by 7:45 with the customer list and the lactose-free note clearly marked, double-check every order with Maeve before serving especially those with dairy-based drinks, ensure the lactose-free note is visible on the counter, and confirm everything one last time with Maeve right before serving begins.",
+    "poignancy": 9,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_92": {
+    "node_count": 92,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:50:50",
+    "expiration": "2023-03-15 09:50:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy learned that the lactose-free note must be clearly highlighted and visible on the counter before the morning rush starts.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that the lactose-free note must be clearly highlighted and visible on the counter before the morning rush starts.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that the lactose-free note must be clearly highlighted and visible on the counter before the morning rush starts.",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_93": {
+    "node_count": 93,
+    "type_count": 70,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (inspecting the coffee inventory)",
+    "original_description": "Maeve Millay is serving customers at the counter (inspecting the coffee inventory)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (inspecting the coffee inventory)",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_94": {
+    "node_count": 94,
+    "type_count": 71,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_95": {
+    "node_count": 95,
+    "type_count": 72,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "original_description": "Bernard Lowe is executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "embedding_key": "Bernard Lowe is executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_96": {
+    "node_count": 96,
+    "type_count": 73,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "original_description": "Maeve Millay is executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "embedding_key": "Maeve Millay is executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_97": {
+    "node_count": 97,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "perceives",
+    "object": "None",
+    "description": "Dolores perceives the morning shift as a collaborative space where mutual verification builds trust, and she subconsciously values teamwork over individual effort—her planning consistently emphasizes double-checks with Maeve, indicating a deep-seated belief that shared accountability prevents mistakes.",
+    "original_description": "Dolores perceives the morning shift as a collaborative space where mutual verification builds trust, and she subconsciously values teamwork over individual effort—her planning consistently emphasizes double-checks with Maeve, indicating a deep-seated belief that shared accountability prevents mistakes.",
+    "embedding_key": "Dolores perceives the morning shift as a collaborative space where mutual verification builds trust, and she subconsciously values teamwork over individual effort—her planning consistently emphasizes double-checks with Maeve, indicating a deep-seated belief that shared accountability prevents mistakes.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "perceives",
+      "none"
+    ],
+    "filling": [
+      "node_64",
+      "node_87",
+      "node_88",
+      "node_33",
+      "node_45",
+      "node_91",
+      "node_61",
+      "node_7",
+      "node_8",
+      "node_63",
+      "node_19",
+      "node_43",
+      "node_44",
+      "node_46"
+    ]
+  },
+  "node_98": {
+    "node_count": 98,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "internalizes",
+    "object": "None",
+    "description": "Dolores internalizes the strict protocols as a form of professional discipline, not just a rule, which reinforces her tendency to avoid scrutiny and fluster—she prepares meticulously to prevent being caught off guard, even if it means over-preparing or over-organizing.",
+    "original_description": "Dolores internalizes the strict protocols as a form of professional discipline, not just a rule, which reinforces her tendency to avoid scrutiny and fluster—she prepares meticulously to prevent being caught off guard, even if it means over-preparing or over-organizing.",
+    "embedding_key": "Dolores internalizes the strict protocols as a form of professional discipline, not just a rule, which reinforces her tendency to avoid scrutiny and fluster—she prepares meticulously to prevent being caught off guard, even if it means over-preparing or over-organizing.",
+    "poignancy": 9,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "internalizes",
+      "none"
+    ],
+    "filling": [
+      "node_64",
+      "node_87",
+      "node_88",
+      "node_33",
+      "node_92",
+      "node_45",
+      "node_91",
+      "node_83",
+      "node_95",
+      "node_61",
+      "node_7",
+      "node_8",
+      "node_63",
+      "node_96",
+      "node_76",
+      "node_82",
+      "node_65",
+      "node_19",
+      "node_43",
+      "node_44",
+      "node_75"
+    ]
+  },
+  "node_99": {
+    "node_count": 99,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:51:20",
+    "expiration": "2023-03-15 09:51:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "sees",
+    "object": "None",
+    "description": "Dolores sees her role as one of careful execution and routine—her daily plan is structured with precise timing and repetition, suggesting that her sense of self is anchored in predictability and order, especially in her work environment.",
+    "original_description": "Dolores sees her role as one of careful execution and routine—her daily plan is structured with precise timing and repetition, suggesting that her sense of self is anchored in predictability and order, especially in her work environment.",
+    "embedding_key": "Dolores sees her role as one of careful execution and routine—her daily plan is structured with precise timing and repetition, suggesting that her sense of self is anchored in predictability and order, especially in her work environment.",
+    "poignancy": 9,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "sees",
+      "none"
+    ],
+    "filling": [
+      "node_38",
+      "node_4",
+      "node_1"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "the Ville": {
+    "Bernard Lowe's apartment": {
+      "bathroom": [
+        "bathroom sink",
+        "toilet",
+        "shower"
+      ],
+      "main room": [
+        "closet",
+        "shelf",
+        "bed",
+        "desk",
+        "refrigerator"
+      ]
+    },
+    "Dorm for Oak Hill College": {
+      "common room": [
+        "common room sofa",
+        "pool table",
+        "common room table"
+      ],
+      "garden": [
+        "dorm garden"
+      ]
+    },
+    "Giorgio Rossi's apartment": {
+      "bathroom": [
+        "shower",
+        "bathroom sink"
+      ],
+      "main room": [
+        "blackboard",
+        "desk",
+        "cooking area",
+        "kitchen sink",
+        "closet",
+        "bed"
+      ]
+    },
+    "Harvey Oak Supply Store": {
+      "supply store": [
+        "behind the supply store counter",
+        "supply store counter",
+        "supply store product shelf"
+      ]
+    },
+    "Hobbs Cafe": {
+      "cafe": [
+        "cafe customer seating",
+        "cooking area",
+        "kitchen sink",
+        "behind the cafe counter",
+        "piano",
+        "refrigerator"
+      ]
+    },
+    "Johnson Park": {
+      "park": [
+        "park garden"
+      ]
+    },
+    "Ryan Park's apartment": {
+      "bathroom": [
+        "shower",
+        "bathroom sink",
+        "toilet"
+      ],
+      "main room": [
+        "computer desk",
+        "bed",
+        "cooking area",
+        "kitchen sink",
+        "refrigerator",
+        "closet"
+      ]
+    },
+    "The Rose and Crown Pub": {
+      "pub": [
+        "refrigerator",
+        "bar customer seating",
+        "behind the bar counter",
+        "kitchen sink",
+        "cooking area",
+        "microphone",
+        "shelf"
+      ]
+    },
+    "The Willows Market and Pharmacy": {
+      "store": [
+        "behind the pharmacy counter",
+        "pharmacy store shelf",
+        "pharmacy store counter",
+        "grocery store shelf",
+        "behind the grocery counter",
+        "grocery store counter"
+      ]
+    }
+  }
+}

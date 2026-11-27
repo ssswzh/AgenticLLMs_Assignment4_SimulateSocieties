@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. The coffee is hot, the counter is clean, and I’ve double-checked the toast and fruit. Everything’s ready for the morning rush. Is there anything specific you’d like me to adjust before we open up?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. The coffee is hot, the counter is clean, and the toast and fruit are ready—acceptable. But the grinder pressure must be exactly 15 pounds. I’ve already seen it fluctuate. You’ll need to check it every 30 seconds and correct it immediately if it’s not at that pressure. No exceptions. I’ll be monitoring the behind-the-counter operations closely. If it’s off, I’ll retrain you on the spot. That’s how we do it. Now, go serve the first customer."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll make sure the grinder is at exactly 15 pounds every 30 seconds and keep a close eye on it. I’ve been practicing with Dolores to maintain consistency, and I’ll do my best to stay within your standards. Is there anything else you’d like me to verify before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the pressure, but you’re still hesitating to adjust it. That’s not acceptable. If the pressure isn’t at 15 pounds, you must correct it without delay—no second thoughts, no explanations. I expect the same precision from you as from Dolores. Keep your eyes on the grinder and act immediately. I’ll be watching. Now, serve the next customer."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I’ve been practicing with Dolores, and I’ll stay focused and precise. I’ll keep you updated on any changes. Is there anything else you’d like me to verify before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the pressure, but you’re still hesitating to adjust it. That’s not acceptable. If the pressure isn’t at 15 pounds, you must correct it without delay—no second thoughts, no explanations. I expect the same precision from you as from Dolores. Keep your eyes on the grinder and act immediately. I’ll be watching. Now, serve the next customer."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I’ve been practicing with Dolores, and I’ll stay focused and precise. I’ll keep you updated on any changes. Is there anything else you’d like me to verify before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve already seen you hesitate—twice now—when the pressure wasn’t at 15 pounds. That’s not just a small lapse; it’s a failure of discipline. Dolores doesn’t hesitate. She acts. You must learn that difference. If you don’t correct it immediately, I’ll retrain you on the spot. Now, go serve the next customer. I’ll be watching every second."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand the importance of precision, and I’ll make sure to adjust the grinder pressure immediately without hesitation. I’ll keep my eyes on it every 30 seconds and stay focused throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the pressure twice now and hesitate to correct it—once with a pause, once with a look of uncertainty. Dolores does not hesitate. She acts. You must learn that difference. If you don’t correct it immediately, I’ll retrain you on the spot. Now, go serve the next customer. I’ll be watching every second."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I understand the importance of precision and will act without hesitation. I’ll keep you updated on any changes and stay focused throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the pressure three times now and hesitate each time. That’s not precision—it’s negligence. Dolores doesn’t hesitate. She acts. You must learn that difference. If you don’t correct it immediately, I’ll retrain you on the spot. Now, go serve the next customer. I’ll be watching every second."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand the importance of precision and will act without hesitation. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I’ve been practicing with Dolores, and I’ll stay focused throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the pressure four times now and hesitate each time. That’s not just a lapse—it’s a pattern. You’re not acting with the discipline Dolores has. If you continue to hesitate, I’ll have no choice but to retrain you on the spot. I expect immediate action. Now, go serve the next customer. I’ll be watching every second."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand the importance of precision and will act without hesitation. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I’ve been practicing with Dolores, and I’ll stay focused throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the pressure five times now and hesitate each time. That’s not just a lapse—it’s a failure to follow the standard. Dolores doesn’t hesitate. She acts. You must learn that difference. If you don’t correct it immediately, I’ll retrain you on the spot. Now, go serve the next customer. I’ll be watching every second."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "serving customers at the counter (organizing drink menu cards) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "correcting grinder pressure without hesitation every 30 seconds as a result of repeated feedback and disciplinary expectation @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. The coffee is hot, the counter is clean, and I’ve double-checked the toast and fruit. Everything’s ready for the morning rush. Is there anything specific you’d like me to adjust before we open up?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. The coffee is hot, the counter is clean, and the toast and fruit are ready—acceptable. But the grinder pressure must be exactly 15 pounds. I’ve already seen it fluctuate. You’ll need to check it every 30 seconds and correct it immediately if it’s not at that pressure. No exceptions. I’ll be monitoring the behind-the-counter operations closely. If it’s off, I’ll retrain you on the spot. That’s how we do it. Now, go serve the first customer."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll make sure the grinder is at exactly 15 pounds every 30 seconds and keep a close eye on it. I’ve been practicing with Dolores to maintain consistency, and I’ll do my best to stay within your standards. Is there anything else you’d like me to verify before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the pressure, but you’re still hesitating to adjust it. That’s not acceptable. If the pressure isn’t at 15 pounds, you must correct it without delay—no second thoughts, no explanations. I expect the same precision from you as from Dolores. Keep your eyes on the grinder and act immediately. I’ll be watching. Now, serve the next customer."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I’ve been practicing with Dolores, and I’ll stay focused and precise. I’ll keep you updated on any changes. Is there anything else you’d like me to verify before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the pressure, but you’re still hesitating to adjust it. That’s not acceptable. If the pressure isn’t at 15 pounds, you must correct it without delay—no second thoughts, no explanations. I expect the same precision from you as from Dolores. Keep your eyes on the grinder and act immediately. I’ll be watching. Now, serve the next customer."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I’ve been practicing with Dolores, and I’ll stay focused and precise. I’ll keep you updated on any changes. Is there anything else you’d like me to verify before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve already seen you hesitate—twice now—when the pressure wasn’t at 15 pounds. That’s not just a small lapse; it’s a failure of discipline. Dolores doesn’t hesitate. She acts. You must learn that difference. If you don’t correct it immediately, I’ll retrain you on the spot. Now, go serve the next customer. I’ll be watching every second."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand the importance of precision, and I’ll make sure to adjust the grinder pressure immediately without hesitation. I’ll keep my eyes on it every 30 seconds and stay focused throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the pressure twice now and hesitate to correct it—once with a pause, once with a look of uncertainty. Dolores does not hesitate. She acts. You must learn that difference. If you don’t correct it immediately, I’ll retrain you on the spot. Now, go serve the next customer. I’ll be watching every second."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I understand the importance of precision and will act without hesitation. I’ll keep you updated on any changes and stay focused throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the pressure three times now and hesitate each time. That’s not precision—it’s negligence. Dolores doesn’t hesitate. She acts. You must learn that difference. If you don’t correct it immediately, I’ll retrain you on the spot. Now, go serve the next customer. I’ll be watching every second."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand the importance of precision and will act without hesitation. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I’ve been practicing with Dolores, and I’ll stay focused throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the pressure four times now and hesitate each time. That’s not just a lapse—it’s a pattern. You’re not acting with the discipline Dolores has. If you continue to hesitate, I’ll have no choice but to retrain you on the spot. I expect immediate action. Now, go serve the next customer. I’ll be watching every second."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I understand the importance of precision and will act without hesitation. I’ll monitor the grinder every 30 seconds and adjust the pressure immediately if it’s not at 15 pounds. I’ve been practicing with Dolores, and I’ll stay focused throughout the morning. Thank you for your guidance."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the pressure five times now and hesitate each time. That’s not just a lapse—it’s a failure to follow the standard. Dolores doesn’t hesitate. She acts. You must learn that difference. If you don’t correct it immediately, I’ll retrain you on the spot. Now, go serve the next customer. I’ll be watching every second."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:50:20"
+  }
+}

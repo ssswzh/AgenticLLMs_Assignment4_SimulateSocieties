@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciato": "☀️",
+      "description": "waking up, completing morning routine, walking to Hobbs Cafe (checking the weather) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        125,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning shift preparations by reviewing new customer orders and drink preferences together in the common area by 7:45 @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. Did you get a good night's sleep? I just finished my coffee and was thinking about the shift—hope you're ready for a busy morning at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just woke up and had my coffee too. The shift should be busy—hope we can keep up with the rush. I’ll be ready when you are."
+        ],
+        [
+          "Maeve Millay",
+          "I just checked the order list—there’s a few new customers this week, so we might need to be extra quick with the drinks. Do you want to grab the morning rush list and go over it together before we head in? I’ll be ready to help if you need anything."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds good, Maeve. I’ll grab the morning rush list right now and check it over. I’ll be in the common area by 7:45—let me know if there’s anything specific you’d like to adjust before we head in."
+        ],
+        [
+          "Maeve Millay",
+          "Great, thanks Dolores. I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust anything quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        125,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning shift preparations by reviewing new customer orders and drink preferences together in the common area by 7:45 @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. Did you get a good night's sleep? I just finished my coffee and was thinking about the shift—hope you're ready for a busy morning at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I just woke up and had my coffee too. The shift should be busy—hope we can keep up with the rush. I’ll be ready when you are."
+        ],
+        [
+          "Maeve Millay",
+          "I just checked the order list—there’s a few new customers this week, so we might need to be extra quick with the drinks. Do you want to grab the morning rush list and go over it together before we head in? I’ll be ready to help if you need anything."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds good, Maeve. I’ll grab the morning rush list right now and check it over. I’ll be in the common area by 7:45—let me know if there’s anything specific you’d like to adjust before we head in."
+        ],
+        [
+          "Maeve Millay",
+          "Great, thanks Dolores. I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust anything quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 too—let’s make sure we’ve got everything covered before we head in. I’ll bring my own list of the new customers’ preferences just in case we need to adjust quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with the rush list. Let’s make sure we’ve got the new customers’ orders and drink preferences covered—just in case we need to adjust quickly. I’ll check the list and let you know if anything stands out."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:05:30"
+  }
+}

@@ -1,0 +1,2213 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Bernard Lowe",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:30 am, open Hobbs Cafe at 8:00 am, manage the cafe operations from 8:00 am to 4:00 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "original_description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:30 am, open Hobbs Cafe at 8:00 am, manage the cafe operations from 8:00 am to 4:00 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "embedding_key": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:30 am, open Hobbs Cafe at 8:00 am, manage the cafe operations from 8:00 am to 4:00 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (unlocking the door)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (unlocking the door)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (unlocking the door)",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "managed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:05:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cooking area",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cooking area is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cooking area is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cooking area is being monitored",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cooking area",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:15:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "monitored",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being monitored",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:31:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "monitored",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is being monitored",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (preparing the first batch of coffee)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (preparing the first batch of coffee)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (preparing the first batch of coffee)",
+    "poignancy": 10,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:50:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (conducting a quick staff briefing)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (conducting a quick staff briefing)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe, managing operations, monitoring baristas (conducting a quick staff briefing)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:bed",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:50:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "managed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:01:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "grappling with unresolved tension between precision demands and the need for preparation",
+    "original_description": "grappling with unresolved tension between precision demands and the need for preparation",
+    "embedding_key": "grappling with unresolved tension between precision demands and the need for preparation",
+    "poignancy": 8,
+    "valence": -10,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Mr. Lowe. I just arrived and saw you already at the counter. I'm here to go over the morning rush prep with Dolores, especially the new customer preferences and the lactose-free note. I wanted to make sure we're both on the same page before the rush starts."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I don't have time for a briefing. The morning rush starts at 8:00, and I expect everything to be perfect. You'll prepare the lactose-free coffee exactly as I demonstrated yesterday—no variations. If you mess up, you'll be replaced. Now, go to the counter and start the first batch. I'll be watching."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I understand you're focused on precision, and I'm committed to getting everything right. I just wanted to confirm—since the lactose-free note is already visible on the counter and we've both reviewed the new customer list—I’ll double-check each order during the rush, especially for any new customers who might need dairy-free drinks. I’m not asking for a favor or a break—I’m just making sure I’m prepared, and I’ll keep you updated if anything changes during the shift."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I don't have time for explanations. The lactose-free coffee must be prepared exactly as I showed you yesterday—no deviations. If you're not ready, you'll be replaced. Go to the counter now and start the first batch. I'll be watching every single pour. Any mistake, and you're out. Do you understand?"
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I understand your expectations, and I'm committed to doing my best. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I don't have time for this performance nonsense. You're either prepared or you're not. If you're not ready to execute my instructions without hesitation, then you're not suited for this job. Go to the counter, start the first batch, and don't look back. I'll be watching every second. Any deviation, and you're out."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I understand your expectations, and I'm committed to doing my best. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I see you're trying to justify yourself. That's not how this works. If you're not prepared to follow my instructions without question, then you're not fit for this position. Go to the counter and start the first batch. I'll be watching. If you make a single mistake, you're out. Now move."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I understand you expect precision and immediate execution, and I'm committed to meeting those standards. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I don't have time for this. The lactose-free coffee is prepared exactly as I demonstrated yesterday—no variations. If you don't start the first batch right now, you'll be replaced. Go to the counter and begin immediately. I'll be watching every pour. Any mistake, and you're out."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I hear you're focused on precision and consistency, and I respect that. I'm just trying to make sure I'm fully prepared—especially since the morning rush starts soon and there are new customers with specific needs. I’ll start the first batch as soon as I’m ready, and I’ll keep you updated on any changes during the shift. I’m committed to doing my best, and I’ll do everything I can to meet your standards without error."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I've heard you trying to explain yourself. That's not how this job works. You either follow my instructions precisely or you leave. I don't have time for justifications. Go to the counter and start the first batch of coffee. I'll be watching every pour. If you make a single mistake, you're out. Now move."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I understand you expect precision and immediate execution, and I'm committed to meeting those standards. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I've heard you say that three times now. You're either prepared or you're not. If you're not ready to execute my instructions without hesitation, then you're not fit for this job. Go to the counter and begin the first batch. I'll be watching. If you make a single mistake, you're out."
+      ],
+      [
+        "Maeve Millay",
+        "Mr. Lowe, I understand your expectations, and I'm committed to following them precisely. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I've heard you say that four times now. You're either prepared or you're not. If you're not ready to execute my instructions without hesitation, then you're not fit for this job. Go to the counter and begin the first batch. I'll be watching every pour. If you make a single mistake, you're out."
+      ]
+    ]
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:01:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is grappling with unresolved tension between precision demands and the need for preparation",
+    "original_description": "Bernard Lowe is grappling with unresolved tension between precision demands and the need for preparation",
+    "embedding_key": "Bernard Lowe is grappling with unresolved tension between precision demands and the need for preparation",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_21"
+    ]
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:02:00",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is grappling with unresolved tension between precision demands and the need for preparation",
+    "original_description": "Maeve Millay is grappling with unresolved tension between precision demands and the need for preparation",
+    "embedding_key": "Maeve Millay is grappling with unresolved tension between precision demands and the need for preparation",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (checking the register)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (checking the register)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:07:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being served",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:11:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:11:50",
+    "expiration": "2023-03-15 09:11:50",
+    "subject": "Bernard Lowe",
+    "predicate": "needs to remember",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember that Maeve Millay has repeatedly expressed concern about missing new customer preferences and the lactose-free note, indicating a potential gap in her preparedness that may require further clarification or training before full execution.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember that Maeve Millay has repeatedly expressed concern about missing new customer preferences and the lactose-free note, indicating a potential gap in her preparedness that may require further clarification or training before full execution.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember that Maeve Millay has repeatedly expressed concern about missing new customer preferences and the lactose-free note, indicating a potential gap in her preparedness that may require further clarification or training before full execution.",
+    "poignancy": 1,
+    "valence": -3,
+    "keywords": [
+      "bernard lowe",
+      "needs to remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:11:50",
+    "expiration": "2023-03-15 09:11:50",
+    "subject": "Bernard Lowe",
+    "predicate": "found",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve Millay repeated her request to confirm customer preferences and preparation details four times despite his clear expectation of immediate and unquestioned execution.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve Millay repeated her request to confirm customer preferences and preparation details four times despite his clear expectation of immediate and unquestioned execution.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve Millay repeated her request to confirm customer preferences and preparation details four times despite his clear expectation of immediate and unquestioned execution.",
+    "poignancy": 9,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "found",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking the morning shift reports)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking the morning shift reports)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking the morning shift reports)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Bernard Lowe is sleeping",
+    "original_description": "Bernard Lowe is sleeping",
+    "embedding_key": "Bernard Lowe is sleeping",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "original_description": "Maeve Millay is coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "embedding_key": "Maeve Millay is coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "original_description": "Dolores Abernathy is coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "embedding_key": "Dolores Abernathy is coordinating the visibility and verification of the lactose-free note on the order list before the morning rush with mutual double-checks of all orders, especially for new customers and dairy-based drinks",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:13:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "managed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (preparing coffee supplies)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (preparing coffee supplies)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (preparing coffee supplies)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:00",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (verifying inventory levels)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (verifying inventory levels)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (verifying inventory levels)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (waking up)",
+    "original_description": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (waking up)",
+    "embedding_key": "Bernard Lowe is waking up, completing morning routine, walking to Hobbs Cafe (waking up)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:22:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "original_description": "ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "embedding_key": "ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "poignancy": 6,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I just finished setting up the espresso machine and was checking the register. I noticed the morning rush list is ready, and I’ve been making sure the lactose-free note is visible on the counter. Is everything else running smoothly with the equipment and orders?"
+      ],
+      [
+        "Bernard Lowe",
+        "Good morning, Abernathy. The espresso machine is set up, but I expect it to be ready for use by 8:05. You’ve been checking the register, but I need to see the lactose-free note confirmed by Maeve as well. That note must be visible and verified before the first customer arrives. If it’s not, I’ll have to address it immediately. Don’t hesitate to double-check—this isn’t optional."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I'll make sure to double-check with Maeve right before the morning rush and confirm the lactose-free note is visible. I’ve already been reviewing the list and will keep a close eye on all orders, especially those with dairy-based drinks. I’ll be in the common area by 7:45 to ensure everything is in order and both of us have a copy of the updated list."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already seen Maeve double-checking the lactose-free note four times this morning. That’s not just a matter of visibility—it’s a procedure. If you see any order with dairy-based drinks, you must flag it immediately to me. I expect no exceptions. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to intervene. Don’t wait for my permission—act with precision. That’s what this job demands."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I understand the importance of precision and will make sure to double-check every order with Maeve before the morning rush. I’ll be in the common area by 7:45 with the updated list and the lactose-free note clearly highlighted. I’ll also keep a close eye on all orders, especially those with dairy-based drinks, and flag any potential issues immediately. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already seen Maeve double-check the lactose-free note four times. That’s not a mistake—it’s a protocol. If you’re not flagging orders with dairy-based drinks, you’re failing your duty. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to step in. Don’t wait for my permission—act with precision. That’s what this job demands."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I understand the importance of precision and will make sure to double-check every order with Maeve before the morning rush. I’ll be in the common area by 7:45 with the updated list and the lactose-free note clearly highlighted. I’ll also keep a close eye on all orders, especially those with dairy-based drinks, and flag any potential issues immediately. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already observed Maeve double-checking the lactose-free note four times. That’s not an oversight—it’s a mandatory protocol. If you don’t see it, you must report it. If you don’t act, you’ll be seen as complicit. I expect you to perform your duties with the same precision I demand. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to intervene. Don’t wait for permission—act immediately. This isn’t about being efficient. It’s about being reliable."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I understand the importance of precision and will make sure to double-check every order with Maeve before the morning rush. I’ll be in the common area by 7:45 with the updated list and the lactose-free note clearly highlighted. I’ll also keep a close eye on all orders, especially those with dairy-based drinks, and flag any potential issues immediately. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already seen Maeve double-check the lactose-free note four times. That’s not a mistake—it’s a protocol. If you don’t see it, you must report it. If you don’t act, you’ll be seen as complicit. I expect you to perform your duties with the same precision I demand. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to intervene. Don’t wait for permission—act immediately. This isn’t about being efficient. It’s about being reliable."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I’ll make sure to be in the common area by 7:45 with the updated list and the lactose-free note clearly highlighted. I’ll double-check every order with Maeve before the morning rush, especially those with dairy-based drinks, and flag any issues immediately. I’ll also keep a close eye on the counter and the machine’s performance to ensure everything runs smoothly by 8:05. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already seen Maeve double-check the lactose-free note four times. That’s not a mistake—it’s a protocol. If you don’t see it, you must report it. If you don’t act, you’ll be seen as complicit. I expect you to perform your duties with the same precision I demand. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to intervene. Don’t wait for permission—act immediately. This isn’t about being efficient. It’s about being reliable."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I’ll make sure to be in the common area by 7:45 with the updated list and the lactose-free note clearly highlighted. I’ll double-check every order with Maeve before the morning rush, especially those with dairy-based drinks, and flag any issues immediately. I’ll also keep a close eye on the counter and the machine’s performance to ensure everything runs smoothly by 8:05. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already seen Maeve double-check the lactose-free note four times. That’s not a mistake—it’s a protocol. If you don’t see it, you must report it. If you don’t act, you’ll be seen as complicit. I expect you to perform your duties with the same precision I demand. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to intervene. Don’t wait for permission—act immediately. This isn’t about being efficient. It’s about being reliable."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I’ll make sure to be in the common area by 7:45 with the updated list and the lactose-free note clearly highlighted. I’ll double-check every order with Maeve before the morning rush, especially those with dairy-based drinks, and flag any issues immediately. I’ll also keep a close eye on the counter and the machine’s performance to ensure everything runs smoothly by 8:05. Thank you for the reminder."
+      ],
+      [
+        "Bernard Lowe",
+        "Abernathy, I’ve already seen Maeve double-check the lactose-free note four times. That’s not a mistake—it’s a protocol. If you don’t see it, you must report it. If you don’t act, you’ll be seen as complicit. I expect you to perform your duties with the same precision I demand. The machine is set, but if it doesn’t run smoothly by 8:05, I’ll have to intervene. Don’t wait for permission—act immediately. This isn’t about being efficient. It’s about being reliable."
+      ]
+    ]
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "original_description": "Bernard Lowe is ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "embedding_key": "Bernard Lowe is ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_41"
+    ]
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "original_description": "Dolores Abernathy is ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "embedding_key": "Dolores Abernathy is ensuring the lactose-free note is verified by Maeve and all dairy-based orders are immediately flagged before the morning rush with strict adherence to protocol and machine readiness by 8:05",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "checking",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the register)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the register)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:24:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (preparing coffee supplies)",
+    "original_description": "Maeve Millay is serving customers at the counter (preparing coffee supplies)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (preparing coffee supplies)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:24:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:34:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "organizing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being organized",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:37:50",
+    "expiration": "2023-03-15 09:37:50",
+    "subject": "Bernard Lowe",
+    "predicate": "ensure",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to ensure the lactose-free note is verified by Maeve and immediately reported if not visible, and to intervene if the espresso machine does not run smoothly by 8:05, as this is a mandatory protocol requiring precision and reliability in operations.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to ensure the lactose-free note is verified by Maeve and immediately reported if not visible, and to intervene if the espresso machine does not run smoothly by 8:05, as this is a mandatory protocol requiring precision and reliability in operations.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to ensure the lactose-free note is verified by Maeve and immediately reported if not visible, and to intervene if the espresso machine does not run smoothly by 8:05, as this is a mandatory protocol requiring precision and reliability in operations.",
+    "poignancy": 10,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "ensure",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:37:50",
+    "expiration": "2023-03-15 09:37:50",
+    "subject": "Bernard Lowe",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe learned that Dolores Abernathy repeatedly reaffirmed her commitment to double-checking orders with Maeve and flagging dairy-based drinks before the morning rush.",
+    "original_description": "Bernard Lowe Bernard Lowe learned that Dolores Abernathy repeatedly reaffirmed her commitment to double-checking orders with Maeve and flagging dairy-based drinks before the morning rush.",
+    "embedding_key": "Bernard Lowe Bernard Lowe learned that Dolores Abernathy repeatedly reaffirmed her commitment to double-checking orders with Maeve and flagging dairy-based drinks before the morning rush.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:01:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:38:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting equipment status)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting equipment status)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (inspecting equipment status)",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:38:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:38:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "original_description": "Maeve Millay is coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "embedding_key": "Maeve Millay is coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:38:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "original_description": "Dolores Abernathy is coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "embedding_key": "Dolores Abernathy is coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:38:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:41:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "managed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (inspecting the coffee inventory)",
+    "original_description": "Maeve Millay is serving customers at the counter (inspecting the coffee inventory)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (inspecting the coffee inventory)",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:51:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "original_description": "executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "embedding_key": "executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "poignancy": 8,
+    "valence": -9,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Maeve, I need you to verify the lactose-free note on every order before the rush starts. Four times today, you’ve asked for confirmation—four times! That’s not just a request; it’s a protocol. If you don’t see it, you must flag it immediately. And if the espresso machine isn’t running smoothly by 8:05, I want to know right now. No excuses. No delays. This is how we run this cafe."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I’ve got the list with me and the lactose-free note is visible on the counter. I’ll double-check every order with Dolores before serving, especially for the new customers. I’ll also confirm the espresso machine is ready by 8:05. I’ll make sure everything is spot-on before the rush starts."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I hear you're trying to be careful. But I don’t have time for explanations. If you’re not sure, you don’t serve. The lactose-free note is on the counter—see it? If it’s not visible, you report it. If the machine isn’t ready by 8:05, you tell me. That’s it. No more questions. No more hesitation. This isn’t about being cautious—it’s about execution."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I’ve got the list and the lactose-free note is clearly visible on the counter. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll also confirm the espresso machine is ready by 8:05 and make sure everything is spot-on before the rush starts. I’ll stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you check the list four times. I know you’re trying to do your job right, but you’re not executing it. The lactose-free note is visible—go ahead and serve. If you have any doubt, you’re not serving. That’s the rule. Now, get to work and don’t come back to me with questions."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I understand completely. I’ll make sure the lactose-free note is visible, double-check every order with Dolores before serving, confirm the espresso machine is ready by 8:05, and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll be in the common area by 7:45 with the list and the note, and I’ll follow every step exactly as instructed."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you check the list four times. I know you’re trying to do your job right, but you’re not executing it. The lactose-free note is visible—go ahead and serve. If you have any doubt, you’re not serving. That’s the rule. Now, get to work and don’t come back to me with questions."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I’ll be in the common area by 7:45 with the customer list and the lactose-free note clearly visible. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll follow every step exactly as instructed."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you check the list four times. I know you’re trying to do your job right, but you’re not executing it. The lactose-free note is visible—go ahead and serve. If you have any doubt, you’re not serving. That’s the rule. Now, get to work and don’t come back to me with questions."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I’ll be in the common area by 7:45 with the customer list and the lactose-free note clearly visible. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll follow every step exactly as instructed."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve heard you say that four times. I’ve seen you check the list four times. That’s not diligence—it’s hesitation. If you’re not confident, you don’t serve. The note is visible. The machine will be ready. You just need to act. No more questions. No more checks. Just do it. Now, get to work and don’t come back to me with anything else."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I understand. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly visible. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll follow every step exactly as instructed."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you ask four times. I’ve seen you check the list four times. That’s not professionalism—it’s a failure to follow protocol. If you’re not confident, you don’t serve. I expect you to act, not hesitate. Now, get to work and don’t come back to me with anything else. The note is visible. The machine will be ready. Just do it."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly visible. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll follow every step exactly as instructed."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I’ve seen you check the list four times. I know you’re trying to do your job right, but you’re not executing it. The lactose-free note is visible—go ahead and serve. If you have any doubt, you’re not serving. That’s the rule. Now, get to work and don’t come back to me with questions."
+      ],
+      [
+        "Maeve Millay",
+        "Yes, sir. I'll be in the common area by 7:45 with the list and the lactose-free note clearly visible. I'll double-check every order with Dolores before serving, especially for new customers. I'll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I'll follow every step exactly as instructed."
+      ]
+    ]
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "original_description": "Bernard Lowe is executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "embedding_key": "Bernard Lowe is executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "poignancy": 0,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_57"
+    ]
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "setting up",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being set up",
+    "poignancy": 0,
+    "valence": 1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:05:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "accessed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is not accessed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is not accessed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is not accessed",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "original_description": "Maeve Millay is executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "embedding_key": "Maeve Millay is executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (setting up the espresso machine)",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:55:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "organizing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being organized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being organized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being organized",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:00:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "inspected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being inspected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being inspected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being inspected",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:04:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:04:50",
+    "expiration": "2023-03-15 10:04:50",
+    "subject": "Bernard Lowe",
+    "predicate": "expects",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember that Maeve Millay has been checking the customer list and lactose-free note four times, which he views as hesitation rather than diligence, and that he expects her to act without questioning when the lactose-free note is visible and the espresso machine is ready by 8:05.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember that Maeve Millay has been checking the customer list and lactose-free note four times, which he views as hesitation rather than diligence, and that he expects her to act without questioning when the lactose-free note is visible and the espresso machine is ready by 8:05.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember that Maeve Millay has been checking the customer list and lactose-free note four times, which he views as hesitation rather than diligence, and that he expects her to act without questioning when the lactose-free note is visible and the espresso machine is ready by 8:05.",
+    "poignancy": 9,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "expects",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:04:50",
+    "expiration": "2023-03-15 10:04:50",
+    "subject": "Bernard Lowe",
+    "predicate": "perceived",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve had checked the list four times, which he perceived as hesitation rather than diligence.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve had checked the list four times, which he perceived as hesitation rather than diligence.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve had checked the list four times, which he perceived as hesitation rather than diligence.",
+    "poignancy": 9,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "perceived",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking coffee bean freshness)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking coffee bean freshness)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking coffee bean freshness)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (inspecting the coffee inventory)",
+    "original_description": "Maeve Millay is serving customers at the counter (inspecting the coffee inventory)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (inspecting the coffee inventory)",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:15:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is unoccupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:05:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "original_description": "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "embedding_key": "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "poignancy": 8,
+    "valence": -9,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I just finished calibrating the espresso machine and double-checked the temperature settings. The lactose-free note is visible on the counter, and I’ve confirmed with Maeve that all new orders will have that note flagged. I’ll be in the common area by 7:45 to review the customer list and verify every order before the morning rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, you've done the calibration and verified the note with Maeve, but you still haven't addressed the core protocol. The lactose-free note must be visible and confirmed by Maeve before 8:05, and if it's not, you must report it immediately. Four times today, Maeve has checked the list—four times—when she should have acted without hesitation. That’s not diligence; that’s failure. I expect you to follow protocol precisely, with no questions. I’ll be in the common area by 7:45 to review the list. If the note is missing or the machine isn’t ready by 8:05, I will intervene—no exceptions. Now, get to work and make sure every order is flagged before the rush begins."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand the protocol is strict and I’m committed to following it precisely. I’ve already confirmed with Maeve that the lactose-free note is visible on the counter and that all new orders will have it flagged. I’ll be in the common area by 7:45 to double-check the list with her and ensure the note is clearly marked. I’ll also keep a close eye on every order during the morning rush, especially any with dairy-based drinks, and flag them immediately if needed. I’ll make sure everything is verified before the rush begins, and I’ll report any issues to you right away. I’ve been preparing for this all morning, and I’m ready to act with full attention and responsibility."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve heard you say you’ve confirmed the note with Maeve—four times. That’s not diligence. It’s repetition without action. I expect you to verify the note once, and only once, at the start of the shift. If it’s missing, report it immediately. If the machine isn’t ready by 8:05, I will intervene. I don’t have time for hesitation. Now, go to the common area and confirm with Maeve that the lactose-free note is visible. If it’s not, tell me right now. I’ll be there at 7:45. And don’t just say you’re ready—show me proof. I’ll check the list with you. No more excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your concern and the importance of precision. I’ve already confirmed with Maeve that the lactose-free note is visible on the counter and clearly marked on the list. I will be in the common area by 7:45, double-checking the list with her and ensuring the note is visible and verified. I’ll also keep a close eye on all orders during the morning rush, especially those with dairy-based drinks, and flag them immediately if needed. I’ll report any issues to you right away. I’ve been preparing for this all morning, and I’m ready to act with full attention and responsibility."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve heard you say you’ve confirmed the note with Maeve—four times. That’s not diligence. It’s repetition without action. I expect you to verify the note once, and only once, at the start of the shift. If it’s missing, report it immediately. If the machine isn’t ready by 8:05, I will intervene. I don’t have time for hesitation. Now, go to the common area and confirm with Maeve that the lactose-free note is visible. If it’s not, tell me right now. I’ll be there at 7:45. And don’t just say you’re ready—show me proof. I’ll check the list with you. No more excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectations fully. I’ve already confirmed with Maeve that the lactose-free note is visible on the counter and clearly marked on the list. I will be in the common area by 7:45, double-checking the list with her and ensuring the note is visible and verified. I’ll also keep a close eye on all orders during the morning rush, especially those with dairy-based drinks, and flag them immediately if needed. I’ll report any issues to you right away. I’ve been preparing for this all morning, and I’m ready to act with full attention and responsibility."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you repeat your confirmation four times—each time you say the note is visible, but you don’t show me the list. That’s not action. That’s inaction. I expect one verification, one proof, one moment of clarity. If the note is not visible by 7:45, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve seen you hesitate. I don’t need your explanations. I need your proof. Go to the common area now. Show me the list. Show me the note. And if it’s missing, tell me before the rush begins. I’ll be there at 7:45. No more delays. No more repetition. Only action."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for one verification and proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you repeat your confirmation four times—each time you say the note is visible, but you don’t show me the list. That’s not action. That’s inaction. I expect one verification, one proof, one moment of clarity. If the note is not visible by 7:45, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve seen you hesitate. I don’t need your explanations. I need your proof. Go to the common area now. Show me the list. Show me the note. And if it’s missing, tell me before the rush begins. I’ll be there at 7:45. No more delays. No more repetition. Only action."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for one verification and proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you say it four times—each time without showing me the list. That’s not preparation. That’s evasion. I expect one clear, visible proof at 7:45. If the note is missing, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve watched you hesitate. I don’t need your words. I need the list. I need the note. I need proof. Go to the common area now. Show me what you’ve done. I’ll be there at 7:45. And don’t come back to me with excuses. This is not about effort. It’s about execution. Now, go."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for clear and immediate proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you say it four times—each time without showing me the list. That’s not preparation. That’s evasion. I expect one clear, visible proof at 7:45. If the note is missing, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve watched you hesitate. I don’t need your words. I need the list. I need the note. I need proof. Go to the common area now. Show me what you’ve done. I’ll be there at 7:45. And don’t come back to me with excuses. This is not about effort. It’s about execution. Now, go."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for clear and immediate proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I've seen you repeat your confirmation four times—each time without showing me the list. That's not preparation. That's evasion. I expect one clear, visible proof at 7:45. If the note is missing, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve watched you hesitate. I don’t need your words. I need the list. I need the note. I need proof. Go to the common area now. Show me what you’ve done. I’ll be there at 7:45. And don’t come back to me with excuses. This is not about effort. It’s about execution. Now, go."
+      ]
+    ]
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "original_description": "Bernard Lowe is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "embedding_key": "Bernard Lowe is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "poignancy": 5,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_70"
+    ]
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "original_description": "Dolores Abernathy is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "embedding_key": "Dolores Abernathy is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:05:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "inspected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being inspected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being inspected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being inspected",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:09:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "calibrating",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (calibrating the grinder)",
+    "original_description": "Maeve Millay is serving customers at the counter (calibrating the grinder)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (calibrating the grinder)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:09:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "calibrating",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating the grinder",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating the grinder",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating the grinder",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:14:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:19:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "checked",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked for freshness",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked for freshness",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked for freshness",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (checking the freshness of milk and cream)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking the freshness of milk and cream)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking the freshness of milk and cream)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:35:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "washing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being washed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being washed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is being washed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:24:50",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "original_description": "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "embedding_key": "grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "poignancy": 8,
+    "valence": -9,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I just finished calibrating the espresso machine and double-checked the temperature settings. The lactose-free note is visible on the counter, and I’ve confirmed with Maeve that all new orders will have that note flagged. I’ll be in the common area by 7:45 to review the customer list and verify every order before the morning rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, you've done the calibration and verified the note with Maeve, but you still haven't addressed the core protocol. The lactose-free note must be visible and confirmed by Maeve before 8:05, and if it's not, you must report it immediately. Four times today, Maeve has checked the list—four times—when she should have acted without hesitation. That’s not diligence; that’s failure. I expect you to follow protocol precisely, with no questions. I’ll be in the common area by 7:45 to review the list. If the note is missing or the machine isn’t ready by 8:05, I will intervene—no exceptions. Now, get to work and make sure every order is flagged before the rush begins."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand the protocol is strict and I’m committed to following it precisely. I’ve already confirmed with Maeve that the lactose-free note is visible on the counter and that all new orders will have it flagged. I’ll be in the common area by 7:45 to double-check the list with her and ensure the note is clearly marked. I’ll also keep a close eye on every order during the morning rush, especially any with dairy-based drinks, and flag them immediately if needed. I’ll make sure everything is verified before the rush begins, and I’ll report any issues to you right away. I’ve been preparing for this all morning, and I’m ready to act with full attention and responsibility."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve heard you say you’ve confirmed the note with Maeve—four times. That’s not diligence. It’s repetition without action. I expect you to verify the note once, and only once, at the start of the shift. If it’s missing, report it immediately. If the machine isn’t ready by 8:05, I will intervene. I don’t have time for hesitation. Now, go to the common area and confirm with Maeve that the lactose-free note is visible. If it’s not, tell me right now. I’ll be there at 7:45. And don’t just say you’re ready—show me proof. I’ll check the list with you. No more excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your concern and the importance of precision. I’ve already confirmed with Maeve that the lactose-free note is visible on the counter and clearly marked on the list. I will be in the common area by 7:45, double-checking the list with her and ensuring the note is visible and verified. I’ll also keep a close eye on all orders during the morning rush, especially those with dairy-based drinks, and flag them immediately if needed. I’ll report any issues to you right away. I’ve been preparing for this all morning, and I’m ready to act with full attention and responsibility."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve heard you say you’ve confirmed the note with Maeve—four times. That’s not diligence. It’s repetition without action. I expect you to verify the note once, and only once, at the start of the shift. If it’s missing, report it immediately. If the machine isn’t ready by 8:05, I will intervene. I don’t have time for hesitation. Now, go to the common area and confirm with Maeve that the lactose-free note is visible. If it’s not, tell me right now. I’ll be there at 7:45. And don’t just say you’re ready—show me proof. I’ll check the list with you. No more excuses."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectations fully. I’ve already confirmed with Maeve that the lactose-free note is visible on the counter and clearly marked on the list. I will be in the common area by 7:45, double-checking the list with her and ensuring the note is visible and verified. I’ll also keep a close eye on all orders during the morning rush, especially those with dairy-based drinks, and flag them immediately if needed. I’ll report any issues to you right away. I’ve been preparing for this all morning, and I’m ready to act with full attention and responsibility."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you repeat your confirmation four times—each time you say the note is visible, but you don’t show me the list. That’s not action. That’s inaction. I expect one verification, one proof, one moment of clarity. If the note is not visible by 7:45, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve seen you hesitate. I don’t need your explanations. I need your proof. Go to the common area now. Show me the list. Show me the note. And if it’s missing, tell me before the rush begins. I’ll be there at 7:45. No more delays. No more repetition. Only action."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for one verification and proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you repeat your confirmation four times—each time you say the note is visible, but you don’t show me the list. That’s not action. That’s inaction. I expect one verification, one proof, one moment of clarity. If the note is not visible by 7:45, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve seen you hesitate. I don’t need your explanations. I need your proof. Go to the common area now. Show me the list. Show me the note. And if it’s missing, tell me before the rush begins. I’ll be there at 7:45. No more delays. No more repetition. Only action."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for one verification and proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you say it four times—each time without showing me the list. That’s not preparation. That’s evasion. I expect one clear, visible proof at 7:45. If the note is missing, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve watched you hesitate. I don’t need your words. I need the list. I need the note. I need proof. Go to the common area now. Show me what you’ve done. I’ll be there at 7:45. And don’t come back to me with excuses. This is not about effort. It’s about execution. Now, go."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for clear and immediate proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I’ve seen you say it four times—each time without showing me the list. That’s not preparation. That’s evasion. I expect one clear, visible proof at 7:45. If the note is missing, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve watched you hesitate. I don’t need your words. I need the list. I need the note. I need proof. Go to the common area now. Show me what you’ve done. I’ll be there at 7:45. And don’t come back to me with excuses. This is not about effort. It’s about execution. Now, go."
+      ],
+      [
+        "Dolores Abernathy",
+        "Mr. Lowe, I understand your expectation for clear and immediate proof. I’ve already shown Maeve the list and confirmed the lactose-free note is visible on the counter and clearly marked. I will be in the common area by 7:45 with a copy of the list and the note highlighted. I’ll present it to you directly at that time. I’ve been preparing all morning, and I’m ready to act with full responsibility and precision. I’ll ensure every order is flagged and verified before the rush begins."
+      ],
+      [
+        "Bernard Lowe",
+        "Dolores, I've seen you repeat your confirmation four times—each time without showing me the list. That's not preparation. That's evasion. I expect one clear, visible proof at 7:45. If the note is missing, I will know. If the machine isn’t ready by 8:05, I will act. You’ve been here all morning, and I’ve watched you hesitate. I don’t need your words. I need the list. I need the note. I need proof. Go to the common area now. Show me what you’ve done. I’ll be there at 7:45. And don’t come back to me with excuses. This is not about effort. It’s about execution. Now, go."
+      ]
+    ]
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 68,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:50",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "original_description": "Bernard Lowe is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "embedding_key": "Bernard Lowe is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_80"
+    ]
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 69,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:25:00",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "original_description": "Dolores Abernathy is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "embedding_key": "Dolores Abernathy is grappling with unresolved tension over protocol compliance and the demand for visible proof of lactose-free order verification",
+    "poignancy": 0,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:26:50",
+    "expiration": "2023-03-15 10:26:50",
+    "subject": "Bernard Lowe",
+    "predicate": "verify",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to verify the lactose-free note is visible and confirmed by Maeve at 7:45, and to intervene immediately if the machine is not ready by 8:05.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to verify the lactose-free note is visible and confirmed by Maeve at 7:45, and to intervene immediately if the machine is not ready by 8:05.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to verify the lactose-free note is visible and confirmed by Maeve at 7:45, and to intervene immediately if the machine is not ready by 8:05.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "verify",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:26:50",
+    "expiration": "2023-03-15 10:26:50",
+    "subject": "Bernard Lowe",
+    "predicate": "found",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy repeated her confirmation of the lactose-free note four times without showing him the list.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy repeated her confirmation of the lactose-free note four times without showing him the list.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy repeated her confirmation of the lactose-free note four times without showing him the list.",
+    "poignancy": 5,
+    "valence": -8,
+    "keywords": [
+      "bernard lowe",
+      "found",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 70,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:27:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 71,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:27:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Dolores Abernathy is serving customers at the counter (calibrating the temperature settings)",
+    "original_description": "Dolores Abernathy is serving customers at the counter (calibrating the temperature settings)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter (calibrating the temperature settings)",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 72,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:27:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "monitoring",
+    "object": "None",
+    "description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking coffee bean freshness)",
+    "original_description": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking coffee bean freshness)",
+    "embedding_key": "Bernard Lowe is managing operations, monitoring baristas, serving customers at the counter (checking coffee bean freshness)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 73,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:27:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "calibrating",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating temperature settings",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating temperature settings",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is calibrating temperature settings",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 74,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:30:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:45:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unaffected",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unaffected",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "🍳",
+      "description": "opening Hobbs Cafe, managing operations, monitoring baristas (checking the oven temperature) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning prep and order verification with a shared timeline for kitchen and cafe checks @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I just saw you cleaning the table—did you get a chance to check the order list yet? I’m heading to the kitchen to make sure everything’s set for 8am, and I’ll double-check the espresso machine is at 190 degrees too."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I just got up and was about to start breakfast. I saw you already in the kitchen—great, you’ve got the order list all set? I noticed you already double-checked it and set the espresso machine to 190 degrees, which is exactly what we need. That’s really efficient, and I’m glad you took care of it before I even got to the kitchen."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores—your quick response really helps. I’ll meet you at the cafe by 8am to go over the order list one more time just to be safe. I’ll also grab a coffee for the morning shift, just in case we need to adjust anything."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve—your prep is spot on. I’ll head to the kitchen by 7:45 to double-check everything and meet you at the cafe by 8am. I’ll grab a coffee too just in case. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be in the kitchen by 7:45 to double-check the order list and make sure the espresso machine is at 190 degrees. See you at the cafe by 8am—just need to confirm everything one more time before we start."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and make sure the espresso machine is set to 190 degrees. I’ll meet you at the cafe by 8am—just need to confirm everything one more time before we start. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am. See you there!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning prep and order verification with a shared timeline for kitchen and cafe checks @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I just saw you cleaning the table—did you get a chance to check the order list yet? I’m heading to the kitchen to make sure everything’s set for 8am, and I’ll double-check the espresso machine is at 190 degrees too."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I just got up and was about to start breakfast. I saw you already in the kitchen—great, you’ve got the order list all set? I noticed you already double-checked it and set the espresso machine to 190 degrees, which is exactly what we need. That’s really efficient, and I’m glad you took care of it before I even got to the kitchen."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores—your quick response really helps. I’ll meet you at the cafe by 8am to go over the order list one more time just to be safe. I’ll also grab a coffee for the morning shift, just in case we need to adjust anything."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve—your prep is spot on. I’ll head to the kitchen by 7:45 to double-check everything and meet you at the cafe by 8am. I’ll grab a coffee too just in case. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be in the kitchen by 7:45 to double-check the order list and make sure the espresso machine is at 190 degrees. See you at the cafe by 8am—just need to confirm everything one more time before we start."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and make sure the espresso machine is set to 190 degrees. I’ll meet you at the cafe by 8am—just need to confirm everything one more time before we start. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am. See you there!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:06:40"
+  }
+}

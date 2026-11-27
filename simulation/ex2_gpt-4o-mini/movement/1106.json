@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "verifying espresso machine temperature, milk supply, grinder alignment, and equipment integrity before opening with strict real-time monitoring and no shared validation @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I just came in to check the equipment—milk supply, espresso machine temperature, oven settings, and coffee grinder alignment. I noticed you were already inspecting the grinder, so I’ll double-check the order list and make sure the espresso machine is set to 190 degrees before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "You've done the checklist, but I still need to verify the coffee grinder alignment personally before allowing you to serve any customers. The espresso machine must be at exactly 190 degrees, and I will confirm that myself. No shared validation. No exceptions. I'm monitoring everything in real time—keep your eyes on the register and the machine settings."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll keep my eyes on the register and the machine settings. If there's anything else you'd like me to verify before we open, I'll do it right away."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll keep an eye on the register and the machine settings. I'll also confirm the milk supply is full and the refrigerator hasn't been accessed before opening. If anything changes, I'll report it right away."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll make sure the espresso machine is at exactly 190 degrees, the milk supply is full, and the refrigerator hasn't been accessed before opening. I'll also keep an eye on the register and the machine settings throughout the shift. If anything changes, I'll report it immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ve already confirmed the espresso machine is at 190 degrees and the milk supply is full. The refrigerator has not been accessed. The coffee beans are present. I’ve double-checked the grinder alignment. You’re clear to serve customers. But remember—any deviation from these standards, even a small one, will be noted and addressed immediately. I’ll be at the counter by 8:00. Keep your eyes on the register and the machine settings. No shortcuts. No compromises."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll keep a close eye on everything and make sure everything stays within the standards you've set. Thank you for confirming everything so early—this gives me peace of mind before opening."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll keep everything under close watch and make sure all standards are met throughout the shift. Thank you again for confirming everything so early—this gives me confidence to serve customers without any hiccups."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll keep a close eye on the register and the machine settings throughout the shift. Thank you for confirming everything so early—this gives me confidence to serve customers without any hiccups."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ve already verified everything. The espresso machine is at 190 degrees, milk supply is full, refrigerator untouched, coffee beans present, and grinder alignment confirmed. You’re clear to serve. But remember—any lapse, no matter how minor, will be noted and addressed immediately. I’ll be at the counter by 8:00. Keep your eyes on the register and machine settings. No shared validation. No compromises."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll keep a close eye on everything and make sure all standards are met throughout the shift. Thank you for confirming everything so early—this gives me confidence to serve customers without any hiccups."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I'll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "verifying espresso machine temperature, milk supply, grinder alignment, and equipment integrity before opening with strict real-time monitoring and no shared validation @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I just came in to check the equipment—milk supply, espresso machine temperature, oven settings, and coffee grinder alignment. I noticed you were already inspecting the grinder, so I’ll double-check the order list and make sure the espresso machine is set to 190 degrees before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "You've done the checklist, but I still need to verify the coffee grinder alignment personally before allowing you to serve any customers. The espresso machine must be at exactly 190 degrees, and I will confirm that myself. No shared validation. No exceptions. I'm monitoring everything in real time—keep your eyes on the register and the machine settings."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll keep my eyes on the register and the machine settings. If there's anything else you'd like me to verify before we open, I'll do it right away."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll keep an eye on the register and the machine settings. I'll also confirm the milk supply is full and the refrigerator hasn't been accessed before opening. If anything changes, I'll report it right away."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll make sure the espresso machine is at exactly 190 degrees, the milk supply is full, and the refrigerator hasn't been accessed before opening. I'll also keep an eye on the register and the machine settings throughout the shift. If anything changes, I'll report it immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ve already confirmed the espresso machine is at 190 degrees and the milk supply is full. The refrigerator has not been accessed. The coffee beans are present. I’ve double-checked the grinder alignment. You’re clear to serve customers. But remember—any deviation from these standards, even a small one, will be noted and addressed immediately. I’ll be at the counter by 8:00. Keep your eyes on the register and the machine settings. No shortcuts. No compromises."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll keep a close eye on everything and make sure everything stays within the standards you've set. Thank you for confirming everything so early—this gives me peace of mind before opening."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll keep everything under close watch and make sure all standards are met throughout the shift. Thank you again for confirming everything so early—this gives me confidence to serve customers without any hiccups."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll keep a close eye on the register and the machine settings throughout the shift. Thank you for confirming everything so early—this gives me confidence to serve customers without any hiccups."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ve already verified everything. The espresso machine is at 190 degrees, milk supply is full, refrigerator untouched, coffee beans present, and grinder alignment confirmed. You’re clear to serve. But remember—any lapse, no matter how minor, will be noted and addressed immediately. I’ll be at the counter by 8:00. Keep your eyes on the register and machine settings. No shared validation. No compromises."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'll keep a close eye on everything and make sure all standards are met throughout the shift. Thank you for confirming everything so early—this gives me confidence to serve customers without any hiccups."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I'll be at the counter by 8:00. Keep your eyes on the register and the machine settings. The espresso machine must be at exactly 190 degrees, and the milk supply must be full. If anything changes, report it immediately. No delays. No excuses."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "serving customers at the counter (preparing coffee supplies) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:03:20"
+  }
+}

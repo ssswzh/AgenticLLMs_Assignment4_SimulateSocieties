@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, I just saw you calibrating the espresso machine. I need you to confirm the temperature is exactly 190 degrees before the shift starts. No shared validation—this has to be verified by you personally. Also, check the milk supply and ensure the refrigerator has not been accessed. If anything is missing, report it immediately. I’ll be at the counter by 8:00, and I’ll be watching every setting. No exceptions."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm already checking the milk supply and making sure the refrigerator hasn't been accessed. I'll confirm the espresso machine is at exactly 190 degrees right now and report back to you as soon as I have the numbers. I won't skip any step—just like you asked."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, keep your eyes on the register too. I’ll be watching the flow of orders and any discrepancies. If a customer complains about a drink, you’re to handle it immediately and report it to me. No delays. No excuses. I expect full accountability at every step."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep an eye on the register and monitor all the machine settings throughout the shift. I'll confirm the espresso machine is at exactly 190 degrees, double-check the milk supply, and make sure the refrigerator hasn't been accessed. If anything changes, I'll report it right away—no delays, no excuses. I'm ready when you are."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I noticed you’re handling everything with precision—no shared validation, no delays. That’s exactly what I expect. Keep that standard. If anything changes, you report it immediately. I’ll be at the counter by 8:00, and I’ll be watching every setting. No exceptions. I’ll see you there at 8:00 sharp."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I've got it all covered. I'll be in the kitchen by 7:45 to confirm the order list, double-check the espresso machine temperature, and make sure the milk supply is full and the fridge hasn't been accessed. I'll meet Maeve at the cafe by 8am to confirm everything before we open. I'll be back at the counter by 8:00 sharp to assist you, and I'll keep my eyes on the register and machine settings throughout the shift. If anything changes, I'll report it immediately—no delays, no excuses."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I see you're already on top of it—your diligence is noted. But remember, I don’t need to see a report or a confirmation from anyone else. This is your responsibility, and you’ll do it without hesitation. The coffee grinder alignment must be personally verified by you before Maeve serves any customers. I’ll be at the counter by 8:00. I’ll see you there, sharp."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll personally verify the coffee grinder alignment in the kitchen before anyone else touches the machine. I'll make sure everything is set and report back to you by 7:45. I'll be ready to assist you at the counter by 8:00 sharp."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter by 8:00 sharp. Make sure the oven is at the correct temperature too—double-check that before you report back. I’ll be watching everything. No shortcuts. No shared validation. If anything deviates from the standard, you report it immediately. I expect full compliance."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll double-check the oven temperature right now and confirm everything is set before I report back by 7:45. I'll make sure the coffee grinder is aligned and the espresso machine is at exactly 190 degrees. I'll be in the kitchen by 7:45 and meet Maeve at the cafe by 8am to confirm the order list. I'll be back at the counter by 8:00 sharp to assist you, and I'll keep my eyes on the register and machine settings throughout the shift. If anything changes, I'll report it immediately—no delays, no excuses."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter by 8:00 sharp. Make sure everything is set and you’re ready—no delays, no shortcuts. I’ll see you there, and I’ll be watching every detail. If anything slips, you report it immediately. I expect full compliance, every single time."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll double-check the oven temperature, confirm the espresso machine is at exactly 190 degrees, verify the coffee grinder is aligned, and ensure the milk supply is full and the refrigerator hasn't been accessed. I'll be in the kitchen by 7:45, meet Maeve at the cafe by 8am to confirm the order list, and be back at the counter by 8:00 sharp. I'll keep my eyes on the register and machine settings throughout the shift, and report any changes immediately—no delays, no excuses."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I'll be at the counter by 8:00 sharp. Make sure everything is set and you're ready—no delays, no shortcuts. I’ll see you there, and I’ll be watching every detail. If anything slips, you report it immediately. I expect full compliance, every single time."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll complete all the checks by 7:45 and be ready to assist you at the counter by 8:00 sharp. I'll keep my eyes on the register and machine settings throughout the shift, and report any changes immediately—no delays, no excuses."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter by 8:00 sharp. Make sure the coffee grinder is aligned, the espresso machine is at exactly 190 degrees, the milk supply is full, and the oven is at the correct temperature. No shared validation—this is your responsibility. If anything changes, report it immediately. I’ll be watching every setting. No exceptions."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll complete all the checks by 7:45 and be ready to assist you at the counter by 8:00 sharp. I'll keep my eyes on the register and machine settings throughout the shift, and report any changes immediately—no delays, no excuses."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "verifying espresso machine temperature, coffee grinder alignment, milk supply, and oven settings personally before shift starts with no shared validation and immediate reporting of any deviations @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, I just saw you calibrating the espresso machine. I need you to confirm the temperature is exactly 190 degrees before the shift starts. No shared validation—this has to be verified by you personally. Also, check the milk supply and ensure the refrigerator has not been accessed. If anything is missing, report it immediately. I’ll be at the counter by 8:00, and I’ll be watching every setting. No exceptions."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm already checking the milk supply and making sure the refrigerator hasn't been accessed. I'll confirm the espresso machine is at exactly 190 degrees right now and report back to you as soon as I have the numbers. I won't skip any step—just like you asked."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, keep your eyes on the register too. I’ll be watching the flow of orders and any discrepancies. If a customer complains about a drink, you’re to handle it immediately and report it to me. No delays. No excuses. I expect full accountability at every step."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll keep an eye on the register and monitor all the machine settings throughout the shift. I'll confirm the espresso machine is at exactly 190 degrees, double-check the milk supply, and make sure the refrigerator hasn't been accessed. If anything changes, I'll report it right away—no delays, no excuses. I'm ready when you are."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I noticed you’re handling everything with precision—no shared validation, no delays. That’s exactly what I expect. Keep that standard. If anything changes, you report it immediately. I’ll be at the counter by 8:00, and I’ll be watching every setting. No exceptions. I’ll see you there at 8:00 sharp."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I've got it all covered. I'll be in the kitchen by 7:45 to confirm the order list, double-check the espresso machine temperature, and make sure the milk supply is full and the fridge hasn't been accessed. I'll meet Maeve at the cafe by 8am to confirm everything before we open. I'll be back at the counter by 8:00 sharp to assist you, and I'll keep my eyes on the register and machine settings throughout the shift. If anything changes, I'll report it immediately—no delays, no excuses."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I see you're already on top of it—your diligence is noted. But remember, I don’t need to see a report or a confirmation from anyone else. This is your responsibility, and you’ll do it without hesitation. The coffee grinder alignment must be personally verified by you before Maeve serves any customers. I’ll be at the counter by 8:00. I’ll see you there, sharp."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll personally verify the coffee grinder alignment in the kitchen before anyone else touches the machine. I'll make sure everything is set and report back to you by 7:45. I'll be ready to assist you at the counter by 8:00 sharp."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter by 8:00 sharp. Make sure the oven is at the correct temperature too—double-check that before you report back. I’ll be watching everything. No shortcuts. No shared validation. If anything deviates from the standard, you report it immediately. I expect full compliance."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll double-check the oven temperature right now and confirm everything is set before I report back by 7:45. I'll make sure the coffee grinder is aligned and the espresso machine is at exactly 190 degrees. I'll be in the kitchen by 7:45 and meet Maeve at the cafe by 8am to confirm the order list. I'll be back at the counter by 8:00 sharp to assist you, and I'll keep my eyes on the register and machine settings throughout the shift. If anything changes, I'll report it immediately—no delays, no excuses."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter by 8:00 sharp. Make sure everything is set and you’re ready—no delays, no shortcuts. I’ll see you there, and I’ll be watching every detail. If anything slips, you report it immediately. I expect full compliance, every single time."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll double-check the oven temperature, confirm the espresso machine is at exactly 190 degrees, verify the coffee grinder is aligned, and ensure the milk supply is full and the refrigerator hasn't been accessed. I'll be in the kitchen by 7:45, meet Maeve at the cafe by 8am to confirm the order list, and be back at the counter by 8:00 sharp. I'll keep my eyes on the register and machine settings throughout the shift, and report any changes immediately—no delays, no excuses."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I'll be at the counter by 8:00 sharp. Make sure everything is set and you're ready—no delays, no shortcuts. I’ll see you there, and I’ll be watching every detail. If anything slips, you report it immediately. I expect full compliance, every single time."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll complete all the checks by 7:45 and be ready to assist you at the counter by 8:00 sharp. I'll keep my eyes on the register and machine settings throughout the shift, and report any changes immediately—no delays, no excuses."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I’ll be at the counter by 8:00 sharp. Make sure the coffee grinder is aligned, the espresso machine is at exactly 190 degrees, the milk supply is full, and the oven is at the correct temperature. No shared validation—this is your responsibility. If anything changes, report it immediately. I’ll be watching every setting. No exceptions."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll complete all the checks by 7:45 and be ready to assist you at the counter by 8:00 sharp. I'll keep my eyes on the register and machine settings throughout the shift, and report any changes immediately—no delays, no excuses."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "👨‍🍳",
+      "description": "serving customers at the counter (ensuring station cleanliness) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:28:20"
+  }
+}

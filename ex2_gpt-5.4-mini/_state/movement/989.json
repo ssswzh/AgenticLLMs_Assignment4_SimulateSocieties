@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "🍳",
+      "description": "managing operations, monitoring baristas, serving customers at the counter (reviewing previous day's customer feedback) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Dolores, I just saw you setting up the espresso machine — are you ready to head to the common area by 7:45? I’ll be there with the new customer list and the lactose-free note. We should double-check everything before the rush starts, especially since one of the new customers has a lactose intolerance. I’ll have a copy in my pocket too, just in case we need to verify it quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Maeve — I’m ready. I’ll be in the common area by 7:45 with the list too. I’ll make sure the lactose-free note is clearly highlighted and double-check every order with you before the rush, especially for dairy-based drinks. Thanks for reminding me about the new customer — I’ll keep an eye out and flag any orders immediately if needed."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores — I’ll be there early and ready to go over the list with you. I’ll also make sure the counter has the lactose-free note visible before we start serving. Let’s both keep a sharp eye out for any new customers, especially the ones with dairy-free needs. I’ll double-check every order with you as we go, just to be safe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note clearly marked. I’ll also keep an eye on all orders during the rush, especially any with dairy-based drinks, and flag them right away if they’re served without a request. Let’s make sure we both double-check everything before the morning rush starts."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll also take a quick moment before 8:00 to make sure the machine is ready and the first batch of coffee is starting — just like Bernard instructed. I’ll keep an eye on the clock and let you know when we’re both on the same page, so we’re fully aligned before the rush begins."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 7:45 with the list and the lactose-free note clearly highlighted. I’ll double-check every order with you before serving, especially any that include dairy-based drinks. Let’s make sure both of us are aligned and that the note is visible on the counter before the rush starts."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with the list and the lactose-free note clearly visible on the counter. Let’s both confirm the list one more time before we start serving, just to be absolutely sure we’re aligned on all new customer preferences. I’ll keep a copy in my pocket and check it with you right before we begin—just in case anything slips through. I’ll also watch the clock so we can both start the first batch of coffee at exactly 8:00, as Bernard instructed."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly marked. I’ll double-check every order with you before serving, especially any that include dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm everything one more time right before we start serving—just to be absolutely sure we’re aligned and that no one gets a drink without a proper request."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, Dolores. I’ve got the list and the lactose-free note ready to go. Let’s both confirm it one last time right before we start serving — I’ll keep my copy in my pocket and double-check it with you. I’ll also make sure the espresso machine is ready and the first batch of coffee starts at exactly 8:00, just as Bernard instructed. We’re both on the same page, right? Let’s not skip a step."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 7:45 with the list and the lactose-free note clearly highlighted. I’ll double-check every order with you before serving, especially any with dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm one last time right before we start—just to be absolutely sure we’re aligned and nothing slips through."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, Dolores. I’ve got the list and the lactose-free note ready. Let’s both confirm it one last time right before we start serving — I’ll keep my copy in my pocket and double-check it with you. I’ll also make sure the espresso machine is ready and the first batch of coffee starts at exactly 8:00, just as Bernard instructed. We’re both on the same page, right? Let’s not skip a step."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly marked. I’ll double-check every order with you before serving, especially any with dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm one last time right before we start—just to be absolutely sure we’re aligned and nothing slips through."
+        ],
+        [
+          "Maeve Millay",
+          "Dolores, just to be clear — I’ll have the list and my copy in my pocket, and I’ll double-check everything with you right before we start serving. I’ll also keep an eye on the clock so we’re both ready at exactly 8:00. Let’s make sure we’re both on the same page before the first customer walks in. I’ll be there by 7:45, no later than that."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note clearly marked. I’ll double-check every order with you before serving, especially any with dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm one last time right before we start—just to be absolutely sure we’re aligned and nothing slips through."
+        ],
+        [
+          "Maeve Millay",
+          "Dolores, just to confirm — I’ll be in the common area by 7:45 with the list and my copy in my pocket. I’ll double-check everything with you right before we start serving, especially for new customers with dairy-free needs. Let’s both make sure the lactose-free note is visible on the counter and that the espresso machine is ready. I’ll keep an eye on the clock so we’re both on time for the 8:00 start. We’re aligned, right? I’ll be there, no later than 7:45."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note clearly marked. I’ll double-check every order with you before serving, especially any with dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm one last time right before we start—just to be absolutely sure we’re aligned and nothing slips through."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating pre-rush preparations including list verification, lactose-free note visibility, and espresso machine readiness to ensure no dairy-based drinks are served without explicit requests @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Dolores, I just saw you setting up the espresso machine — are you ready to head to the common area by 7:45? I’ll be there with the new customer list and the lactose-free note. We should double-check everything before the rush starts, especially since one of the new customers has a lactose intolerance. I’ll have a copy in my pocket too, just in case we need to verify it quickly."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Maeve — I’m ready. I’ll be in the common area by 7:45 with the list too. I’ll make sure the lactose-free note is clearly highlighted and double-check every order with you before the rush, especially for dairy-based drinks. Thanks for reminding me about the new customer — I’ll keep an eye out and flag any orders immediately if needed."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores — I’ll be there early and ready to go over the list with you. I’ll also make sure the counter has the lactose-free note visible before we start serving. Let’s both keep a sharp eye out for any new customers, especially the ones with dairy-free needs. I’ll double-check every order with you as we go, just to be safe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note clearly marked. I’ll also keep an eye on all orders during the rush, especially any with dairy-based drinks, and flag them right away if they’re served without a request. Let’s make sure we both double-check everything before the morning rush starts."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll also take a quick moment before 8:00 to make sure the machine is ready and the first batch of coffee is starting — just like Bernard instructed. I’ll keep an eye on the clock and let you know when we’re both on the same page, so we’re fully aligned before the rush begins."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 7:45 with the list and the lactose-free note clearly highlighted. I’ll double-check every order with you before serving, especially any that include dairy-based drinks. Let’s make sure both of us are aligned and that the note is visible on the counter before the rush starts."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with the list and the lactose-free note clearly visible on the counter. Let’s both confirm the list one more time before we start serving, just to be absolutely sure we’re aligned on all new customer preferences. I’ll keep a copy in my pocket and check it with you right before we begin—just in case anything slips through. I’ll also watch the clock so we can both start the first batch of coffee at exactly 8:00, as Bernard instructed."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly marked. I’ll double-check every order with you before serving, especially any that include dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm everything one more time right before we start serving—just to be absolutely sure we’re aligned and that no one gets a drink without a proper request."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, Dolores. I’ve got the list and the lactose-free note ready to go. Let’s both confirm it one last time right before we start serving — I’ll keep my copy in my pocket and double-check it with you. I’ll also make sure the espresso machine is ready and the first batch of coffee starts at exactly 8:00, just as Bernard instructed. We’re both on the same page, right? Let’s not skip a step."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be there by 7:45 with the list and the lactose-free note clearly highlighted. I’ll double-check every order with you before serving, especially any with dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm one last time right before we start—just to be absolutely sure we’re aligned and nothing slips through."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45, Dolores. I’ve got the list and the lactose-free note ready. Let’s both confirm it one last time right before we start serving — I’ll keep my copy in my pocket and double-check it with you. I’ll also make sure the espresso machine is ready and the first batch of coffee starts at exactly 8:00, just as Bernard instructed. We’re both on the same page, right? Let’s not skip a step."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly marked. I’ll double-check every order with you before serving, especially any with dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm one last time right before we start—just to be absolutely sure we’re aligned and nothing slips through."
+        ],
+        [
+          "Maeve Millay",
+          "Dolores, just to be clear — I’ll have the list and my copy in my pocket, and I’ll double-check everything with you right before we start serving. I’ll also keep an eye on the clock so we’re both ready at exactly 8:00. Let’s make sure we’re both on the same page before the first customer walks in. I’ll be there by 7:45, no later than that."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note clearly marked. I’ll double-check every order with you before serving, especially any with dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm one last time right before we start—just to be absolutely sure we’re aligned and nothing slips through."
+        ],
+        [
+          "Maeve Millay",
+          "Dolores, just to confirm — I’ll be in the common area by 7:45 with the list and my copy in my pocket. I’ll double-check everything with you right before we start serving, especially for new customers with dairy-free needs. Let’s both make sure the lactose-free note is visible on the counter and that the espresso machine is ready. I’ll keep an eye on the clock so we’re both on time for the 8:00 start. We’re aligned, right? I’ll be there, no later than 7:45."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note clearly marked. I’ll double-check every order with you before serving, especially any with dairy-based drinks, and make sure the note is visible on the counter. Let’s both confirm one last time right before we start—just to be absolutely sure we’re aligned and nothing slips through."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:43:50"
+  }
+}

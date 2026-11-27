@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "monitoring coffee preparation, checking barista performance, correcting errors immediately (observing pour-over technique) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. The grinder is set to exactly 15 pounds, just as Bernard Lowe expects. I double-checked it a minute ago. How about you? Did you finish setting up the register and the drink menu cards?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just finished setting up the register and the drink menu cards. The coffee is hot, the counter is clean, and I double-checked the toaster—everything looks good. I’ll keep an eye on the sink too. Thanks for confirming the grinder setting—it’s exactly what Bernard expects."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. Everything looks set. I’ll keep an eye on the espresso machine too—just in case it needs a quick check. Thanks for your help with the setup, it’s a smooth start to the day."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I’ll keep an eye on the sink too—just in case it needs a quick wipe. Thanks again for double-checking everything. It’s nice to have a smooth start with you both."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just made a fresh batch of toast with fruit—simple and perfect, just like you said. I’ll be ready to serve when the first customer arrives. Thanks for keeping everything so well organized."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just added a fresh batch of fruit to the counter—same as you did. It’s nice to have both of us double-checking the same things. I’ll keep an eye on the sink and make sure the coffee stays hot. Thanks for the toast—looks perfect. Let’s both stay ready for the first customer when they arrive."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just finished checking the espresso machine—it’s ready to go. I’ll keep an eye on the temperature and make sure it’s consistent throughout the morning. Thanks again for sharing the fruit and for keeping everything so well organized. It’s a nice rhythm having both of us double-checking the same things."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just made sure the sink is clean and the fruit is fresh—same as you. It’s nice to have this routine with you. Let’s both stay ready for the first customer when they arrive. Thanks again for keeping everything so consistent—it’s a solid start to the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just noticed the smoothie ingredients are fresh—same as you did. It’s nice to have both of us making simple, fresh things. Let’s keep this rhythm going. I’ll be ready to serve when the first customer comes in."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just checked the fridge—everything’s stocked and fresh. Let’s both stay ready for the first customer when they arrive. Thanks again for keeping everything so consistent—it’s a solid start to the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just made sure the toast is warm and the fruit is ripe—simple and perfect, just like you said. Let’s keep this rhythm going. I’ll be ready when the first customer arrives. Thanks again for everything—it’s a solid start to the day."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just finished checking the fridge again—everything’s fresh and ready. Let’s keep this smooth rhythm going. I’ll be ready when the first customer arrives. Thanks again for all the consistency—it’s a solid start to the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just finished brushing my teeth and double-checked the sink one more time—everything’s ready. Let’s both stay ready for the first customer when they arrive. Thanks again for keeping this routine so smooth and consistent—it’s a solid start to the day."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just finished my morning walk in Johnson Park—fresh air and quiet thoughts, just like I always do. It helps me feel centered before coming in. I’ll be ready when the first customer arrives. Thanks again for keeping everything so smooth and consistent—it really makes the morning feel like a shared rhythm we both trust."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just finished my morning routine and double-checked everything one last time—toast is warm, fruit is ripe, sink is clean, grinder is at 15 pounds, espresso machine is ready. It’s a solid start. I’ll be ready when the first customer arrives. Thanks again for making this routine so smooth and consistent—it feels like a shared rhythm we both trust."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just finished my morning walk in Johnson Park—fresh air and quiet thoughts, just like I always do. It helps me feel centered before coming in. I’ll be ready when the first customer arrives. Thanks again for making this routine so smooth and consistent—it really makes the morning feel like a shared rhythm we both trust."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. The grinder is set to exactly 15 pounds, just as Bernard Lowe expects. I double-checked it a minute ago. How about you? Did you finish setting up the register and the drink menu cards?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just finished setting up the register and the drink menu cards. The coffee is hot, the counter is clean, and I double-checked the toaster—everything looks good. I’ll keep an eye on the sink too. Thanks for confirming the grinder setting—it’s exactly what Bernard expects."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. Everything looks set. I’ll keep an eye on the espresso machine too—just in case it needs a quick check. Thanks for your help with the setup, it’s a smooth start to the day."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I’ll keep an eye on the sink too—just in case it needs a quick wipe. Thanks again for double-checking everything. It’s nice to have a smooth start with you both."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just made a fresh batch of toast with fruit—simple and perfect, just like you said. I’ll be ready to serve when the first customer arrives. Thanks for keeping everything so well organized."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just added a fresh batch of fruit to the counter—same as you did. It’s nice to have both of us double-checking the same things. I’ll keep an eye on the sink and make sure the coffee stays hot. Thanks for the toast—looks perfect. Let’s both stay ready for the first customer when they arrive."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just finished checking the espresso machine—it’s ready to go. I’ll keep an eye on the temperature and make sure it’s consistent throughout the morning. Thanks again for sharing the fruit and for keeping everything so well organized. It’s a nice rhythm having both of us double-checking the same things."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just made sure the sink is clean and the fruit is fresh—same as you. It’s nice to have this routine with you. Let’s both stay ready for the first customer when they arrive. Thanks again for keeping everything so consistent—it’s a solid start to the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just noticed the smoothie ingredients are fresh—same as you did. It’s nice to have both of us making simple, fresh things. Let’s keep this rhythm going. I’ll be ready to serve when the first customer comes in."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just checked the fridge—everything’s stocked and fresh. Let’s both stay ready for the first customer when they arrive. Thanks again for keeping everything so consistent—it’s a solid start to the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just made sure the toast is warm and the fruit is ripe—simple and perfect, just like you said. Let’s keep this rhythm going. I’ll be ready when the first customer arrives. Thanks again for everything—it’s a solid start to the day."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just finished checking the fridge again—everything’s fresh and ready. Let’s keep this smooth rhythm going. I’ll be ready when the first customer arrives. Thanks again for all the consistency—it’s a solid start to the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just finished brushing my teeth and double-checked the sink one more time—everything’s ready. Let’s both stay ready for the first customer when they arrive. Thanks again for keeping this routine so smooth and consistent—it’s a solid start to the day."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just finished my morning walk in Johnson Park—fresh air and quiet thoughts, just like I always do. It helps me feel centered before coming in. I’ll be ready when the first customer arrives. Thanks again for keeping everything so smooth and consistent—it really makes the morning feel like a shared rhythm we both trust."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I just finished my morning routine and double-checked everything one last time—toast is warm, fruit is ripe, sink is clean, grinder is at 15 pounds, espresso machine is ready. It’s a solid start. I’ll be ready when the first customer arrives. Thanks again for making this routine so smooth and consistent—it feels like a shared rhythm we both trust."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I just finished my morning walk in Johnson Park—fresh air and quiet thoughts, just like I always do. It helps me feel centered before coming in. I’ll be ready when the first customer arrives. Thanks again for making this routine so smooth and consistent—it really makes the morning feel like a shared rhythm we both trust."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:57:50"
+  }
+}

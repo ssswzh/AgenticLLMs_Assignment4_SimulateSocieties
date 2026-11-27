@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "opening Hobbs Cafe, managing operations, monitoring baristas (setting up the counter layout) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating kitchen prep and cafe meeting timing with double verification of espresso machine settings and order list @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores, I saw you heading to the cafe—everything look good in the kitchen? I just wanted to double-check the order list and make sure the espresso machine is set to 190 degrees before we head in."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, everything looks good in the kitchen—I just double-checked the order list a few minutes ago and the espresso machine is set to 190 degrees. I'm glad you did it too; it makes me feel more confident about our shift. Let's meet at the cafe by 8am and confirm everything one more time before we start."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores—your confirmation really helps. I’ll head to the kitchen now and make sure everything is set before we meet at the cafe. I’ll be there by 7:45, just like we planned."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 too—just double-checking the order list one more time and making sure the espresso machine is set to 190 degrees. Let’s meet at the cafe by 8am and go over everything one final time before opening. I’ll be ready when you are."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be in the kitchen by 7:45 to double-check everything and make sure the espresso machine is set to 190 degrees. I’ll meet you at the cafe by 8am—just like we planned. Thanks again for confirming, it really helps to have that overlap."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and make sure the espresso machine is set to 190 degrees. Let’s meet at the cafe by 8am and go over everything one final time before opening. I’ll be ready when you are."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am. Thanks again for confirming everything—looks like we’re all set!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating kitchen prep and cafe meeting timing with double verification of espresso machine settings and order list @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores, I saw you heading to the cafe—everything look good in the kitchen? I just wanted to double-check the order list and make sure the espresso machine is set to 190 degrees before we head in."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve, everything looks good in the kitchen—I just double-checked the order list a few minutes ago and the espresso machine is set to 190 degrees. I'm glad you did it too; it makes me feel more confident about our shift. Let's meet at the cafe by 8am and confirm everything one more time before we start."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores—your confirmation really helps. I’ll head to the kitchen now and make sure everything is set before we meet at the cafe. I’ll be there by 7:45, just like we planned."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 too—just double-checking the order list one more time and making sure the espresso machine is set to 190 degrees. Let’s meet at the cafe by 8am and go over everything one final time before opening. I’ll be ready when you are."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be in the kitchen by 7:45 to double-check everything and make sure the espresso machine is set to 190 degrees. I’ll meet you at the cafe by 8am—just like we planned. Thanks again for confirming, it really helps to have that overlap."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be in the kitchen by 7:45 to double-check the order list and make sure the espresso machine is set to 190 degrees. Let’s meet at the cafe by 8am and go over everything one final time before opening. I’ll be ready when you are."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be in the kitchen by 7:45 and meet you at the cafe by 8am. Thanks again for confirming everything—looks like we’re all set!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:31:30"
+  }
+}

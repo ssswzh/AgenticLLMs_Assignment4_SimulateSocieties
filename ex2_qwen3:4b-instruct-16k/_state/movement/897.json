@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I just finished preparing the station supplies. Everything is ready for the morning rush. Is there anything specific you'd like me to adjust before the first customer arrives?"
+        ],
+        [
+          "Bernard Lowe",
+          "The grinding consistency is off. You're not using the correct pressure. Adjust it immediately—no explanations. I want it precise, every time."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll adjust the grinder right away, Mr. Lowe. I just need a moment to make sure the pressure is correct—will do it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I've seen you fumble with the grinder three times this week. You don't need a moment—just do it. Now, and keep it consistent. Any deviation, and I'll address it immediately."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll adjust the grinder right away, Mr. Lowe. I just need a moment to make sure the pressure is correct—will do it now."
+        ],
+        [
+          "Bernard Lowe",
+          "The pressure should be set at 15 pounds exactly. No more, no less. If you can't get it right, you're not doing your job. I'll be watching. Any hesitation, and I'll call it a failure."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll adjust the grinder right away, Mr. Lowe. I just need a moment to make sure the pressure is set at 15 pounds exactly—will do it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be monitoring the grinder throughout the morning. If it's not at 15 pounds, I'll step in—no exceptions. Keep your hands steady and your eyes on the dial. Any slip, and you'll lose your position at the station."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll adjust the grinder right away, Mr. Lowe. I'm setting it to 15 pounds now—just to be sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll check the grinder again in five minutes. If it's still off, I'll be forced to retrain you—no room for error. Keep your eyes on the dial and your hands steady. Any slip, and you'll be on your own."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll adjust the grinder right away, Mr. Lowe. I'm setting it to 15 pounds now—just to be sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll check the grinder again in three minutes. If it's still not at 15 pounds, I'll be forced to retrain you—no room for error. Keep your hands steady and your eyes on the dial. Any slip, and you'll be on your own."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll adjust the grinder right away, Mr. Lowe. I'm setting it to 15 pounds now—just to be sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll check the grinder again in one minute. If it's still not at 15 pounds, I'll be forced to retrain you—no room for error. Keep your hands steady and your eyes on the dial. Any slip, and you'll be on your own."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure the grinder is set to 15 pounds now, Mr. Lowe. I'm just double-checking the dial to be certain—will keep my hands steady and my eyes on it."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll check the grinder again in 30 seconds. If it's still not at 15 pounds, I'll be forced to retrain you—no room for error. Keep your hands steady and your eyes on the dial. Any slip, and you'll be on your own."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I just finished preparing the station supplies. Everything is ready for the morning rush. Is there anything specific you'd like me to adjust before the first customer arrives?"
+        ],
+        [
+          "Bernard Lowe",
+          "The grinding consistency is off. You're not using the correct pressure. Adjust it immediately—no explanations. I want it precise, every time."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll adjust the grinder right away, Mr. Lowe. I just need a moment to make sure the pressure is correct—will do it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I've seen you fumble with the grinder three times this week. You don't need a moment—just do it. Now, and keep it consistent. Any deviation, and I'll address it immediately."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll adjust the grinder right away, Mr. Lowe. I just need a moment to make sure the pressure is correct—will do it now."
+        ],
+        [
+          "Bernard Lowe",
+          "The pressure should be set at 15 pounds exactly. No more, no less. If you can't get it right, you're not doing your job. I'll be watching. Any hesitation, and I'll call it a failure."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll adjust the grinder right away, Mr. Lowe. I just need a moment to make sure the pressure is set at 15 pounds exactly—will do it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be monitoring the grinder throughout the morning. If it's not at 15 pounds, I'll step in—no exceptions. Keep your hands steady and your eyes on the dial. Any slip, and you'll lose your position at the station."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll adjust the grinder right away, Mr. Lowe. I'm setting it to 15 pounds now—just to be sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll check the grinder again in five minutes. If it's still off, I'll be forced to retrain you—no room for error. Keep your eyes on the dial and your hands steady. Any slip, and you'll be on your own."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll adjust the grinder right away, Mr. Lowe. I'm setting it to 15 pounds now—just to be sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll check the grinder again in three minutes. If it's still not at 15 pounds, I'll be forced to retrain you—no room for error. Keep your hands steady and your eyes on the dial. Any slip, and you'll be on your own."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll adjust the grinder right away, Mr. Lowe. I'm setting it to 15 pounds now—just to be sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll check the grinder again in one minute. If it's still not at 15 pounds, I'll be forced to retrain you—no room for error. Keep your hands steady and your eyes on the dial. Any slip, and you'll be on your own."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure the grinder is set to 15 pounds now, Mr. Lowe. I'm just double-checking the dial to be certain—will keep my hands steady and my eyes on it."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll check the grinder again in 30 seconds. If it's still not at 15 pounds, I'll be forced to retrain you—no room for error. Keep your hands steady and your eyes on the dial. Any slip, and you'll be on your own."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "👨‍🍳",
+      "description": "serving customers at the counter (checking the register) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:28:30"
+  }
+}

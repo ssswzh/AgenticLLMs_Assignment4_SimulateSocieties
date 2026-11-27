@@ -1,0 +1,491 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:35:10",
+  "curr_tile": [
+    78,
+    19
+  ],
+  "daily_plan_req": "Dolores Abernathy wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she goes straight back to her room at the dorm and reads. She has dinner at the dorm at 6pm. She spends the rest of the evening reading and working on the computer in her room. She goes to bed at 11pm.",
+  "name": "Dolores Abernathy",
+  "first_name": "Dolores",
+  "last_name": "Abernathy",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Dolores Abernathy is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Dolores and Maeve are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Dolores goes straight to her room and reads. She loves to read.",
+  "currently": "Dolores is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Dolores Abernathy wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she reads in her room. She has dinner around 6pm. She reads in her room until she goes to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 25,
+  "importance_ele_n": 31,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "have breakfast at 7:30 am",
+    "walk to Hobbs Cafe by 8:00 am",
+    "work the counter from 8:00 am to 4:00 pm",
+    "have dinner at 6:00 pm",
+    "read a book from 6:30 pm to 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (waking up)",
+      1
+    ],
+    [
+      "exchanging morning greetings and confirming breakfast routines at hobbs cafe by 8",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (checking the phone for messages)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (brushing teeth)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (getting dressed)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (showering)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (applying deodorant)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (putting on shoes)",
+      5
+    ],
+    [
+      "sharing breakfast routines and coordinating morning shifts at the cafe",
+      10
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (drinking water)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (preparing breakfast items)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (eating breakfast)",
+      5
+    ],
+    [
+      "ensuring coffee is hot, counters are clean, and fruit supplies are stocked before opening for the morning rush",
+      9
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (organizing personal items)",
+      5
+    ],
+    [
+      "waking up, completing morning routine, having breakfast (packing a small bag for the day)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (checking the weather forecast)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (reviewing the cafe's morning schedule)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (confirming the route to Hobbs Cafe)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (packing the work bag)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (adjusting clothing for the commute)",
+      5
+    ],
+    [
+      "maintaining a consistent morning routine with shared responsibilities and mutual appreciation for simplicity",
+      9
+    ],
+    [
+      "walking to Hobbs Cafe (preparing a water bottle)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (ensuring mobile phone is charged)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (checking the route for traffic)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (setting the destination on the navigation app)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (starting the walk to Hobbs Cafe)",
+      4
+    ],
+    [
+      "serving customers at the counter (preparing station supplies)",
+      3
+    ],
+    [
+      "maintaining precise grinder pressure at exactly 15 pounds under constant supervision with no room for error or hesitation",
+      7
+    ],
+    [
+      "serving customers at the counter (checking inventory levels)",
+      1
+    ],
+    [
+      "coordinating morning prep routines with consistent attention to detail and shared responsibility",
+      9
+    ],
+    [
+      "serving customers at the counter (checking inventory levels)",
+      4
+    ],
+    [
+      "serving customers at the counter (setting up espresso machine)",
+      5
+    ],
+    [
+      "serving customers at the counter (organizing drink menu cards)",
+      5
+    ],
+    [
+      "maintaining a smooth, consistent routine with mutual checks on equipment, supplies, and setup",
+      10
+    ],
+    [
+      "serving customers at the counter (calibrating coffee grinder)",
+      1
+    ],
+    [
+      "maintaining exact 15-pound pressure with zero hesitation or glances under constant supervision",
+      9
+    ],
+    [
+      "serving customers at the counter (calibrating coffee grinder)",
+      4
+    ],
+    [
+      "serving customers at the counter (arranging customer seating)",
+      5
+    ],
+    [
+      "serving customers at the counter (reviewing shift schedule)",
+      5
+    ],
+    [
+      "serving customers at the counter (monitoring customer flow)",
+      5
+    ],
+    [
+      "serving customers at the counter (greeting first wave of customers)",
+      5
+    ],
+    [
+      "serving customers at the counter (taking orders accurately)",
+      10
+    ],
+    [
+      "serving customers at the counter (preparing drinks efficiently)",
+      15
+    ],
+    [
+      "serving customers at the counter (handling special requests)",
+      10
+    ],
+    [
+      "serving customers at the counter (managing customer complaints)",
+      15
+    ],
+    [
+      "serving customers at the counter (updating order logs)",
+      10
+    ],
+    [
+      "serving customers at the counter (ensuring hygiene compliance)",
+      5
+    ],
+    [
+      "serving customers at the counter (cleaning station after each transaction)",
+      5
+    ],
+    [
+      "serving customers at the counter (restocking common items)",
+      5
+    ],
+    [
+      "serving customers at the counter (checking for spills or messes)",
+      5
+    ],
+    [
+      "serving customers at the counter (replenishing milk and sugar levels)",
+      5
+    ],
+    [
+      "serving customers at the counter (monitoring equipment performance)",
+      10
+    ],
+    [
+      "serving customers at the counter (addressing customer concerns)",
+      15
+    ],
+    [
+      "serving customers at the counter (processing payment securely)",
+      10
+    ],
+    [
+      "serving customers at the counter (ensuring accurate billing)",
+      10
+    ],
+    [
+      "serving customers at the counter (closing orders with thank-you notes)",
+      10
+    ],
+    [
+      "serving customers at the counter (conducting brief shift review)",
+      15
+    ],
+    [
+      "serving customers at the counter (cleaning the counter surface)",
+      5
+    ],
+    [
+      "serving customers at the counter (wiping down the espresso machine)",
+      5
+    ],
+    [
+      "serving customers at the counter (organizing leftover supplies)",
+      5
+    ],
+    [
+      "serving customers at the counter (locking away tools and equipment)",
+      5
+    ],
+    [
+      "serving customers at the counter (verifying all supplies are accounted for)",
+      5
+    ],
+    [
+      "serving customers at the counter (cleaning the sink area)",
+      5
+    ],
+    [
+      "serving customers at the counter (disinfecting touchpoints)",
+      5
+    ],
+    [
+      "serving customers at the counter (replacing used paper towels)",
+      5
+    ],
+    [
+      "serving customers at the counter (checking for spills or leaks)",
+      5
+    ],
+    [
+      "serving customers at the counter (finalizing shift logs)",
+      5
+    ],
+    [
+      "serving customers at the counter (preparing for next shift)",
+      5
+    ],
+    [
+      "serving customers at the counter (conducting a quick equipment check)",
+      5
+    ],
+    [
+      "serving customers at the counter (ensuring all tools are in place)",
+      5
+    ],
+    [
+      "serving customers at the counter (reviewing daily performance metrics)",
+      5
+    ],
+    [
+      "serving customers at the counter (notifying manager of any issues)",
+      5
+    ],
+    [
+      "serving customers at the counter (preparing for closing procedures)",
+      5
+    ],
+    [
+      "serving customers at the counter (final cleaning of work area)",
+      5
+    ],
+    [
+      "serving customers at the counter (storing all tools in designated bins)",
+      5
+    ],
+    [
+      "serving customers at the counter (double-checking all equipment status)",
+      5
+    ],
+    [
+      "serving customers at the counter (closing the station cabinet)",
+      5
+    ],
+    [
+      "serving customers at the counter (verifying all orders are recorded)",
+      5
+    ],
+    [
+      "serving customers at the counter (ensuring no customer is left unattended)",
+      5
+    ],
+    [
+      "serving customers at the counter (final inspection of work zone)",
+      5
+    ],
+    [
+      "serving customers at the counter (preparing for post-shift review)",
+      5
+    ],
+    [
+      "serving customers at the counter (updating digital shift report)",
+      5
+    ],
+    [
+      "serving customers at the counter (confirming all logs are complete)",
+      5
+    ],
+    [
+      "serving customers at the counter (finalizing station status)",
+      5
+    ],
+    [
+      "serving customers at the counter (checking for loose connections)",
+      5
+    ],
+    [
+      "serving customers at the counter (ensuring all lights are off)",
+      5
+    ],
+    [
+      "serving customers at the counter (locking the station door)",
+      5
+    ],
+    [
+      "serving customers at the counter (verifying all equipment is powered down)",
+      5
+    ],
+    [
+      "serving customers at the counter (closing the work area)",
+      5
+    ],
+    [
+      "serving customers at the counter (final visual sweep)",
+      5
+    ],
+    [
+      "serving customers at the counter (documenting shift completion)",
+      4
+    ],
+    [
+      "ending shift at Hobbs Cafe",
+      60
+    ],
+    [
+      "going back to dorm, having dinner",
+      60
+    ],
+    [
+      "reading a book",
+      300
+    ],
+    [
+      "going to bed, sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up, completing morning routine, having breakfast",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      420
+    ],
+    [
+      "ending shift at Hobbs Cafe",
+      60
+    ],
+    [
+      "going back to dorm, having dinner",
+      60
+    ],
+    [
+      "reading a book",
+      300
+    ],
+    [
+      "going to bed, sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 10:32:00",
+  "act_duration": 5,
+  "act_description": "serving customers at the counter (greeting first wave of customers)",
+  "act_pronunciatio": "👋",
+  "act_event": [
+    "Dolores Abernathy",
+    "serving",
+    "None"
+  ],
+  "act_obj_description": "being served",
+  "act_obj_pronunciatio": "🍽️",
+  "act_obj_event": [
+    "behind the cafe counter",
+    "being served",
+    "None"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Bernard Lowe": -73,
+    "Maeve Millay": -139
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": null
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciato": "💬",
+      "description": "grappling with unresolved tension between precision demands and the need for preparation @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I just arrived and saw you already at the counter. I'm here to go over the morning rush prep with Dolores, especially the new customer preferences and the lactose-free note. I wanted to make sure we're both on the same page before the rush starts."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't have time for a briefing. The morning rush starts at 8:00, and I expect everything to be perfect. You'll prepare the lactose-free coffee exactly as I demonstrated yesterday—no variations. If you mess up, you'll be replaced. Now, go to the counter and start the first batch. I'll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I understand you're focused on precision, and I'm committed to getting everything right. I just wanted to confirm—since the lactose-free note is already visible on the counter and we've both reviewed the new customer list—I’ll double-check each order during the rush, especially for any new customers who might need dairy-free drinks. I’m not asking for a favor or a break—I’m just making sure I’m prepared, and I’ll keep you updated if anything changes during the shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't have time for explanations. The lactose-free coffee must be prepared exactly as I showed you yesterday—no deviations. If you're not ready, you'll be replaced. Go to the counter now and start the first batch. I'll be watching every single pour. Any mistake, and you're out. Do you understand?"
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I understand your expectations, and I'm committed to doing my best. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't have time for this performance nonsense. You're either prepared or you're not. If you're not ready to execute my instructions without hesitation, then you're not suited for this job. Go to the counter, start the first batch, and don't look back. I'll be watching every second. Any deviation, and you're out."
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I understand your expectations, and I'm committed to doing my best. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I see you're trying to justify yourself. That's not how this works. If you're not prepared to follow my instructions without question, then you're not fit for this position. Go to the counter and start the first batch. I'll be watching. If you make a single mistake, you're out. Now move."
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I understand you expect precision and immediate execution, and I'm committed to meeting those standards. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't have time for this. The lactose-free coffee is prepared exactly as I demonstrated yesterday—no variations. If you don't start the first batch right now, you'll be replaced. Go to the counter and begin immediately. I'll be watching every pour. Any mistake, and you're out."
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I hear you're focused on precision and consistency, and I respect that. I'm just trying to make sure I'm fully prepared—especially since the morning rush starts soon and there are new customers with specific needs. I’ll start the first batch as soon as I’m ready, and I’ll keep you updated on any changes during the shift. I’m committed to doing my best, and I’ll do everything I can to meet your standards without error."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I've heard you trying to explain yourself. That's not how this job works. You either follow my instructions precisely or you leave. I don't have time for justifications. Go to the counter and start the first batch of coffee. I'll be watching every pour. If you make a single mistake, you're out. Now move."
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I understand you expect precision and immediate execution, and I'm committed to meeting those standards. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I've heard you say that three times now. You're either prepared or you're not. If you're not ready to execute my instructions without hesitation, then you're not fit for this job. Go to the counter and begin the first batch. I'll be watching. If you make a single mistake, you're out."
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I understand your expectations, and I'm committed to following them precisely. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I've heard you say that four times now. You're either prepared or you're not. If you're not ready to execute my instructions without hesitation, then you're not fit for this job. Go to the counter and begin the first batch. I'll be watching every pour. If you make a single mistake, you're out."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciato": "💁‍♂️",
+      "description": "serving customers at the counter (checking the register) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        26
+      ],
+      "pronunciato": "💬",
+      "description": "grappling with unresolved tension between precision demands and the need for preparation @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I just arrived and saw you already at the counter. I'm here to go over the morning rush prep with Dolores, especially the new customer preferences and the lactose-free note. I wanted to make sure we're both on the same page before the rush starts."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't have time for a briefing. The morning rush starts at 8:00, and I expect everything to be perfect. You'll prepare the lactose-free coffee exactly as I demonstrated yesterday—no variations. If you mess up, you'll be replaced. Now, go to the counter and start the first batch. I'll be watching."
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I understand you're focused on precision, and I'm committed to getting everything right. I just wanted to confirm—since the lactose-free note is already visible on the counter and we've both reviewed the new customer list—I’ll double-check each order during the rush, especially for any new customers who might need dairy-free drinks. I’m not asking for a favor or a break—I’m just making sure I’m prepared, and I’ll keep you updated if anything changes during the shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't have time for explanations. The lactose-free coffee must be prepared exactly as I showed you yesterday—no deviations. If you're not ready, you'll be replaced. Go to the counter now and start the first batch. I'll be watching every single pour. Any mistake, and you're out. Do you understand?"
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I understand your expectations, and I'm committed to doing my best. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't have time for this performance nonsense. You're either prepared or you're not. If you're not ready to execute my instructions without hesitation, then you're not suited for this job. Go to the counter, start the first batch, and don't look back. I'll be watching every second. Any deviation, and you're out."
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I understand your expectations, and I'm committed to doing my best. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I see you're trying to justify yourself. That's not how this works. If you're not prepared to follow my instructions without question, then you're not fit for this position. Go to the counter and start the first batch. I'll be watching. If you make a single mistake, you're out. Now move."
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I understand you expect precision and immediate execution, and I'm committed to meeting those standards. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't have time for this. The lactose-free coffee is prepared exactly as I demonstrated yesterday—no variations. If you don't start the first batch right now, you'll be replaced. Go to the counter and begin immediately. I'll be watching every pour. Any mistake, and you're out."
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I hear you're focused on precision and consistency, and I respect that. I'm just trying to make sure I'm fully prepared—especially since the morning rush starts soon and there are new customers with specific needs. I’ll start the first batch as soon as I’m ready, and I’ll keep you updated on any changes during the shift. I’m committed to doing my best, and I’ll do everything I can to meet your standards without error."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I've heard you trying to explain yourself. That's not how this job works. You either follow my instructions precisely or you leave. I don't have time for justifications. Go to the counter and start the first batch of coffee. I'll be watching every pour. If you make a single mistake, you're out. Now move."
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I understand you expect precision and immediate execution, and I'm committed to meeting those standards. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I've heard you say that three times now. You're either prepared or you're not. If you're not ready to execute my instructions without hesitation, then you're not fit for this job. Go to the counter and begin the first batch. I'll be watching. If you make a single mistake, you're out."
+        ],
+        [
+          "Maeve Millay",
+          "Mr. Lowe, I understand your expectations, and I'm committed to following them precisely. I just want to make sure I'm not missing anything—like the lactose-free note on the counter or any new customer preferences—because I'm still getting used to the morning rush. If I see anything that needs adjustment, I'll let you know right away. I’ll start the first batch as soon as I’m ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I've heard you say that four times now. You're either prepared or you're not. If you're not ready to execute my instructions without hesitation, then you're not fit for this job. Go to the counter and begin the first batch. I'll be watching every pour. If you make a single mistake, you're out."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:06:20"
+  }
+}

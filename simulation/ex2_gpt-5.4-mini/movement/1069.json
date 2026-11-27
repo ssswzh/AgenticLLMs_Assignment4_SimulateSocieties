@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to verify the lactose-free note on every order before the rush starts. Four times today, you’ve asked for confirmation—four times! That’s not just a request; it’s a protocol. If you don’t see it, you must flag it immediately. And if the espresso machine isn’t running smoothly by 8:05, I want to know right now. No excuses. No delays. This is how we run this cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I’ve got the list with me and the lactose-free note is visible on the counter. I’ll double-check every order with Dolores before serving, especially for the new customers. I’ll also confirm the espresso machine is ready by 8:05. I’ll make sure everything is spot-on before the rush starts."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I hear you're trying to be careful. But I don’t have time for explanations. If you’re not sure, you don’t serve. The lactose-free note is on the counter—see it? If it’s not visible, you report it. If the machine isn’t ready by 8:05, you tell me. That’s it. No more questions. No more hesitation. This isn’t about being cautious—it’s about execution."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I’ve got the list and the lactose-free note is clearly visible on the counter. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll also confirm the espresso machine is ready by 8:05 and make sure everything is spot-on before the rush starts. I’ll stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the list four times. I know you’re trying to do your job right, but you’re not executing it. The lactose-free note is visible—go ahead and serve. If you have any doubt, you’re not serving. That’s the rule. Now, get to work and don’t come back to me with questions."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I understand completely. I’ll make sure the lactose-free note is visible, double-check every order with Dolores before serving, confirm the espresso machine is ready by 8:05, and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll be in the common area by 7:45 with the list and the note, and I’ll follow every step exactly as instructed."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the list four times. I know you’re trying to do your job right, but you’re not executing it. The lactose-free note is visible—go ahead and serve. If you have any doubt, you’re not serving. That’s the rule. Now, get to work and don’t come back to me with questions."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I’ll be in the common area by 7:45 with the customer list and the lactose-free note clearly visible. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll follow every step exactly as instructed."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the list four times. I know you’re trying to do your job right, but you’re not executing it. The lactose-free note is visible—go ahead and serve. If you have any doubt, you’re not serving. That’s the rule. Now, get to work and don’t come back to me with questions."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I’ll be in the common area by 7:45 with the customer list and the lactose-free note clearly visible. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll follow every step exactly as instructed."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve heard you say that four times. I’ve seen you check the list four times. That’s not diligence—it’s hesitation. If you’re not confident, you don’t serve. The note is visible. The machine will be ready. You just need to act. No more questions. No more checks. Just do it. Now, get to work and don’t come back to me with anything else."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I understand. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly visible. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll follow every step exactly as instructed."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you ask four times. I’ve seen you check the list four times. That’s not professionalism—it’s a failure to follow protocol. If you’re not confident, you don’t serve. I expect you to act, not hesitate. Now, get to work and don’t come back to me with anything else. The note is visible. The machine will be ready. Just do it."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly visible. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll follow every step exactly as instructed."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the list four times. I know you’re trying to do your job right, but you’re not executing it. The lactose-free note is visible—go ahead and serve. If you have any doubt, you’re not serving. That’s the rule. Now, get to work and don’t come back to me with questions."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'll be in the common area by 7:45 with the list and the lactose-free note clearly visible. I'll double-check every order with Dolores before serving, especially for new customers. I'll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I'll follow every step exactly as instructed."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "serving customers at the counter (organizing ingredients for drinks) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "executing strict protocols for lactose-free orders and espresso machine readiness with no room for hesitation or questions @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to verify the lactose-free note on every order before the rush starts. Four times today, you’ve asked for confirmation—four times! That’s not just a request; it’s a protocol. If you don’t see it, you must flag it immediately. And if the espresso machine isn’t running smoothly by 8:05, I want to know right now. No excuses. No delays. This is how we run this cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I’ve got the list with me and the lactose-free note is visible on the counter. I’ll double-check every order with Dolores before serving, especially for the new customers. I’ll also confirm the espresso machine is ready by 8:05. I’ll make sure everything is spot-on before the rush starts."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I hear you're trying to be careful. But I don’t have time for explanations. If you’re not sure, you don’t serve. The lactose-free note is on the counter—see it? If it’s not visible, you report it. If the machine isn’t ready by 8:05, you tell me. That’s it. No more questions. No more hesitation. This isn’t about being cautious—it’s about execution."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I’ve got the list and the lactose-free note is clearly visible on the counter. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll also confirm the espresso machine is ready by 8:05 and make sure everything is spot-on before the rush starts. I’ll stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the list four times. I know you’re trying to do your job right, but you’re not executing it. The lactose-free note is visible—go ahead and serve. If you have any doubt, you’re not serving. That’s the rule. Now, get to work and don’t come back to me with questions."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I understand completely. I’ll make sure the lactose-free note is visible, double-check every order with Dolores before serving, confirm the espresso machine is ready by 8:05, and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll be in the common area by 7:45 with the list and the note, and I’ll follow every step exactly as instructed."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the list four times. I know you’re trying to do your job right, but you’re not executing it. The lactose-free note is visible—go ahead and serve. If you have any doubt, you’re not serving. That’s the rule. Now, get to work and don’t come back to me with questions."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I’ll be in the common area by 7:45 with the customer list and the lactose-free note clearly visible. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll follow every step exactly as instructed."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the list four times. I know you’re trying to do your job right, but you’re not executing it. The lactose-free note is visible—go ahead and serve. If you have any doubt, you’re not serving. That’s the rule. Now, get to work and don’t come back to me with questions."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I’ll be in the common area by 7:45 with the customer list and the lactose-free note clearly visible. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll follow every step exactly as instructed."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve heard you say that four times. I’ve seen you check the list four times. That’s not diligence—it’s hesitation. If you’re not confident, you don’t serve. The note is visible. The machine will be ready. You just need to act. No more questions. No more checks. Just do it. Now, get to work and don’t come back to me with anything else."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I understand. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly visible. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll follow every step exactly as instructed."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you ask four times. I’ve seen you check the list four times. That’s not professionalism—it’s a failure to follow protocol. If you’re not confident, you don’t serve. I expect you to act, not hesitate. Now, get to work and don’t come back to me with anything else. The note is visible. The machine will be ready. Just do it."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I’ll be in the common area by 7:45 with the list and the lactose-free note clearly visible. I’ll double-check every order with Dolores before serving, especially for new customers. I’ll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I’ll follow every step exactly as instructed."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I’ve seen you check the list four times. I know you’re trying to do your job right, but you’re not executing it. The lactose-free note is visible—go ahead and serve. If you have any doubt, you’re not serving. That’s the rule. Now, get to work and don’t come back to me with questions."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'll be in the common area by 7:45 with the list and the lactose-free note clearly visible. I'll double-check every order with Dolores before serving, especially for new customers. I'll confirm the espresso machine is ready by 8:05 and stay alert throughout the morning to ensure no one receives a dairy-based drink without a proper request. I'll follow every step exactly as instructed."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:57:10"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "opening Hobbs Cafe, managing operations, monitoring baristas (reviewing the morning shift checklist) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating meeting in the common area by 7:45 to review and verify the lactose-free note on the customer preferences list during the morning rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I just finished my breakfast and was about to head out. I saw you packing your water bottle—good to know you're all set. Let's meet in the common area by 7:45 to go over the new customer preferences. I’ll make sure the lactose-free note is visible on my copy of the list, and we’ll double-check every order during the rush to be safe."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores—yeah, I’ve got my water bottle packed and I’ll be in the common area by 7:45. I’ll double-check the list too, and I’ll make sure the lactose-free note is visible on the counter. Let’s both keep an eye out for the new customers during the rush—just in case."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note highlighted. Let’s both keep a close eye on the orders—especially the ones with dairy-based drinks—just to be safe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 7:45 too, Dolores. I’ve got the list with me and I’ll make sure to glance at it again before the rush starts. Thanks for reminding me about the lactose-free note—makes sense to keep it visible so we don’t miss anything."
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright, I’ll be in the common area by 7:45 with the list and the lactose-free note highlighted. Let’s both keep an eye on the orders—especially the ones with dairy-based drinks—just to be safe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with the list, and I’ll make sure to double-check each order during the rush. Thanks again for the reminder about the lactose-free note—let’s keep it visible and stay alert for the new customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with the list and the lactose-free note highlighted. Let’s both keep an eye on the orders—especially the ones with dairy-based drinks—just to be safe."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be there by 7:45 with the list and the lactose-free note visible. Let’s both stay alert and make sure we’re ready for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note highlighted. Let’s both stay alert and make sure we’re ready for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be there by 7:45 with the list and the lactose-free note visible. Let’s both stay alert and make sure we’re ready for the morning rush."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating meeting in the common area by 7:45 to review and verify the lactose-free note on the customer preferences list during the morning rush @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I just finished my breakfast and was about to head out. I saw you packing your water bottle—good to know you're all set. Let's meet in the common area by 7:45 to go over the new customer preferences. I’ll make sure the lactose-free note is visible on my copy of the list, and we’ll double-check every order during the rush to be safe."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores—yeah, I’ve got my water bottle packed and I’ll be in the common area by 7:45. I’ll double-check the list too, and I’ll make sure the lactose-free note is visible on the counter. Let’s both keep an eye out for the new customers during the rush—just in case."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note highlighted. Let’s both keep a close eye on the orders—especially the ones with dairy-based drinks—just to be safe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be there by 7:45 too, Dolores. I’ve got the list with me and I’ll make sure to glance at it again before the rush starts. Thanks for reminding me about the lactose-free note—makes sense to keep it visible so we don’t miss anything."
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright, I’ll be in the common area by 7:45 with the list and the lactose-free note highlighted. Let’s both keep an eye on the orders—especially the ones with dairy-based drinks—just to be safe."
+        ],
+        [
+          "Maeve Millay",
+          "I’ll be in the common area by 7:45 with the list, and I’ll make sure to double-check each order during the rush. Thanks again for the reminder about the lactose-free note—let’s keep it visible and stay alert for the new customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll be in the common area by 7:45 with the list and the lactose-free note highlighted. Let’s both keep an eye on the orders—especially the ones with dairy-based drinks—just to be safe."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be there by 7:45 with the list and the lactose-free note visible. Let’s both stay alert and make sure we’re ready for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I’ll be there by 7:45 with the list and the lactose-free note highlighted. Let’s both stay alert and make sure we’re ready for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I’ll be there by 7:45 with the list and the lactose-free note visible. Let’s both stay alert and make sure we’re ready for the morning rush."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:21:40"
+  }
+}

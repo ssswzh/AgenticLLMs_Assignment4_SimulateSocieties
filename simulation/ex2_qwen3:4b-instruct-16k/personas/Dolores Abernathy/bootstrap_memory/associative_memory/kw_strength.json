@@ -1,0 +1,40 @@
+{
+  "kw_strength_thought": {
+    "dolores abernathy": 40,
+    "double-check": 3,
+    "feels a strong sense of responsibility": 1,
+    "found it noteworthy that": 3,
+    "internalizes": 1,
+    "is deeply attuned to": 1,
+    "is emotionally sensitive to": 1,
+    "is shaped by": 1,
+    "learned": 2,
+    "maintain": 2,
+    "needs to remember to be at": 3,
+    "needs to remember to be at the cafe by 8 to see maeve and start serving customers during the morning rush": 3,
+    "none": 40,
+    "noticed": 8,
+    "perceives": 3,
+    "plan": 3,
+    "remember to keep": 1,
+    "sees": 3,
+    "stay focused": 1,
+    "values": 3
+  },
+  "kw_strength_event": {
+    "bed": 3,
+    "behind the cafe counter": 13,
+    "bernard lowe": 12,
+    "cafe customer seating": 1,
+    "common room sofa": 1,
+    "common room table": 2,
+    "dolores abernathy": 43,
+    "espresso machine": 1,
+    "hobbs cafe": 1,
+    "kitchen sink": 9,
+    "maeve millay": 37,
+    "none": 91,
+    "refrigerator": 17,
+    "toaster": 7
+  }
+}
