@@ -10,11 +10,12 @@ export RUNDIR=/local/s4683226/AgenticLLMS/AgenticLLMs_Assignment4_SimulateSociet
 
 We found an error on maximum token exceed:
 
-> request (4605 tokens) exceeds the available context size (4096 tokens)
+> request (18181 tokens) exceeds the available context size (4096 tokens)
 
 So we use Ollama to change the max token, run Ollama serve and build new model:
 ```bash
 ollama serve
+ollama create qwen3:4b-instruct-16k -f Modelfile.qwen16k
 ollama create qwen3:4b-instruct-64k -f Modelfile.qwen64k
 ```
 
@@ -82,20 +83,22 @@ screen -L -Logfile ${RUNDIR}/logs/ex2_${TEXT_MODEL_LLM}-screen.log \
 
 Extract the summaries from the log files, and save them to `analysis/ex2/`.
 ```bash
-python3 scripts/analyze_ex2.py --output analysis/ex2/ --start 2023-02-13T08:00:00 --end 2023-02-13T10:00:00 --models gpt-5.4-mini qwen3:4b-instruct-16k --smooth 0 --memory-types event thought chat --simulation-dir simulation --movement-dir ./ --log-dir logs
+python3 scripts/analyze_ex2.py --output analysis/ex2/ --start 2023-02-13T08:00:00 --end 2023-02-13T10:00:00 --models gpt-5.4-mini qwen3:4b-instruct-16k --smooth 5 --memory-types event thought chat --simulation-dir simulation --movement-dir ./ --log-dir logs
 ```
 
 Result file explanation:
 | Output | Evidence |
 |---|---|
-| `conversation_turns.csv` | Full dialogue turns with conversation IDs and source paths |
-| `conversation_summary.csv` | Per-person conversation counts, turns, mean words per turn and repeated-turn fraction |
-| `activity_changes.csv` | Activity changes with their actual physical locations |
+| `conversation_<model>.txt` | Complete transcripts grouped by conversation, with game time, participants and source paths, in the same readable style as Exercise 1 |
+| `conversation_summary.tsv` | Per-person conversation counts, turns, mean words per turn and repeated-turn fraction |
+| `activity_changes.tsv` | Activity changes with their actual physical locations |
 | `plans_*.txt` | Daily plans, first observed cafe arrival and final state at the saved snapshot time |
-| `valence.csv` | Raw saved memory scores, descriptions and types |
-| `valence_summary.csv`, `valence_events.png`, `valence_thoughts.png`, `valence_chats.png` | Statistics and trajectories for each selected type |
-| `validation_summary.csv`, `validation_failures.csv` | Window-only counts, rates and error records |
-| `valence_combined_summary.csv`, `valence_combined.png` | Additional pooled analysis when all three memory types are selected |
+| `valence.tsv` | Raw saved memory scores, descriptions and types |
+| `valence_summary.tsv`, `valence_events.png`, `valence_thoughts.png`, `valence_chats.png` | Statistics and trajectories for each selected type |
+| `validation_summary.tsv`, `validation_failures.tsv` | Window-only counts, rates and error records |
+| `valence_combined_summary.tsv`, `valence_combined.png` | Additional pooled analysis when all three memory types are selected |
+
+Tables use UTF-8 encoding and tab separators (`.tsv`). Select the tab delimiter when importing them. Fields containing tabs, line breaks or quotation marks are quoted to preserve the original dialogue.
 
 
 ## Exercise 3
@@ -105,7 +108,7 @@ Run Qwen model till 20:05 with two repetations:
 ex="ex3_negbias" &&
 TEXT_MODEL_URL="http://localhost:11434/v1" &&
 TEXT_MODEL_KEY="ollama" &&
-TEXT_MODEL_LLM="qwen3:4b-instruct-16k" &&
+TEXT_MODEL_LLM="qwen3:4b-instruct-64k" &&
 for run in 1 2
 do
 screen -L -Logfile ${RUNDIR}/logs/${ex}_run${run}-screen.log \
