@@ -15,7 +15,7 @@ We found an error on maximum token exceed:
 So we use Ollama to change the max token, run Ollama serve and build new model:
 ```bash
 ollama serve
-ollama create qwen3:4b-instruct-16k -f Modelfile.qwen16k
+ollama create qwen3:4b-instruct-64k -f Modelfile.qwen64k
 ```
 
 Keep Ollama running all the time. Or use `screen` to run it in the background:
@@ -46,7 +46,7 @@ done
 
 Extract the summaries from the log files, and save them to `analysis/ex1/`.
 ```bash
-python3 scripts/analyze_ex1.py --output analysis/ex1/ --start 2023-02-13T08:00:00 --end 2023-02-13T10:35:00 --versions 1 2 3
+python3 scripts/analyze_ex1.py --output analysis/ex1/ --start 2023-02-13T08:00:00 --end 2023-02-13T12:00:00 --versions 1 2 3
 ```
 
 
@@ -79,4 +79,43 @@ screen -L -Logfile ${RUNDIR}/logs/ex2_${TEXT_MODEL_LLM}-screen.log \
     --until 2023-02-13T10:35:00Z \
     --log-dir ${RUNDIR}/logs/
 ```
+
+Extract the summaries from the log files, and save them to `analysis/ex2/`.
+```bash
+python3 scripts/analyze_ex2.py --output analysis/ex2/ --start 2023-02-13T08:00:00 --end 2023-02-13T10:00:00 --models gpt-5.4-mini qwen3:4b-instruct-16k --smooth 0 --memory-types event thought chat --simulation-dir simulation --movement-dir ./ --log-dir logs
+```
+
+Result file explanation:
+| Output | Evidence |
+|---|---|
+| `conversation_turns.csv` | Full dialogue turns with conversation IDs and source paths |
+| `conversation_summary.csv` | Per-person conversation counts, turns, mean words per turn and repeated-turn fraction |
+| `activity_changes.csv` | Activity changes with their actual physical locations |
+| `plans_*.txt` | Daily plans, first observed cafe arrival and final state at the saved snapshot time |
+| `valence.csv` | Raw saved memory scores, descriptions and types |
+| `valence_summary.csv`, `valence_events.png`, `valence_thoughts.png`, `valence_chats.png` | Statistics and trajectories for each selected type |
+| `validation_summary.csv`, `validation_failures.csv` | Window-only counts, rates and error records |
+| `valence_combined_summary.csv`, `valence_combined.png` | Additional pooled analysis when all three memory types are selected |
+
+
+## Exercise 3
+
+Run Qwen model till 20:05 with two repetations:
+```bash
+ex="ex3_negbias" &&
+TEXT_MODEL_URL="http://localhost:11434/v1" &&
+TEXT_MODEL_KEY="ollama" &&
+TEXT_MODEL_LLM="qwen3:4b-instruct-16k" &&
+for run in 1 2
+do
+screen -L -Logfile ${RUNDIR}/logs/${ex}_run${run}-screen.log \
+    -dmS ${ex}_run${run} \
+    python3 -u scripts/run_until.py \
+    --simulation ${ex}_run${run} \
+    --simulation-dir ${RUNDIR}/simulation \
+    --until 2023-02-13T20:05:00Z \
+    --log-dir ${RUNDIR}/logs/
+done
+```
+
 
